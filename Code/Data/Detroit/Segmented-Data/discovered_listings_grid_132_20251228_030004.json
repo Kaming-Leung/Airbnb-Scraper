@@ -1,0 +1,134 @@
+{
+  "grid_id": 132,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 03:00:04",
+  "listings": {
+    "816122466034041133": {
+      "room_id": 816122466034041133,
+      "latitude": 42.18797,
+      "longitude": -82.88703,
+      "grid_id_assigned": null,
+      "grid_id_source": 132.0,
+      "bbox_id": "42.177390_-82.897890_42.202310_-82.862930",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 02:57:21",
+      "raw_data": {
+        "room_id": 816122466034041133,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Beautiful renovated home",
+        "title": "Home in Tecumseh",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 579.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $192.73",
+              "amount": 578.0,
+              "currency": "$.19"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-816122466034041133/original/73b11ba0-5ebd-4712-9649-91d9fe7b1442.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-816122466034041133/original/a02397de-985d-4237-9ba3-2a3e0b17eec9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-816122466034041133/original/1e4c4901-b7ac-4ed5-87cd-08cbd33c8a5d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-816122466034041133/original/07553bde-aff7-42a4-a811-39502a9985ac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-816122466034041133/original/82669a4d-85ea-4dc7-b143-74aff6233fd2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-816122466034041133/original/fff680bf-6c52-45ca-916a-834a6cc6e9aa.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.18797,
+          "longitud": -82.88703
+        }
+      }
+    }
+  }
+}

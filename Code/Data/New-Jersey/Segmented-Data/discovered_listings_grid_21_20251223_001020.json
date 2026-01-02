@@ -1,0 +1,669 @@
+{
+  "grid_id": 21,
+  "total_listings": 5,
+  "discovery_timestamp": "2025-12-23 00:10:20",
+  "listings": {
+    "35704461": {
+      "room_id": 35704461,
+      "latitude": 40.8079,
+      "longitude": -74.15806,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "40.798770_-74.159930_40.821200_-74.138960",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:07:27",
+      "raw_data": {
+        "room_id": 35704461,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "★GORGEOUS STYLISH APT CLOSE 2 AMERICAN DREAM & NYC",
+        "title": "Apartment in Belleville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3616.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $723.05",
+              "amount": 3615.0,
+              "currency": "$.25"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "93"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/fd9b9769-5a21-47b7-af3a-9cbdac8c295e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7d1873d6-7940-4d30-856b-ae4a8c20f51b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a30d2c58-9b96-429e-a8b8-b5da62d427d4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/04e2b93e-b241-4800-8f37-82f0fa6966ae.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0e5e2fa1-71c4-451e-a781-ccf7c1bc5af4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5f569e82-87dd-4e07-89d3-c6a890105adc.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.8079,
+          "longitud": -74.15806
+        }
+      }
+    },
+    "833136141223824509": {
+      "room_id": 833136141223824509,
+      "latitude": 40.80543,
+      "longitude": -74.14867,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "40.798770_-74.159930_40.821200_-74.138960",
+      "pass_id": 3,
+      "discovered_at": "2025-12-23 00:07:45",
+      "raw_data": {
+        "room_id": 833136141223824509,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Gray Home close to NYC / Newark",
+        "title": "Apartment in Nutley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 318.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $317.25",
+              "amount": 317.0,
+              "currency": "$.25"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "115"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-833136141223824509/original/0a2389a9-4447-41a9-8ce8-e5bae9577d15.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-833136141223824509/original/d2ff2447-5be0-403f-a87b-090a64d8b922.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-833136141223824509/original/d6297efd-137d-4988-ab40-59e23391c747.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-833136141223824509/original/47d21263-1b17-4bb3-af90-ddd7c360abee.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-833136141223824509/original/f4ea7214-fa9e-4e6f-970e-94c67565f939.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-833136141223824509/original/994d249d-fe9f-439b-8733-932ea609e84e.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.80543,
+          "longitud": -74.14867
+        }
+      }
+    },
+    "1205331521650854582": {
+      "room_id": 1205331521650854582,
+      "latitude": 40.8056,
+      "longitude": -74.1574,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "40.798770_-74.159930_40.821200_-74.138960",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:07:51",
+      "raw_data": {
+        "room_id": 1205331521650854582,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 sofa bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 sofa bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Affordable Stay Near Airport & MetLife Stadium",
+        "title": "Home in Belleville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 287.0,
+            "discount": 257.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $128.38",
+              "amount": 256.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "66"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1205331521650854582/original/60db80d9-d586-4006-a61a-0cdd16bc2d62.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1205331521650854582/original/284dd01d-2894-43da-939c-bf6ba3bdbf36.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1205331521650854582/original/8c2f88c4-7da8-4a32-8e7e-5a4769e1f872.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1205331521650854582/original/38b69fd4-7a54-45b2-a959-be9e297f7c4f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1205331521650854582/original/9a006d4c-5c16-4ab2-90d5-9a436b69aa68.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1205331521650854582/original/64bb7ebb-5fbb-4339-9686-921c1b30b929.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.8056,
+          "longitud": -74.1574
+        }
+      }
+    },
+    "1548699335548581799": {
+      "room_id": 1548699335548581799,
+      "latitude": 40.80206,
+      "longitude": -74.1484,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "40.798770_-74.159930_40.821200_-74.138960",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:07:51",
+      "raw_data": {
+        "room_id": 1548699335548581799,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "The perfect place to stay cozy and close to all.",
+        "title": "Apartment in Belleville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 349.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $174.03",
+              "amount": 348.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548699335548581799/original/1537a2af-a1e3-4571-9a15-532fe608fd10.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548699335548581799/original/1b67035d-b5f0-47ef-89e9-ab3732089dce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548699335548581799/original/b3853993-0227-472e-98de-eb5df670430d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548699335548581799/original/34b33309-ded2-4bbc-93e5-5d0a75cb7bef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548699335548581799/original/b0da7e6f-431d-4e98-9a75-cf28a0778b8d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548699335548581799/original/5662c1fe-de2d-4ef9-ab17-1ca0013dc734.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.80206,
+          "longitud": -74.1484
+        }
+      }
+    },
+    "1579048942062971789": {
+      "room_id": 1579048942062971789,
+      "latitude": 40.80007,
+      "longitude": -74.14177,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "40.798770_-74.159930_40.821200_-74.138960",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:07:51",
+      "raw_data": {
+        "room_id": 1579048942062971789,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Greylock",
+        "title": "Place to stay in Belleville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 422.0,
+            "discount": 346.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $210.90",
+              "amount": 421.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Special offer",
+              "amount": -75.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 346.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579048942062971789/original/3696fa1a-fb52-40a4-8b5a-23ce561fb7be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579048942062971789/original/5452d92e-bba9-4860-8601-0809c3d03bb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579048942062971789/original/b7ac58b5-d4df-4381-a052-41cd3525e389.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579048942062971789/original/3b1a06c0-b261-4278-9c52-798ef06312ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579048942062971789/original/6d041a94-01a9-4480-b5d2-320880790e66.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.80007,
+          "longitud": -74.14177
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "grid_id": 4,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-25 23:17:14",
+  "listings": {
+    "12490204": {
+      "room_id": 12490204,
+      "latitude": 42.42052,
+      "longitude": -83.9283,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "42.418380_-83.954650_42.443820_-83.919100",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:14:19",
+      "raw_data": {
+        "room_id": 12490204,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Jump in the lake! Portage Lake Home",
+        "title": "Home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2425.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $485.00",
+              "amount": 2425.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-12490204/original/46adae51-2b85-4c5e-adb4-ccbae699d4c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-12490204/original/90bfe9a4-c4d1-43fa-9c6b-fa4fca03efc7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-12490204/original/c03d4d77-e651-4489-bb80-a8d3b098ccd7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-12490204/original/c7822913-d4f8-4ef6-8d6d-e4e2549f3e0b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-12490204/original/54ea1603-f1f9-4a7a-aba4-0ab015004722.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-12490204/original/c4b92709-f0fc-4fbd-8b1e-18a6efcbf853.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.42052,
+          "longitud": -83.9283
+        }
+      }
+    },
+    "1446918131801315481": {
+      "room_id": 1446918131801315481,
+      "latitude": 42.42129,
+      "longitude": -83.92872,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "42.418380_-83.954650_42.443820_-83.919100",
+      "pass_id": 2,
+      "discovered_at": "2025-12-25 23:14:31",
+      "raw_data": {
+        "room_id": 1446918131801315481,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/e23332f2-f243-44d6-8dc0-6b8d19c9873a.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Khary",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/e23332f2-f243-44d6-8dc0-6b8d19c9873a.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 6
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "oasis of the countryside",
+        "title": "Room in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 452.0,
+            "discount": 371.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $150.62",
+              "amount": 451.0,
+              "currency": "$.85"
+            },
+            {
+              "description": "Special offer",
+              "amount": -81.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 370.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446918131801315481/original/ea332b6d-2444-4576-a0d4-7dbe78eef81f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446918131801315481/original/162fe89b-79ae-481f-8353-51c8de1c9642.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446918131801315481/original/f1f9fb18-10bd-49d0-a837-38278d436df5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446918131801315481/original/f1fd61eb-f0ac-4132-ab21-eb1f2e49db5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446918131801315481/original/7b5bab5e-e0a0-4cdc-9e3c-f78a071baee0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446918131801315481/original/f2ff9ee6-a6bc-4f9c-b3e3-c1fde22bae1a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.42129,
+          "longitud": -83.92872
+        }
+      }
+    },
+    "1153711833202145316": {
+      "room_id": 1153711833202145316,
+      "latitude": 42.43941125285095,
+      "longitude": -83.92306074059574,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "42.418380_-83.954650_42.443820_-83.919100",
+      "pass_id": 4,
+      "discovered_at": "2025-12-25 23:14:43",
+      "raw_data": {
+        "room_id": 1153711833202145316,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "“Oak Hill Retreat\"",
+        "title": "Tiny home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 309.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $154.06",
+              "amount": 308.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1MzcxMTgzMzIwMjE0NTMxNg==/original/70939992-9f1b-416e-993b-b8b6adb36160.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1MzcxMTgzMzIwMjE0NTMxNg==/original/be53deec-d284-4855-9854-5d8728a12ee2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1153711833202145316/original/cfa41cb3-abc7-4ebc-bcfd-d0c3e7d8658a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1153711833202145316/original/d9887e2e-6767-4221-b112-f9f358d959ba.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1153711833202145316/original/38ea1fc4-ac05-49b5-b1fc-30ee7160059c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1MzcxMTgzMzIwMjE0NTMxNg==/original/47e7fb2c-f7ba-4b32-941c-b6ab6bd43e9f.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.43941125285095,
+          "longitud": -83.92306074059574
+        }
+      }
+    }
+  }
+}

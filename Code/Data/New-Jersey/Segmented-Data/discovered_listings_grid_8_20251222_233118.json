@@ -1,0 +1,1782 @@
+{
+  "grid_id": 8,
+  "total_listings": 13,
+  "discovery_timestamp": "2025-12-22 23:31:18",
+  "listings": {
+    "30811214": {
+      "room_id": 30811214,
+      "latitude": 40.84691,
+      "longitude": -73.99355,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 23:28:23",
+      "raw_data": {
+        "room_id": 30811214,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 16 – 21",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 16 – 21",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious Duplex in Palisades Park",
+        "title": "Home in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2317.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $463.32",
+              "amount": 2316.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "73"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/6482f11c-fbbc-46b5-8c91-0388847564c0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-30811214/original/39d55177-b760-4118-ac81-2bc1c82043b3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/217c2e29-2bf4-4cbb-b66b-af4e52498d78.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-30811214/original/c5afbb0e-ce1f-4001-a8e7-a7efe3a5de81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1e2f57ac-f2a4-423e-91f4-e4ba48062acb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0753fef9-0e1e-475d-93b8-21e8b5124018.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.84691,
+          "longitud": -73.99355
+        }
+      }
+    },
+    "18563014": {
+      "room_id": 18563014,
+      "latitude": 40.85991,
+      "longitude": -73.99564,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 1,
+      "discovered_at": "2025-12-22 23:28:29",
+      "raw_data": {
+        "room_id": 18563014,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/edfbcca1-b748-4a98-ab27-a3e7b7877a8c.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lily",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/edfbcca1-b748-4a98-ab27-a3e7b7877a8c.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "23 reviews on the listing",
+              "label": "Reviews",
+              "value": "23",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.91 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.91",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "12 years of hosting",
+              "label": "Years hosting",
+              "value": "12",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 11,
+            "months": 7
+          },
+          "ratingCount": 23,
+          "ratingAverage": 4.91
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Long term Short term room Free street parking",
+        "title": "Room in Leonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 637.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $318.39",
+              "amount": 636.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg1NjMwMTQ%3D/original/d81b80db-94d5-47e2-a518-aecb6fcb2867.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a396cee0-31dd-4104-9ffb-13552f963973.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb8657d8-5521-4dc8-b802-fd93b2269357.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg1NjMwMTQ%3D/original/45a8dc71-8e1b-4282-b0e6-4846bba1c255.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg1NjMwMTQ%3D/original/26294f43-53b9-49cc-9e76-7e60b979bafd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg1NjMwMTQ%3D/original/3a95bf05-ce5a-4808-8a8a-709d1ba23d48.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.85991,
+          "longitud": -73.99564
+        }
+      }
+    },
+    "51867929": {
+      "room_id": 51867929,
+      "latitude": 40.84967,
+      "longitude": -73.99277,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 51867929,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Clean & spacious private studio w/ easy NYC access",
+        "title": "Guest suite in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 304.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $151.78",
+              "amount": 303.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "375"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51867929/original/f6c0e3f2-fd61-4031-8d22-ccc4d7fbb2f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51867929/original/7111ca3c-1c24-4ae1-a3b0-e6d4f874b555.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51867929/original/bf764de5-717c-4664-b9cf-3eb467ba8072.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTE4Njc5Mjk%3D/original/7de98946-f314-41e1-a082-19913a3c2e20.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51867929/original/4700ee95-50df-459c-b645-b08fed5dd057.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTE4Njc5Mjk%3D/original/72c94498-ffe0-402d-960f-a16203a7a216.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.84967,
+          "longitud": -73.99277
+        }
+      }
+    },
+    "1391418103861832590": {
+      "room_id": 1391418103861832590,
+      "latitude": 40.84516749534631,
+      "longitude": -73.99244525929277,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 1391418103861832590,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "New, Modern 1BR w/ Self Check-in – Close to NYC",
+        "title": "Guest suite in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 268.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $133.52",
+              "amount": 267.0,
+              "currency": "$.04"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "89"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1391418103861832590/original/05733d7f-5142-4d73-a4c5-a6a03d69c0c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1391418103861832590/original/1934034e-fb01-4605-a884-8c7620764c5d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1391418103861832590/original/1bbf3d42-e95e-4795-9e11-b0aae9175791.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1391418103861832590/original/4e924c7f-50fd-4327-87b1-484e9500034b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1391418103861832590/original/f7015f16-6c4b-440a-8a40-21c0ea8a25a6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1391418103861832590/original/7a1dc4a5-d877-4a25-a744-20c0e4dc3e11.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.84516749534631,
+          "longitud": -73.99244525929277
+        }
+      }
+    },
+    "1217255522161701178": {
+      "room_id": 1217255522161701178,
+      "latitude": 40.8492,
+      "longitude": -74.003,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 1217255522161701178,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Newly built 1br close to NYC",
+        "title": "Guest suite in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 363.0,
+            "discount": 297.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $148.36",
+              "amount": 296.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "54"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217255522161701178/original/1c3ac221-5478-455b-8b96-b15489c7255c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217255522161701178/original/e4d329c2-8b76-4c66-8bb1-83074a5c41b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217255522161701178/original/850494a6-b751-4307-86f5-ab14296fd3b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217255522161701178/original/19eafce7-163e-4eb3-b7a6-a2a7e258e645.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217255522161701178/original/a34cb261-d587-4b44-a259-6bbcbe62dd38.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217255522161701178/original/bd30b3b2-1c74-4150-9320-657a4008863d.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.8492,
+          "longitud": -74.003
+        }
+      }
+    },
+    "937932524415049935": {
+      "room_id": 937932524415049935,
+      "latitude": 40.8445,
+      "longitude": -73.99817,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 937932524415049935,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Manhattan Adjacent Gem",
+        "title": "Apartment in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 341.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $170.04",
+              "amount": 340.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "218"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-937932524415049935/original/19b012c0-c45a-4cbc-829a-3616ee7de8f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-937932524415049935/original/74c6a8fe-7634-4aa0-8aae-27337af43dc1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-937932524415049935/original/276a76da-a717-42f5-9b8b-96c70a0aa8a5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-937932524415049935/original/d7231b37-3891-41e4-b122-ad77089c74ac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-937932524415049935/original/746c96e7-9cfd-4667-9403-d8c897e06642.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-937932524415049935/original/c4ce5512-4ee3-4049-b5e1-5fb5c28ce241.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.8445,
+          "longitud": -73.99817
+        }
+      }
+    },
+    "1093648166263252063": {
+      "room_id": 1093648166263252063,
+      "latitude": 40.85182,
+      "longitude": -73.99294,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 1093648166263252063,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/7c1a9e45-9629-4190-b107-296e33f18c68.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Eugene",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7c1a9e45-9629-4190-b107-296e33f18c68.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "27 reviews on the listing",
+              "label": "Reviews",
+              "value": "27",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.96 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.96",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 11
+          },
+          "ratingCount": 27,
+          "ratingAverage": 4.96
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy & Private Room - 20 Mins to Manhattan Heart",
+        "title": "Room in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $136.94",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1093648166263252063/original/1556adbd-ce82-4ad4-8320-d010f7cccb77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1093648166263252063/original/39a679d3-d3b5-4b52-83f3-8a2414e93454.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1093648166263252063/original/2e77fcdb-9c1f-4546-ae46-d650f33115ca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1093648166263252063/original/9c344bd8-d1a0-482e-a302-535841069ec5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1093648166263252063/original/0c9656a9-b41d-491c-a327-6067744e7058.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1093648166263252063/original/cf6eb73f-d3b8-49ba-aad0-1a3148f017ae.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.85182,
+          "longitud": -73.99294
+        }
+      }
+    },
+    "724439122196024705": {
+      "room_id": 724439122196024705,
+      "latitude": 40.85087,
+      "longitude": -73.99421,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 724439122196024705,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/7c1a9e45-9629-4190-b107-296e33f18c68.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Eugene",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7c1a9e45-9629-4190-b107-296e33f18c68.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "82 reviews on the listing",
+              "label": "Reviews",
+              "value": "82",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.99 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.99",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 11
+          },
+          "ratingCount": 82,
+          "ratingAverage": 4.99
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy 1-bedroom only 20 minutes away from Manhattan",
+        "title": "Room in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 297.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $148.36",
+              "amount": 296.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "82"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-724439122196024705/original/eae1cd6b-c7d6-4471-a07b-c3ec5e9dfc93.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/98f8b4e0-2c82-427d-899d-8dcbf2d9fc97.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-724439122196024705/original/6fc9c2de-a291-4060-bd3c-73f7bc93fd25.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-724439122196024705/original/f755f03b-3fe6-49bb-8055-4202f9e4ab9a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-724439122196024705/original/b1f859e9-14df-4b1e-bdbc-64b6d6131cab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-724439122196024705/original/1d89a496-4b7e-48a4-8b8d-843dca9ee21d.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.85087,
+          "longitud": -73.99421
+        }
+      }
+    },
+    "889244373841528780": {
+      "room_id": 889244373841528780,
+      "latitude": 40.84625,
+      "longitude": -73.99477,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 889244373841528780,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-514297505/original/d5f51b64-c8ed-4bb7-8432-6bc3831934a4.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Nancy",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-514297505/original/d5f51b64-c8ed-4bb7-8432-6bc3831934a4.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "36 reviews on the listing",
+              "label": "Reviews",
+              "value": "36",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.97 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.97",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 6
+          },
+          "ratingCount": 36,
+          "ratingAverage": 4.97
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Room in Palisades Park",
+        "title": "Room in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 270.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $134.66",
+              "amount": 269.0,
+              "currency": "$.32"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODg5MjQ0MzczODQxNTI4Nzgw/original/22b09e87-0e88-4e80-b20f-32aabb83eb92.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODg5MjQ0MzczODQxNTI4Nzgw/original/45dc0ec7-2187-41e2-80d2-1e9751e8783a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODg5MjQ0MzczODQxNTI4Nzgw/original/381cdf58-e0a4-427d-bd24-746a5f766f75.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODg5MjQ0MzczODQxNTI4Nzgw/original/2e22f9cd-5dfa-4817-89eb-604ee0217c58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODg5MjQ0MzczODQxNTI4Nzgw/original/7882bbfa-269f-48eb-b20f-3f41a92a6bbe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODg5MjQ0MzczODQxNTI4Nzgw/original/185566e9-0d4f-4ff3-8cf7-9fff6c2978fa.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.84625,
+          "longitud": -73.99477
+        }
+      }
+    },
+    "1384134023021656148": {
+      "room_id": 1384134023021656148,
+      "latitude": 40.8517,
+      "longitude": -74.0016,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 4,
+      "discovered_at": "2025-12-22 23:28:47",
+      "raw_data": {
+        "room_id": 1384134023021656148,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Clean modern 1 bedroom w/ 2 beds",
+        "title": "Apartment in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 571.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $285.30",
+              "amount": 570.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1384134023021656148/original/211235a4-996f-48cc-aae0-70f61fda4238.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1384134023021656148/original/b5ad0ac1-abfc-44d6-a8c4-5648a8da558d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1384134023021656148/original/dd607fe0-807b-4469-ab0c-ebfd52744451.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1384134023021656148/original/48d93156-5534-4976-b569-4a1b8d98a054.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1384134023021656148/original/8bb0e3be-b4e3-4eff-9d83-797865773145.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1384134023021656148/original/f470b7c7-8c90-479e-9e2a-152df951b32a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.8517,
+          "longitud": -74.0016
+        }
+      }
+    },
+    "718077499247420918": {
+      "room_id": 718077499247420918,
+      "latitude": 40.85179,
+      "longitude": -73.99335,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 5,
+      "discovered_at": "2025-12-22 23:28:53",
+      "raw_data": {
+        "room_id": 718077499247420918,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/e8636c0f-e43b-4374-a20c-c4698ca31954.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Byung",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/e8636c0f-e43b-4374-a20c-c4698ca31954.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "112 reviews on the listing",
+              "label": "Reviews",
+              "value": "112",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.99 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.99",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 4
+          },
+          "ratingCount": 112,
+          "ratingAverage": 4.99
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cheerful, Clean, Warm Heat, Cozy, Bright, Room#4",
+        "title": "Room in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 282.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $93.96",
+              "amount": 281.0,
+              "currency": "$.87"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "112"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/c0fbb7ae-97a5-4565-9f4e-a8b077688ec5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0185c1c7-5d84-4a32-b4af-2b62e7017cc8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718077499247420918/original/5cc0fe1c-5d1b-45aa-91eb-f1bf91fdfc5e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/50628771-5cf3-4b18-9a5d-d638a7e5b3db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718077499247420918/original/6249e330-6e60-48d8-b6d9-020b23ccfaff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d4a36458-991b-4d97-a408-cfd397863078.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.85179,
+          "longitud": -73.99335
+        }
+      }
+    },
+    "1547210111551451506": {
+      "room_id": 1547210111551451506,
+      "latitude": 40.84534,
+      "longitude": -73.99523,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 5,
+      "discovered_at": "2025-12-22 23:28:53",
+      "raw_data": {
+        "room_id": 1547210111551451506,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Private Room Near NYC | 25 min to Manhattan",
+        "title": "Place to stay in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 404.0,
+            "discount": 334.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $134.44",
+              "amount": 403.0,
+              "currency": "$.31"
+            },
+            {
+              "description": "Early bird discount",
+              "amount": -69.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 333.0,
+              "currency": "$.91"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547210111551451506/original/3818fb62-6236-4b21-93c7-c14d5920eb27.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547210111551451506/original/929827c8-58a3-455c-ab4d-f065433f5cc0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547210111551451506/original/4c912776-f645-4a3f-8ec4-74bb58bb736a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547210111551451506/original/2fd40afe-0a44-477f-8553-2ee7b8c6d6b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547210111551451506/original/3b55bd5d-a981-4ec8-a0d1-45310084e984.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.84534,
+          "longitud": -73.99523
+        }
+      }
+    },
+    "1056864141648707008": {
+      "room_id": 1056864141648707008,
+      "latitude": 40.84951,
+      "longitude": -73.9933,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "40.843640_-74.013110_40.866070_-73.992140",
+      "pass_id": 5,
+      "discovered_at": "2025-12-22 23:28:53",
+      "raw_data": {
+        "room_id": 1056864141648707008,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [],
+          "primaryLine": [],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/01295d3e-78ba-421c-8554-b7743e8a8271.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jacqueline",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/01295d3e-78ba-421c-8554-b7743e8a8271.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 11
+          },
+          "ratingCount": 4,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Quiet room",
+        "title": "Room in Palisades Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 291.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $97.00",
+              "amount": 291.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1056864141648707008/original/b41dc814-430c-4853-8be4-48eb40df5a2f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1056864141648707008/original/4e72e2cc-ff28-424c-bd5c-c0aa37ee6498.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1056864141648707008/original/9e120b1a-2b59-40de-aeae-1372a541dc1e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1056864141648707008/original/b75c8a52-7790-4524-a212-3527a0813d86.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1056864141648707008/original/ff9a502d-3038-4f3d-add1-d697084e2544.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1056864141648707008/original/4a5d792b-4233-4348-8f34-711e1f752752.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.84951,
+          "longitud": -73.9933
+        }
+      }
+    }
+  }
+}

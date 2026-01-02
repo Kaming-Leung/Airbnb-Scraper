@@ -1,0 +1,131 @@
+{
+  "grid_id": 70,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 02:48:44",
+  "listings": {
+    "883537170794703108": {
+      "room_id": 883537170794703108,
+      "latitude": 42.36681,
+      "longitude": -83.94118,
+      "grid_id_assigned": null,
+      "grid_id_source": 70.0,
+      "bbox_id": "42.342060_-83.954650_42.367500_-83.919100",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:45:50",
+      "raw_data": {
+        "room_id": 883537170794703108,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 16 – 21",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 16 – 21",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Country Stay City Play in Dexter! Wildlife Views!",
+        "title": "Home in Dexter",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1062.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $212.26",
+              "amount": 1061.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "72"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-883537170794703108/original/50d3bc6f-644c-4a2d-95e4-d8de8b2c92a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-883537170794703108/original/129d17bd-fccd-49ff-bad7-de9fb70d2bd7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-883537170794703108/original/3ed66000-aafe-40a4-ad2b-f3188ba28717.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-883537170794703108/original/3aa45321-ae30-40f7-be74-1bd3db7f1268.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-883537170794703108/original/c357ae1d-4ad7-41a4-8231-c2cd881085aa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-883537170794703108/original/61c91bae-742d-4dff-9e57-f38f205186cb.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.36681,
+          "longitud": -83.94118
+        }
+      }
+    }
+  }
+}

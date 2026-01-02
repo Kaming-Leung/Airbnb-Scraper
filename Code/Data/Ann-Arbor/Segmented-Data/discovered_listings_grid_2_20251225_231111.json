@@ -1,0 +1,129 @@
+{
+  "grid_id": 2,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-25 23:11:11",
+  "listings": {
+    "1491583795229757707": {
+      "room_id": 1491583795229757707,
+      "latitude": 42.4294,
+      "longitude": -84.0245,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "42.418380_-84.025750_42.443820_-83.990200",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:08:17",
+      "raw_data": {
+        "room_id": 1491583795229757707,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Peaceful Lakefront Retreat with Hot Tub",
+        "title": "Home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1530.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $305.84",
+              "amount": 1529.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1491583795229757707/original/d9da32d8-abc1-4d8f-a6a3-c756259cdbe1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1491583795229757707/original/d617ad4b-2f5f-478e-984f-1d58b908322f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1491583795229757707/original/c5611f73-f678-4a60-ba81-803f679dafa7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1491583795229757707/original/12486c94-88d6-47fc-bd4b-0b6dc3610db8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1491583795229757707/original/2cca2d96-b8de-4bd7-8789-2c65e5ec5549.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1491583795229757707/original/8935b513-0022-4759-93a3-290d5e151803.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4294,
+          "longitud": -84.0245
+        }
+      }
+    }
+  }
+}

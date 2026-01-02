@@ -1,0 +1,2841 @@
+{
+  "grid_id": 20,
+  "total_listings": 23,
+  "discovery_timestamp": "2025-12-29 02:34:13",
+  "listings": {
+    "1482053247691214560": {
+      "room_id": 1482053247691214560,
+      "latitude": 38.82152,
+      "longitude": -121.16458,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 1482053247691214560,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Loomis 4-bedroom Retreat",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1428.0,
+            "discount": 1066.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $213.18",
+              "amount": 1065.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.54,
+          "reviewCount": "24"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1482053247691214560/original/a4613657-945b-483e-b74c-0ea51804d6f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1482053247691214560/original/fc71fbc6-2be6-420e-a4f5-145150ef61b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1482053247691214560/original/47c45742-af7c-4e74-b82b-a82d45716018.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1482053247691214560/original/cfcb10bb-97c9-4382-b09c-a0ba39607c7b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1482053247691214560/original/66164270-6b62-4390-8bed-219f47a528be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1482053247691214560/original/01b9d36c-28d4-439e-99a2-777f72c055d0.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.82152,
+          "longitud": -121.16458
+        }
+      }
+    },
+    "710257722635947510": {
+      "room_id": 710257722635947510,
+      "latitude": 38.80576,
+      "longitude": -121.16946,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 710257722635947510,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Mid-Century Modern Escape 4 Br w/ Pool - 1.7 acres",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2824.0,
+            "discount": 2593.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $518.55",
+              "amount": 2592.0,
+              "currency": "$.75"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "70"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-710257722635947510/original/93f53902-20d0-4500-aad2-18bf677487a1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-710257722635947510/original/52c4132a-581d-4296-a734-6efe5c70ead7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-710257722635947510/original/1da06570-d941-4434-ac70-16c24426e272.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-710257722635947510/original/679d0b13-e165-4ef5-9fe2-fa1ab9a4464d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-710257722635947510/original/1575d973-50df-46f5-b8cf-b1143da669e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-710257722635947510/original/d9c6646c-9e79-44e6-ad8e-75b5f04f5b7c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.80576,
+          "longitud": -121.16946
+        }
+      }
+    },
+    "1568336040450695533": {
+      "room_id": 1568336040450695533,
+      "latitude": 38.80861,
+      "longitude": -121.16914,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 1568336040450695533,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "20-Acre Villa I Pool I Barn I Pond",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2816.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $563.06",
+              "amount": 2815.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568336040450695533/original/3d5e0b9e-9b20-4def-8bf7-2e083d4da933.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568336040450695533/original/09183164-bef1-4322-bb60-a632146bd38d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568336040450695533/original/f169d1cb-a4d4-41e3-b4a0-c45480b65f3a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568336040450695533/original/67207c1a-a49f-40c0-9413-d7779b5a892c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568336040450695533/original/0548ece2-cb71-4caa-9fc1-d8ef4b79a08a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568336040450695533/original/e2d4f961-6859-492c-84dd-7783b988d854.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.80861,
+          "longitud": -121.16914
+        }
+      }
+    },
+    "1365646292278534563": {
+      "room_id": 1365646292278534563,
+      "latitude": 38.81867749384305,
+      "longitude": -121.16193983959447,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 1365646292278534563,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Countryside Comfort",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1128.0,
+            "discount": 1033.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $206.55",
+              "amount": 1032.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "34"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2NTY0NjI5MjI3ODUzNDU2Mw==/original/a2a384e5-dba0-4ff3-aed1-25a6b53d2b9a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2NTY0NjI5MjI3ODUzNDU2Mw==/original/eeb75810-10e7-4fca-8f8b-2286444c4d97.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1365646292278534563/original/1a506d0f-6d93-4fd8-9c6d-fe82b8c7c580.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2NTY0NjI5MjI3ODUzNDU2Mw==/original/99183a58-6b41-4351-a162-900e35362a39.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2NTY0NjI5MjI3ODUzNDU2Mw==/original/f52a3c87-9a1e-4315-bf07-59990de938fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2NTY0NjI5MjI3ODUzNDU2Mw==/original/bbb7c48b-5d2a-4e99-a327-837745f66108.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.81867749384305,
+          "longitud": -121.16193983959447
+        }
+      }
+    },
+    "883384436318412305": {
+      "room_id": 883384436318412305,
+      "latitude": 38.7964,
+      "longitude": -121.1457,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 883384436318412305,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Pickleball, Resort backyard, Sleeps 12, 4bed, Pool",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 11841.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $2,368.18",
+              "amount": 11840.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-883384436318412305/original/53256225-8023-41dc-9f71-6f547d85e35c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-883384436318412305/original/2006be05-cb05-46a1-856a-e1a7aad68163.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-883384436318412305/original/6a063745-0b21-44a8-b48f-e6eb55df291f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-883384436318412305/original/3559272e-24a2-4266-ba32-b669df442d4a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-883384436318412305/original/82ef8e13-bd1f-43c3-936f-d47747443824.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-883384436318412305/original/fff11dcd-c5b2-4d1d-86ee-4af553d9940f.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.7964,
+          "longitud": -121.1457
+        }
+      }
+    },
+    "1053762729446044728": {
+      "room_id": 1053762729446044728,
+      "latitude": 38.80708,
+      "longitude": -121.13674,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 1053762729446044728,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "18 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bonanza Barn Retreat",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5718.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,143.46",
+              "amount": 5717.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1053762729446044728/original/77baa9cb-5e91-4aab-9174-f1bba68ab32f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1053762729446044728/original/e54917e4-8f32-4e18-b3d5-827f9b00e8a9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1053762729446044728/original/0011e39d-c7bb-4b12-a998-846f5145f0fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1053762729446044728/original/81c8e6dc-2812-4106-8c84-d6268081e100.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1053762729446044728/original/a7b66298-ac69-4bd9-8831-dffc16d3f9e5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1053762729446044728/original/20285339-47c5-4998-85b3-dba38d1df60e.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.80708,
+          "longitud": -121.13674
+        }
+      }
+    },
+    "993631428660016171": {
+      "room_id": 993631428660016171,
+      "latitude": 38.81376,
+      "longitude": -121.17198,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 993631428660016171,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Happy One!",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1170.0,
+            "discount": 1040.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $208.00",
+              "amount": 1040.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "89"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-993631428660016171/original/fe6e8663-c56a-4ee1-8696-882028824bd1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-993631428660016171/original/0d2996ed-1887-49d5-8e1d-cfa998476bdb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-993631428660016171/original/943eb619-8fff-40c0-b59d-0ffccffc2ac0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-993631428660016171/original/e57d462c-744f-4bbb-b2d0-1a98bb73e9d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-993631428660016171/original/0a5030f5-094a-4752-8adf-931206da12c6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-993631428660016171/original/e7cb618c-3da8-4cf0-873f-51232da28c11.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.81376,
+          "longitud": -121.17198
+        }
+      }
+    },
+    "668871574157910045": {
+      "room_id": 668871574157910045,
+      "latitude": 38.8023,
+      "longitude": -121.148,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 668871574157910045,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Country Property, W&D, Open Concept, Pet Friendly",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1155.0,
+            "discount": 1054.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $210.78",
+              "amount": 1053.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "47"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-668871574157910045/original/3cfa6ccc-def8-42fd-8474-f64661b72a6b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-668871574157910045/original/5905bb4f-c02e-4002-b5f9-822f1d37facd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-668871574157910045/original/50a90a44-f0f9-492a-88fa-cbfdbd4a5125.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-668871574157910045/original/2fbb3d72-7129-48b1-8f72-c93125ab28bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-668871574157910045/original/9d2aa732-428e-4f23-a783-a048cfaf85b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-668871574157910045/original/a4fb7605-b619-4452-9312-fbf4e22a2227.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.8023,
+          "longitud": -121.148
+        }
+      }
+    },
+    "42208155": {
+      "room_id": 42208155,
+      "latitude": 38.82729,
+      "longitude": -121.17928,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 42208155,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Chateau Loomis~ European Getaway in Northern CA!",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3938.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $787.41",
+              "amount": 3937.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDIyMDgxNTU=/original/cf3577b8-7ea7-4b66-8744-d42525d3958d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42208155/original/079419cd-fece-4c7f-ab52-5fcf4e4b2a67.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb26eaef-fd34-48d2-b0a0-a27f4e0b0ba0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e838f6fc-7ea2-4745-ad3e-69c57c901413.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/534c3013-28b2-4ccf-94d0-706bf9bb9aff.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d67eb6ad-a4e3-415b-b393-936a9f2b166d.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.82729,
+          "longitud": -121.17928
+        }
+      }
+    },
+    "48462447": {
+      "room_id": 48462447,
+      "latitude": 38.80881,
+      "longitude": -121.14761,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 48462447,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Organic Farm Stay Take Over @ Solstice Farm",
+        "title": "Farm stay in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1798.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $359.47",
+              "amount": 1797.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "46"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cedc1a39-c121-496e-a2b2-1e150241e736.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0a840326-8260-472e-aaf1-added3a4145e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c46a0d14-a738-43bf-bd9f-8b260523ec46.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/79c62518-5d5e-4c9d-9b24-9066a78a8af8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5c574da5-a296-443a-b95b-cfc49728a82e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2a763ae5-1813-4eb6-a021-1643a06b86dc.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.80881,
+          "longitud": -121.14761
+        }
+      }
+    },
+    "1561935651697816917": {
+      "room_id": 1561935651697816917,
+      "latitude": 38.81443,
+      "longitude": -121.17404,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 1561935651697816917,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Welcome to your private outdoor sanctuary.",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3068.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $613.50",
+              "amount": 3067.0,
+              "currency": "$.48"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561935651697816917/original/1ef74f47-0859-4ca7-946b-79549489314d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561935651697816917/original/e47af0f6-b607-456e-b8c0-0aee7885e19d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561935651697816917/original/4c4c6c74-7bc0-4d51-8ee8-40dab2e54897.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561935651697816917/original/2b53609a-de18-4c95-a1dd-bc3b897c6b09.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561935651697816917/original/ea667aa5-e8a5-49dd-9f9a-80dcb68b0a2d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561935651697816917/original/b374f5f8-4d53-456c-b9f1-14eb899298a0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.81443,
+          "longitud": -121.17404
+        }
+      }
+    },
+    "1475504014059846097": {
+      "room_id": 1475504014059846097,
+      "latitude": 38.83059,
+      "longitude": -121.1767,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:31:19",
+      "raw_data": {
+        "room_id": 1475504014059846097,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ultimate RV Luxury",
+        "title": "Camper/RV in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3613.0,
+            "discount": 2964.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $722.52",
+              "amount": 3612.0,
+              "currency": "$.61"
+            },
+            {
+              "description": "Special offer",
+              "amount": -649.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 2963.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1475504014059846097/original/dab3e6a6-5269-418e-a2d8-f143b615c394.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1475504014059846097/original/3814a9ed-a42d-441a-bfd2-ec7705865f22.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1475504014059846097/original/43d4eb0a-0b35-46b9-a757-3454a970e328.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1475504014059846097/original/94b95e6e-aea4-40a8-9db6-00f2c0b30e35.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1475504014059846097/original/1e55ce90-8d12-477f-a315-63aa7122391d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1475504014059846097/original/656dbd6c-fef5-4a7d-b16a-54422cd74cad.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.83059,
+          "longitud": -121.1767
+        }
+      }
+    },
+    "48460966": {
+      "room_id": 48460966,
+      "latitude": 38.80746,
+      "longitude": -121.14759,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 48460966,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Streamline @Solstice Farms-Glamping-Pickleball",
+        "title": "Farm stay in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 272.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $135.80",
+              "amount": 271.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "256"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48460966/original/032b0b84-fc29-4e49-accd-31f6f520831e.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cedc1a39-c121-496e-a2b2-1e150241e736.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0a840326-8260-472e-aaf1-added3a4145e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c46a0d14-a738-43bf-bd9f-8b260523ec46.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/79c62518-5d5e-4c9d-9b24-9066a78a8af8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5c574da5-a296-443a-b95b-cfc49728a82e.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.80746,
+          "longitud": -121.14759
+        }
+      }
+    },
+    "44593262": {
+      "room_id": 44593262,
+      "latitude": 38.80796,
+      "longitude": -121.14719,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 44593262,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Airstream @ Solstice Farms-Glamping-Pickleball",
+        "title": "Farm stay in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 301.0,
+            "discount": 276.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $137.51",
+              "amount": 275.0,
+              "currency": "$.02"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "281"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44593262/original/e31d0c7d-5af2-47ce-a4f3-d3e39b01ba79.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44593262/original/a579edb7-cf43-469b-9cbf-c7ebd57550c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5488e0fb-2c9d-4580-b20f-4ed24b5dc8ef.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44593262/original/2b73fe75-e59f-4510-9354-addd79966b5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44593262/original/a15a2dab-70aa-422b-83ea-27fb51cc72c2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44593262/original/1f6b4721-e2ea-46af-a3a2-e277c91a3c78.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.80796,
+          "longitud": -121.14719
+        }
+      }
+    },
+    "693510606163702053": {
+      "room_id": 693510606163702053,
+      "latitude": 38.80709,
+      "longitude": -121.1477,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 693510606163702053,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "AFrame MicroCabin- Glamping - Farmstay- Pickleball",
+        "title": "Farm stay in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 229.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $114.12",
+              "amount": 228.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "78"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/6d1d7ae7-d63f-445f-97fc-1a62c70a4895.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-693510606163702053/original/9dcaa0eb-190b-40f3-92d8-3583d5e7ca31.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-693510606163702053/original/00e6401c-340c-4a09-bc63-6dd647ddeb1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-693510606163702053/original/fafde804-5f23-4d85-bd48-f8c1ac277b12.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-693510606163702053/original/852b5123-5e35-4fdc-a548-78cde0ac5ddb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-693510606163702053/original/469dbac4-eeb1-42a3-9938-4e08b141b72f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.80709,
+          "longitud": -121.1477
+        }
+      }
+    },
+    "52793538": {
+      "room_id": 52793538,
+      "latitude": 38.8022,
+      "longitude": -121.1478,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 52793538,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Pet-Friendly 1BR Loomis Retreat • Wi-Fi & W/D",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 520.0,
+            "discount": 337.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $168.46",
+              "amount": 336.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "98"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52793538/original/0edb87d8-190e-44cf-8a34-90ec40a4e6b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52793538/original/fc0e474d-4c8c-47c1-8802-928d84a84c60.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52793538/original/640a4965-ebfe-4050-9b80-76d5ac4bb444.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52793538/original/89a2546d-1f57-4b80-92c5-f3f95d037d1c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52793538/original/3ebcd39f-c690-46bb-a969-8c6e3cee3b16.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52793538/original/b4651573-c606-45a6-9a9a-a9fe64bafa42.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.8022,
+          "longitud": -121.1478
+        }
+      }
+    },
+    "994298684910689365": {
+      "room_id": 994298684910689365,
+      "latitude": 38.8138,
+      "longitude": -121.17311,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 994298684910689365,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Happy Too!",
+        "title": "Home in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 578.0,
+            "discount": 509.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $254.10",
+              "amount": 508.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.84,
+          "reviewCount": "64"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-994298684910689365/original/b604a211-2c46-4afb-a6e4-3d9a0626997d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-994298684910689365/original/554f2080-6de9-4509-855c-50d56dd5b9c0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-994298684910689365/original/9ac08ef2-27ce-4ff4-b2d0-e6e8cc02e818.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-994298684910689365/original/bdd82231-47a9-4121-81d9-0263aad90291.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-994298684910689365/original/a38744e5-996e-4eae-a82a-ca03ca9bc21a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-994298684910689365/original/3ac3d3be-8851-45ee-999e-9f81b76751ec.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.8138,
+          "longitud": -121.17311
+        }
+      }
+    },
+    "568630": {
+      "room_id": 568630,
+      "latitude": 38.81358,
+      "longitude": -121.16375,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 568630,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Studio cottage in Loomis",
+        "title": "Guesthouse in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 360.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $179.74",
+              "amount": 359.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-568630/original/c3465243-2c6e-459f-91ad-49fac6028a1b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-568630/original/77f7b71f-e340-4bba-813c-d6607a724f6f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-568630/original/fa9d5191-c36a-44cd-b616-e4db64c84d30.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-568630/original/f21c8b0f-b34c-4482-be78-fe97150857be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-568630/original/88364d0b-ef2d-4a41-ad18-4ba8ebc9ca3f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-568630/original/6e5ebae5-a5b3-4e2f-8e20-2b27e9de408d.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.81358,
+          "longitud": -121.16375
+        }
+      }
+    },
+    "24373195": {
+      "room_id": 24373195,
+      "latitude": 38.81028,
+      "longitude": -121.15744,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 24373195,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Casa Dragonfly~Cottage w/a view off Horseshoe Bar",
+        "title": "Cottage in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 637.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $318.39",
+              "amount": 636.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "155"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b36b02a6-6595-49b4-85bf-6c6ac7abdf9b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/50ac6331-7f46-425f-9e79-08d791d38054.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8748f73f-bc45-4b95-872a-a26a9dc74240.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0688db83-b7fb-408f-8720-6116b831c36e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4756b56b-3ede-4eee-bb1f-8626e62b1665.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/98b70993-0473-4caa-a186-184694e9cc58.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.81028,
+          "longitud": -121.15744
+        }
+      }
+    },
+    "1158914262790393455": {
+      "room_id": 1158914262790393455,
+      "latitude": 38.80626,
+      "longitude": -121.15028,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 02:31:25",
+      "raw_data": {
+        "room_id": 1158914262790393455,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Glamping Tent @ Solstice Farms - Pickleball court",
+        "title": "Tent in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 266.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $132.95",
+              "amount": 265.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1158914262790393455/original/dd8e4445-6cd1-499a-bad8-ca957d349408.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1158914262790393455/original/90dea0c8-af86-4b87-b99e-415fb09c8962.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1158914262790393455/original/7af1f43e-2d21-441d-a07e-3cb84b321823.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1158914262790393455/original/7a5ea8a8-afc9-4fea-a625-d026b320c13e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1158914262790393455/original/6211f990-4677-486f-8065-af96a6b32674.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1158914262790393455/original/990f6300-d629-4476-b409-9470b77a71fc.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.80626,
+          "longitud": -121.15028
+        }
+      }
+    },
+    "30209515": {
+      "room_id": 30209515,
+      "latitude": 38.82255,
+      "longitude": -121.16681,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 02:31:31",
+      "raw_data": {
+        "room_id": 30209515,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Horton farm cottage located on 40 acres.",
+        "title": "Farm stay in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 480.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $159.76",
+              "amount": 479.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "482"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f2fe1421-3834-4e8c-a4f1-54cada21530b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e63ebb1-5b1a-4f9d-9c00-f3c9d4866cd8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a782a8f4-38d9-489c-8fa6-c51d2b0354e8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b00f044b-9b74-4d89-b274-b9944ddf7b9d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/77b790c9-60c2-4e29-8df8-642576a6731b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/11fe746b-d6cd-42bb-a7ec-70c9d9b33ed7.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.82255,
+          "longitud": -121.16681
+        }
+      }
+    },
+    "33605161": {
+      "room_id": 33605161,
+      "latitude": 38.8041,
+      "longitude": -121.17923,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 4,
+      "discovered_at": "2025-12-29 02:31:43",
+      "raw_data": {
+        "room_id": 33605161,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Wishing Well Way Studio Loomis CA",
+        "title": "Guesthouse in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $177.00",
+              "amount": 354.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "164"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/6c8ece21-90f5-471f-a21a-e57a3ff34f4b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/629182f1-97c8-469f-8b18-056dad81cfc4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/15d05c3f-45c0-4fc3-9d17-988c75376379.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0392f9da-4a6b-4923-b285-77fd4809ba5e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2315562d-d49b-487b-a1a7-e05dc827d576.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/81de8781-d37a-4207-8d82-e95fb5f714d0.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.8041,
+          "longitud": -121.17923
+        }
+      }
+    },
+    "1406503577478090924": {
+      "room_id": 1406503577478090924,
+      "latitude": 38.82648,
+      "longitude": -121.16418,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "38.792790_-121.180390_38.837500_-121.135070",
+      "pass_id": 4,
+      "discovered_at": "2025-12-29 02:31:43",
+      "raw_data": {
+        "room_id": 1406503577478090924,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cottage on King",
+        "title": "Guesthouse in Loomis",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $171.18",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "48"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1406503577478090924/original/c8c525f7-87e1-4cf8-afa0-97498ebecf55.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1406503577478090924/original/8e081d78-37b0-4c74-aad1-5765895c70a5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1406503577478090924/original/e9b85b9e-7e79-44a7-b073-e952fe1acd9b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1406503577478090924/original/71643269-f42b-4c78-bee9-5199e7fe3d3c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1406503577478090924/original/ed37237b-c088-46dc-9c8f-fcb95ec0c0e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1406503577478090924/original/fccd28a9-6e75-4e9e-b050-714fcad0e329.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.82648,
+          "longitud": -121.16418
+        }
+      }
+    }
+  }
+}

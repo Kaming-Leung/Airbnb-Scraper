@@ -1,0 +1,130 @@
+{
+  "grid_id": 48,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 05:21:40",
+  "listings": {
+    "32984252": {
+      "room_id": 32984252,
+      "latitude": 37.35988,
+      "longitude": -121.75665,
+      "grid_id_assigned": null,
+      "grid_id_source": 48.0,
+      "bbox_id": "37.341100_-121.761560_37.367110_-121.728380",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 05:18:52",
+      "raw_data": {
+        "room_id": 32984252,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Apartment above the valley.",
+        "title": "Apartment in San Jose",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 500.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $249.92",
+              "amount": 499.0,
+              "currency": "$.84"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "274"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/9296fb76-c398-498c-9a0e-7e92df8d5542.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b05675a6-c693-4164-aca2-5d50e4b8bce4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/15adb222-9c83-4f45-bd61-a47b4e7206b8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c2210636-7ec7-45ad-9307-2767874b589c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2d340613-d095-4b08-a433-95984b1fbaae.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2d329def-f8c2-4de6-a9c7-ffe1ee2030b7.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35988,
+          "longitud": -121.75665
+        }
+      }
+    }
+  }
+}

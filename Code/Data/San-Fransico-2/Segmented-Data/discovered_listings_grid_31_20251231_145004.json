@@ -1,0 +1,236 @@
+{
+  "grid_id": 31,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-31 14:50:04",
+  "listings": {
+    "26847871": {
+      "room_id": 26847871,
+      "latitude": 37.43309,
+      "longitude": -122.31858,
+      "grid_id_assigned": null,
+      "grid_id_source": 31.0,
+      "bbox_id": "37.421050_-122.337610_37.448780_-122.302480",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:47:10",
+      "raw_data": {
+        "room_id": 26847871,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Rustic Cabin in the Redwoods",
+        "title": "Guesthouse in Woodside",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1644.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $328.66",
+              "amount": 1643.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "345"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/2e91bf8f-f722-47eb-a8f4-1b8c6709d991.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fac37fb3-ae5e-4fe0-8764-639fc08a17c1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26847871/original/2dbcc256-6ad6-4b5d-9fb3-c169827ae29c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26847871/original/e1147dc0-e5f7-42a5-be16-0959e29c162b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26847871/original/6dc3e43f-8aa1-4439-a75b-bbfcb0c5ff1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26847871/original/bfaf76e7-4732-4a59-bead-62c71a8faa88.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43309,
+          "longitud": -122.31858
+        }
+      }
+    },
+    "25232670": {
+      "room_id": 25232670,
+      "latitude": 37.4384,
+      "longitude": -122.3225,
+      "grid_id_assigned": null,
+      "grid_id_source": 31.0,
+      "bbox_id": "37.421050_-122.337610_37.448780_-122.302480",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:47:10",
+      "raw_data": {
+        "room_id": 25232670,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Kings Mountain Studio Cabin",
+        "title": "Cottage in Woodside",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1056.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $211.12",
+              "amount": 1055.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "439"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/c0f2906d-4e21-4a95-a653-0013309ef3af.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7bd42262-0383-4dad-9a15-1c034c4e5dd9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2a17dabf-a29f-4be5-be28-62b530b26e1a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/561f9606-1157-4c66-b97d-180849a1dba4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3e618831-fd79-4e69-8a1a-2cfeafa98030.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ab83807f-df1c-4882-b412-dcf30cf380e1.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.4384,
+          "longitud": -122.3225
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 36,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 14:26:05",
+  "listings": {
+    "1168924873589309485": {
+      "room_id": 1168924873589309485,
+      "latitude": 37.5514,
+      "longitude": -121.8856,
+      "grid_id_assigned": null,
+      "grid_id_source": 36.0,
+      "bbox_id": "37.527180_-121.901730_37.552450_-121.869420",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 14:23:10",
+      "raw_data": {
+        "room_id": 1168924873589309485,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Vineyard Oasis 2 bed/ 2 bath",
+        "title": "Ranch in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1359.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $271.80",
+              "amount": 1359.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2ODkyNDg3MzU4OTMwOTQ4NQ%3D%3D/original/34a78e73-7ae1-432d-af00-2b1d2027077d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2ODkyNDg3MzU4OTMwOTQ4NQ%3D%3D/original/429d93fd-a7df-4e2a-bb4b-269c6f322a64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2ODkyNDg3MzU4OTMwOTQ4NQ%3D%3D/original/4ea2cc97-540f-4c81-922d-934b57a41fe8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2ODkyNDg3MzU4OTMwOTQ4NQ%3D%3D/original/38eabe8a-469d-413b-986c-a079945dd5f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2ODkyNDg3MzU4OTMwOTQ4NQ%3D%3D/original/60df6e93-f004-4f4b-8884-4c66790fa532.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2ODkyNDg3MzU4OTMwOTQ4NQ%3D%3D/original/2b789d30-58d5-4f0f-8432-048e569e1331.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.5514,
+          "longitud": -121.8856
+        }
+      }
+    }
+  }
+}

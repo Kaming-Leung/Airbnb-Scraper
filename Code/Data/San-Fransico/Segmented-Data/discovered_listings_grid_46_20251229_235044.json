@@ -1,0 +1,129 @@
+{
+  "grid_id": 46,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 23:50:44",
+  "listings": {
+    "6314796": {
+      "room_id": 6314796,
+      "latitude": 37.58296,
+      "longitude": -122.4955,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.559690_-122.515390_37.586470_-122.481610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 23:47:50",
+      "raw_data": {
+        "room_id": 6314796,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Coastal Garden Retreat",
+        "title": "Home in Linda Mar",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1053.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $210.43",
+              "amount": 1052.0,
+              "currency": "$.17"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "28"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/78901158/bea0484e_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/78901143/75102c03_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/88a8c7b9-681e-443a-8256-1d0343d30d0f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/78901206/77b0f0ab_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9e53e17b-9fb8-4c2a-a3e4-fa8512ebe9b9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e455360-cb62-4b45-b854-6f07e8ba4508.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.58296,
+          "longitud": -122.4955
+        }
+      }
+    }
+  }
+}

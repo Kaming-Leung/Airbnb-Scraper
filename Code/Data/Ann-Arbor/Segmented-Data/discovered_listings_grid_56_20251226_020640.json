@@ -1,0 +1,131 @@
+{
+  "grid_id": 56,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 02:06:40",
+  "listings": {
+    "1490692598317337880": {
+      "room_id": 1490692598317337880,
+      "latitude": 42.39009,
+      "longitude": -83.66985,
+      "grid_id_assigned": null,
+      "grid_id_source": 56.0,
+      "bbox_id": "42.367500_-83.670250_42.392940_-83.634710",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:03:46",
+      "raw_data": {
+        "room_id": 1490692598317337880,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Peaceful Getaway Home in Ann Arbor",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1467.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $293.28",
+              "amount": 1466.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490692598317337880/original/f5480ba1-3b09-4e63-9b3c-75434fcfcb6b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490692598317337880/original/f30c14af-2440-425e-9e16-e3df2b9948e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490692598317337880/original/b131f968-489e-4545-8f5f-194de3d8ca5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490692598317337880/original/e63e4604-85aa-4cf8-8d8e-d9b2dae1fbaf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490692598317337880/original/6e3e054f-132b-4c4d-acf3-e94fae5928fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490692598317337880/original/6df6fdda-3a0c-4908-915a-6b3007a543e3.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.39009,
+          "longitud": -83.66985
+        }
+      }
+    }
+  }
+}

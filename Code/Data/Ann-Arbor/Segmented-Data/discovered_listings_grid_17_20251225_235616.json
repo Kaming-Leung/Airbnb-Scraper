@@ -1,0 +1,958 @@
+{
+  "grid_id": 17,
+  "total_listings": 8,
+  "discovery_timestamp": "2025-12-25 23:56:16",
+  "listings": {
+    "40469047": {
+      "room_id": 40469047,
+      "latitude": 42.43197,
+      "longitude": -83.48198,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:53:21",
+      "raw_data": {
+        "room_id": 40469047,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Loft... in downtown Northville",
+        "title": "Loft in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1022.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $204.27",
+              "amount": 1021.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "62"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/05d61350-589d-438a-ac92-c4976ae96882.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b86282c2-6c9d-4c31-b2a0-dbf003d2372a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/07b6bf76-4e8f-4155-b428-124373dce008.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/242c73ab-409b-469a-8767-870a62f27563.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e175aec7-4940-4d17-9f80-1070cc6d67c4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5813fa71-92c8-4324-8b2d-28026c48f8ee.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.43197,
+          "longitud": -83.48198
+        }
+      }
+    },
+    "933337908179645852": {
+      "room_id": 933337908179645852,
+      "latitude": 42.429,
+      "longitude": -83.4887,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:53:21",
+      "raw_data": {
+        "room_id": 933337908179645852,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Newly Renovated Downtown Northville 2 BR House",
+        "title": "Home in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1187.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $237.36",
+              "amount": 1186.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "66"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933337908179645852/original/9c0a831b-ea38-46df-8a65-1816fef1fe93.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933337908179645852/original/ec1356f2-09f3-4f2d-8d07-4159d8044f7b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933337908179645852/original/176954f7-bb38-4555-a5d7-932ac2309c32.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933337908179645852/original/d054fe3e-941c-493d-9d02-bb4a463e8e91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933337908179645852/original/034158db-cc92-475a-a1a8-cfcce940f508.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933337908179645852/original/a0584291-f1fe-467d-9c3f-89dfaeece291.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.429,
+          "longitud": -83.4887
+        }
+      }
+    },
+    "960513813278558912": {
+      "room_id": 960513813278558912,
+      "latitude": 42.4368,
+      "longitude": -83.4661,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 1,
+      "discovered_at": "2025-12-25 23:53:27",
+      "raw_data": {
+        "room_id": 960513813278558912,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy & Comfy 1 BDR Gym/Pool",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 381.0,
+            "discount": 281.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $140.50",
+              "amount": 281.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "56"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960513813278558912/original/e1f99b35-fe76-4962-8a69-b26c6a64332e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960513813278558912/original/d86dd24a-8bf8-49ff-9b44-fdf6dac2aa2c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960513813278558912/original/f6655547-e113-4c4c-b67b-8c3624932cf8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960513813278558912/original/fd1998cd-9c48-48ff-ad61-37c4ebe91c2d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960513813278558912/original/bf0eb2b3-975b-472e-a389-51e74fefb3f4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960513813278558912/original/49829d75-4f19-40fe-ad3d-984379a6143c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4368,
+          "longitud": -83.4661
+        }
+      }
+    },
+    "726317134704286586": {
+      "room_id": 726317134704286586,
+      "latitude": 42.4368,
+      "longitude": -83.4661,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 2,
+      "discovered_at": "2025-12-25 23:53:34",
+      "raw_data": {
+        "room_id": 726317134704286586,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Modern 1BDR | Comfy King Bed, Gym And Pool",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 512.0,
+            "discount": 438.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $146.00",
+              "amount": 438.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "84"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-726317134704286586/original/51d4694a-9269-43c9-9810-d1899c244dc9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-726317134704286586/original/a81da5a6-ba24-426b-9aea-f5e485324d04.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-726317134704286586/original/e4f076f9-2bdf-411d-9aab-a43a0c7c44a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-726317134704286586/original/08663f43-f4de-410e-9af3-158c4a40c502.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-726317134704286586/original/81308b87-ff32-4d74-9c3b-cfaff675a2c6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-726317134704286586/original/fe347701-dae0-40ea-8d9e-23c32b34de97.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.4368,
+          "longitud": -83.4661
+        }
+      }
+    },
+    "712334677319926980": {
+      "room_id": 712334677319926980,
+      "latitude": 42.4374,
+      "longitude": -83.4627,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 5,
+      "discovered_at": "2025-12-25 23:53:54",
+      "raw_data": {
+        "room_id": 712334677319926980,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy and Modern 2 BDR, Pool / Gym | Comfy Beds",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 460.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $153.33",
+              "amount": 460.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.71,
+          "reviewCount": "110"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712334677319926980/original/ab3c1cc1-bcff-438e-b463-570aa5c99728.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712334677319926980/original/75f445e6-917e-4dd7-89fa-161defb59051.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712334677319926980/original/954493d3-8db3-43d2-8f64-7858532b33f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712334677319926980/original/52654a10-ad06-43fc-b229-124b2859214f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712334677319926980/original/00dd4ec3-9841-4b85-887d-7b33394aadf2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712334677319926980/original/7572fa34-cdfe-41b3-9cdf-1f71e0448c04.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4374,
+          "longitud": -83.4627
+        }
+      }
+    },
+    "672370421494531002": {
+      "room_id": 672370421494531002,
+      "latitude": 42.437,
+      "longitude": -83.4622,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 5,
+      "discovered_at": "2025-12-25 23:53:54",
+      "raw_data": {
+        "room_id": 672370421494531002,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy 1BDR In Northville | Luxury & Clean",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 452.0,
+            "discount": 402.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $134.00",
+              "amount": 402.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "94"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672370421494531002/original/8907f47f-7724-4be3-8a3c-79ebfe6a97be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672370421494531002/original/48885691-060f-4adc-a034-16f3ee2d4819.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672370421494531002/original/b09ab9a0-824a-4f47-b246-7ef3fa3d6839.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672370421494531002/original/102ca0ab-9e53-4650-9fda-66c1df237c02.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672370421494531002/original/09c159cc-8779-4996-b60a-efb45d8414c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672370421494531002/original/d9101bba-da3e-4309-bc69-a510802ee929.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.437,
+          "longitud": -83.4622
+        }
+      }
+    },
+    "961014884271111692": {
+      "room_id": 961014884271111692,
+      "latitude": 42.437,
+      "longitude": -83.4618,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 5,
+      "discovered_at": "2025-12-25 23:53:54",
+      "raw_data": {
+        "room_id": 961014884271111692,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Luxury and Cozy 2 BDR GYM / POOL",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 470.0,
+            "discount": 416.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $138.67",
+              "amount": 416.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.79,
+          "reviewCount": "38"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-961014884271111692/original/aded62d9-7518-4a25-b77d-f04ab9ea15f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-961014884271111692/original/e725ca2b-c414-48ca-b330-df1ae0d2a3d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-961014884271111692/original/a8bb9e91-cee0-4a13-81ba-e60f2b7a526b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-961014884271111692/original/b7f9c40b-7e46-4bc2-98f6-845b82d8a7f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-961014884271111692/original/76366dd7-d0a4-45fe-8df7-34e24a6aafbd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-961014884271111692/original/e92f92f2-085e-46d4-9abb-4472942fb337.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.437,
+          "longitud": -83.4618
+        }
+      }
+    },
+    "874182900549846503": {
+      "room_id": 874182900549846503,
+      "latitude": 42.437,
+      "longitude": -83.4618,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "42.418380_-83.492510_42.443820_-83.456960",
+      "pass_id": 5,
+      "discovered_at": "2025-12-25 23:53:54",
+      "raw_data": {
+        "room_id": 874182900549846503,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Luxurious Cozy 2BDR Pool / Gym",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 555.0,
+            "discount": 488.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $162.67",
+              "amount": 488.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.69,
+          "reviewCount": "87"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-874182900549846503/original/366d30e1-03db-4643-9ab1-c9a2d5a817ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-874182900549846503/original/7816dcc9-6d29-43fc-b790-1ad310e0c430.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-874182900549846503/original/8605a099-505b-4567-b904-f294f7ccd2d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-874182900549846503/original/0535df14-0669-42a4-b157-22ffb9fbb935.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-874182900549846503/original/a7975259-92c7-4d0b-934f-520b306f3d25.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-874182900549846503/original/25c578e0-a19e-442c-abdb-169934052182.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.437,
+          "longitud": -83.4618
+        }
+      }
+    }
+  }
+}

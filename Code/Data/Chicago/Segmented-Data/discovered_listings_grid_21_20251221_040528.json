@@ -1,0 +1,377 @@
+{
+  "grid_id": 21,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-21 04:05:28",
+  "listings": {
+    "1061063166781509087": {
+      "room_id": 1061063166781509087,
+      "latitude": 41.97316,
+      "longitude": -87.8459,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "41.969330_-87.865880_41.994670_-87.841180",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:05:23",
+      "raw_data": {
+        "room_id": 1061063166781509087,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Condo • Safe Chicago Stay Near O’Hare",
+        "title": "Apartment in Chicago",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 418.0,
+            "discount": 348.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $174.00",
+              "amount": 348.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1061063166781509087/original/88149d08-89b2-42f6-bdd9-ff53ba22d314.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1061063166781509087/original/ee39a000-a73b-4317-9f9f-db870c6c9bfe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1061063166781509087/original/dec841e1-ed82-4c30-a590-39eb64a93a26.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1061063166781509087/original/8bc39d4a-b160-45b2-af79-97597f6c2648.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1061063166781509087/original/7c21cb6b-aa86-4c85-8a10-cb4f0019edd9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1061063166781509087/original/0738a219-ae0f-488b-abd3-24ee690b10a6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.97316,
+          "longitud": -87.8459
+        }
+      }
+    },
+    "669553606908316477": {
+      "room_id": 669553606908316477,
+      "latitude": 41.99232,
+      "longitude": -87.86483,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "41.969330_-87.865880_41.994670_-87.841180",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:05:23",
+      "raw_data": {
+        "room_id": 669553606908316477,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "5BD/#King/Queen/2Twin/Sofa Sleep/MinO’hareAllstate",
+        "title": "Apartment in Rosemont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 432.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $215.68",
+              "amount": 431.0,
+              "currency": "$.36"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.33,
+          "reviewCount": "24"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b0ac4ea2-453c-41a7-b99f-fa5757e30696.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4666f5ff-921f-4ff5-bc40-5e3fed437a35.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a4765dec-01c8-42af-821c-61a8fa890e32.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e2a788e5-e875-4a5b-961b-ca225f8187fd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eade4076-709f-4a43-a59a-2f7c24505d4b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2b360116-96c5-4711-a42b-a928d399bcac.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.99232,
+          "longitud": -87.86483
+        }
+      }
+    },
+    "1394124329445630021": {
+      "room_id": 1394124329445630021,
+      "latitude": 41.9735408655053,
+      "longitude": -87.84342248160802,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "41.969330_-87.865880_41.994670_-87.841180",
+      "pass_id": 1,
+      "discovered_at": "2025-12-21 04:05:28",
+      "raw_data": {
+        "room_id": 1394124329445630021,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2BR • Newly Furnished Modern Apt • Near O'Hare",
+        "title": "Apartment in Chicago",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 385.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $192.50",
+              "amount": 385.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.76,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1394124329445630021/original/adb88c19-1d71-437b-8ab3-21a329b42407.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1394124329445630021/original/33015771-6ba2-4eff-9274-dcc34c1c1ea1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1394124329445630021/original/20d7795e-2e53-45b4-9d02-70ab15c059e2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1394124329445630021/original/19d33d55-5a9a-4c36-a152-a822aa7e2700.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1394124329445630021/original/c1ad725c-347e-4817-bd0a-535750f41e33.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1394124329445630021/original/ebcd3e3a-19ca-4e60-8a5b-7367896eb508.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.9735408655053,
+          "longitud": -87.84342248160802
+        }
+      }
+    }
+  }
+}

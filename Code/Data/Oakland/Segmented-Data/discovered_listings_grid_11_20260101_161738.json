@@ -1,0 +1,254 @@
+{
+  "grid_id": 11,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 16:17:38",
+  "listings": {
+    "663858181512923043": {
+      "room_id": 663858181512923043,
+      "latitude": 37.838,
+      "longitude": -122.3064,
+      "grid_id_assigned": null,
+      "grid_id_source": 11.0,
+      "bbox_id": "37.825040_-122.336330_37.851500_-122.302550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:14:40",
+      "raw_data": {
+        "room_id": 663858181512923043,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lux Water View with Balcony Minutes -San Francisco",
+        "title": "Condo in Emeryville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1461.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $292.20",
+              "amount": 1461.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "114"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663858181512923043/original/f9e90ddb-3967-4d08-89b1-4bc460442962.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663858181512923043/original/197f4495-616e-43d1-bbf6-29435d82219b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663858181512923043/original/b646e077-07c1-425e-baab-67ec53d3086f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663858181512923043/original/bfdea56f-8c6c-4bdb-9362-afd25e1a9695.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663858181512923043/original/491963fa-cb9c-4949-b297-4a006021aae0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663858181512923043/original/3343f5c2-0cc4-43eb-bc81-689e2a04c6d6.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.838,
+          "longitud": -122.3064
+        }
+      }
+    },
+    "1478485588784581615": {
+      "room_id": 1478485588784581615,
+      "latitude": 37.8379,
+      "longitude": -122.306,
+      "grid_id_assigned": null,
+      "grid_id_source": 11.0,
+      "bbox_id": "37.825040_-122.336330_37.851500_-122.302550",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 16:14:52",
+      "raw_data": {
+        "room_id": 1478485588784581615,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Just a minute! Literally…\nto San Francisco!",
+        "title": "Condo in Emeryville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 610.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $203.13",
+              "amount": 609.0,
+              "currency": "$.39"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478485588784581615/original/da12ace1-458d-4ca9-b11a-16a7d8a3290c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478485588784581615/original/d41712e6-8751-457f-9d72-8ff88bb56be2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478485588784581615/original/ed94247c-c12c-4e1a-accc-afb78c5c7357.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478485588784581615/original/a2e922bb-c472-4bf5-816b-f51a3e2687ea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478485588784581615/original/883db3b2-29ed-40c4-8adf-e784682af46c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478485588784581615/original/5b2807dd-3511-4747-a099-f087d43248ed.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.8379,
+          "longitud": -122.306
+        }
+      }
+    }
+  }
+}

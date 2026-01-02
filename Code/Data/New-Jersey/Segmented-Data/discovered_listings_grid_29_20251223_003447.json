@@ -1,0 +1,2225 @@
+{
+  "grid_id": 29,
+  "total_listings": 17,
+  "discovery_timestamp": "2025-12-23 00:34:47",
+  "listings": {
+    "1498093365326566589": {
+      "room_id": 1498093365326566589,
+      "latitude": 40.81063,
+      "longitude": -73.98361,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:31:53",
+      "raw_data": {
+        "room_id": 1498093365326566589,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Serene 2 Bedroom on the Hudson. Easy Trip to NYC",
+        "title": "Apartment in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1893.0,
+            "discount": 1555.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $310.86",
+              "amount": 1554.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1498093365326566589/original/026532e4-6379-4dd5-8e63-d6d42f4f0021.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1498093365326566589/original/b8668023-ec71-47ca-910e-490df954cacf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1498093365326566589/original/9fa63a3c-832a-48a2-b807-8e2386842b3d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1498093365326566589/original/7adc7c0c-adcf-4984-b58a-7be4cd9db6a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1498093365326566589/original/657add5a-0b19-4bfd-a197-c8192a8c27d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1498093365326566589/original/e92fa076-e4aa-4381-8907-a88ab5e26683.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.81063,
+          "longitud": -73.98361
+        }
+      }
+    },
+    "898025570476842938": {
+      "room_id": 898025570476842938,
+      "latitude": 40.81036,
+      "longitude": -73.98991,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:31:53",
+      "raw_data": {
+        "room_id": 898025570476842938,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bali inspired 3 Bedroom Apt-20 Min to NYC",
+        "title": "Condo in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2138.0,
+            "discount": 1838.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $367.46",
+              "amount": 1837.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "109"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cffc8d99-4705-4e55-9af0-3e602bf32059.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1044f7d7-e375-4a7f-8121-588d7e775591.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6de53991-29af-4c3d-92d7-62c22ae2e07f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6c6cdde1-7690-450a-9665-5eb118aa2e05.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ad1320af-f964-4dba-8a48-653184fb5013.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fe1555c4-a407-4b73-b557-0a322b1240a9.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.81036,
+          "longitud": -73.98991
+        }
+      }
+    },
+    "1538792891601983456": {
+      "room_id": 1538792891601983456,
+      "latitude": 40.8128,
+      "longitude": -73.99197,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:31:53",
+      "raw_data": {
+        "room_id": 1538792891601983456,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Elegant 2-Bed Apartment • Near Edgewater",
+        "title": "Apartment in Cliffside Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1564.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $312.68",
+              "amount": 1563.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1538792891601983456/original/48cf1110-8a28-42fa-9c00-ae5b4b6a7dff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1538792891601983456/original/267fbfa4-b52c-4069-b440-c86e212caa48.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1538792891601983456/original/4f8207de-99f4-4571-942e-ac6da9496061.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1538792891601983456/original/868679e0-f99a-4fa5-b1ef-658aaf29eb01.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1538792891601983456/original/f4ffe9bf-ac34-4251-85e7-facd4bcb33ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1538792891601983456/original/f0a4fd75-8138-451b-bf18-bf62484ac5b6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.8128,
+          "longitud": -73.99197
+        }
+      }
+    },
+    "1564556188738420390": {
+      "room_id": 1564556188738420390,
+      "latitude": 40.80362,
+      "longitude": -73.98971,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:31:53",
+      "raw_data": {
+        "room_id": 1564556188738420390,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bright & Modern Studio by NYC Transit",
+        "title": "Apartment in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2043.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $291.82",
+              "amount": 2042.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564556188738420390/original/83e13af0-e08b-443d-9343-d24450f72b7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564556188738420390/original/12beb3ca-f990-479e-8db9-2b3f5835c9bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564556188738420390/original/2a0191b6-9f26-42d1-a019-734ed8d0b54f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564556188738420390/original/83c172ed-2ec7-4461-932a-af1fbf7cbe81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564556188738420390/original/a0607caa-57e8-4e56-908c-3f970e73cbdb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564556188738420390/original/40fbda65-28ee-49cf-a7bf-d3a08c2e8713.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.80362,
+          "longitud": -73.98971
+        }
+      }
+    },
+    "1579958573286705945": {
+      "room_id": 1579958573286705945,
+      "latitude": 40.8124,
+      "longitude": -73.99,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:31:53",
+      "raw_data": {
+        "room_id": 1579958573286705945,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Paradise Stay with NYC views",
+        "title": "Place to stay in Cliffside Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1530.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $305.84",
+              "amount": 1529.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579958573286705945/original/29cee2c4-cda5-4756-a38b-ccb8bac9b0f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579958573286705945/original/f02ea396-6b82-4240-9b65-0e889896225c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579958573286705945/original/a1bb0138-15ad-48b3-bde9-4c00c4eac2fa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579958573286705945/original/c66fe522-131b-4d63-904c-99851d352e3f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579958573286705945/original/2dbb00f2-a591-4ba3-a02d-51f73ee279db.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579958573286705945/original/4a7ff9d4-d8bb-4215-a9bc-3f114d7ac5c2.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.8124,
+          "longitud": -73.99
+        }
+      }
+    },
+    "1263965592170067150": {
+      "room_id": 1263965592170067150,
+      "latitude": 40.807105422335425,
+      "longitude": -73.98636980957399,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:31:53",
+      "raw_data": {
+        "room_id": 1263965592170067150,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Apr 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Apr 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Penthouse with Manhattan Views",
+        "title": "Condo in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2530.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $506.00",
+              "amount": 2529.0,
+              "currency": "$.99"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1263965592170067150/original/7ef6f50c-53b4-4d27-acef-f723bb16d81b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1263965592170067150/original/492452fc-65ce-4eaf-b0f2-1d68334886b5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1263965592170067150/original/9e89ed22-eba1-45e2-9a71-bbeaaca86b30.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1263965592170067150/original/3c3692b6-a17b-4169-b7a1-15401cda34f7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1263965592170067150/original/04642eca-d558-4901-8671-c201a2236036.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1263965592170067150/original/ed8687db-795b-40b2-a770-4bb80543526e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.807105422335425,
+          "longitud": -73.98636980957399
+        }
+      }
+    },
+    "44229473": {
+      "room_id": 44229473,
+      "latitude": 40.80382,
+      "longitude": -73.99187,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 2,
+      "discovered_at": "2025-12-23 00:32:05",
+      "raw_data": {
+        "room_id": 44229473,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Courtyard by Marriott Edgewater / NYC Area",
+        "title": "Hotel in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 1207.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $402.07",
+              "amount": 1206.0,
+              "currency": "$.22"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.41,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e584aedd-0f28-42b2-9775-12c78f2f11f0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/868dc21e-138b-49f1-9ce6-80ca879bf696.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/be358faf-71ef-4471-bc9a-af1330f9b2f3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0b951258-d4bb-4635-a978-c0b890653311.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1732eb1d-6f5c-4489-a522-6754d816df01.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0eba4383-967e-4ea1-95a6-7e305c80556a.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.80382,
+          "longitud": -73.99187
+        }
+      }
+    },
+    "43325749": {
+      "room_id": 43325749,
+      "latitude": 40.80178,
+      "longitude": -73.99182,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 2,
+      "discovered_at": "2025-12-23 00:32:05",
+      "raw_data": {
+        "room_id": 43325749,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Courtyard Edgewater NYC Area - Just what you need!",
+        "title": "Hotel in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 1207.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $402.07",
+              "amount": 1206.0,
+              "currency": "$.22"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.33,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e584aedd-0f28-42b2-9775-12c78f2f11f0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/868dc21e-138b-49f1-9ce6-80ca879bf696.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/be358faf-71ef-4471-bc9a-af1330f9b2f3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0b951258-d4bb-4635-a978-c0b890653311.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1732eb1d-6f5c-4489-a522-6754d816df01.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0eba4383-967e-4ea1-95a6-7e305c80556a.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.80178,
+          "longitud": -73.99182
+        }
+      }
+    },
+    "786903799035498797": {
+      "room_id": 786903799035498797,
+      "latitude": 40.80941,
+      "longitude": -73.99012,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:32:17",
+      "raw_data": {
+        "room_id": 786903799035498797,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Miami styled living 30 Min to Times Square!",
+        "title": "Apartment in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 541.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $270.46",
+              "amount": 540.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "114"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/3a98eb1b-0a95-433f-8ea4-d4294bba092c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-786903799035498797/original/5a087106-4231-4fb0-bc30-4ae80cbf6ab7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-786903799035498797/original/dc518c3f-b9aa-4e5f-abf8-df1ef8130024.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b1f72a3d-dee8-4ab1-b779-b635ea498053.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-786903799035498797/original/e98959b8-5136-49f5-b0d9-075b7f153ac7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/73cfd682-5754-479f-bb04-b72b484d6323.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.80941,
+          "longitud": -73.99012
+        }
+      }
+    },
+    "1303099437821305083": {
+      "room_id": 1303099437821305083,
+      "latitude": 40.809,
+      "longitude": -73.9909,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:32:17",
+      "raw_data": {
+        "room_id": 1303099437821305083,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "20 minutes to Times Square",
+        "title": "Condo in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 428.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $213.97",
+              "amount": 427.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "34"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1303099437821305083/original/5679f094-2c92-4c5e-97ac-527a607c1d67.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1303099437821305083/original/9dfa43ae-8fd0-4110-8b96-88586ceb0b64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1303099437821305083/original/e5e1580f-797b-47da-9cb9-ef8bc9dc5c8a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1303099437821305083/original/7d1b72a6-82b1-4370-ac3d-091b47836b4a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1303099437821305083/original/29dd81bf-8992-4be6-b556-cd7bf026b50e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1303099437821305083/original/2d189abd-ff4c-43cd-a964-d42cb54016e6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.809,
+          "longitud": -73.9909
+        }
+      }
+    },
+    "1548556313045946087": {
+      "room_id": 1548556313045946087,
+      "latitude": 40.81351,
+      "longitude": -73.98843,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:32:17",
+      "raw_data": {
+        "room_id": 1548556313045946087,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Private Room",
+        "title": "Place to stay in Cliffside Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 514.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $256.77",
+              "amount": 513.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548556313045946087/original/477c2494-ee0b-49c0-8980-fad44d7fdd9b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548556313045946087/original/6976889d-631c-4cb2-877e-ffe4aebe035d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548556313045946087/original/a81cc1e1-9c04-463a-a381-06c40172e7bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548556313045946087/original/530193ce-c8a0-49b0-be8b-c9ec0bb1be07.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548556313045946087/original/b69d34cb-84e3-480b-9472-f98070c59956.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1548556313045946087/original/e8f93100-96da-4434-8e17-e8c4a00bb729.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.81351,
+          "longitud": -73.98843
+        }
+      }
+    },
+    "1401671078264320924": {
+      "room_id": 1401671078264320924,
+      "latitude": 40.80970798739248,
+      "longitude": -73.9915830714461,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:32:17",
+      "raw_data": {
+        "room_id": 1401671078264320924,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5bf67e88-2042-4ad8-9b5d-e3ab67929946.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sakir",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5bf67e88-2042-4ad8-9b5d-e3ab67929946.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "33 reviews on the listing",
+              "label": "Reviews",
+              "value": "33",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.94 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.94",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 9
+          },
+          "ratingCount": 33,
+          "ratingAverage": 4.94
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "20 minutes to Times Square",
+        "title": "Room in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 363.0,
+            "discount": 315.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $157.48",
+              "amount": 314.0,
+              "currency": "$.96"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "33"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401671078264320924/original/d7aaff2c-fb2e-4352-b6ac-cbfe5e97b1fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401671078264320924/original/5f0b5867-1e34-4760-8853-97830439d0e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401671078264320924/original/d06f56b7-94d8-4a46-a3b9-9bb929baa694.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401671078264320924/original/2cfbede3-5a4c-4abb-87c9-0d2f6bea363e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401671078264320924/original/64774880-0e69-4c06-9e90-ac5ffd0f6f55.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401671078264320924/original/7f3c0c73-9978-471a-82d6-4e600fa8d5d8.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.80970798739248,
+          "longitud": -73.9915830714461
+        }
+      }
+    },
+    "27722713": {
+      "room_id": 27722713,
+      "latitude": 40.8104,
+      "longitude": -73.99047,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:32:17",
+      "raw_data": {
+        "room_id": 27722713,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/8054c905-5412-4196-881d-c4b334da12a5.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Yuki",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8054c905-5412-4196-881d-c4b334da12a5.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "55 reviews on the listing",
+              "label": "Reviews",
+              "value": "55",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 4
+          },
+          "ratingCount": 55,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Bedroom & Bath in A Penthouse | 30min2NYC",
+        "title": "Room in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 449.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $224.24",
+              "amount": 448.0,
+              "currency": "$.48"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "55"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/92ccdbb5-7783-45f9-a02f-53eab1580c4a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/11816f3d-ec74-4b6c-a540-15fe7487c625.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c13455d5-8408-4016-ad96-64ce8ad344c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/870785cf-737e-4aaa-a8ad-61c5ddcfacaa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/71d756fa-37e1-480d-aada-c5f5357cf7b9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d0594a31-9458-45a7-a62c-6560563543f3.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.8104,
+          "longitud": -73.99047
+        }
+      }
+    },
+    "776228915499871374": {
+      "room_id": 776228915499871374,
+      "latitude": 40.8097,
+      "longitude": -73.9905,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 00:32:17",
+      "raw_data": {
+        "room_id": 776228915499871374,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Contemporary Luxury Loft! Apt-20 Min to NYC",
+        "title": "Apartment in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 541.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $270.46",
+              "amount": 540.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "123"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/8f1b80c6-2a1c-4419-a1c9-4fa9175c367d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f3392246-20fc-44d4-bcb2-d96b4c55592a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2e37df8a-be42-4c16-9894-ed23f433540e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9d43ace6-3835-4ca7-920b-65de5a4c4a98.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a56a9519-619a-4294-849a-57bb5b1a4db2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-776228915499871374/original/5db031ca-9fec-486b-a783-54515d4bdfb3.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.8097,
+          "longitud": -73.9905
+        }
+      }
+    },
+    "1403066297250815971": {
+      "room_id": 1403066297250815971,
+      "latitude": 40.81025584276538,
+      "longitude": -73.99120955108747,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 00:32:23",
+      "raw_data": {
+        "room_id": 1403066297250815971,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5bf67e88-2042-4ad8-9b5d-e3ab67929946.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sakir",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5bf67e88-2042-4ad8-9b5d-e3ab67929946.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "41 reviews on the listing",
+              "label": "Reviews",
+              "value": "41",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.85 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.85",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 9
+          },
+          "ratingCount": 41,
+          "ratingAverage": 4.85
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "20 min to New York City",
+        "title": "Room in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 371.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $123.63",
+              "amount": 370.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "41"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403066297250815971/original/0ab6f737-1c50-427d-816a-30918a15cb85.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403066297250815971/original/3e9e6449-5972-496e-9657-c2b18d8612de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403066297250815971/original/c9227569-7f8e-4cd3-bb84-6062e32c1dd3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403066297250815971/original/fb82c7d1-3a78-498a-bb70-35e923e37ad7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403066297250815971/original/d8a1b362-e1f7-41ba-8faa-4cbd017911f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403066297250815971/original/2ddd6cc6-7167-43f3-abf2-a7f0378040fe.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.81025584276538,
+          "longitud": -73.99120955108747
+        }
+      }
+    },
+    "1416223091123323768": {
+      "room_id": 1416223091123323768,
+      "latitude": 40.80554835102589,
+      "longitude": -73.98558913317952,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 00:32:23",
+      "raw_data": {
+        "room_id": 1416223091123323768,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/d26ff5d0-3772-4991-b4a9-20549291f537.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Dalvir",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d26ff5d0-3772-4991-b4a9-20549291f537.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 reviews on the listing",
+              "label": "Reviews",
+              "value": "6",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 months of hosting",
+              "label": "Months hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 7
+          },
+          "ratingCount": 6,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Modern Room w/ private bathroom 30 Min to NYC",
+        "title": "Room in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 480.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $159.76",
+              "amount": 479.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1416223091123323768/original/12e6a764-e8a7-436a-a3f5-5516e634c68e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1416223091123323768/original/11a53e03-c846-4a52-b338-6207340f34c2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1416223091123323768/original/026d7b3a-de0c-4163-b281-21e719635533.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1416223091123323768/original/adafdb78-045d-40fd-bc0f-20ac0b93e7a9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1416223091123323768/original/5bbec2fc-2116-462e-b928-e9b0b25b1414.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1416223091123323768/original/c2f2f6f8-dfd5-4a35-bc2f-ec3edda93409.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.80554835102589,
+          "longitud": -73.98558913317952
+        }
+      }
+    },
+    "1401730198664644951": {
+      "room_id": 1401730198664644951,
+      "latitude": 40.810217043819236,
+      "longitude": -73.99115806896039,
+      "grid_id_assigned": null,
+      "grid_id_source": 29.0,
+      "bbox_id": "40.798770_-73.992140_40.821200_-73.971160",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 00:32:23",
+      "raw_data": {
+        "room_id": 1401730198664644951,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5bf67e88-2042-4ad8-9b5d-e3ab67929946.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sakir",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5bf67e88-2042-4ad8-9b5d-e3ab67929946.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "43 reviews on the listing",
+              "label": "Reviews",
+              "value": "43",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.91 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.91",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 9
+          },
+          "ratingCount": 43,
+          "ratingAverage": 4.91
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "20 minutes to Manhattan",
+        "title": "Room in Edgewater",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 388.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $129.33",
+              "amount": 388.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "43"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401730198664644951/original/10320636-6da3-4ffe-bba7-18eeb48e7f79.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401730198664644951/original/807ec963-a4f3-4c58-a8b8-c41c0f576ad4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401730198664644951/original/2a67d0da-e4b7-49e2-bb94-360f34416544.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401730198664644951/original/c96a5e6c-b373-4443-bcbe-a00f58c11d4b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401730198664644951/original/2e595a85-e60c-441b-96c4-68b14bcd73b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1401730198664644951/original/ff3e3407-5153-4bb5-b589-255143c76635.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.810217043819236,
+          "longitud": -73.99115806896039
+        }
+      }
+    }
+  }
+}

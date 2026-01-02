@@ -1,0 +1,3056 @@
+{
+  "grid_id": 42,
+  "total_listings": 23,
+  "discovery_timestamp": "2025-12-29 03:40:23",
+  "listings": {
+    "1340717143415342598": {
+      "room_id": 1340717143415342598,
+      "latitude": 38.68343713074424,
+      "longitude": -121.53847616747808,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 1340717143415342598,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Stunning luxury home!",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3424.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $684.71",
+              "amount": 3423.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "18"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1340717143415342598/original/4dffb8bb-4c2d-4313-9cde-be8b2faa8c1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1340717143415342598/original/8a549d4e-71a2-432e-82cb-0d83bf11f94a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1340717143415342598/original/e7bb92d0-a8c3-4d0c-9fba-2094375c0461.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1340717143415342598/original/cb8a7231-e775-485d-b380-b8567a122eb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1340717143415342598/original/8b6739d3-d202-489a-a01e-137eaab2aebc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1340717143415342598/original/fb295cfb-c879-436e-8944-91c4e7242ba7.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.68343713074424,
+          "longitud": -121.53847616747808
+        }
+      }
+    },
+    "762247060614450100": {
+      "room_id": 762247060614450100,
+      "latitude": 38.68146,
+      "longitude": -121.5317,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 762247060614450100,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Gorgeous 5 bedroom house near airport &downtown",
+        "title": "Villa in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1579.0,
+            "discount": 1458.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $291.46",
+              "amount": 1457.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "145"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-762247060614450100/original/98f368f3-8064-403c-b213-2fcee15e1bb4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-762247060614450100/original/c1147255-eae6-4040-856a-bef820214f2b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-762247060614450100/original/d17dda35-b5ba-40f8-86f2-a55a7ad48ec1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-762247060614450100/original/3ba9f335-db0f-4db1-b3df-fc7114e93660.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-762247060614450100/original/b3932e2f-489b-4710-a50f-1599f0a0ed19.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-762247060614450100/original/5eba8e38-e33b-4b9b-b31a-90f29002fd5c.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.68146,
+          "longitud": -121.5317
+        }
+      }
+    },
+    "53029720": {
+      "room_id": 53029720,
+      "latitude": 38.66427,
+      "longitude": -121.52759,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 53029720,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cheerful 3-Bedroom Home close to Airport/downtown",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1545.0,
+            "discount": 1038.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $207.47",
+              "amount": 1037.0,
+              "currency": "$.34"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.76,
+          "reviewCount": "131"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cb1e0316-2c06-409f-9ea8-3579849a988e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/11aa30cd-69d2-4cec-a1cd-e35d495ce3c0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6cdf4b44-278a-4b63-9948-61f0cfe67bbb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/19762e48-61df-4f43-93cb-073efbbdde4c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb245170-4b44-426c-bab0-e97be5ad415c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/910c03c2-1a3e-49c5-a4b5-0b5daa432be8.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66427,
+          "longitud": -121.52759
+        }
+      }
+    },
+    "579929589330298738": {
+      "room_id": 579929589330298738,
+      "latitude": 38.67316,
+      "longitude": -121.52557,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 579929589330298738,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire Natomas New home with 4bedroom, 2.5 bath",
+        "title": "Home in Natomas Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1107.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $221.39",
+              "amount": 1106.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "29"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-579929589330298738/original/1272f146-a2e9-459a-aded-04392e3e3f42.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-579929589330298738/original/fde9d877-2c05-4b31-8574-8e01726134d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-579929589330298738/original/81dc858d-0d88-4f29-9395-ff3db130102a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-579929589330298738/original/4822b8db-abe7-46b1-8e4a-dbca4f0dd696.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-579929589330298738/original/ddd96535-fca8-4a37-88ac-8cecbe09a537.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-579929589330298738/original/3c0ba6fb-51bc-49a6-9f6a-6f44278731af.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.67316,
+          "longitud": -121.52557
+        }
+      }
+    },
+    "26780201": {
+      "room_id": 26780201,
+      "latitude": 38.66309,
+      "longitude": -121.53175,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 26780201,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 22 – 27",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 22 – 27",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "LeParkOrangePool,Spa,NextoDowntownAirportHospitals",
+        "title": "Townhouse in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1239.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $247.80",
+              "amount": 1239.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.22,
+          "reviewCount": "18"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/44e736a6-3674-4489-8aa1-a2bf22eaceaa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a223ab0c-89d6-4f88-b744-a0614dac5921.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0cd31302-295b-46c6-944f-6cff23aad0b4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c35ce3c3-3362-44ed-b096-71b2a02cfc74.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/aeb04cda-6662-4b6f-b343-3e72e9dddd59.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f43f58cc-fce2-4931-8021-1f65bb6c1c98.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66309,
+          "longitud": -121.53175
+        }
+      }
+    },
+    "1216040773789115208": {
+      "room_id": 1216040773789115208,
+      "latitude": 38.68208,
+      "longitude": -121.49875,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 1216040773789115208,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 13 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 13 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Relaxing 5BR Near Sac Airport",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2146.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $306.49",
+              "amount": 2145.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1216040773789115208/original/1aed2c6a-58a9-419a-95a6-f488febf7b53.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1216040773789115208/original/7b3d7bb7-4aff-4167-b0b2-82c16119bbb1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1216040773789115208/original/5a8ebb5f-75cf-4105-b1e7-4d2c8d4329c0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1216040773789115208/original/5d0c3888-19f7-4441-9b86-9d30b1389d2d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1216040773789115208/original/62b1658b-8f74-4239-954c-03b6a7dddf94.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1216040773789115208/original/e1d2a292-a6c9-4fc0-9e0f-c0b8a97f504a.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.68208,
+          "longitud": -121.49875
+        }
+      }
+    },
+    "832825913633380031": {
+      "room_id": 832825913633380031,
+      "latitude": 38.66211,
+      "longitude": -121.52633,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 832825913633380031,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Peaceful house next to the park - close to airport",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2150.0,
+            "discount": 1419.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $283.61",
+              "amount": 1418.0,
+              "currency": "$.04"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.51,
+          "reviewCount": "41"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-832825913633380031/original/7ee0fa7a-9a0d-4b4f-9e62-4adf182259ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-832825913633380031/original/310cd1b3-9989-4c48-a2a9-09541218e7b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-832825913633380031/original/8c5b5462-4c85-40e9-a0a4-0c666e314eb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-832825913633380031/original/6d7aa52d-7813-4d29-9adb-26da7d07411d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-832825913633380031/original/2d50b96f-18e7-472c-a4d1-687f6bb18254.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODMyODI1OTEzNjMzMzgwMDMx/original/6a6ecb9d-19ef-43db-b587-d28c5047c784.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66211,
+          "longitud": -121.52633
+        }
+      }
+    },
+    "40405332": {
+      "room_id": 40405332,
+      "latitude": 38.66423,
+      "longitude": -121.52779,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 40405332,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Apr 16 – 21",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Apr 16 – 21",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "MilanoHouse: Luxury, FullyFenceBYw/BBQ, Near Sac.",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1590.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $318.00",
+              "amount": 1590.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.69,
+          "reviewCount": "67"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/bac4c6fa-8006-4de8-8c93-e88be40b71a5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b6060e15-0cbe-426b-aff5-eacc454085e7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3f722145-7291-4c62-944a-b51fcadea864.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f7232f55-6880-4e1f-95c3-417151f6a340.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/388ac11f-9ad6-42f2-b721-f2a4697d2180.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/25dfe4eb-e6fd-48f5-84d0-741ba09892f6.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66423,
+          "longitud": -121.52779
+        }
+      }
+    },
+    "22519172": {
+      "room_id": 22519172,
+      "latitude": 38.67916,
+      "longitude": -121.53141,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 22519172,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "GiannoSilverHome: (Sleeps 6), W/BBQ, Near Downtown",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1180.0,
+            "discount": 1093.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $218.60",
+              "amount": 1093.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.74,
+          "reviewCount": "76"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22519172/original/dfcf565f-47a2-4ebe-8465-a2e1260963a0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/603c77b5-3dd1-406c-b7b0-c96e39d393a9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22519172/original/f3a06603-c770-4d20-9e05-44145a39e268.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22519172/original/56b406fd-e98c-4d73-8726-e2f918e7e1f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22519172/original/129a0d2b-1229-4f41-8c93-07d7a35be017.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22519172/original/7ccb4a79-85a9-4910-a9f7-710a473709f7.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.67916,
+          "longitud": -121.53141
+        }
+      }
+    },
+    "1509107262948114291": {
+      "room_id": 1509107262948114291,
+      "latitude": 38.68246,
+      "longitude": -121.50223,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 1509107262948114291,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2 Bed 2 Bath | Near Airport | Peaceful Cozy Space!",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1107.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $221.39",
+              "amount": 1106.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1509107262948114291/original/42f25a5f-3f0b-436d-ab99-10e3482cf105.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1509107262948114291/original/12c14cd0-9e9e-4602-8c96-11b64ed2004d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1509107262948114291/original/a8883aaf-9599-493b-a389-9616b86e63ad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1509107262948114291/original/9ef7f7bd-bb7f-471b-b94e-3eff99782b8c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1509107262948114291/original/a2355233-9c07-43b8-b3ec-3011d86a2518.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1509107262948114291/original/86e80819-6f53-4f1a-a450-a2a39029ffeb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.68246,
+          "longitud": -121.50223
+        }
+      }
+    },
+    "1044522298891690358": {
+      "room_id": 1044522298891690358,
+      "latitude": 38.6775,
+      "longitude": -121.52971,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 1044522298891690358,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 31 – Apr 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 31 – Apr 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "LeDawn w/BBQ, NearTo Airport Downtown Pool Spa Gym",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1129.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $229.20",
+              "amount": 1146.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Early bird discount",
+              "amount": -17.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1128.0,
+              "currency": "$.80"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/74032929/14fe7043_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74032647/aa6ddc65_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74033595/bb2f4801_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74033748/5f526f11_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74033419/1a844302_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74032861/c1e77687_original.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.6775,
+          "longitud": -121.52971
+        }
+      }
+    },
+    "23998150": {
+      "room_id": 23998150,
+      "latitude": 38.66291,
+      "longitude": -121.52844,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 23998150,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful 3BD & 3BTH w/ Backyard- 10min to Airport",
+        "title": "Home in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1655.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $330.94",
+              "amount": 1654.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.69,
+          "reviewCount": "110"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a5670f42-bf9f-4a1f-b0b2-35bd971b47aa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a72aae3f-176b-4581-92b5-c66f541dc44c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e91cd498-4223-43ab-bd9d-1c8892293196.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5d9a0927-f172-4ce5-bd44-a1b993ede881.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fd3e2257-3b80-420d-874b-bf59b56b4798.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/081c9e1a-c9d0-4185-88b4-0a98d15b3fd3.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66291,
+          "longitud": -121.52844
+        }
+      }
+    },
+    "12858154": {
+      "room_id": 12858154,
+      "latitude": 38.66587,
+      "longitude": -121.53171,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 12858154,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 13 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 13 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "LeParkYellow,Pool,SpaNextoDowntownAirportHospitals",
+        "title": "Townhouse in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1422.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $284.40",
+              "amount": 1422.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/3eb68cf0-74b4-4b24-9434-e83e0f76313a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/89e6e8b2-cc6f-4dc5-8670-ffdb3f0edb07.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fcf0c3ba-288e-4923-a931-370a4dccb558.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2032a19d-012b-4525-9835-5bcf9af76eec.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/15ed33f1-7676-4b0d-9dce-e5487304cbc7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3f8807c6-f20b-4a52-9487-b56539924fe0.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66587,
+          "longitud": -121.53171
+        }
+      }
+    },
+    "1179354526453322709": {
+      "room_id": 1179354526453322709,
+      "latitude": 38.66371,
+      "longitude": -121.53015,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:37:26",
+      "raw_data": {
+        "room_id": 1179354526453322709,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "WhiteLeParkPoolSpaDowntowAirport",
+        "title": "Townhouse in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1185.0,
+            "discount": 1054.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $210.80",
+              "amount": 1054.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1179354526453322709/original/7438822e-4875-41eb-8e79-648b5ee98b23.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9aa43c88-6fd5-4276-a7f9-2aa36a48b010.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/79e8e17f-b72a-468c-8ca1-192202020093.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/71ca07a4-01db-47dd-9f5a-88eff2976a53.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/301989f8-69d4-4252-8e04-f21a39603843.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0e5e0588-4930-4e7a-89c0-125b88a736b9.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.66371,
+          "longitud": -121.53015
+        }
+      }
+    },
+    "32496140": {
+      "room_id": 32496140,
+      "latitude": 38.67524,
+      "longitude": -121.52738,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:37:34",
+      "raw_data": {
+        "room_id": 32496140,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/7a50f106-fc7f-4e69-9625-212968e1daca.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Fei",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7a50f106-fc7f-4e69-9625-212968e1daca.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "25 reviews on the listing",
+              "label": "Reviews",
+              "value": "25",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.8 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.8",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 10
+          },
+          "ratingCount": 25,
+          "ratingAverage": 4.8
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Brand New Home near Downtown, Airport & Davis(B-B)",
+        "title": "Room in Natomas Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 226.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $112.98",
+              "amount": 225.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "25"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/5b909951-0b7f-4eb5-90ef-a8b28db70b63.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b39efefa-a92c-449b-bf90-495a5ef20b12.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/27eb2f40-c900-4458-a907-dbdfe0ce9b90.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fe15b692-707d-4fd0-b690-b1e880709eeb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0ecb20bf-bb8a-490e-849d-0c7d6dc097f0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2b2356d1-b359-4072-b444-b2e182cac030.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.67524,
+          "longitud": -121.52738
+        }
+      }
+    },
+    "629163875756850787": {
+      "room_id": 629163875756850787,
+      "latitude": 38.6629,
+      "longitude": -121.5283,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:37:40",
+      "raw_data": {
+        "room_id": 629163875756850787,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5f3044a6-6004-470a-b5f9-547ac473dbe9.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Susan",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5f3044a6-6004-470a-b5f9-547ac473dbe9.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "162 reviews on the listing",
+              "label": "Reviews",
+              "value": "162",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.93 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.93",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 4
+          },
+          "ratingCount": 162,
+          "ratingAverage": 4.93
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Nice and Lovely 2nd floor bedroom #1",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 236.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $78.36",
+              "amount": 235.0,
+              "currency": "$.08"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "162"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/34a5cd9f-c0a2-46dd-99bb-81f88d797979.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-629163875756850787/original/c2872b7f-c854-4583-b7eb-adb65710d7c6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-629163875756850787/original/bdf5da49-5b3e-496a-b7ca-6fb146005b7d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-629163875756850787/original/024cbf8d-0f2c-43a3-8e89-22b30e3d737e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-629163875756850787/original/9bacd466-8e53-494e-918e-505867e916b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-629163875756850787/original/a74724a2-5948-46b8-972b-aaf218ef2ef9.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.6629,
+          "longitud": -121.5283
+        }
+      }
+    },
+    "36324876": {
+      "room_id": 36324876,
+      "latitude": 38.67126,
+      "longitude": -121.53003,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:37:40",
+      "raw_data": {
+        "room_id": 36324876,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/e1950d70-960f-40f6-bc3a-adabeee2ab2a.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Aaron",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e1950d70-960f-40f6-bc3a-adabeee2ab2a.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "63 reviews on the listing",
+              "label": "Reviews",
+              "value": "63",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.86 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.86",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 5
+          },
+          "ratingCount": 63,
+          "ratingAverage": 4.86
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Guest Room D, 15 min to Airprt&Dwn Twn",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 216.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $71.89",
+              "amount": 215.0,
+              "currency": "$.68"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "63"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/0490dbb3-06ad-47a0-b93e-7494d64451b9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36324876/original/911e083e-6f91-4fd0-9425-3132a324c157.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36324876/original/7cee38e8-7f74-4077-9597-87bafd4dc685.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36324876/original/3701ce3f-bee9-42e0-ac8c-642d93becb99.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cb73c4d5-c7b6-48aa-9ab9-56b43515094a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ef9b3221-b5fd-4979-b9a2-bba3d4574b94.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.67126,
+          "longitud": -121.53003
+        }
+      }
+    },
+    "1567739215910376323": {
+      "room_id": 1567739215910376323,
+      "latitude": 38.6742,
+      "longitude": -121.53238,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:37:40",
+      "raw_data": {
+        "room_id": 1567739215910376323,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "8 Min to SMF Queen Bedroom with Shared Bathroom",
+        "title": "Place to stay in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 334.0,
+            "discount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $111.29",
+              "amount": 333.0,
+              "currency": "$.88"
+            },
+            {
+              "description": "Special offer",
+              "amount": -60.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567739215910376323/original/72be97cb-adce-449f-a7bf-d1615bd68a00.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567739215910376323/original/1b6fa734-920d-4659-a748-6e4d3634a527.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567739215910376323/original/3a3ba42d-3cb3-4e1c-b0ea-2455014ef0bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567739215910376323/original/0e69ee53-d797-4289-875f-5efa99e49e18.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567739215910376323/original/47fb857d-8643-4802-9eec-a2ec9750fced.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567739215910376323/original/2e767d2f-6760-48d3-8488-5a605463ebae.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.6742,
+          "longitud": -121.53238
+        }
+      }
+    },
+    "47817144": {
+      "room_id": 47817144,
+      "latitude": 38.6628,
+      "longitude": -121.5285,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:37:40",
+      "raw_data": {
+        "room_id": 47817144,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5f3044a6-6004-470a-b5f9-547ac473dbe9.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Susan",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5f3044a6-6004-470a-b5f9-547ac473dbe9.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "154 reviews on the listing",
+              "label": "Reviews",
+              "value": "154",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.87 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.87",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 4
+          },
+          "ratingCount": 154,
+          "ratingAverage": 4.87
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Large and spacious 2nd floor bedroom #3",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 237.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $78.74",
+              "amount": 236.0,
+              "currency": "$.22"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "154"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/34a5cd9f-c0a2-46dd-99bb-81f88d797979.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-47817144/original/706d8f20-898d-4e86-be99-dfed55c410a3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-47817144/original/5b913104-32b4-4d83-be31-59d1914c3787.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6ab51d4e-151b-45b7-84d7-0c9371cc1e13.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-47817144/original/3f56a8ce-64be-488e-b881-aeff9fceba53.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-47817144/original/b4b58e78-ae24-4455-938e-281c748fac3d.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.6628,
+          "longitud": -121.5285
+        }
+      }
+    },
+    "36323488": {
+      "room_id": 36323488,
+      "latitude": 38.67053,
+      "longitude": -121.52924,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:37:40",
+      "raw_data": {
+        "room_id": 36323488,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/e1950d70-960f-40f6-bc3a-adabeee2ab2a.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Aaron",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e1950d70-960f-40f6-bc3a-adabeee2ab2a.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "66 reviews on the listing",
+              "label": "Reviews",
+              "value": "66",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.89 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.89",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 5
+          },
+          "ratingCount": 66,
+          "ratingAverage": 4.89
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Guest Room C, 15 min to Airprt&Dwn Twn",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 220.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $73.04",
+              "amount": 219.0,
+              "currency": "$.11"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "66"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/015fe126-3a23-4d00-9a7e-0c89bd663997.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/20359098-b605-4d38-a9b2-d70ddf3f7b41.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/99d8bd59-02bc-414b-a9eb-375fa2c4a74a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/27e8a4db-0fc3-4a25-b905-bcc7b4e83e32.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/70c7a0eb-22ae-4ebc-ad86-92eed88a69f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b8bbc5de-4a51-4291-9178-2bb5d5b58e81.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.67053,
+          "longitud": -121.52924
+        }
+      }
+    },
+    "36201154": {
+      "room_id": 36201154,
+      "latitude": 38.6708,
+      "longitude": -121.5305,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:37:40",
+      "raw_data": {
+        "room_id": 36201154,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/e1950d70-960f-40f6-bc3a-adabeee2ab2a.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Aaron",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e1950d70-960f-40f6-bc3a-adabeee2ab2a.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "79 reviews on the listing",
+              "label": "Reviews",
+              "value": "79",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.84 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.84",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 5
+          },
+          "ratingCount": 79,
+          "ratingAverage": 4.84
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Guest Room A, 15 min to Airprt&Dwn Twn",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 220.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $73.04",
+              "amount": 219.0,
+              "currency": "$.11"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.84,
+          "reviewCount": "79"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/329b8484-8a94-47f8-8aaf-16abd85eb835.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36201154/original/c3ff60fe-1c22-4bba-9d90-d91c36217f77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36201154/original/eba8d6cc-c32c-4979-afe5-7eb72a8ace13.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36201154/original/c9c6ca51-ee9e-4170-9dbc-236965334bd1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f3308a10-f182-4b40-9132-6e45aad54e7a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0a02ee71-63c1-4dca-9dce-cfd77225e017.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.6708,
+          "longitud": -121.5305
+        }
+      }
+    },
+    "35259342": {
+      "room_id": 35259342,
+      "latitude": 38.67124,
+      "longitude": -121.52978,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 4,
+      "discovered_at": "2025-12-29 03:37:51",
+      "raw_data": {
+        "room_id": 35259342,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [],
+          "primaryLine": [],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/e334952e-cbfb-49a1-bd11-9fa6f07b7a76.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "SuperHost Phoe",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/e334952e-cbfb-49a1-bd11-9fa6f07b7a76.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 reviews on the listing",
+              "label": "Reviews",
+              "value": "2",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 6
+          },
+          "ratingCount": 2,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lovely1 bedroomSuite Bath, Kitchen DTSac Airport",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 246.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $122.68",
+              "amount": 245.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/69c5ba1d-de34-4dfe-b4b6-044ded3c8e93.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/75219385-0c0f-4a01-a5a5-11c36597b1a3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/267b545b-94da-4aa0-bb71-ba248078d9a1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/02eadb82-0620-44d9-9733-00b7d9605346.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d3646a7a-1a4e-4d27-afeb-d718cb04b9c1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ac8775aa-b8c9-4bd3-9f29-0ba342dc84b7.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.67124,
+          "longitud": -121.52978
+        }
+      }
+    },
+    "576862790830646889": {
+      "room_id": 576862790830646889,
+      "latitude": 38.6628,
+      "longitude": -121.5285,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "38.658660_-121.542930_38.703370_-121.497610",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 03:37:57",
+      "raw_data": {
+        "room_id": 576862790830646889,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5f3044a6-6004-470a-b5f9-547ac473dbe9.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Susan",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5f3044a6-6004-470a-b5f9-547ac473dbe9.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "111 reviews on the listing",
+              "label": "Reviews",
+              "value": "111",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.96 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.96",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 4
+          },
+          "ratingCount": 111,
+          "ratingAverage": 4.96
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bright and spacious 2nd floor room - bedroom #2",
+        "title": "Room in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 237.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $78.74",
+              "amount": 236.0,
+              "currency": "$.22"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "111"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/fcccea43-f60c-461b-b55f-1cd5a207fa21.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9593c133-6aeb-40af-b8ef-5a24c2ba5bb3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-576862790830646889/original/92c97342-d322-4518-9587-ac08871393b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-576862790830646889/original/a3d59aaf-9a9a-4230-a4a1-6cc6df598496.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-576862790830646889/original/082deb4b-6230-48ff-b8f0-e78cc591a5b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/78261f55-633b-4adc-be52-d197456a4896.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.6628,
+          "longitud": -121.5285
+        }
+      }
+    }
+  }
+}

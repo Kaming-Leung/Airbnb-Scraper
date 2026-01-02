@@ -1,0 +1,256 @@
+{
+  "grid_id": 128,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 05:43:10",
+  "listings": {
+    "1201589900281067746": {
+      "room_id": 1201589900281067746,
+      "latitude": 42.3058,
+      "longitude": -83.4225,
+      "grid_id_assigned": null,
+      "grid_id_source": 128.0,
+      "bbox_id": "42.291190_-83.456960_42.316620_-83.421410",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 05:40:29",
+      "raw_data": {
+        "room_id": 1201589900281067746,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Westland Family Home w/ Deck & Fenced Yard",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 830.0,
+            "discount": 721.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $240.33",
+              "amount": 721.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.74,
+          "reviewCount": "39"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1201589900281067746/original/a8fd6387-913f-4658-9e2d-74356b023ebe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1201589900281067746/original/50a21e02-00a7-4769-a74e-0a1818175782.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1201589900281067746/original/3b441b1f-3b0b-4f00-87e7-cfaa21d3f2e2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1201589900281067746/original/65770d38-6230-4c3c-b9b0-af86ba689253.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1201589900281067746/original/294657e8-cd20-4e82-ab5a-894c9cd4ecb8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1201589900281067746/original/64a41afe-4554-443e-ad55-b08cf6d17656.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.3058,
+          "longitud": -83.4225
+        }
+      }
+    },
+    "1515156565590512226": {
+      "room_id": 1515156565590512226,
+      "latitude": 42.3063,
+      "longitude": -83.4407,
+      "grid_id_assigned": null,
+      "grid_id_source": 128.0,
+      "bbox_id": "42.291190_-83.456960_42.316620_-83.421410",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 05:40:46",
+      "raw_data": {
+        "room_id": 1515156565590512226,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Ground Level Private Unit With Separate Entrance",
+        "title": "Guest suite in Canton Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 257.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $85.59",
+              "amount": 256.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515156565590512226/original/99e026ee-d431-4199-93e3-69ff78fbbfce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515156565590512226/original/7eab837a-9686-41d4-9bf8-bf493ed72be7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515156565590512226/original/e2dc9f84-0489-48c0-8245-41e5067434e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515156565590512226/original/4b2f59cb-acb9-4db2-8c23-32abf402ee5c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515156565590512226/original/0ac03855-b393-47ba-84e3-f02ef00d4ee5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515156565590512226/original/8c338190-8b9c-460f-a84a-cd5e87971035.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.3063,
+          "longitud": -83.4407
+        }
+      }
+    }
+  }
+}

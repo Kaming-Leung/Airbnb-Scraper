@@ -1,0 +1,258 @@
+{
+  "grid_id": 142,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-28 03:30:11",
+  "listings": {
+    "1000768792694353803": {
+      "room_id": 1000768792694353803,
+      "latitude": 42.1632525266712,
+      "longitude": -82.95355829589505,
+      "grid_id_assigned": null,
+      "grid_id_source": 142.0,
+      "bbox_id": "42.152460_-82.967820_42.177390_-82.932850",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 03:27:14",
+      "raw_data": {
+        "room_id": 1000768792694353803,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "\"Dayra Farms\"",
+        "title": "Farm stay in Essex",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1311.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $262.04",
+              "amount": 1310.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/5ce6a918-4a3e-4b70-9435-8181b202561e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f4affa6f-fec2-479d-bc33-6bf7022aed38.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7519cef0-d1bd-4dab-a86d-a51f8acedd3a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/51412728-e52a-4d53-9564-25ee967fcc9d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c74bced1-462d-4c00-9f8a-b4ddd76c6919.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/189b3617-6198-4605-a3cb-e0b9c847340a.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1632525266712,
+          "longitud": -82.95355829589505
+        }
+      }
+    },
+    "18800985": {
+      "room_id": 18800985,
+      "latitude": 42.17503,
+      "longitude": -82.94459,
+      "grid_id_assigned": null,
+      "grid_id_source": 142.0,
+      "bbox_id": "42.152460_-82.967820_42.177390_-82.932850",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 03:27:25",
+      "raw_data": {
+        "room_id": 18800985,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "14th Homestead Farmhouse",
+        "title": "Home in Essex",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 449.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $149.46",
+              "amount": 448.0,
+              "currency": "$.39"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.77,
+          "reviewCount": "247"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e467686d-3fb2-4517-bfba-f0dffd7dbad1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e866f60c-1a70-4b38-b0fe-2ef062288918.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ac6e4706-ef8f-4ec2-8ffc-9853727e2d6e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b87e3a44-65b5-4b05-b715-a0c2f9d274fa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2d27d1ac-6743-445e-9be4-b165d5e9d473.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/78f2048f-bc45-4ab2-9bb2-1f8f47b6f58b.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.17503,
+          "longitud": -82.94459
+        }
+      }
+    }
+  }
+}

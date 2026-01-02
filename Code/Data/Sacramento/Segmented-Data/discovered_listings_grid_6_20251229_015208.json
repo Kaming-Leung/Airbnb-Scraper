@@ -1,0 +1,159 @@
+{
+  "grid_id": 6,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 01:52:08",
+  "listings": {
+    "17959325": {
+      "room_id": 17959325,
+      "latitude": 38.8761,
+      "longitude": -121.3207,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "38.837500_-121.361660_38.882210_-121.316340",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 01:49:41",
+      "raw_data": {
+        "room_id": 17959325,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/7f1b07da-ab39-471c-ab49-09cf9d51dc2b.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Steven",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7f1b07da-ab39-471c-ab49-09cf9d51dc2b.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "123 reviews on the listing",
+              "label": "Reviews",
+              "value": "123",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.97 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.97",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 9
+          },
+          "ratingCount": 123,
+          "ratingAverage": 4.97
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private Bedroom & Dedicated Bath (King Bed)",
+        "title": "Room in Lincoln",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 280.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $93.20",
+              "amount": 279.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "123"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/3c3203d7-5d66-4c47-a490-a9da7cc945fc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c87e4b79-1054-4c37-993b-073c2d45cadf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fefda43f-c19b-40ee-95e1-7b879df340bd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/56ed9b3b-3f26-4642-a80b-7c2581a52f39.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8b02141b-d4a4-4e85-88dc-d7d2db2e3ca2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/73bf0560-f552-4104-b6f6-cd37629facdb.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.8761,
+          "longitud": -121.3207
+        }
+      }
+    }
+  }
+}

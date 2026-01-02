@@ -1,0 +1,386 @@
+{
+  "grid_id": 8,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-21 04:03:18",
+  "listings": {
+    "52154957": {
+      "room_id": 52154957,
+      "latitude": 42.01695,
+      "longitude": -87.75452,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "41.994670_-87.767060_42.020000_-87.742350",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:03:13",
+      "raw_data": {
+        "room_id": 52154957,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy 2 bedroom house/w garage in Skokie",
+        "title": "Home in Skokie",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 685.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $342.36",
+              "amount": 684.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "115"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52154957/original/ed6b6ace-a1f6-444e-a9cd-028d2c634ace.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52154957/original/c19cfdfd-2d46-462f-ab28-dbc036c8c018.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52154957/original/f058da48-23cd-4fe3-a816-d13f6fadeffe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52154957/original/7eaf4433-8b2a-496b-967d-d58641faca0d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52154957/original/b8f88dcf-b5ff-43cf-9113-325eb496bea8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52154957/original/76dccf6f-4391-4f48-b320-cd2e93edf4aa.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.01695,
+          "longitud": -87.75452
+        }
+      }
+    },
+    "1022762284987758858": {
+      "room_id": 1022762284987758858,
+      "latitude": 42.00808,
+      "longitude": -87.75665,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "41.994670_-87.767060_42.020000_-87.742350",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:03:13",
+      "raw_data": {
+        "room_id": 1022762284987758858,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Casa 22 | Luxury Modern House for 6 | 3 Bed,2 Bath",
+        "title": "Home in Skokie",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 1125.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $562.03",
+              "amount": 1124.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "33"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAyMjc2MjI4NDk4Nzc1ODg1OA%3D%3D/original/10bb1904-2cb9-4d58-b2df-7bdcf6fa2900.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAyMjc2MjI4NDk4Nzc1ODg1OA%3D%3D/original/b226652a-691c-48b8-90bb-8225d2adab52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAyMjc2MjI4NDk4Nzc1ODg1OA%3D%3D/original/36401d51-b70a-4fe7-b7f8-e8b44ced9880.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAyMjc2MjI4NDk4Nzc1ODg1OA%3D%3D/original/9b02afec-929b-4a0e-bb65-e3c219beab9f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAyMjc2MjI4NDk4Nzc1ODg1OA%3D%3D/original/c48e4cca-ce07-4389-826d-5bd101684154.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAyMjc2MjI4NDk4Nzc1ODg1OA%3D%3D/original/9ed8edbc-3cea-4704-ab03-8086925fa834.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.00808,
+          "longitud": -87.75665
+        }
+      }
+    },
+    "1129897706582946167": {
+      "room_id": 1129897706582946167,
+      "latitude": 42.01883,
+      "longitude": -87.74894,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "41.994670_-87.767060_42.020000_-87.742350",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:03:13",
+      "raw_data": {
+        "room_id": 1129897706582946167,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Perfectly located apartment!",
+        "title": "Apartment in Skokie",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 350.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $174.60",
+              "amount": 349.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1129897706582946167/original/f8079ae9-832b-4159-abf2-fd5ab2bd67ad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1129897706582946167/original/a2ae2eb1-2105-4a02-80ac-b38b577953ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1129897706582946167/original/6e2679a8-c26b-4600-afc5-4e1c55e247f4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1129897706582946167/original/8ccdbfc6-6b99-4cd7-a629-cd1011075883.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1129897706582946167/original/668e7628-8da7-4c7b-991f-f5e365957fed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1129897706582946167/original/759c1f60-0183-40a0-8f45-628c1ee7a304.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.01883,
+          "longitud": -87.74894
+        }
+      }
+    }
+  }
+}

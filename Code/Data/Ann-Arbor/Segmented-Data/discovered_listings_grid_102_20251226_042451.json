@@ -1,0 +1,131 @@
+{
+  "grid_id": 102,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 04:24:51",
+  "listings": {
+    "942809536034920186": {
+      "room_id": 942809536034920186,
+      "latitude": 42.3391,
+      "longitude": -83.571,
+      "grid_id_assigned": null,
+      "grid_id_source": 102.0,
+      "bbox_id": "42.316620_-83.599160_42.342060_-83.563610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:21:57",
+      "raw_data": {
+        "room_id": 942809536034920186,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 13 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 13 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Wooded Acres Cottage with Firepit",
+        "title": "Guesthouse in Plymouth",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1199.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $239.65",
+              "amount": 1198.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "75"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQyODA5NTM2MDM0OTIwMTg2/original/4762fe22-3c47-4a73-acff-a117502a919c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-942809536034920186/original/cc57b4e4-8c11-45bd-932c-bc7c75fcda0a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQyODA5NTM2MDM0OTIwMTg2/original/986addca-ad88-4e2f-8380-9d8d52a772d0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-942809536034920186/original/714b184d-df75-4003-9188-1d0310f0f067.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQyODA5NTM2MDM0OTIwMTg2/original/39407260-a341-42ae-aa93-f67d85834a7f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQyODA5NTM2MDM0OTIwMTg2/original/1b96f3c6-79ec-4537-a667-bc6bf33fc300.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.3391,
+          "longitud": -83.571
+        }
+      }
+    }
+  }
+}

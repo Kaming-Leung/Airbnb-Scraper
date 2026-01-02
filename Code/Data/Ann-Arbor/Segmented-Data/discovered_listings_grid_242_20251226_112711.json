@@ -1,0 +1,146 @@
+{
+  "grid_id": 242,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 11:27:11",
+  "listings": {
+    "1391359541834328375": {
+      "room_id": 1391359541834328375,
+      "latitude": 42.18803525295347,
+      "longitude": -83.31418824504837,
+      "grid_id_assigned": null,
+      "grid_id_source": 242.0,
+      "bbox_id": "42.163990_-83.314760_42.189430_-83.279210",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 11:24:47",
+      "raw_data": {
+        "room_id": 1391359541834328375,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Charming 3-Bed Stay | Airport 10 Min, Pets OK",
+        "title": "Home in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 541.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $186.00",
+              "amount": 558.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Early bird discount",
+              "amount": -17.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 540.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1391359541834328375/original/70eab09e-7a50-4599-93ab-4ab23c2ba05e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1391359541834328375/original/30b8d2e9-72a5-48c7-851e-68a4dddeda8e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1391359541834328375/original/5ecb9b6b-ebbe-4fd0-bad1-063c5095fdd6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1391359541834328375/original/d4481ee4-7021-4731-800d-e5db8246984a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1391359541834328375/original/e4e21120-f9f5-4b5d-85ef-01e871126fae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1391359541834328375/original/3ebd62fb-4234-44f2-88c1-cb6917375e69.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.18803525295347,
+          "longitud": -83.31418824504837
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "grid_id": 99,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 06:31:40",
+  "listings": {
+    "618979515363883881": {
+      "room_id": 618979515363883881,
+      "latitude": 38.44887,
+      "longitude": -121.19084,
+      "grid_id_assigned": null,
+      "grid_id_source": 99.0,
+      "bbox_id": "38.435110_-121.225710_38.479820_-121.180390",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:28:46",
+      "raw_data": {
+        "room_id": 618979515363883881,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Villa Rental on 10 acres with pool",
+        "title": "Villa in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2853.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $570.59",
+              "amount": 2852.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.79,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-618979515363883881/original/88969f95-373d-4883-ba95-4535662307be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjE4OTc5NTE1MzYzODgzODgx/original/4917e122-ee0f-4c42-8c23-ba99c0571e40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjE4OTc5NTE1MzYzODgzODgx/original/979506bd-ddd3-4d03-948c-dffbc93041bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjE4OTc5NTE1MzYzODgzODgx/original/0cecd7ff-38e9-4773-832b-f642dbede956.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjE4OTc5NTE1MzYzODgzODgx/original/bf068b65-e21d-4f3f-b371-cc38c55ff36a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjE4OTc5NTE1MzYzODgzODgx/original/29b9b95a-7e60-4cfd-9c9c-243c4ffb0992.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.44887,
+          "longitud": -121.19084
+        }
+      }
+    }
+  }
+}

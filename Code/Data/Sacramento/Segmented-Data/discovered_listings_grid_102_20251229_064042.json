@@ -1,0 +1,131 @@
+{
+  "grid_id": 102,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 06:40:42",
+  "listings": {
+    "1385592810316727610": {
+      "room_id": 1385592810316727610,
+      "latitude": 38.4193,
+      "longitude": -121.5299,
+      "grid_id_assigned": null,
+      "grid_id_source": 102.0,
+      "bbox_id": "38.390400_-121.542930_38.435110_-121.497610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:37:47",
+      "raw_data": {
+        "room_id": 1385592810316727610,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Fire Pit & Yard Games: Inviting Clarksburg Cottage",
+        "title": "Cottage in Clarksburg",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1202.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $240.40",
+              "amount": 1202.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1385592810316727610/original/009b400f-47e1-49b8-a6e8-20bb1d669f8c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1385592810316727610/original/5781cf19-1a60-40b1-9726-78918d59a89f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1385592810316727610/original/c4908996-65f4-4000-af2e-2b4eb099910f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1385592810316727610/original/29e18456-726c-481f-a3b0-122900417cae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1385592810316727610/original/8093d949-0323-411b-af2a-07c422e40e02.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1385592810316727610/original/e7963211-101f-4648-ac2a-94a106332746.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.4193,
+          "longitud": -121.5299
+        }
+      }
+    }
+  }
+}

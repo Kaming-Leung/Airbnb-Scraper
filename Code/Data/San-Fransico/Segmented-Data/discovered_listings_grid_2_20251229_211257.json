@@ -1,0 +1,131 @@
+{
+  "grid_id": 2,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 21:12:57",
+  "listings": {
+    "49058232": {
+      "room_id": 49058232,
+      "latitude": 37.80594,
+      "longitude": -122.44864,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "37.800750_-122.481610_37.827540_-122.447830",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 21:10:02",
+      "raw_data": {
+        "room_id": 49058232,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 15 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 15 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Breathtaking Bay View!",
+        "title": "Home in Marina",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5301.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,060.15",
+              "amount": 5300.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "138"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49058232/original/1a9de28a-e8fe-4cfe-a68c-f3b869cd443f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49058232/original/de1cecbf-b86e-4414-8009-aba9f70a99c3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/43dc1a41-91f5-445c-829c-9e660851b19a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49058232/original/e75d1a59-e167-4147-9a33-96f18555c322.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49058232/original/05683520-4987-489f-bbdf-b88875111a60.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49058232/original/bda9a233-3859-49c2-8942-ae9137bc7e1c.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.80594,
+          "longitud": -122.44864
+        }
+      }
+    }
+  }
+}

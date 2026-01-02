@@ -1,0 +1,623 @@
+{
+  "grid_id": 109,
+  "total_listings": 5,
+  "discovery_timestamp": "2025-12-26 04:45:53",
+  "listings": {
+    "1563912781721538076": {
+      "room_id": 1563912781721538076,
+      "latitude": 42.32509,
+      "longitude": -83.32291,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "42.316620_-83.350310_42.342060_-83.314760",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:42:59",
+      "raw_data": {
+        "room_id": 1563912781721538076,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Garden City Getaway - 4 Bedroom, 3 Full Bathroom.",
+        "title": "Home in Garden City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1052.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $210.20",
+              "amount": 1051.0,
+              "currency": "$.02"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563912781721538076/original/a67471d8-ac8f-4d0d-ad18-f6ce56ad232d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563912781721538076/original/e297af81-0625-4b54-a500-03f6d309ee52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563912781721538076/original/2b7ffb62-2bf3-49f5-aac5-a48b24a08ea1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563912781721538076/original/c68340e7-d40c-4e5d-b43b-7a94c6eb5f52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563912781721538076/original/4c360c7f-666a-403d-b348-61ea8bfa2299.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563912781721538076/original/dca4f228-747b-41cc-baed-3c1a58ef2235.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.32509,
+          "longitud": -83.32291
+        }
+      }
+    },
+    "1381120661085781612": {
+      "room_id": 1381120661085781612,
+      "latitude": 42.32641973485487,
+      "longitude": -83.32115616867013,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "42.316620_-83.350310_42.342060_-83.314760",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:42:59",
+      "raw_data": {
+        "room_id": 1381120661085781612,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Stylish |3BDR |NearDTW&Downtown Detroit",
+        "title": "Home in Garden City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1117.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $223.40",
+              "amount": 1117.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4MTEyMDY2MTA4NTc4MTYxMg==/original/54245535-c9cc-4076-8296-2a2e8dbc5093.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4MTEyMDY2MTA4NTc4MTYxMg==/original/beb65a87-a8ce-478a-9ac1-e274583223d6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4MTEyMDY2MTA4NTc4MTYxMg==/original/eae8275a-cf5c-43b8-91d3-9860d8db75a5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4MTEyMDY2MTA4NTc4MTYxMg==/original/c0c02e26-c089-45d2-9208-1460ec8f5846.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4MTEyMDY2MTA4NTc4MTYxMg==/original/3094c2d2-9597-4b08-b5e6-8169f110029b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4MTEyMDY2MTA4NTc4MTYxMg==/original/fa75d074-7003-45d5-b142-742496c4f5eb.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.32641973485487,
+          "longitud": -83.32115616867013
+        }
+      }
+    },
+    "1390167221982426293": {
+      "room_id": 1390167221982426293,
+      "latitude": 42.32745,
+      "longitude": -83.34658,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "42.316620_-83.350310_42.342060_-83.314760",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:42:59",
+      "raw_data": {
+        "room_id": 1390167221982426293,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A peaceful getaway where you can enjoy your time",
+        "title": "Home in Garden City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1119.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $223.67",
+              "amount": 1118.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1390167221982426293/original/e33e85d1-8cbd-40f0-a6a8-d125d5996f73.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1390167221982426293/original/ae99fe45-2958-41a2-9106-c032078e392c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1390167221982426293/original/0178452e-4e26-4af8-80ac-f368d92e452f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1390167221982426293/original/aec065b4-b664-4c73-936d-3fb73eb545f3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1390167221982426293/original/a946afed-d711-4d90-a767-ff971ddbf381.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1390167221982426293/original/552107d0-04ae-427e-b1a0-309ff7c14f07.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.32745,
+          "longitud": -83.34658
+        }
+      }
+    },
+    "1009419771208391185": {
+      "room_id": 1009419771208391185,
+      "latitude": 42.33033,
+      "longitude": -83.3176,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "42.316620_-83.350310_42.342060_-83.314760",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 04:43:05",
+      "raw_data": {
+        "room_id": 1009419771208391185,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious cozy Home 15 min from DTW",
+        "title": "Home in Garden City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 440.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $219.68",
+              "amount": 439.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1009419771208391185/original/dc158834-e875-477f-b864-6e626b7ce5e2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1009419771208391185/original/65a7ffa7-e5da-4f1d-996b-07430ddde26c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1009419771208391185/original/faf6ba31-039c-42f9-8ddc-b93c80946dc4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1009419771208391185/original/44739b1e-69c0-4cd7-90c0-7813646e17c5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1009419771208391185/original/ee85b5fe-7cec-4529-a1d0-4c1ccba9a100.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1009419771208391185/original/11a6da50-8797-4692-84c9-9bfdfbac81e8.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.33033,
+          "longitud": -83.3176
+        }
+      }
+    },
+    "845842543803568164": {
+      "room_id": 845842543803568164,
+      "latitude": 42.32564,
+      "longitude": -83.3488,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "42.316620_-83.350310_42.342060_-83.314760",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 04:43:11",
+      "raw_data": {
+        "room_id": 845842543803568164,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy 1BR with kitchen",
+        "title": "Apartment in Garden City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 362.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $120.58",
+              "amount": 361.0,
+              "currency": "$.75"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-845842543803568164/original/5c1706b4-c6ea-45b7-9053-707d9d463561.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-845842543803568164/original/99e17b25-0cee-4caa-81b0-436b0a82e2ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-845842543803568164/original/0ddcd8f4-f806-4520-ac6e-e4b0fdcd4fe6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-845842543803568164/original/b7f965b5-dd90-4a66-a93e-48a9b10d8e43.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-845842543803568164/original/22482200-4d30-473b-986c-937ef8cb1b61.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-845842543803568164/original/f32941b6-a158-44c4-a1aa-d74710c3c4d9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.32564,
+          "longitud": -83.3488
+        }
+      }
+    }
+  }
+}

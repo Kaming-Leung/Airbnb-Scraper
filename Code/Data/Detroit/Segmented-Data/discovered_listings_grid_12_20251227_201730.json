@@ -1,0 +1,295 @@
+{
+  "grid_id": 12,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-27 20:17:30",
+  "listings": {
+    "9045710": {
+      "room_id": 9045710,
+      "latitude": 42.44054,
+      "longitude": -82.88137,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "42.426650_-82.897890_42.451580_-82.862930",
+      "pass_id": 1,
+      "discovered_at": "2025-12-27 20:14:42",
+      "raw_data": {
+        "room_id": 9045710,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/ba066a83-d645-49d8-a94d-50fb8ca5f070.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lillian",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ba066a83-d645-49d8-a94d-50fb8ca5f070.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "12 reviews on the listing",
+              "label": "Reviews",
+              "value": "12",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.92 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.92",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 9,
+            "months": 1
+          },
+          "ratingCount": 12,
+          "ratingAverage": 4.92
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Relax in this English country home",
+        "title": "Room in Grosse Pointe",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 297.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $148.36",
+              "amount": 296.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/09f80d7f-ff4b-43b4-9067-87a85f6f067b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4dae5200-35df-44a9-8b2e-91942f3a18cd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a9bbb3cf-de02-4160-aebc-c3f7ff6d9cbe.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e643ff6f-e1a3-4c05-bf6d-9d4734bc5142.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a8535c44-8f9a-4002-baf2-4856366839e5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/06b4a6b1-71b2-4a28-81b1-eb3840fc4a1d.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.44054,
+          "longitud": -82.88137
+        }
+      }
+    },
+    "15789307": {
+      "room_id": 15789307,
+      "latitude": 42.43851,
+      "longitude": -82.88022,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "42.426650_-82.897890_42.451580_-82.862930",
+      "pass_id": 1,
+      "discovered_at": "2025-12-27 20:14:42",
+      "raw_data": {
+        "room_id": 15789307,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/ba066a83-d645-49d8-a94d-50fb8ca5f070.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lillian",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ba066a83-d645-49d8-a94d-50fb8ca5f070.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 reviews on the listing",
+              "label": "Reviews",
+              "value": "2",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 9,
+            "months": 1
+          },
+          "ratingCount": 2,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Relaxing English country home",
+        "title": "Room in Grosse Pointe Shores",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 297.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $148.36",
+              "amount": 296.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/c7cc2517-994e-4a36-8201-9f1ef70112af.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6e4ce17f-3817-443f-8bed-356195b8e352.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6af07eca-4815-4f0c-a252-8ae0913fb98e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/46d02cd1-4af8-4416-82e1-532f6814f632.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f4a7f01a-ab19-410d-acc5-5c1fdaab955b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/09d9f2d5-10f1-44ed-a5d5-aaa067d694d9.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.43851,
+          "longitud": -82.88022
+        }
+      }
+    }
+  }
+}

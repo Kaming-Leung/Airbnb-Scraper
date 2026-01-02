@@ -1,0 +1,530 @@
+{
+  "grid_id": 195,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-26 09:04:49",
+  "listings": {
+    "1355850798310989207": {
+      "room_id": 1355850798310989207,
+      "latitude": 42.227468395824225,
+      "longitude": -83.40352325472587,
+      "grid_id_assigned": null,
+      "grid_id_source": 195.0,
+      "bbox_id": "42.214870_-83.421410_42.240310_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 09:01:55",
+      "raw_data": {
+        "room_id": 1355850798310989207,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Detroit Airport Home!",
+        "title": "Home in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2254.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $450.76",
+              "amount": 2253.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1355850798310989207/original/d751b0ea-af07-432b-96f9-72ca7f7286a1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1355850798310989207/original/861b966a-6502-4246-9be2-f980618bd340.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1355850798310989207/original/a2c8681d-63a0-4dd7-830b-f12404601431.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1355850798310989207/original/f36d37ab-fffc-489d-8a11-9ad5653f370f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1355850798310989207/original/ff253acf-d92e-466e-9a9f-b9ff3bbcc398.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1355850798310989207/original/6d67bdb2-d03b-4458-9448-951608611859.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.227468395824225,
+          "longitud": -83.40352325472587
+        }
+      }
+    },
+    "1529966502704370347": {
+      "room_id": 1529966502704370347,
+      "latitude": 42.23080631168973,
+      "longitude": -83.39761320302551,
+      "grid_id_assigned": null,
+      "grid_id_source": 195.0,
+      "bbox_id": "42.214870_-83.421410_42.240310_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 09:01:55",
+      "raw_data": {
+        "room_id": 1529966502704370347,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Stylish Home - 5 miles from Detroit Airport!",
+        "title": "Home in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2254.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $450.76",
+              "amount": 2253.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/48614f1a-148c-4f0b-8447-ad1e0060309a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/2b8fbc13-d9d4-43a7-a185-c3f7101e0b7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/ec3de2df-9e2b-45ac-b2fb-003ab4ad4c10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1529966502704370347/original/e1c27390-716b-4d18-8694-0d52a0fa21b5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/e02df543-b63e-4594-8a03-452e8a48aefa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/45433398-cd2d-4b16-9cc9-1079532b5304.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.23080631168973,
+          "longitud": -83.39761320302551
+        }
+      }
+    },
+    "1467604981695096479": {
+      "room_id": 1467604981695096479,
+      "latitude": 42.23093863955188,
+      "longitude": -83.3979369629121,
+      "grid_id_assigned": null,
+      "grid_id_source": 195.0,
+      "bbox_id": "42.214870_-83.421410_42.240310_-83.385860",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 09:02:06",
+      "raw_data": {
+        "room_id": 1467604981695096479,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/c28e74a6-4886-44c9-970f-5225ce932256.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Cory",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c28e74a6-4886-44c9-970f-5225ce932256.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "11 reviews on the listing",
+              "label": "Reviews",
+              "value": "11",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 year of hosting",
+              "label": "Year hosting",
+              "value": "1",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 5
+          },
+          "ratingCount": 11,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Room 5 Miles From Detroit Airport!",
+        "title": "Room in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 204.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $67.71",
+              "amount": 203.0,
+              "currency": "$.13"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467604981695096479/original/0ab4ccde-eab7-4f21-ae17-cca1b8bf0f1f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/ec3de2df-9e2b-45ac-b2fb-003ab4ad4c10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/48614f1a-148c-4f0b-8447-ad1e0060309a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/2b8fbc13-d9d4-43a7-a185-c3f7101e0b7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/e02df543-b63e-4594-8a03-452e8a48aefa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/45433398-cd2d-4b16-9cc9-1079532b5304.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.23093863955188,
+          "longitud": -83.3979369629121
+        }
+      }
+    },
+    "1515436976415533280": {
+      "room_id": 1515436976415533280,
+      "latitude": 42.2293611038768,
+      "longitude": -83.39804820974433,
+      "grid_id_assigned": null,
+      "grid_id_source": 195.0,
+      "bbox_id": "42.214870_-83.421410_42.240310_-83.385860",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 09:02:24",
+      "raw_data": {
+        "room_id": 1515436976415533280,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Detroit Metro Airport Room with Private Bathroom!",
+        "title": "Place to stay in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 223.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $74.18",
+              "amount": 222.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515436976415533280/original/f596892a-b5eb-4961-b7eb-560769a5f135.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/48614f1a-148c-4f0b-8447-ad1e0060309a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/2b8fbc13-d9d4-43a7-a185-c3f7101e0b7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/ec3de2df-9e2b-45ac-b2fb-003ab4ad4c10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/e02df543-b63e-4594-8a03-452e8a48aefa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1462534500699005476/original/45433398-cd2d-4b16-9cc9-1079532b5304.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2293611038768,
+          "longitud": -83.39804820974433
+        }
+      }
+    }
+  }
+}

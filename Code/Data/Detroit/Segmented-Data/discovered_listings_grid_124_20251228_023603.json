@@ -1,0 +1,736 @@
+{
+  "grid_id": 124,
+  "total_listings": 6,
+  "discovery_timestamp": "2025-12-28 02:36:03",
+  "listings": {
+    "699097429935225994": {
+      "room_id": 699097429935225994,
+      "latitude": 42.20155,
+      "longitude": -83.15036,
+      "grid_id_assigned": null,
+      "grid_id_source": 124.0,
+      "bbox_id": "42.177390_-83.177590_42.202310_-83.142620",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 02:33:07",
+      "raw_data": {
+        "room_id": 699097429935225994,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury loft in the heart of Downtown Wyandotte",
+        "title": "Condo in Wyandotte",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1336.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $267.04",
+              "amount": 1335.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "87"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-699097429935225994/original/8fda8d7b-0993-4b26-8ca1-4d535c07098f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-699097429935225994/original/81538e0c-dfd2-460b-aceb-89a1543da730.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-699097429935225994/original/c86f5809-276a-4234-8b7c-d2e05dc7ff75.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-699097429935225994/original/e370babe-d690-4763-baf0-1f0321cbc8b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-699097429935225994/original/2b644f83-df6d-48c8-9336-9e4892fbeda1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-699097429935225994/original/463c6518-a71e-496d-bc15-6a4070a467e0.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.20155,
+          "longitud": -83.15036
+        }
+      }
+    },
+    "918307022819450409": {
+      "room_id": 918307022819450409,
+      "latitude": 42.19333,
+      "longitude": -83.17339,
+      "grid_id_assigned": null,
+      "grid_id_source": 124.0,
+      "bbox_id": "42.177390_-83.177590_42.202310_-83.142620",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 02:33:13",
+      "raw_data": {
+        "room_id": 918307022819450409,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "SuperHost| Cozy 2BR| Winter Escape Near DTW| Ranch",
+        "title": "Home in Wyandotte",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 403.0,
+            "discount": 303.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $151.21",
+              "amount": 302.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "187"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918307022819450409/original/5e87d87d-cca1-4a51-a719-dc73570fdef9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-918307022819450409/original/2d673836-5fdd-4456-ad15-9c1875817f6e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918307022819450409/original/39d15dde-f2e0-419d-8089-dff2e91abb76.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-918307022819450409/original/99c68ec4-871b-4c95-bc49-45672a826dda.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918307022819450409/original/87050c56-172b-48dd-a572-1a7ef3ec5f12.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918307022819450409/original/46ebe673-e331-42ae-9ea3-15682d3c8eec.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.19333,
+          "longitud": -83.17339
+        }
+      }
+    },
+    "1465176995806135370": {
+      "room_id": 1465176995806135370,
+      "latitude": 42.19678,
+      "longitude": -83.15456,
+      "grid_id_assigned": null,
+      "grid_id_source": 124.0,
+      "bbox_id": "42.177390_-83.177590_42.202310_-83.142620",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 02:33:13",
+      "raw_data": {
+        "room_id": 1465176995806135370,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Winter Getaway| 2 Queen Beds| Near DTW| SuperHost",
+        "title": "Home in Wyandotte",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 358.0,
+            "discount": 303.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $151.21",
+              "amount": 302.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ2NTE3Njk5NTgwNjEzNTM3MA==/original/eb160953-40a6-45ce-87f1-40ddae830c89.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ2NTE3Njk5NTgwNjEzNTM3MA==/original/b78c7205-729d-4d8a-af80-0a771bf4061d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ2NTE3Njk5NTgwNjEzNTM3MA==/original/56fd91c4-2914-4616-9256-bd923f4f82b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ2NTE3Njk5NTgwNjEzNTM3MA==/original/4486bb5d-ee26-4b08-8de7-ff2fe224ba62.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ2NTE3Njk5NTgwNjEzNTM3MA==/original/262cd6ef-ee58-40f8-91e0-25e939e6239d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ2NTE3Njk5NTgwNjEzNTM3MA==/original/6ac800cf-603a-43e7-9b80-99bf619ce463.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.19678,
+          "longitud": -83.15456
+        }
+      }
+    },
+    "948143461966441335": {
+      "room_id": 948143461966441335,
+      "latitude": 42.19647,
+      "longitude": -83.16591,
+      "grid_id_assigned": null,
+      "grid_id_source": 124.0,
+      "bbox_id": "42.177390_-83.177590_42.202310_-83.142620",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 02:33:20",
+      "raw_data": {
+        "room_id": 948143461966441335,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2 Bd| Cozy Wyandotte Retreat Near Detroit River",
+        "title": "Home in Wyandotte",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 500.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $166.42",
+              "amount": 499.0,
+              "currency": "$.26"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ4MTQzNDYxOTY2NDQxMzM1/original/a410783a-fc13-4eae-bb81-1d6b4e677c14.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ4MTQzNDYxOTY2NDQxMzM1/original/f68e4e42-cb91-448d-a336-76ba69b71e4c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ4MTQzNDYxOTY2NDQxMzM1/original/73fa96fe-b22e-4454-8082-5284a02376d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ4MTQzNDYxOTY2NDQxMzM1/original/cfae1552-8406-42c8-a776-074b22d910dc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ4MTQzNDYxOTY2NDQxMzM1/original/6a4c4d42-9bc9-4dd6-827a-409a89fabbee.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ4MTQzNDYxOTY2NDQxMzM1/original/08a3acbf-a798-475f-84cd-fd16fd2fc370.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.19647,
+          "longitud": -83.16591
+        }
+      }
+    },
+    "664545031519363074": {
+      "room_id": 664545031519363074,
+      "latitude": 42.20095,
+      "longitude": -83.16612,
+      "grid_id_assigned": null,
+      "grid_id_source": 124.0,
+      "bbox_id": "42.177390_-83.177590_42.202310_-83.142620",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 02:33:20",
+      "raw_data": {
+        "room_id": 664545031519363074,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Duplex Near Quiet Downtown",
+        "title": "Condo in Wyandotte",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 344.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $114.38",
+              "amount": 343.0,
+              "currency": "$.15"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "65"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-664545031519363074/original/00ff6ec5-849e-4677-bf5a-3c3b2a08f7d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-664545031519363074/original/b6420bb8-412a-4e90-8f05-8a28ebdc033b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-664545031519363074/original/dcb0444d-14fe-438f-a8b0-8ee09f89134f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-664545031519363074/original/145a23b7-5a0c-4583-9760-fceac087e7dc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-664545031519363074/original/f35794d3-b0cc-4570-bbac-2bab8bab6dfe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-664545031519363074/original/aaee7229-5b71-448a-9fd7-7b8e5bb8f51c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.20095,
+          "longitud": -83.16612
+        }
+      }
+    },
+    "1222641813918619927": {
+      "room_id": 1222641813918619927,
+      "latitude": 42.1887,
+      "longitude": -83.1681,
+      "grid_id_assigned": null,
+      "grid_id_source": 124.0,
+      "bbox_id": "42.177390_-83.177590_42.202310_-83.142620",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 02:33:20",
+      "raw_data": {
+        "room_id": 1222641813918619927,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Gated Wyandotte 1bd/1ba Unit",
+        "title": "Apartment in Wyandotte",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 309.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $102.71",
+              "amount": 308.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "20"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1222641813918619927/original/4688d2ff-550f-4069-b921-e2737941c14d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1222641813918619927/original/1737fe8c-dadb-4626-94f4-aa4f373548cc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1222641813918619927/original/909c065e-4d59-4574-86c3-aa3aba2e02e7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1222641813918619927/original/66f74916-ef1d-4d4e-bac3-d442fc053361.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1222641813918619927/original/9ddca7ac-5fc9-4e64-9947-fbafbdc01aa4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1222641813918619927/original/79907558-6028-48c0-bc7b-ded5424c8752.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1887,
+          "longitud": -83.1681
+        }
+      }
+    }
+  }
+}

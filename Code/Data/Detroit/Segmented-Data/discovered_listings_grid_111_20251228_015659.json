@@ -1,0 +1,159 @@
+{
+  "grid_id": 111,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 01:56:59",
+  "listings": {
+    "53869548": {
+      "room_id": 53869548,
+      "latitude": 42.21701,
+      "longitude": -83.19248,
+      "grid_id_assigned": null,
+      "grid_id_source": 111.0,
+      "bbox_id": "42.202310_-83.212550_42.227240_-83.177590",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 01:54:18",
+      "raw_data": {
+        "room_id": 53869548,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/0c172c88-dbaf-41cb-9676-79860f359187.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Isabel",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/0c172c88-dbaf-41cb-9676-79860f359187.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "13 reviews on the listing",
+              "label": "Reviews",
+              "value": "13",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 3
+          },
+          "ratingCount": 13,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private Suite in a safe neighborhood hosting women",
+        "title": "Room in Southgate",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 229.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $76.08",
+              "amount": 228.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/fe5a3b01-0622-4508-a523-0c37692c362a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/515de594-c51f-415c-81b6-d3acbe65b296.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4f431698-8ea6-4e49-9d55-0756ca50a403.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6f0ab38d-99d0-4241-bc2b-37346f003fc6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a91f3db6-0c2d-49d0-9a95-650347e043a8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b362485b-2c8b-40ae-bf7e-f64e7e175c5f.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.21701,
+          "longitud": -83.19248
+        }
+      }
+    }
+  }
+}

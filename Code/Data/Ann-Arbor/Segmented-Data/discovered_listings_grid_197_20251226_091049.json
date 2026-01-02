@@ -1,0 +1,130 @@
+{
+  "grid_id": 197,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 09:10:49",
+  "listings": {
+    "801250395159438609": {
+      "room_id": 801250395159438609,
+      "latitude": 42.2247,
+      "longitude": -83.3176,
+      "grid_id_assigned": null,
+      "grid_id_source": 197.0,
+      "bbox_id": "42.214870_-83.350310_42.240310_-83.314760",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 09:08:07",
+      "raw_data": {
+        "room_id": 801250395159438609,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "#1Tranquility & minutes from DTW",
+        "title": "Guest suite in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 408.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $135.84",
+              "amount": 407.0,
+              "currency": "$.51"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "20"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/8ce0432d-7b84-4052-86f1-7fdd82d592a5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/28bdcd02-f75f-43db-9453-3a0f3ad8a6cf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2deaef08-a45b-4676-8c6e-d8818ff6f300.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7c891a08-3566-49a1-a006-e64476ec18b0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3777092d-c51e-4383-99db-b9a32de90b12.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4876356c-f3ee-4527-8042-835583a1b6f5.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2247,
+          "longitud": -83.3176
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "grid_id": 2,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-31 23:54:41",
+  "listings": {
+    "1348136604251102478": {
+      "room_id": 1348136604251102478,
+      "latitude": 37.45904663906407,
+      "longitude": -122.12380597838066,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "37.451940_-122.124750_37.478370_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 23:51:47",
+      "raw_data": {
+        "room_id": 1348136604251102478,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "NEW! Modern Escape w Private Views & Pool Table AC",
+        "title": "Home in East Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2248.0,
+            "discount": 1849.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $369.80",
+              "amount": 1849.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "26"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1348136604251102478/original/0ea2cc18-7f9e-4965-b5a0-2423868e5cb5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0ODEzNjYwNDI1MTEwMjQ3OA==/original/1f25d1d9-7879-4092-b01f-eeb719b36526.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0ODEzNjYwNDI1MTEwMjQ3OA==/original/f0ccf749-1c7b-40dc-925b-97c0b03cf4bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1348136604251102478/original/6116fed1-895b-4704-b241-8011f1f36944.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1348136604251102478/original/befe965c-687f-47b6-bf87-5a94b90fdcf4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1348136604251102478/original/e2f9bc0a-0c2e-46a0-afe4-db56c8f7c224.png"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.45904663906407,
+          "longitud": -122.12380597838066
+        }
+      }
+    },
+    "22512525": {
+      "room_id": 22512525,
+      "latitude": 37.45374,
+      "longitude": -122.12436,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "37.451940_-122.124750_37.478370_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 23:51:47",
+      "raw_data": {
+        "room_id": 22512525,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Mardi Gras Magic Private Suite",
+        "title": "Place to stay in East Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1350.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $270.00",
+              "amount": 1350.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22512525/original/66224493-5f03-4bc0-a538-75769b95ef68.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22512525/original/2e22f6fa-9ad8-4cd6-9445-4476a2989c2e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22512525/original/d7e916f3-9d80-4131-b2da-c9e7ff76897d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22512525/original/34e76f64-57e7-464c-a414-0dd5b54a16b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22512525/original/6a09d22a-621c-4e74-b81b-0322ae0a839c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-22512525/original/7ba67027-5892-4a8b-a5b0-d073d654a80a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.45374,
+          "longitud": -122.12436
+        }
+      }
+    }
+  }
+}

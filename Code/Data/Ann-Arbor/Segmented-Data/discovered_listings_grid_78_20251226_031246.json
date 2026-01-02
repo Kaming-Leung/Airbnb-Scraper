@@ -1,0 +1,132 @@
+{
+  "grid_id": 78,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 03:12:46",
+  "listings": {
+    "797902332722794269": {
+      "room_id": 797902332722794269,
+      "latitude": 42.36691,
+      "longitude": -83.6684,
+      "grid_id_assigned": null,
+      "grid_id_source": 78.0,
+      "bbox_id": "42.342060_-83.670250_42.367500_-83.634710",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 03:09:51",
+      "raw_data": {
+        "room_id": 797902332722794269,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Three Bees Farm House Stay",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2098.0,
+            "discount": 1798.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $359.47",
+              "amount": 1797.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "138"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Nzk3OTAyMzMyNzIyNzk0MjY5/original/6a93f4af-2171-42a4-91ad-b471863d4e34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Nzk3OTAyMzMyNzIyNzk0MjY5/original/fb0af15c-4504-4657-bde2-8c3a9827160f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-797902332722794269/original/7859a4c3-36d0-45e8-b150-a7bfb94d9294.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-797902332722794269/original/3bb291a6-d675-48b1-9eea-f4ddaa164688.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-797902332722794269/original/e2aca549-55ba-43e8-a5ac-fa56f352828b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Nzk3OTAyMzMyNzIyNzk0MjY5/original/4d4ac65e-efb6-42a8-a743-9270799c6aa8.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.36691,
+          "longitud": -83.6684
+        }
+      }
+    }
+  }
+}

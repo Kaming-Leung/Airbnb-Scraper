@@ -1,0 +1,879 @@
+{
+  "grid_id": 9,
+  "total_listings": 7,
+  "discovery_timestamp": "2026-01-01 16:11:34",
+  "listings": {
+    "997049980415700216": {
+      "room_id": 997049980415700216,
+      "latitude": 37.87525,
+      "longitude": -122.05122,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:08:40",
+      "raw_data": {
+        "room_id": 997049980415700216,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire home in Alamo, CA",
+        "title": "Home in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2608.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $521.52",
+              "amount": 2607.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-997049980415700216/original/caf8c1af-ca2d-4047-9fd1-849b2664f1fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-997049980415700216/original/b0bb5d1f-4904-4484-a379-f0deda5d5c45.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-997049980415700216/original/3d945017-12d9-4a5d-8d71-836924119824.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-997049980415700216/original/ea932d44-8307-46ed-90f6-5248ed550373.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-997049980415700216/original/78572da6-a1a7-4827-9ee5-cd38de42b14a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-997049980415700216/original/6d790c1c-2d43-4385-a1ff-b2f9b3065db6.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.87525,
+          "longitud": -122.05122
+        }
+      }
+    },
+    "1429682048408416113": {
+      "room_id": 1429682048408416113,
+      "latitude": 37.86960340153015,
+      "longitude": -122.0571355778116,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:08:40",
+      "raw_data": {
+        "room_id": 1429682048408416113,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 15 – 22",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 15 – 22",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "An oasis among the trees.",
+        "title": "Home in Walnut Creek",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 3354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $501.12",
+              "amount": 3507.0,
+              "currency": "$.83"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -154.0,
+              "currency": "$.65"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 3353.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1429682048408416113/original/d6eb3c03-f11d-427a-9b96-92eae91ed04b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1429682048408416113/original/6f5e251b-467d-4832-852f-bed2a489d539.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1429682048408416113/original/82d0ddf0-836a-407c-bec7-aa82f4c2b1d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1429682048408416113/original/6acf9e8f-7273-4d97-a861-786174a40902.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1429682048408416113/original/b77b8011-1edf-4b33-89e4-20fd28b83982.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1429682048408416113/original/d000a8f2-d556-45cd-b086-0da1529609d0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.86960340153015,
+          "longitud": -122.0571355778116
+        }
+      }
+    },
+    "1237269390410987095": {
+      "room_id": 1237269390410987095,
+      "latitude": 37.86784,
+      "longitude": -122.0556,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:08:40",
+      "raw_data": {
+        "room_id": 1237269390410987095,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A house among the trees",
+        "title": "Home in Walnut Creek",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1444.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $288.72",
+              "amount": 1443.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237269390410987095/original/745988f2-06f0-4af3-9df8-087987efada6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237269390410987095/original/af2b7b32-9e06-4366-a38b-1df33a1355d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237269390410987095/original/011e65cc-9fce-4560-95b9-3a2f8b1b3afc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237269390410987095/original/e622310f-b1ec-4e2e-8eab-6360f897c81d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237269390410987095/original/02d05f2a-bd9e-4030-b4ef-339a985582bd.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.86784,
+          "longitud": -122.0556
+        }
+      }
+    },
+    "782867161041869558": {
+      "room_id": 782867161041869558,
+      "latitude": 37.87278,
+      "longitude": -122.03265,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 16:08:46",
+      "raw_data": {
+        "room_id": 782867161041869558,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury studio in Walnut Creek",
+        "title": "Home in Walnut Creek",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $176.88",
+              "amount": 353.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-782867161041869558/original/fd59056f-6fbd-43e5-b9eb-97df759d7abb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-782867161041869558/original/98641cf5-ad91-494c-b3e0-bd5011c16f0e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-782867161041869558/original/9375b3c5-6e85-4788-8647-5d97381a9164.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-782867161041869558/original/cc07c2a0-19c1-4547-a13a-40252015ca58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-782867161041869558/original/837becd8-a8a7-4962-af51-c63197461ad0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.87278,
+          "longitud": -122.03265
+        }
+      }
+    },
+    "16406302": {
+      "room_id": 16406302,
+      "latitude": 37.87789,
+      "longitude": -122.06014,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 16:09:04",
+      "raw_data": {
+        "room_id": 16406302,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Apt 2 at Timber Bridge, Tice Valley, Walnut Creek",
+        "title": "Apartment in Walnut Creek",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 411.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $205.41",
+              "amount": 410.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "197"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cc351eee-fce4-4aa4-87db-f093bf2c2fc2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-16406302/original/0afa73db-7844-4f3d-9d27-532a9e8cb0ca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-16406302/original/a606e636-93c1-4e20-9628-5be5d9d09495.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-16406302/original/f1b6c242-d1ae-4658-b90c-13be77beed1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-16406302/original/affb0639-a5a6-481f-bce3-c58e7161c828.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-16406302/original/d6502a15-ace5-4407-89f0-f2f5ccccdd1f.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.87789,
+          "longitud": -122.06014
+        }
+      }
+    },
+    "15744846": {
+      "room_id": 15744846,
+      "latitude": 37.8747,
+      "longitude": -122.05692,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 16:09:10",
+      "raw_data": {
+        "room_id": 15744846,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private guest suite - Clean and Quaint",
+        "title": "Guest suite in Walnut Creek",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 270.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $89.77",
+              "amount": 269.0,
+              "currency": "$.32"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "380"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b7999429-d24b-46a1-a30d-e873644c4f7a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/84fe3b03-db7a-4993-85df-fd8611cb3c0c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d8d24b1c-bb69-44a2-aa33-ef5844cff67e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/21812b7f-625e-4fc9-aab2-b880cb2ac245.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ed898c25-dc66-4375-a978-94925ec17c95.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53d64a22-28cb-4b5b-8ef8-c788f754c407.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.8747,
+          "longitud": -122.05692
+        }
+      }
+    },
+    "1301450022504175351": {
+      "room_id": 1301450022504175351,
+      "latitude": 37.86811716265216,
+      "longitude": -122.04637004254504,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.851500_-122.066110_37.877960_-122.032330",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 16:09:10",
+      "raw_data": {
+        "room_id": 1301450022504175351,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Stylish Studio in Alamo",
+        "title": "Guest suite in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 349.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $116.02",
+              "amount": 348.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "52"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301450022504175351/original/f0e738ba-7663-4fa0-8440-080114f2ac14.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301450022504175351/original/114ff80e-c357-441b-bd30-055e5fbbaaf2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301450022504175351/original/8ef8d428-3a60-4ab8-ba3a-91a4909c7ad7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301450022504175351/original/b8691fe3-9ae2-4519-a7df-256b58e127f4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301450022504175351/original/01935712-625f-4fb3-8902-abe0404efd3a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301450022504175351/original/d4040d2f-fa7d-44cb-884e-e40aec322cd6.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.86811716265216,
+          "longitud": -122.04637004254504
+        }
+      }
+    }
+  }
+}

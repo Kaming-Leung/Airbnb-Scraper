@@ -1,0 +1,239 @@
+{
+  "grid_id": 76,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 19:32:49",
+  "listings": {
+    "569755413620417716": {
+      "room_id": 569755413620417716,
+      "latitude": 37.67935,
+      "longitude": -122.15322,
+      "grid_id_assigned": null,
+      "grid_id_source": 76.0,
+      "bbox_id": "37.666270_-122.167440_37.692730_-122.133660",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 19:30:01",
+      "raw_data": {
+        "room_id": 569755413620417716,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Romantic Tiny -House Getaway",
+        "title": "Guesthouse in San Leandro",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 263.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $131.24",
+              "amount": 262.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-569755413620417716/original/353edb19-6f1e-4742-a32c-32ae147bcc78.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9efc10f0-05cf-45bd-b801-d690e2388a06.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-569755413620417716/original/ddae852e-706f-4c95-b2aa-5cbf93d6a93e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-569755413620417716/original/8f855da4-5877-496b-9bf6-60df726bec11.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d8700ac5-4adc-4df1-88d8-d95b03b000f6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8d7b7831-68bc-4236-8925-1742f0fdf0c7.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.67935,
+          "longitud": -122.15322
+        }
+      }
+    },
+    "1282085542387450841": {
+      "room_id": 1282085542387450841,
+      "latitude": 37.691469201491714,
+      "longitude": -122.14850549920328,
+      "grid_id_assigned": null,
+      "grid_id_source": 76.0,
+      "bbox_id": "37.666270_-122.167440_37.692730_-122.133660",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 19:30:25",
+      "raw_data": {
+        "room_id": 1282085542387450841,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy & Comfy studio w/Free Laundry",
+        "title": "Guesthouse in San Leandro",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 265.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $88.25",
+              "amount": 264.0,
+              "currency": "$.75"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "43"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1282085542387450841/original/6938874e-3ffd-4df9-90f3-42f45e252235.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1282085542387450841/original/8e69878e-bd38-4eab-a7ed-d68a2b1393c0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1282085542387450841/original/69af481d-b006-46ef-b099-d08104b1938e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1282085542387450841/original/e023653c-92ff-4465-85e2-2daaf35ab10e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1282085542387450841/original/a7ecb574-8fd5-45ed-ab6b-837754e571cb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1282085542387450841/original/b955ceba-4659-4d01-bafc-164222149994.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.691469201491714,
+          "longitud": -122.14850549920328
+        }
+      }
+    }
+  }
+}

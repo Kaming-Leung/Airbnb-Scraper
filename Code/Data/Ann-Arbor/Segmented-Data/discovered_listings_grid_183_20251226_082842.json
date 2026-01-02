@@ -1,0 +1,131 @@
+{
+  "grid_id": 183,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 08:28:42",
+  "listings": {
+    "769764011647106034": {
+      "room_id": 769764011647106034,
+      "latitude": 42.2268,
+      "longitude": -83.8338,
+      "grid_id_assigned": null,
+      "grid_id_source": 183.0,
+      "bbox_id": "42.214870_-83.848000_42.240310_-83.812450",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 08:25:48",
+      "raw_data": {
+        "room_id": 769764011647106034,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ann Arbor’s  Countryside  Dome",
+        "title": "Dome in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1535.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $306.98",
+              "amount": 1534.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "119"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-769764011647106034/original/882d2473-f314-4fe2-8b82-9bad1d89fab3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-769764011647106034/original/fc150894-576e-487a-94f2-09920cc98dca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-769764011647106034/original/29ead658-aa0d-4774-8eab-92d72e502273.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-769764011647106034/original/8024f7c4-4141-476e-850b-ff577112233e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-769764011647106034/original/f3a27a2d-3e0e-48a8-aba2-f1eece73fa4a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-769764011647106034/original/bac5fe39-c6f9-406e-9fb7-e39807cad441.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2268,
+          "longitud": -83.8338
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 137,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 03:15:08",
+  "listings": {
+    "1516286231783591246": {
+      "room_id": 1516286231783591246,
+      "latitude": 42.1531,
+      "longitude": -83.1086,
+      "grid_id_assigned": null,
+      "grid_id_source": 137.0,
+      "bbox_id": "42.152460_-83.142620_42.177390_-83.107660",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 03:12:13",
+      "raw_data": {
+        "room_id": 1516286231783591246,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Winter Getaway-River Ice View+Free Wine + Firwood",
+        "title": "Home in Amherstburg",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1105.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $220.82",
+              "amount": 1104.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516286231783591246/original/9e296018-c7f0-48d5-aef5-69f51f88e208.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516286231783591246/original/360e6cb6-a57f-4437-a8b8-b08f362e936f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516286231783591246/original/087706b6-048e-497d-a6ae-35c979874559.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516286231783591246/original/0a28ce7e-dd13-4a21-ae4f-df19071842a7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516286231783591246/original/cdda1343-8a63-4194-a51b-b8e162d2acbd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516286231783591246/original/a4f3ecff-3e8e-449b-9f7f-275c12b49198.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1531,
+          "longitud": -83.1086
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "grid_id": 82,
+  "total_listings": 5,
+  "discovery_timestamp": "2025-12-28 00:29:42",
+  "listings": {
+    "1552885864069648221": {
+      "room_id": 1552885864069648221,
+      "latitude": 42.29272,
+      "longitude": -82.96003,
+      "grid_id_assigned": null,
+      "grid_id_source": 82.0,
+      "bbox_id": "42.277090_-82.967820_42.302020_-82.932850",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 00:26:53",
+      "raw_data": {
+        "room_id": 1552885864069648221,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bright 2BR Home Near Airport & Shops",
+        "title": "Home in Windsor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 314.0,
+            "discount": 270.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $134.86",
+              "amount": 269.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1552885864069648221/original/992cb9e4-b929-4658-8bed-f4d0b4d59c49.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1552885864069648221/original/2a79ddb7-9646-4b54-a8f2-05b57e34728f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1552885864069648221/original/3850bc9c-5359-44b0-8084-69547086943e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1552885864069648221/original/939480d1-afd5-48c2-9d85-f0f312b81a6a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1552885864069648221/original/3ab4a787-52ed-44ad-a3d6-9300555183f0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1552885864069648221/original/410b894f-7e08-4092-968a-3ab6cf4827da.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29272,
+          "longitud": -82.96003
+        }
+      }
+    },
+    "51846880": {
+      "room_id": 51846880,
+      "latitude": 42.29981,
+      "longitude": -82.9672,
+      "grid_id_assigned": null,
+      "grid_id_source": 82.0,
+      "bbox_id": "42.277090_-82.967820_42.302020_-82.932850",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 00:26:53",
+      "raw_data": {
+        "room_id": 51846880,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "QUIET CENTRALLY LOCATED HOME IN A CUL-DE-SAC",
+        "title": "Home in Windsor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 503.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $251.17",
+              "amount": 502.0,
+              "currency": "$.33"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.73,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/66325d27-bf28-4b2f-8295-5b56d2d0f2f3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51846880/original/acb10f95-42b9-4290-a171-b766a5740f09.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3bf180eb-3947-4210-bd36-ee2c0cb3b478.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c3f463fd-2ea8-4909-b68e-a2744360689a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/35f3abba-6a6d-49be-8a43-f09d80e3390f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51846880/original/daa215f6-b1b0-49ca-95a8-95ab01c84184.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29981,
+          "longitud": -82.9672
+        }
+      }
+    },
+    "53291757": {
+      "room_id": 53291757,
+      "latitude": 42.2984,
+      "longitude": -82.96549,
+      "grid_id_assigned": null,
+      "grid_id_source": 82.0,
+      "bbox_id": "42.277090_-82.967820_42.302020_-82.932850",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 00:26:53",
+      "raw_data": {
+        "room_id": 53291757,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Lovely 1 bedroom unit in Central Windsor",
+        "title": "Guest suite in Windsor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 224.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $111.68",
+              "amount": 223.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.62,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-53291757/original/bbcbc8c6-1787-4cb3-b845-70beabf84fc4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-53291757/original/42745c15-6bd9-464a-abe7-dc0c7555aab9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-53291757/original/327c60d4-ee8a-42a3-b3f5-3d2e9d119bac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-53291757/original/73b000e9-9b72-4c29-944b-d03bdd57dac0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTMyOTE3NTc%3D/original/30e71d7f-03c7-49b9-814f-80d1acca6daf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTMyOTE3NTc%3D/original/e4ee449a-8331-42ed-897a-5d1f09709bba.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2984,
+          "longitud": -82.96549
+        }
+      }
+    },
+    "1010485872446021386": {
+      "room_id": 1010485872446021386,
+      "latitude": 42.29278,
+      "longitude": -82.9557,
+      "grid_id_assigned": null,
+      "grid_id_source": 82.0,
+      "bbox_id": "42.277090_-82.967820_42.302020_-82.932850",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:27:00",
+      "raw_data": {
+        "room_id": 1010485872446021386,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Newly Renovated Cozy & Clean 2BR Modern Oasis!",
+        "title": "Home in Windsor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 371.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $123.61",
+              "amount": 370.0,
+              "currency": "$.84"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "18"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010485872446021386/original/0aae2613-b8ce-4bb4-861f-2721751019d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010485872446021386/original/4ec525ef-e682-402e-b07c-169d69a22716.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010485872446021386/original/9800668b-1942-4993-8ac4-bac84b673411.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010485872446021386/original/165c2771-9699-4f21-a35f-142e7fb099ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010485872446021386/original/7042c28e-bf29-4200-8a5a-3dbca5bac0e3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010485872446021386/original/221f7444-825c-4eb3-be93-5492879ed4b5.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.29278,
+          "longitud": -82.9557
+        }
+      }
+    },
+    "1337825325490303398": {
+      "room_id": 1337825325490303398,
+      "latitude": 42.2977,
+      "longitude": -82.947,
+      "grid_id_assigned": null,
+      "grid_id_source": 82.0,
+      "bbox_id": "42.277090_-82.967820_42.302020_-82.932850",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:27:00",
+      "raw_data": {
+        "room_id": 1337825325490303398,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "5 min away from battery plant",
+        "title": "Guesthouse in Windsor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 230.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $76.61",
+              "amount": 229.0,
+              "currency": "$.84"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1337825325490303398/original/5f3743ac-72e8-4d71-a7bd-d4ed7b3a1450.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1337825325490303398/original/980d1644-d496-4dd6-a7f4-f811649c58d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1337825325490303398/original/0aec50e7-a32c-402c-ba32-71cae2512008.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1337825325490303398/original/2b09c5be-da50-4467-9b87-5c2d234ce8e9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1337825325490303398/original/5d05c41e-1d92-44bb-84b7-8f5c02722a97.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2977,
+          "longitud": -82.947
+        }
+      }
+    }
+  }
+}

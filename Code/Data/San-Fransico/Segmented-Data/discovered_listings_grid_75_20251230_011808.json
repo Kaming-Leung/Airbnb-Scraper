@@ -1,0 +1,131 @@
+{
+  "grid_id": 75,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-30 01:18:08",
+  "listings": {
+    "725341367693454220": {
+      "room_id": 725341367693454220,
+      "latitude": 37.444618369801965,
+      "longitude": -122.37001300449722,
+      "grid_id_assigned": null,
+      "grid_id_source": 75.0,
+      "bbox_id": "37.425760_-122.380260_37.452550_-122.346480",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 01:15:13",
+      "raw_data": {
+        "room_id": 725341367693454220,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Paradise Treehouse & Heavenly Cabin",
+        "title": "Treehouse in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3310.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $661.88",
+              "amount": 3309.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "136"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-725341367693454220/original/7cf88c86-ece8-492d-a034-90ea6164e54b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-725341367693454220/original/93cc90e1-c491-46e9-b0b4-f33a1444930f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-725341367693454220/original/5765331d-cf6b-4ade-883a-b44282ba4c99.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-725341367693454220/original/abd92a5b-f928-4a41-88cd-75b2b74eb3d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-725341367693454220/original/ff637fd7-62db-4b11-b362-57432fe8155b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-725341367693454220/original/6db1b2dc-d621-4bcd-b055-a3cfdabc7ca2.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.444618369801965,
+          "longitud": -122.37001300449722
+        }
+      }
+    }
+  }
+}

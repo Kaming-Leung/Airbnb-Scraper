@@ -1,0 +1,147 @@
+{
+  "grid_id": 9,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 13:04:58",
+  "listings": {
+    "1311101065964096879": {
+      "room_id": 1311101065964096879,
+      "latitude": 37.61561883289604,
+      "longitude": -121.9015881533497,
+      "grid_id_assigned": null,
+      "grid_id_source": 9.0,
+      "bbox_id": "37.602980_-121.901730_37.628250_-121.869420",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:02:04",
+      "raw_data": {
+        "room_id": 1311101065964096879,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Sunol Chalet | 80 Acres • Pool • Gym • Game Room",
+        "title": "Home in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 7550.0,
+            "discount": 5034.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,510.00",
+              "amount": 7550.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -1716.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -800.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 5034.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1311101065964096879/original/c3d39f5d-afad-403f-93e3-a2619083a530.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1311101065964096879/original/40401505-012d-46d4-87a9-e78701460e6a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxMTEwMTA2NTk2NDA5Njg3OQ%3D%3D/original/46a8b433-6414-4d85-b113-54bdb81ea2a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxMTEwMTA2NTk2NDA5Njg3OQ%3D%3D/original/b3fba935-8796-4cb6-8165-7c6824f89eea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxMTEwMTA2NTk2NDA5Njg3OQ%3D%3D/original/b787ac35-6a9d-425e-a201-78243ff5aab5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxMTEwMTA2NTk2NDA5Njg3OQ%3D%3D/original/596e3395-e161-4f3d-a13f-5cf3150660e6.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.61561883289604,
+          "longitud": -121.9015881533497
+        }
+      }
+    }
+  }
+}

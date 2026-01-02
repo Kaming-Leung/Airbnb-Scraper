@@ -1,0 +1,129 @@
+{
+  "grid_id": 24,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 02:46:14",
+  "listings": {
+    "1585617176880637845": {
+      "room_id": 1585617176880637845,
+      "latitude": 38.7639664483808,
+      "longitude": -121.43459843500469,
+      "grid_id_assigned": null,
+      "grid_id_source": 24.0,
+      "bbox_id": "38.748080_-121.452300_38.792790_-121.406980",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:43:20",
+      "raw_data": {
+        "room_id": 1585617176880637845,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Farmhouse Estate with Pool",
+        "title": "Home in Elverta",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2617.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $523.29",
+              "amount": 2616.0,
+              "currency": "$.43"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1585617176880637845/original/37ce7e03-ad22-4760-bc09-aa8086f05c6f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1585617176880637845/original/bda46db9-b6c0-45a0-acad-5c9853bb81ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1585617176880637845/original/fe5e342f-1f1d-46d0-81b3-384ed1cd8b12.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1585617176880637845/original/dc7100b2-c170-449c-a05a-5cf43fc25abe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1585617176880637845/original/9e77b2ae-8802-41f4-aaba-30314fb825ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1585617176880637845/original/6cdccc0d-e692-48b8-bbd9-b6af2bb6bd70.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.7639664483808,
+          "longitud": -121.43459843500469
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2674 @@
+{
+  "grid_id": 20,
+  "total_listings": 21,
+  "discovery_timestamp": "2025-12-31 14:16:33",
+  "listings": {
+    "27734659": {
+      "room_id": 27734659,
+      "latitude": 37.48888,
+      "longitude": -122.28221,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 27734659,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Serene Oasis in the midst of Silicon Valley",
+        "title": "Home in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1815.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $362.89",
+              "amount": 1814.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "132"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/abd5cee7-d77b-43ea-a7f8-a54b975de9ac.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c06c26a1-0cb0-4473-98bf-fafba5049bf2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a6925cd8-fd11-4b3c-bcbc-6e06456f933f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e6bd4f97-f2bb-466c-8e7c-58572b01ede2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/27e90792-bdd1-4f1b-a9d5-17a19a9b8160.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b27096f1-ebf3-41da-963b-47e020c685c8.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.48888,
+          "longitud": -122.28221
+        }
+      }
+    },
+    "23238802": {
+      "room_id": 23238802,
+      "latitude": 37.47712,
+      "longitude": -122.26876,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 23238802,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 10 – 15",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Studio in the heart of Silicon Valley",
+        "title": "Apartment in Redwood City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1684.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $336.65",
+              "amount": 1683.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "120"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cc09d581-bf08-4c0e-ae19-8c048d2d1c56.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5fee3d5f-f66c-45e0-b914-d28db521b126.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7011e3e9-0a0b-47fe-9294-093e0fb98948.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e852e636-182e-4c12-ad04-d6822bda6cd4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9a5d42f1-3537-4037-b209-e8d4cb836663.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/33b31ed6-24e3-4afb-be2e-c373f2611c47.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.47712,
+          "longitud": -122.26876
+        }
+      }
+    },
+    "37131669": {
+      "room_id": 37131669,
+      "latitude": 37.49463,
+      "longitude": -122.28168,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 37131669,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Canyon Oak House: Private, tranquil with trees",
+        "title": "Home in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1770.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $353.99",
+              "amount": 1769.0,
+              "currency": "$.97"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "132"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/00fd9b67-2e06-4840-8383-6c45039c40d0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a513c0b1-f6cb-4935-9c84-cd28144311bd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d612db48-bd5c-4313-93f3-bfad6e0f9d29.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/60c0b923-336e-4bc5-9aec-2b154a2c63cc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2c8ddf37-84b4-4fcc-8cb0-9f04af76538b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b9068d89-67aa-4faa-ab21-3c68c08d574f.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.49463,
+          "longitud": -122.28168
+        }
+      }
+    },
+    "23453876": {
+      "room_id": 23453876,
+      "latitude": 37.50268,
+      "longitude": -122.27399,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 23453876,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Delightful Beauty! large apartment in San Carlos",
+        "title": "Apartment in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1250.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $249.92",
+              "amount": 1249.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "43"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/6d579ec2-3dc5-4d6a-95ce-d742cf712d17.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/272a9279-3f01-48c8-a81f-4ee9dcd190a1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/39d2b9b0-6305-4444-85bd-3e99eb620731.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3f8717e7-1d2b-4625-93e1-96297dbd140d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3249089b-f375-4a39-9481-0ba7bbc351df.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2108915f-25ed-4dcf-b95e-ada417c5e58c.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.50268,
+          "longitud": -122.27399
+        }
+      }
+    },
+    "643373359975271588": {
+      "room_id": 643373359975271588,
+      "latitude": 37.5002,
+      "longitude": -122.2785,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 643373359975271588,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Adorable 1 bedroom guest house w/ AC in San Carlos",
+        "title": "Guesthouse in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1381.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $276.16",
+              "amount": 1380.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "57"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-643373359975271588/original/16c05d9d-ea87-4f15-8c4a-9f77e69a86b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-643373359975271588/original/a70f0d0f-fe76-4399-8097-5850fabd5229.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-643373359975271588/original/0309db97-5023-4969-9bd8-628a8f473c1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-643373359975271588/original/a3ed80a7-5745-4214-8d4d-839ef388a384.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-643373359975271588/original/5926f13d-5a82-47a6-8519-81e205b21769.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-643373359975271588/original/4671fe4f-5807-4c4f-8a2f-af0f30bfd7cd.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.5002,
+          "longitud": -122.2785
+        }
+      }
+    },
+    "33995060": {
+      "room_id": 33995060,
+      "latitude": 37.49608,
+      "longitude": -122.2802,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 33995060,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Tree house in SanCarlos",
+        "title": "Home in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2169.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $433.65",
+              "amount": 2168.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-33995060/original/38fdd185-6710-4248-9a0c-0e882bb33a7a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-33995060/original/d13331cd-b49a-4cf3-a979-6d260161d2c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-33995060/original/ffd52748-5231-4374-94ea-21620f986cb3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-33995060/original/9b05b34a-6513-4514-bd8b-e187f8194900.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f83430b9-63b4-490c-9821-72e5c243466f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2837711f-0e9e-47b0-919c-64a997f1f505.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.49608,
+          "longitud": -122.2802
+        }
+      }
+    },
+    "8045903": {
+      "room_id": 8045903,
+      "latitude": 37.50204,
+      "longitude": -122.27056,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 8045903,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 7 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 7 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "4br/3ba Beautiful Home with Great location!",
+        "title": "Home in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 5250.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $749.92",
+              "amount": 5249.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-8045903/original/c786cb3a-be94-4339-82b4-a0d43a81a2f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-8045903/original/e81f7ff9-22f1-4009-9e4e-2789920afeb0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/57072ee4-2e24-4ab1-ac85-7a454b7486da.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-8045903/original/865d0d96-7534-490e-85c1-d62d416197bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/23fdb582-e65a-4f1d-be17-4af92e02d671.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-8045903/original/d41aa987-1ff0-4e83-b6ae-432022fab56f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.50204,
+          "longitud": -122.27056
+        }
+      }
+    },
+    "1426605096359324188": {
+      "room_id": 1426605096359324188,
+      "latitude": 37.49472,
+      "longitude": -122.27697,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 1426605096359324188,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "YieldMax (AF) | Tranquil 3B2B Home",
+        "title": "Home in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1395.0,
+            "discount": 1045.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $208.84",
+              "amount": 1044.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1426605096359324188/original/53c5513e-8869-4520-a887-827192743165.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1426605096359324188/original/938caa85-8f42-4257-a293-cc702970ae93.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1426605096359324188/original/ee9996a2-61b3-4d53-8b4e-67c5a20919f3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1426605096359324188/original/f9351c9a-d0ce-4742-afbb-ba82b240705c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1426605096359324188/original/208481bf-f3a7-47fc-aaad-2613e8796fc3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1426605096359324188/original/89267a32-9f9e-40d9-a35c-6ef5aa844cbb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.49472,
+          "longitud": -122.27697
+        }
+      }
+    },
+    "1314709704468307273": {
+      "room_id": 1314709704468307273,
+      "latitude": 37.50122,
+      "longitude": -122.29494,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 1314709704468307273,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Hilltop Serenity",
+        "title": "Home in Belmont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3601.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $720.08",
+              "amount": 3600.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1314709704468307273/original/7c812fad-ced6-49a9-a5a3-db8a61de7644.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1314709704468307273/original/fae7230f-5fba-4efe-a7b8-9047ee3786f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1314709704468307273/original/e83bcbf8-8f2c-4b35-9b2a-f52fb6a3b0f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1314709704468307273/original/75ae210a-1e61-4ff3-8d3f-23fa4d5cf075.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1314709704468307273/original/006724e8-c924-4e12-89da-a345d22841f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1314709704468307273/original/2e9d52d0-a351-48ff-8041-fb12fbdde4b8.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.50122,
+          "longitud": -122.29494
+        }
+      }
+    },
+    "30299308": {
+      "room_id": 30299308,
+      "latitude": 37.50274,
+      "longitude": -122.28556,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 30299308,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/45818767-feb6-43a0-a014-e962859646fd.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Nadia",
+          "titleText": "Started hosting in 2018",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/45818767-feb6-43a0-a014-e962859646fd.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 1
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "San Carlos hills single family home",
+        "title": "Room in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1028.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $205.41",
+              "amount": 1027.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/ee03b435-844f-44e7-b942-d19b1caf6e4c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b5a26981-0b8e-406c-8322-b00f532edade.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/964c9fb9-5652-4aaf-b3ff-ff5da7c1a47d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4df50d48-40dd-4dc0-9610-579eaa497f53.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/29cb2c13-bf7f-49a2-827d-afd19afdf74e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0a6638cf-00ba-4bca-9637-c7270884bea5.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.50274,
+          "longitud": -122.28556
+        }
+      }
+    },
+    "36894212": {
+      "room_id": 36894212,
+      "latitude": 37.48778,
+      "longitude": -122.2911,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 14:13:37",
+      "raw_data": {
+        "room_id": 36894212,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Unique Artistic Villa in Nature for Special Events",
+        "title": "Villa in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5706.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,141.18",
+              "amount": 5705.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a777c7a8-13ef-4bcb-8041-7ecab4a52ff5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-36894212/original/eb4236be-2dd0-4a4c-ad64-42bc7e9cfc60.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6e6beca9-ca85-40f0-876a-5e9f279522e6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9524d4cc-b076-4005-bcfc-3d755f997d59.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9316e952-aaf1-429e-80c0-ed59fae3e9f0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/782116d7-b05e-4305-91b0-99d79958406f.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.48778,
+          "longitud": -122.2911
+        }
+      }
+    },
+    "15072622": {
+      "room_id": 15072622,
+      "latitude": 37.48626,
+      "longitude": -122.28754,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 1,
+      "discovered_at": "2025-12-31 14:13:43",
+      "raw_data": {
+        "room_id": 15072622,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Modern Studio & Patio with stunning views",
+        "title": "Guest suite in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 403.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $201.42",
+              "amount": 402.0,
+              "currency": "$.84"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "65"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/5751d9b2-d833-4b10-85e8-01719295002c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/41d289ba-1c4a-4ae8-be74-ce0a948ba859.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/781b2e34-a42e-4e61-b64e-685f75294521.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/50e445ef-885e-4bd0-a467-5a10ed9dcc7b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5ce06555-73a9-4ac2-b641-433246489867.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a1443179-77c3-4d68-90fd-e0a33f9e9c35.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.48626,
+          "longitud": -122.28754
+        }
+      }
+    },
+    "642074574979660117": {
+      "room_id": 642074574979660117,
+      "latitude": 37.4872,
+      "longitude": -122.2684,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 1,
+      "discovered_at": "2025-12-31 14:13:43",
+      "raw_data": {
+        "room_id": 642074574979660117,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Delightful Hideaway in San Carlos",
+        "title": "Guesthouse in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 376.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $187.73",
+              "amount": 375.0,
+              "currency": "$.45"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "121"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-642074574979660117/original/7b07c7bf-60ca-493d-94d7-ed607fe6ba2b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-642074574979660117/original/a28c8d27-afc8-4536-af22-390221e8c284.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-642074574979660117/original/a0bce170-d337-42d2-9907-8b8fe904430b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-642074574979660117/original/cdce4da7-860c-4090-9b5a-73fcf61d1963.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-642074574979660117/original/83b3f3b3-baef-4a12-beb5-e43021cc44ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-642074574979660117/original/b302360f-19f2-4cb5-b18d-114bdbfe0aa3.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.4872,
+          "longitud": -122.2684
+        }
+      }
+    },
+    "1556300024531558069": {
+      "room_id": 1556300024531558069,
+      "latitude": 37.50236322604175,
+      "longitude": -122.28210284267777,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 1,
+      "discovered_at": "2025-12-31 14:13:43",
+      "raw_data": {
+        "room_id": 1556300024531558069,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Elevated & Serene Suite • Close to SF & SJ",
+        "title": "Guesthouse in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 302.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $150.87",
+              "amount": 301.0,
+              "currency": "$.73"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1556300024531558069/original/8caceb76-f9b3-4b17-8ede-903cd6f3b53e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1556300024531558069/original/f0f37dee-4fda-49ae-beb7-04a730ce6358.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1556300024531558069/original/c6df6f7f-a60c-40d1-96cc-e4149ca02e2a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1556300024531558069/original/d378254a-7828-4ce6-971f-b43b5f619b8b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1556300024531558069/original/d561b802-24af-4e70-8197-ff969f6bad44.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1556300024531558069/original/c89dcd55-cc50-47ad-a379-a4fd29aad01c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.50236322604175,
+          "longitud": -122.28210284267777
+        }
+      }
+    },
+    "27283822": {
+      "room_id": 27283822,
+      "latitude": 37.496,
+      "longitude": -122.28841,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 2,
+      "discovered_at": "2025-12-31 14:13:49",
+      "raw_data": {
+        "room_id": 27283822,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Large Master Bedroom at Silicon, private bathroom",
+        "title": "Place to stay in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 341.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $113.36",
+              "amount": 340.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "108"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/8bdf281b-6339-44a4-b358-41a1aa667b73.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/aa7c06df-2599-4791-a301-ad80b6b2874d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2505ead2-d948-4672-b1da-d7bf5039b926.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b0907f59-c5a4-4621-a10b-97d3be73e96a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/99246788-7842-493c-9d2b-b0601a0e8ff2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b2782e5-4371-4c8a-8330-3b44ba9b92d3.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.496,
+          "longitud": -122.28841
+        }
+      }
+    },
+    "24637208": {
+      "room_id": 24637208,
+      "latitude": 37.48959,
+      "longitude": -122.29141,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 2,
+      "discovered_at": "2025-12-31 14:13:49",
+      "raw_data": {
+        "room_id": 24637208,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/dc52d48f-9826-4c5e-b081-acac32a20633.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lada",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dc52d48f-9826-4c5e-b081-acac32a20633.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "19 reviews on the listing",
+              "label": "Reviews",
+              "value": "19",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.95 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.95",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 8
+          },
+          "ratingCount": 19,
+          "ratingAverage": 4.95
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Large Estate. Nature. Luxury. Views. Art Sanctuary",
+        "title": "Room in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 577.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $192.10",
+              "amount": 576.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cb06736b-4c3f-41bf-8168-f13a87c3e461.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-24637208/original/c570ffdf-d800-40ff-b134-0146bcfaa428.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-24637208/original/a41e6ca5-331a-4594-b7fd-7b813a03d9e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6e6beca9-ca85-40f0-876a-5e9f279522e6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9524d4cc-b076-4005-bcfc-3d755f997d59.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9316e952-aaf1-429e-80c0-ed59fae3e9f0.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.48959,
+          "longitud": -122.29141
+        }
+      }
+    },
+    "1460292475398695733": {
+      "room_id": 1460292475398695733,
+      "latitude": 37.4944,
+      "longitude": -122.2771,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 2,
+      "discovered_at": "2025-12-31 14:13:49",
+      "raw_data": {
+        "room_id": 1460292475398695733,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bedroom near park",
+        "title": "Place to stay in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 290.0,
+            "discount": 238.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $96.45",
+              "amount": 289.0,
+              "currency": "$.36"
+            },
+            {
+              "description": "Special offer",
+              "amount": -52.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 237.0,
+              "currency": "$.36"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1460292475398695733/original/9aaebd9b-c990-4d01-9d99-4e5e5d683255.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1460292475398695733/original/f4ae9116-2f64-4c97-8688-e208a743ed87.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1460292475398695733/original/8ca8f611-984b-4e38-bbf3-75994c85974d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1460292475398695733/original/7398762d-34de-4fce-82c2-6dfafc5a23c5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1460292475398695733/original/bf85abcc-88da-400a-a7dc-cce43b7e4e3e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1460292475398695733/original/95b4e159-be77-47c4-b9c9-b83a58cc3d76.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4944,
+          "longitud": -122.2771
+        }
+      }
+    },
+    "29339858": {
+      "room_id": 29339858,
+      "latitude": 37.49602,
+      "longitude": -122.28863,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 2,
+      "discovered_at": "2025-12-31 14:13:49",
+      "raw_data": {
+        "room_id": 29339858,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-43976013/original/b123402b-53a9-449f-85ec-70c452632616.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Nas",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-43976013/original/b123402b-53a9-449f-85ec-70c452632616.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "65 reviews on the listing",
+              "label": "Reviews",
+              "value": "65",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.78 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.78",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 2
+          },
+          "ratingCount": 65,
+          "ratingAverage": 4.78
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "San Francisco San Jose San Carlos Silicon Valley",
+        "title": "Room in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 285.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $94.72",
+              "amount": 284.0,
+              "currency": "$.15"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.78,
+          "reviewCount": "65"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b382692e-0d86-49ee-92be-058fd5309be3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cd03708b-29b5-4131-b178-a19e89036439.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/abe1dec7-e778-4bdd-96b8-8aad961e5917.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5efead79-b8db-4c05-96f4-2728a6ffde64.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8575debc-f8d5-4454-a220-015d0f6e3420.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/03f28038-031b-4abb-8c7b-db6702e2432c.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.49602,
+          "longitud": -122.28863
+        }
+      }
+    },
+    "994233160039699470": {
+      "room_id": 994233160039699470,
+      "latitude": 37.48045885286918,
+      "longitude": -122.28588846981643,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 4,
+      "discovered_at": "2025-12-31 14:14:03",
+      "raw_data": {
+        "room_id": 994233160039699470,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/b50fef7f-0e2c-45d3-bb05-c1fef53bccf8.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Umi",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b50fef7f-0e2c-45d3-bb05-c1fef53bccf8.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 2
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Furnished Bedroom with private bathroom",
+        "title": "Room in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 493.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $246.50",
+              "amount": 492.0,
+              "currency": "$.99"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-994233160039699470/original/dda2114a-f26f-4e11-a810-7efa6b9ae764.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-994233160039699470/original/3923e470-23a8-4387-8e51-870d548ff36d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-994233160039699470/original/e2d737a5-90ac-495f-bb29-00c8e27aeb09.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-994233160039699470/original/ac8d7489-e086-4581-a8ae-af63a945ce8f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-994233160039699470/original/889594ab-adbb-4a74-b2fc-5ca99e4ed803.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-994233160039699470/original/e80f926d-0bd2-413b-9519-d8a303772a51.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.48045885286918,
+          "longitud": -122.28588846981643
+        }
+      }
+    },
+    "1338143411340717895": {
+      "room_id": 1338143411340717895,
+      "latitude": 37.49618,
+      "longitude": -122.27748,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 5,
+      "discovered_at": "2025-12-31 14:14:08",
+      "raw_data": {
+        "room_id": 1338143411340717895,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "YieldMax (AF) | Tranquil Studio w Priv Bath",
+        "title": "Guesthouse in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 571.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $190.20",
+              "amount": 570.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzY4NTI3OTU0NDU0NTI5MQ%3D%3D/original/6c9f486c-0bb3-4882-955c-521df70f784c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzY4NTI3OTU0NDU0NTI5MQ%3D%3D/original/87867b2a-d89b-4b3a-beba-e0256c6b9c70.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzY4NTI3OTU0NDU0NTI5MQ%3D%3D/original/2417d996-9f28-4ebd-b992-983e0dbebe5a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzY4NTI3OTU0NDU0NTI5MQ%3D%3D/original/24c65c09-9569-4ec8-b29a-196206dfb216.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzY4NTI3OTU0NDU0NTI5MQ%3D%3D/original/aa5fcc27-609e-4b79-93bb-67b0310c0388.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzY4NTI3OTU0NDU0NTI5MQ%3D%3D/original/fdf191c3-ed5e-4bf5-ae94-b24be513fa84.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.49618,
+          "longitud": -122.27748
+        }
+      }
+    },
+    "29339384": {
+      "room_id": 29339384,
+      "latitude": 37.49582,
+      "longitude": -122.2866,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.476500_-122.302480_37.504220_-122.267340",
+      "pass_id": 5,
+      "discovered_at": "2025-12-31 14:14:08",
+      "raw_data": {
+        "room_id": 29339384,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-43976013/original/b123402b-53a9-449f-85ec-70c452632616.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Nas",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-43976013/original/b123402b-53a9-449f-85ec-70c452632616.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "97 reviews on the listing",
+              "label": "Reviews",
+              "value": "97",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 2
+          },
+          "ratingCount": 97,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Silicon Valley, San Carlos, San Francisco,San Jose",
+        "title": "Room in San Carlos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 282.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $93.96",
+              "amount": 281.0,
+              "currency": "$.87"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "97"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/80db9482-ee64-44f6-9197-71218ef965f2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e13ea37f-f221-487e-a866-b3e83a5a6cf9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c4ba40bf-6f13-40df-bf8b-e3c7bea46ae1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/298bd927-92bd-47c3-9eed-e2558af7495d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8cc0df35-2df5-49db-9a92-53ce67504b24.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6eda1c82-8267-4387-8a1d-511f3819004c.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.49582,
+          "longitud": -122.2866
+        }
+      }
+    }
+  }
+}

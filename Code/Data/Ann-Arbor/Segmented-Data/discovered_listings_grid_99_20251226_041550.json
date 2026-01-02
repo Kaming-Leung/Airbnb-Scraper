@@ -1,0 +1,135 @@
+{
+  "grid_id": 99,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 04:15:50",
+  "listings": {
+    "1410963826878721420": {
+      "room_id": 1410963826878721420,
+      "latitude": 42.317270512127266,
+      "longitude": -83.70010082158224,
+      "grid_id_assigned": null,
+      "grid_id_source": 99.0,
+      "bbox_id": "42.316620_-83.705800_42.342060_-83.670260",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 04:13:08",
+      "raw_data": {
+        "room_id": 1410963826878721420,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/006dad91-c85e-451d-8635-641f83177a06.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jie",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/006dad91-c85e-451d-8635-641f83177a06.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 7
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Umich Swan Pool",
+        "title": "Room in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $91.29",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1410963826878721420/original/5510d811-5a15-44ff-9258-7660015b8540.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1410963826878721420/original/a498e86b-d05a-42b9-b3c0-444a800aadac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1410963826878721420/original/81127fc2-3e49-4dd3-bdd2-88efb6386fc0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1410963826878721420/original/30c73bcc-df79-44e9-9552-65a9be1c4157.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1410963826878721420/original/28767a6f-4446-42a0-8ac6-041a7683dbee.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1410963826878721420/original/206b82e3-2037-4ce8-a10c-1e0a5fe92b66.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.317270512127266,
+          "longitud": -83.70010082158224
+        }
+      }
+    }
+  }
+}

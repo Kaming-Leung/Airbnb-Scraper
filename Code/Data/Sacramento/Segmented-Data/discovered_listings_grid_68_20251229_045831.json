@@ -1,0 +1,257 @@
+{
+  "grid_id": 68,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-29 04:58:31",
+  "listings": {
+    "1431457011118417737": {
+      "room_id": 1431457011118417737,
+      "latitude": 38.59077376464602,
+      "longitude": -121.2497305816745,
+      "grid_id_assigned": null,
+      "grid_id_source": 68.0,
+      "bbox_id": "38.569240_-121.271020_38.613950_-121.225710",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 04:55:42",
+      "raw_data": {
+        "room_id": 1431457011118417737,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Modern Private In-Law Suite",
+        "title": "Home in Rancho Cordova",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 323.0,
+            "discount": 278.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $138.66",
+              "amount": 277.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1431457011118417737/original/f040537a-0324-476d-a965-f344b55d0fd5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1431457011118417737/original/e2ad1b70-4c11-4be7-bf94-e4fde6602aef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1431457011118417737/original/b7dda7de-0066-4193-8d1c-b36987d49147.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1431457011118417737/original/a98adb30-c17e-4d0e-97c4-4ae1533f5388.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1431457011118417737/original/89cd8d7b-f811-49a3-9e4e-b0e8d8fe85d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1431457011118417737/original/89f2ef44-ab9c-4cf7-afa6-8b2d0ca29082.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.59077376464602,
+          "longitud": -121.2497305816745
+        }
+      }
+    },
+    "1466970690487668959": {
+      "room_id": 1466970690487668959,
+      "latitude": 38.5876,
+      "longitude": -121.2525,
+      "grid_id_assigned": null,
+      "grid_id_source": 68.0,
+      "bbox_id": "38.569240_-121.271020_38.613950_-121.225710",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 04:55:42",
+      "raw_data": {
+        "room_id": 1466970690487668959,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Private Room w/Own Bath in Quiet Neighborhood",
+        "title": "Place to stay in Rancho Cordova",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 415.0,
+            "discount": 354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $207.37",
+              "amount": 414.0,
+              "currency": "$.74"
+            },
+            {
+              "description": "Special offer",
+              "amount": -61.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 353.0,
+              "currency": "$.54"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1466970690487668959/original/2a498fb4-0e8c-4163-96f2-aaebbe0c8ca8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1466970690487668959/original/c9f0d573-cac8-4c09-90bb-d2c413cf6836.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1466970690487668959/original/fbe91671-3a8e-491b-8dd8-a80d8a526b2f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1466970690487668959/original/604ab9c2-a694-4f7f-80c6-7efd41a47940.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1466970690487668959/original/3bd6b31e-126f-47ea-99a2-b1a3eb4db4a8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1466970690487668959/original/dc8db95a-bd83-4d46-ab1e-e51925d0c1cb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.5876,
+          "longitud": -121.2525
+        }
+      }
+    }
+  }
+}

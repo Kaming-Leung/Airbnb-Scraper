@@ -1,0 +1,255 @@
+{
+  "grid_id": 97,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-28 08:40:19",
+  "listings": {
+    "1244350360109244550": {
+      "room_id": 1244350360109244550,
+      "latitude": 38.29666,
+      "longitude": -122.26223,
+      "grid_id_assigned": null,
+      "grid_id_source": 97.0,
+      "bbox_id": "38.291110_-122.266180_38.298850_-122.255670",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:37:24",
+      "raw_data": {
+        "room_id": 1244350360109244550,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Napa Victorian on 1.5 Acres | Wineries + Downtown",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2042.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $408.31",
+              "amount": 2041.0,
+              "currency": "$.57"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "45"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1244350360109244550/original/644b5a8c-5453-44b8-84ea-7586121da2bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1244350360109244550/original/3bf444ae-7cb0-4e81-adf6-10450a7c4b40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1244350360109244550/original/9f996998-6923-408a-80d3-2f8be83224a6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1244350360109244550/original/0a1cba49-a62b-4240-b01c-1164d4f24558.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1244350360109244550/original/88c53101-46d0-41e9-86b5-8ac079ad54b3.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1244350360109244550/original/c9ba6a58-3137-42e8-8a2e-d54204386a61.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.29666,
+          "longitud": -122.26223
+        }
+      }
+    },
+    "12628322": {
+      "room_id": 12628322,
+      "latitude": 38.29693,
+      "longitude": -122.2639,
+      "grid_id_assigned": null,
+      "grid_id_source": 97.0,
+      "bbox_id": "38.291110_-122.266180_38.298850_-122.255670",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:37:24",
+      "raw_data": {
+        "room_id": 12628322,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 king beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Napa Getaway NearDowntown",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2226.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $445.06",
+              "amount": 2225.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "158"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/bc819652-11e5-4de2-ab4f-f5c187f46d32.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/584f44ab-40a2-4a03-922e-fe6f179935c2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d53bbe00-2bb0-445f-884a-20e08e7fcdd3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/59325ae1-5173-4a49-a6de-8e5b9ee8a212.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7a169a88-711e-49a4-9698-1f629e7ef432.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/076a281f-dd81-4194-9835-9a4f0adfe459.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.29693,
+          "longitud": -122.2639
+        }
+      }
+    }
+  }
+}

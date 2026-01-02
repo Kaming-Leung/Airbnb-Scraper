@@ -1,0 +1,131 @@
+{
+  "grid_id": 52,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 01:54:39",
+  "listings": {
+    "26105015": {
+      "room_id": 26105015,
+      "latitude": 42.3774,
+      "longitude": -83.7933,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "42.367500_-83.812450_42.392940_-83.776900",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 01:51:44",
+      "raw_data": {
+        "room_id": 26105015,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 king beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Stunning Open Floor-Plan on Beautiful 12 Acre Farm",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1877.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $375.22",
+              "amount": 1876.0,
+              "currency": "$.09"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "100"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d5a9e058-de2c-4349-aa31-0dba36555e4d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d8ed4469-6b0f-48c3-9553-67aa2274d16a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/43ccedee-9453-434b-a871-dfe8b0a3ef85.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26105015/original/91b64506-3ad1-4e62-8a7d-125d97b36efd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26105015/original/6b7847c6-00b2-4530-bcdf-4e3bb5ba9b7d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-26105015/original/374a4dbe-4f70-4fa9-a15c-ec5850c4ad39.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.3774,
+          "longitud": -83.7933
+        }
+      }
+    }
+  }
+}

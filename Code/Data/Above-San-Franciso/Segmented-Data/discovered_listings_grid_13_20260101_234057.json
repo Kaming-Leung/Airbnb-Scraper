@@ -1,0 +1,129 @@
+{
+  "grid_id": 13,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 23:40:57",
+  "listings": {
+    "810208185037842669": {
+      "room_id": 810208185037842669,
+      "latitude": 38.1269,
+      "longitude": -122.1993,
+      "grid_id_assigned": null,
+      "grid_id_source": 13,
+      "bbox_id": "38.118970_-122.209470_38.144700_-122.174350",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:38:03",
+      "raw_data": {
+        "room_id": 810208185037842669,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Welcome to Casa de King: Your Royal Retreat",
+        "title": "Home in Vallejo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3880.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $776.00",
+              "amount": 3880.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/9349c609-0bf2-4c9a-9389-1964d62b7c4d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2bc20b91-5db1-47fb-b772-0a3595fbdd15.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c16cb42c-1961-4bdf-9d90-4f8b6d9a11fd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/114e03d3-7519-4256-aed1-0b990ac85bbd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/afbca388-6955-46e3-9708-a58c5e7675db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e96c11d3-f7c3-43ac-b72c-cf592e0b603d.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.1269,
+          "longitud": -122.1993
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "grid_id": 7,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-25 23:26:13",
+  "listings": {
+    "1201550912114113516": {
+      "room_id": 1201550912114113516,
+      "latitude": 42.42952,
+      "longitude": -83.82168,
+      "grid_id_assigned": null,
+      "grid_id_source": 7.0,
+      "bbox_id": "42.418380_-83.848000_42.443820_-83.812450",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:23:20",
+      "raw_data": {
+        "room_id": 1201550912114113516,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "FrenchCountry masterpiece estate",
+        "title": "Villa in Whitmore Lake",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4391.0,
+            "discount": 3602.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $878.11",
+              "amount": 4390.0,
+              "currency": "$.55"
+            },
+            {
+              "description": "Special offer",
+              "amount": -789.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 3601.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/4739f501-72f3-4bd2-a45c-2f7018fe1fd3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/451ac6dc-e16c-41f5-821d-09ec3904b80a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/be2c86fe-93e7-4f69-8837-56d6ab20cd9d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8d90d822-30c3-4a6b-af19-6174fd095fef.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/386c76ef-620c-4d36-bd9e-a048350931ce.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d0504f13-dc3a-4e43-bbed-58a661eebb0d.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.42952,
+          "longitud": -83.82168
+        }
+      }
+    },
+    "21419947": {
+      "room_id": 21419947,
+      "latitude": 42.42828,
+      "longitude": -83.82023,
+      "grid_id_assigned": null,
+      "grid_id_source": 7.0,
+      "bbox_id": "42.418380_-83.848000_42.443820_-83.812450",
+      "pass_id": 5,
+      "discovered_at": "2025-12-25 23:23:50",
+      "raw_data": {
+        "room_id": 21419947,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3b403490-3c23-497d-88a8-5141f32e7824.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "May",
+          "titleText": "Started hosting in 2017",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b403490-3c23-497d-88a8-5141f32e7824.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 2
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Stunning Private Artist Loft 4U",
+        "title": "Room in Whitmore Lake",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 514.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $171.18",
+              "amount": 513.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e72dadf2-8d25-46bb-8fe9-241fd930125a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/963d736d-5aab-4b25-884f-2cd741085162.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b9c52fc1-54db-4d3a-82e9-f0ce3ae21ffd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d6e65e68-d813-4c32-9975-572cdf967e2d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3a605703-bad2-405c-8bcc-73144861ce8e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5bed6461-2ee9-41c8-acde-e3e6c8b24813.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.42828,
+          "longitud": -83.82023
+        }
+      }
+    }
+  }
+}

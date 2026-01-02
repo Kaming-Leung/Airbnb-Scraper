@@ -1,0 +1,252 @@
+{
+  "grid_id": 56,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-02 01:02:01",
+  "listings": {
+    "1582117002175813469": {
+      "room_id": 1582117002175813469,
+      "latitude": 38.086454079800454,
+      "longitude": -122.14424370622999,
+      "grid_id_assigned": null,
+      "grid_id_source": 56,
+      "bbox_id": "38.067510_-122.174350_38.093240_-122.139240",
+      "pass_id": 0,
+      "discovered_at": "2026-01-02 00:59:06",
+      "raw_data": {
+        "room_id": 1582117002175813469,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Home | Private Resort Yard, Chef’s Kitchen",
+        "title": "Home in Benicia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3977.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $795.40",
+              "amount": 3977.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1582117002175813469/original/f65fe445-52f0-4c5f-82ae-ee07249f314a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1582117002175813469/original/1216a580-6413-4122-bfa5-8729fc1e1b05.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1582117002175813469/original/f97b4257-cdcc-4eed-9690-a18fb1d67d12.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1582117002175813469/original/cebc1bc2-2a52-433c-992a-6b005576c164.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1582117002175813469/original/65f03f0d-0ea2-46d1-b45c-e46c380b3f08.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1582117002175813469/original/fa43e26a-eb7b-4fe6-99e3-44f05c90b4ad.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.086454079800454,
+          "longitud": -122.14424370622999
+        }
+      }
+    },
+    "1009446578827725280": {
+      "room_id": 1009446578827725280,
+      "latitude": 38.08749,
+      "longitude": -122.16512,
+      "grid_id_assigned": null,
+      "grid_id_source": 56,
+      "bbox_id": "38.067510_-122.174350_38.093240_-122.139240",
+      "pass_id": 1,
+      "discovered_at": "2026-01-02 00:59:12",
+      "raw_data": {
+        "room_id": 1009446578827725280,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Benicia Guesthouse",
+        "title": "Guesthouse in Benicia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 313.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $156.34",
+              "amount": 312.0,
+              "currency": "$.68"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "86"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1009446578827725280/original/ebd98926-e9e8-4b48-aa5d-8c8f88faa815.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1009446578827725280/original/50407f9c-e397-4dcb-a505-11b2d9a95de5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1009446578827725280/original/2d0b9e17-cd85-4306-a130-88f628ceb1d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1009446578827725280/original/90a2440f-2922-4066-8a59-0153ecd07a79.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1009446578827725280/original/552b511f-0b58-401b-a90a-5bf48aaec997.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1009446578827725280/original/3490abd1-6cbb-4e0e-854b-9825571771dc.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.08749,
+          "longitud": -122.16512
+        }
+      }
+    }
+  }
+}

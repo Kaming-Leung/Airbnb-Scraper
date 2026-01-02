@@ -1,0 +1,132 @@
+{
+  "grid_id": 93,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 03:57:49",
+  "listings": {
+    "1198467445921143507": {
+      "room_id": 1198467445921143507,
+      "latitude": 42.33587,
+      "longitude": -83.88856,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "42.316620_-83.919100_42.342060_-83.883550",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 03:54:55",
+      "raw_data": {
+        "room_id": 1198467445921143507,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Frances House",
+        "title": "Home in Dexter",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1292.0,
+            "discount": 1142.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $228.24",
+              "amount": 1141.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "40"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1198467445921143507/original/a38c9d84-976f-4e59-b515-f723103f145d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5ODQ2NzQ0NTkyMTE0MzUwNw%3D%3D/original/121329c1-98d2-4e25-9daa-2b2e6943ebf1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5ODQ2NzQ0NTkyMTE0MzUwNw%3D%3D/original/6dd62250-71f0-42b5-98a0-90d26db79664.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5ODQ2NzQ0NTkyMTE0MzUwNw%3D%3D/original/994b3ebc-e131-44b2-a1f3-ad60684f0034.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5ODQ2NzQ0NTkyMTE0MzUwNw%3D%3D/original/69d48fa6-845d-4d6e-a4bf-a7146477d80f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5ODQ2NzQ0NTkyMTE0MzUwNw%3D%3D/original/9fcf4089-db85-4813-ac43-3340c21270fd.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.33587,
+          "longitud": -83.88856
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "grid_id": 61,
+  "total_listings": 5,
+  "discovery_timestamp": "2025-12-30 00:36:04",
+  "listings": {
+    "38819319": {
+      "room_id": 38819319,
+      "latitude": 37.5033,
+      "longitude": -122.49288,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "37.479330_-122.515390_37.506120_-122.481610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:33:10",
+      "raw_data": {
+        "room_id": 38819319,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A little piece of heaven",
+        "title": "Home in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4784.0,
+            "discount": 4300.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $860.00",
+              "amount": 4300.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "254"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38819319/original/4bd26a52-c632-4b8c-911d-5272d88f52af.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38819319/original/d22b1774-e057-42e2-b2a3-51e186792bf1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38819319/original/f4adbf5e-e201-4897-b198-d3939c92751e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38819319/original/c6abdb18-bcdb-41f2-a311-6b12295611ba.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38819319/original/1db3234e-7e57-4b5f-92b9-777e06fe0a4c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38819319/original/b3b628d6-7ff4-4a92-95fe-906cd58f73ab.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.5033,
+          "longitud": -122.49288
+        }
+      }
+    },
+    "1315334083521310197": {
+      "room_id": 1315334083521310197,
+      "latitude": 37.5046,
+      "longitude": -122.48669,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "37.479330_-122.515390_37.506120_-122.481610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:33:10",
+      "raw_data": {
+        "room_id": 1315334083521310197,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Experience the Pinnacle of Coastal Living at",
+        "title": "Home in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4697.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $939.40",
+              "amount": 4697.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "40"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1315334083521310197/original/c98752df-04cf-43a9-910a-21dbaaf14a68.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1315334083521310197/original/805dbfd8-184e-4ac6-b5f7-998589094daa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1315334083521310197/original/82857ec5-fee6-4d24-8c5f-dcc8a67a31be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1315334083521310197/original/03985179-41de-4e24-b68f-87661bba07a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1315334083521310197/original/200e0378-08c4-4b21-baf5-5470b19c55d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1315334083521310197/original/e74cef7f-20f0-40a4-8344-d235d84f584c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.5046,
+          "longitud": -122.48669
+        }
+      }
+    },
+    "45593998": {
+      "room_id": 45593998,
+      "latitude": 37.50486,
+      "longitude": -122.48851,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "37.479330_-122.515390_37.506120_-122.481610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:33:10",
+      "raw_data": {
+        "room_id": 45593998,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Ocean Front & Harbor View Home",
+        "title": "Home in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3495.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $698.97",
+              "amount": 3494.0,
+              "currency": "$.85"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "153"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/eb36e6ad-9273-47e1-9e77-f208ebb1423b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45593998/original/71a136ff-438f-49a2-ae81-17eabe7c00db.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45593998/original/a675ac99-14c4-4e21-bd1f-0036373377e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45593998/original/5d63cc84-d8c1-4975-a201-419482c18a4c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/859dd4eb-98b7-4e37-965c-7c3a2695db04.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45593998/original/fefaeb25-13e0-4156-be8d-e2d3bebdd24a.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.50486,
+          "longitud": -122.48851
+        }
+      }
+    },
+    "44446809": {
+      "room_id": 44446809,
+      "latitude": 37.504,
+      "longitude": -122.4882,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "37.479330_-122.515390_37.506120_-122.481610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:33:10",
+      "raw_data": {
+        "room_id": 44446809,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spectacular Coastal Half Moon Bay Home",
+        "title": "Home in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3790.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $757.97",
+              "amount": 3789.0,
+              "currency": "$.85"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.79,
+          "reviewCount": "174"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f0a1c44a-9db9-436a-841a-aa550b3d9f6e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44446809/original/a6d2dce2-d81f-4fee-9a24-f725d452dd92.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/45771e8d-a4fb-4b3a-8fcc-11523fc2cb7a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44446809/original/5d9d74f4-1399-4b95-84c9-2869ec42f40f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c95f88e0-fa5b-4b43-828c-de0e242949bb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/91b3d33d-d2a5-48dc-b551-553283f65975.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.504,
+          "longitud": -122.4882
+        }
+      }
+    },
+    "8268197": {
+      "room_id": 8268197,
+      "latitude": 37.50459,
+      "longitude": -122.48972,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "37.479330_-122.515390_37.506120_-122.481610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:33:10",
+      "raw_data": {
+        "room_id": 8268197,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 king beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Captain's Quarters",
+        "title": "Apartment in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2888.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $577.44",
+              "amount": 2887.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "220"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/105219780/689a7658_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/105224351/0facfcc2_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/105219461/4957e554_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/105219374/2d152323_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/105219598/22f5fe67_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/105223654/b4a66ce0_original.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.50459,
+          "longitud": -122.48972
+        }
+      }
+    }
+  }
+}

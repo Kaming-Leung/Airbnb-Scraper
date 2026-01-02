@@ -1,0 +1,129 @@
+{
+  "grid_id": 25,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 13:53:02",
+  "listings": {
+    "1350308098700383128": {
+      "room_id": 1350308098700383128,
+      "latitude": 37.56172268767899,
+      "longitude": -121.94955824910357,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "37.552450_-121.966350_37.577720_-121.934040",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:50:07",
+      "raw_data": {
+        "room_id": 1350308098700383128,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Privatly 6000sf gated villa",
+        "title": "Home in Fremont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5878.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,175.41",
+              "amount": 5877.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.33,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1350308098700383128/original/9cff1521-1144-4f26-8142-20044a8c8ca1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1350308098700383128/original/975c0bd5-52f4-4382-b99b-20ea5a05c819.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1350308098700383128/original/0c05c132-f86e-44aa-816b-1c2aaaad4561.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1350308098700383128/original/947b050b-be6b-43c9-a2f4-d380a6a41ea9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1350308098700383128/original/13e42641-a4d6-4016-8734-4e1332da9258.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1350308098700383128/original/999d633f-202e-419d-bd84-363775317dee.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.56172268767899,
+          "longitud": -121.94955824910357
+        }
+      }
+    }
+  }
+}

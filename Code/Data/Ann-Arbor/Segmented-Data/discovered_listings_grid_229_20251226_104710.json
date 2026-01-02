@@ -1,0 +1,128 @@
+{
+  "grid_id": 229,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 10:47:10",
+  "listings": {
+    "963103514474323088": {
+      "room_id": 963103514474323088,
+      "latitude": 42.17082,
+      "longitude": -83.7744,
+      "grid_id_assigned": null,
+      "grid_id_source": 229.0,
+      "bbox_id": "42.163990_-83.776900_42.189430_-83.741350",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 10:44:21",
+      "raw_data": {
+        "room_id": 963103514474323088,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire Home in Saline, Near UofM",
+        "title": "Home in Saline",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 1048.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $523.80",
+              "amount": 1047.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-963103514474323088/original/ac734e5d-7b72-48be-a0b8-0fb9afaf5757.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-963103514474323088/original/291b9132-6c23-4c4d-9111-c8e8982f6c40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-963103514474323088/original/c41cce66-8ab8-4d39-bb3e-49969a2198cc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-963103514474323088/original/e45fcab8-f522-4cda-a79f-0c943a700528.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-963103514474323088/original/e4cf7535-f791-4d74-89e7-9e94b1cbe1ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-963103514474323088/original/0e9cb406-4439-4fc6-9722-dce565cc7828.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.17082,
+          "longitud": -83.7744
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "grid_id": 103,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-29 06:43:42",
+  "listings": {
+    "1369786007931594419": {
+      "room_id": 1369786007931594419,
+      "latitude": 38.4226895340503,
+      "longitude": -121.47601902918889,
+      "grid_id_assigned": null,
+      "grid_id_source": 103.0,
+      "bbox_id": "38.390400_-121.497610_38.435110_-121.452300",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:40:47",
+      "raw_data": {
+        "room_id": 1369786007931594419,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lakefront Home | Serene & Cozy",
+        "title": "Home in Elk Grove",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1459.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $291.68",
+              "amount": 1458.0,
+              "currency": "$.42"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1355522423026097653/original/70358433-a602-47e9-b619-5c2161de9bae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1355522423026097653/original/2c617537-43fc-4da1-83ae-78ea2986dd71.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1355522423026097653/original/ea8e7b7c-abdc-4020-9d68-69466a73b844.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1355522423026097653/original/b8a0a77c-f4c2-4e3d-849d-73b7304cb91e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1355522423026097653/original/b6e832de-efe4-4b56-8d87-87edb902cac8.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1NTUyMjQyMzAyNjA5NzY1Mw==/original/f98d0468-2817-4018-963d-86f80f65e22f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.4226895340503,
+          "longitud": -121.47601902918889
+        }
+      }
+    },
+    "50969850": {
+      "room_id": 50969850,
+      "latitude": 38.42253,
+      "longitude": -121.46035,
+      "grid_id_assigned": null,
+      "grid_id_source": 103.0,
+      "bbox_id": "38.390400_-121.497610_38.435110_-121.452300",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 06:40:59",
+      "raw_data": {
+        "room_id": 50969850,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cosy and cheerful 3 bedroom home!",
+        "title": "Home in Elk Grove",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 650.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $216.67",
+              "amount": 650.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "97"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/9358efe9-2e3e-47dc-8add-fecfe027ca91.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/26421c2f-761b-431c-953a-13c84f4b5344.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d17470ce-99d7-4d17-b043-ce150fc8e0e1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ddaca2c7-748f-4c89-855d-7ad0fa8b1b71.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/93348576-d817-4cec-a433-b61c969b7b62.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a16c54ef-3741-4167-becd-519346eb8e56.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.42253,
+          "longitud": -121.46035
+        }
+      }
+    },
+    "1217662904251006054": {
+      "room_id": 1217662904251006054,
+      "latitude": 38.42038,
+      "longitude": -121.46382,
+      "grid_id_assigned": null,
+      "grid_id_source": 103.0,
+      "bbox_id": "38.390400_-121.497610_38.435110_-121.452300",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 06:41:18",
+      "raw_data": {
+        "room_id": 1217662904251006054,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "New Lakeside Unit in Laguna West",
+        "title": "Home in Elk Grove",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 617.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $205.41",
+              "amount": 616.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217662904251006054/original/a642482d-008e-431b-9b04-833e9af0f157.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217662904251006054/original/451d5e78-861a-471d-8def-4c6f61096f10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217662904251006054/original/da7f43a1-63ed-4e56-86ef-26dd0c54fb93.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217662904251006054/original/bc8fac46-a733-4399-93fa-7a2d58a6c40b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217662904251006054/original/765cfd3f-e8f9-4320-827e-30d569ae7c1b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217662904251006054/original/2d32c437-7349-43ec-917e-6a00df1129c6.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.42038,
+          "longitud": -121.46382
+        }
+      }
+    }
+  }
+}

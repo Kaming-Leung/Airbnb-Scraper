@@ -1,0 +1,129 @@
+{
+  "grid_id": 77,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 05:25:34",
+  "listings": {
+    "1316410503066042563": {
+      "room_id": 1316410503066042563,
+      "latitude": 38.5314,
+      "longitude": -121.2995,
+      "grid_id_assigned": null,
+      "grid_id_source": 77.0,
+      "bbox_id": "38.524530_-121.316340_38.569240_-121.271020",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 05:22:40",
+      "raw_data": {
+        "room_id": 1316410503066042563,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Eleganto Rancho",
+        "title": "Farm stay in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 28530.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $5,705.89",
+              "amount": 28529.0,
+              "currency": "$.43"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316410503066042563/original/9c2dd017-91a4-4294-92cb-e2e70e525b9a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316410503066042563/original/ef927256-f7c6-4dfd-98e1-ee2ab1a7743f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316410503066042563/original/926a85a5-92df-45ce-b33e-6d362b20f06b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316410503066042563/original/28eedaef-31fd-446e-8a5f-59c2a1a143e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316410503066042563/original/a77a102f-22bc-4996-a3f2-e1ac027e2853.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316410503066042563/original/8e8ed6bd-bb5a-4d30-a369-268d1bbf9e7b.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.5314,
+          "longitud": -121.2995
+        }
+      }
+    }
+  }
+}

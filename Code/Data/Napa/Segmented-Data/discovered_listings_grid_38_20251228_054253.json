@@ -1,0 +1,143 @@
+{
+  "grid_id": 38,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 05:42:53",
+  "listings": {
+    "679818664749927149": {
+      "room_id": 679818664749927149,
+      "latitude": 38.33099,
+      "longitude": -122.3005,
+      "grid_id_assigned": null,
+      "grid_id_source": 38.0,
+      "bbox_id": "38.329830_-122.308210_38.337580_-122.297700",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:39:59",
+      "raw_data": {
+        "room_id": 679818664749927149,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Huge Home, Great neighborhood",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -395.0,
+          "currency_symbol": "$.00"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4795.0,
+            "discount": 4400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $958.85",
+              "amount": 4794.0,
+              "currency": "$.24"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -395.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 4399.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Njc5ODE4NjY0NzQ5OTI3MTQ5/original/d8d61730-ef0b-4107-aa4a-04218c3422fa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Njc5ODE4NjY0NzQ5OTI3MTQ5/original/46094d08-f5d4-47c2-a788-2c61429db4ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Njc5ODE4NjY0NzQ5OTI3MTQ5/original/1a0697df-7286-4714-90c9-ec77c8be5aa2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Njc5ODE4NjY0NzQ5OTI3MTQ5/original/5a792259-2e56-4efc-887c-ad60390bd7f3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Njc5ODE4NjY0NzQ5OTI3MTQ5/original/6a706727-dc58-4cd2-9be9-96c078db7079.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Njc5ODE4NjY0NzQ5OTI3MTQ5/original/3cd691a3-4b03-4567-b3a0-4da9a9209dc7.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.33099,
+          "longitud": -122.3005
+        }
+      }
+    }
+  }
+}

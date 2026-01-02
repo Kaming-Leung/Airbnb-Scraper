@@ -1,0 +1,152 @@
+{
+  "grid_id": 5,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-21 04:02:48",
+  "listings": {
+    "1567730769829472289": {
+      "room_id": 1567730769829472289,
+      "latitude": 42.01882,
+      "longitude": -87.83968,
+      "grid_id_assigned": null,
+      "grid_id_source": 5.0,
+      "bbox_id": "41.994670_-87.841180_42.020000_-87.816470",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:02:43",
+      "raw_data": {
+        "room_id": 1567730769829472289,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Park Ridge Rez/O’hare",
+        "title": "Home in Park Ridge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 876.0,
+            "discount": 734.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $437.89",
+              "amount": 875.0,
+              "currency": "$.78"
+            },
+            {
+              "description": "Special offer",
+              "amount": -142.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 733.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567730769829472289/original/df02d5df-1dc1-4d0d-8888-9011fbb741c5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567730769829472289/original/a4dbe75b-0ccc-46bf-b982-59d25885c8e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567730769829472289/original/a5f3a9e7-b22b-44b9-b0a1-d96e95ce9ff7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567730769829472289/original/3e157958-88b7-4df4-a471-bbecc8811837.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567730769829472289/original/6ded64ae-ff7e-47d0-9a71-be686e96f059.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1567730769829472289/original/71dc92dc-02ed-421e-9ef9-07bf83fb7297.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.01882,
+          "longitud": -87.83968
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 73,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 02:57:45",
+  "listings": {
+    "684931932182217371": {
+      "room_id": 684931932182217371,
+      "latitude": 42.36677,
+      "longitude": -83.84003,
+      "grid_id_assigned": null,
+      "grid_id_source": 73.0,
+      "bbox_id": "42.342060_-83.848000_42.367500_-83.812450",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:54:50",
+      "raw_data": {
+        "room_id": 684931932182217371,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Dexter Retreat Spacious 1bd Apt outside Ann Arbor",
+        "title": "Apartment in Dexter",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1216.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $243.07",
+              "amount": 1215.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "49"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b867e61b-9e6c-449c-aa80-2a7d92621ab3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d3f36231-bf15-44ef-9b03-f2f31a6f6662.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/64130631-31a8-47d4-bb55-bfd60c4acd97.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/213d97e7-d2ad-470c-8341-b5235e27dcef.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fbec93df-383c-46a3-8285-11c52563b608.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8e93699e-991b-4738-a56e-43d51c81c528.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.36677,
+          "longitud": -83.84003
+        }
+      }
+    }
+  }
+}

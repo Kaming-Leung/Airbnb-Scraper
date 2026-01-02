@@ -1,0 +1,258 @@
+{
+  "grid_id": 1,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-25 23:08:11",
+  "listings": {
+    "23744781": {
+      "room_id": 23744781,
+      "latitude": 42.42706,
+      "longitude": -84.02847,
+      "grid_id_assigned": null,
+      "grid_id_source": 1.0,
+      "bbox_id": "42.418380_-84.061300_42.443820_-84.025750",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:05:18",
+      "raw_data": {
+        "room_id": 23744781,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lakefront cottage",
+        "title": "Home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1088.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $217.51",
+              "amount": 1087.0,
+              "currency": "$.54"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "57"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-23744781/original/dabdfc0d-a770-491c-8ef4-4c9bb52e6b10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-23744781/original/8fef29bb-2527-4f0d-9b41-71cf7c79d7c5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-23744781/original/03c107c0-2ec9-4cdf-b4fd-e5f7bb005fc4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-23744781/original/d71661bd-7b60-4cee-b2b1-3d1df5083eac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-23744781/original/130f228f-54e3-4f10-94e8-c51c5cddbf07.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-23744781/original/b840ba4c-6c1e-4cba-8ec3-340e3f048b50.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.42706,
+          "longitud": -84.02847
+        }
+      }
+    },
+    "873685851943149002": {
+      "room_id": 873685851943149002,
+      "latitude": 42.4314,
+      "longitude": -84.0292,
+      "grid_id_assigned": null,
+      "grid_id_source": 1.0,
+      "bbox_id": "42.418380_-84.061300_42.443820_-84.025750",
+      "pass_id": 5,
+      "discovered_at": "2025-12-25 23:05:47",
+      "raw_data": {
+        "room_id": 873685851943149002,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Michigan Getaway Cottage",
+        "title": "Home in Gregory",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 426.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $141.89",
+              "amount": 425.0,
+              "currency": "$.66"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.7,
+          "reviewCount": "33"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-873685851943149002/original/9cf39abc-cb27-4486-b4fd-3bb3a5b155df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-873685851943149002/original/d96c9ec0-8698-4e3b-a7e4-0f81dc6940cf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-873685851943149002/original/e3e4d33b-e56d-40b4-9c5a-5f18540ac27e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-873685851943149002/original/bfaddb72-2155-4640-863e-294cbfc4093d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-873685851943149002/original/03dc2cb7-f662-440b-90f8-f00369003109.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-873685851943149002/original/eef36da6-4764-4810-87e2-afb489ade5c5.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4314,
+          "longitud": -84.0292
+        }
+      }
+    }
+  }
+}

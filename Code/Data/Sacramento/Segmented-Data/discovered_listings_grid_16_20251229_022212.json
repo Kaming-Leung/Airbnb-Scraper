@@ -1,0 +1,890 @@
+{
+  "grid_id": 16,
+  "total_listings": 7,
+  "discovery_timestamp": "2025-12-29 02:22:12",
+  "listings": {
+    "1511172027521623525": {
+      "room_id": 1511172027521623525,
+      "latitude": 38.8045,
+      "longitude": -121.3591,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:19:18",
+      "raw_data": {
+        "room_id": 1511172027521623525,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Fiddyment Roost",
+        "title": "Home in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1115.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $223.00",
+              "amount": 1115.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTUxMTE3MjAyNzUyMTYyMzUyNQ==/original/e35348b4-75bf-4864-a277-d117be8f220a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511172027521623525/original/3336347c-19dd-4e17-be15-bc00e26a0d13.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511172027521623525/original/0a1c7fa1-492c-4128-bbc8-acd0e4e3f356.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511172027521623525/original/b28e126b-8625-44fe-a697-1fe39edfd182.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511172027521623525/original/23417cf4-cb9e-4b56-a1e8-d05126820605.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511172027521623525/original/8991c99f-b68c-4702-b8b9-1f35c3f789ab.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.8045,
+          "longitud": -121.3591
+        }
+      }
+    },
+    "723844297704619958": {
+      "room_id": 723844297704619958,
+      "latitude": 38.7984,
+      "longitude": -121.3459,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:19:18",
+      "raw_data": {
+        "room_id": 723844297704619958,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Resort Home-Central Location, Large Yard & Pool",
+        "title": "Villa in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2836.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $567.16",
+              "amount": 2835.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzIzODQ0Mjk3NzA0NjE5OTU4/original/d321ce20-dc0d-4afb-88ec-0c7c60d57eb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e84e3fdf-abb4-41a0-b57f-e7ad1a0498aa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-723844297704619958/original/8a4d706d-65f8-408f-83ce-181d165f359d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ce588904-60dc-420d-a913-ca913fe6e32b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eb1a8dca-884d-45b1-ae30-30403c19b87d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d932f746-3807-4a92-b6c5-a30a28427ad0.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.7984,
+          "longitud": -121.3459
+        }
+      }
+    },
+    "30979067": {
+      "room_id": 30979067,
+      "latitude": 38.80497,
+      "longitude": -121.33948,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:19:18",
+      "raw_data": {
+        "room_id": 30979067,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Home Sweet Home in Roseville",
+        "title": "Home in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3002.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $600.26",
+              "amount": 3001.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.84,
+          "reviewCount": "87"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzA5NzkwNjc%3D/original/00cb4c37-00d9-49f4-8faa-15b6b8f9b968.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzA5NzkwNjc%3D/original/91dddcc1-83d8-4f76-90a0-6a74bfe8f093.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzA5NzkwNjc%3D/original/3206f354-44fb-4248-904d-23601353503b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzA5NzkwNjc%3D/original/27a0a636-8d7e-45ad-a27e-98572532f9d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzA5NzkwNjc%3D/original/e0a7a7b8-01da-410a-a668-47103581a679.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzA5NzkwNjc%3D/original/6774dffb-3636-4066-bf8a-d9493ee4af1f.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.80497,
+          "longitud": -121.33948
+        }
+      }
+    },
+    "36068609": {
+      "room_id": 36068609,
+      "latitude": 38.80336,
+      "longitude": -121.34254,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 02:19:35",
+      "raw_data": {
+        "room_id": 36068609,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Room in Roseville",
+        "title": "Place to stay in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $68.47",
+              "amount": 205.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a9954ed8-112d-4838-9ecd-47339965c59e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/482ec313-a061-4cef-955c-b8a68905a130.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/79b46b01-790b-4436-8fb0-bf2ed5225e7f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1dc9a9da-c28a-49b3-b302-ff32eeaeb09a.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.80336,
+          "longitud": -121.34254
+        }
+      }
+    },
+    "1575703536789572098": {
+      "room_id": 1575703536789572098,
+      "latitude": 38.79912,
+      "longitude": -121.33117,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 4,
+      "discovered_at": "2025-12-29 02:19:42",
+      "raw_data": {
+        "room_id": 1575703536789572098,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "A single patio house at French vibes community.",
+        "title": "Place to stay in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $102.71",
+              "amount": 205.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575703536789572098/original/d16857a2-b0c8-491d-802e-3f7d12b9b386.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575703536789572098/original/496a3a9a-5405-4c59-ae35-f214365cde94.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575703536789572098/original/f3897a4c-81a4-46f7-a729-f161743a7029.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575703536789572098/original/d7c308e1-81ec-4381-aa94-416e502bc162.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575703536789572098/original/21395c7a-28af-4f38-821d-8161b0b6cd34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575703536789572098/original/f345b479-6f08-4ce4-8e3e-c08db155aa02.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.79912,
+          "longitud": -121.33117
+        }
+      }
+    },
+    "1559779111004488296": {
+      "room_id": 1559779111004488296,
+      "latitude": 38.79905,
+      "longitude": -121.33099,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 02:19:49",
+      "raw_data": {
+        "room_id": 1559779111004488296,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "A single patio home in the French style community",
+        "title": "Place to stay in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 230.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $76.46",
+              "amount": 229.0,
+              "currency": "$.38"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1559779111004488296/original/3bf4113a-97e7-47fd-b428-c6a95ba2e18e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1559779111004488296/original/d9e364eb-e071-4502-9e27-ed59ff4bc6ee.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1559779111004488296/original/f8a24259-5cda-44ff-9820-ebeaeddfea06.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1559779111004488296/original/8cbb92a6-9952-4e4a-a5e3-23855492ae71.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1559779111004488296/original/d6532304-a2ee-4e49-aa72-e577b5e3457c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.79905,
+          "longitud": -121.33099
+        }
+      }
+    },
+    "902964146358732864": {
+      "room_id": 902964146358732864,
+      "latitude": 38.79798,
+      "longitude": -121.32992,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.792790_-121.361660_38.837500_-121.316340",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 02:19:49",
+      "raw_data": {
+        "room_id": 902964146358732864,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3cd9b7b6-a1b3-452c-a855-2c335edf404d.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Arthur",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3cd9b7b6-a1b3-452c-a855-2c335edf404d.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 6
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Quiet & Safe room w/private bath, shared kitchen",
+        "title": "Room in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 251.0,
+            "discount": 206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $83.47",
+              "amount": 250.0,
+              "currency": "$.41"
+            },
+            {
+              "description": "Special offer",
+              "amount": -45.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 205.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902964146358732864/original/5a8fe45d-257b-47fc-ad12-9c0534c3879b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902964146358732864/original/8a6786fd-749d-4b69-9860-cae61b320ca6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902964146358732864/original/4e2f3ca7-db05-4497-a473-8c0ceed9afc0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902964146358732864/original/3f318f1a-56d4-42db-853a-d3a898b02681.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902964146358732864/original/09e3aa3a-3ceb-4132-9397-21e0303430bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902964146358732864/original/9a93b5c6-120b-480b-a20a-1b585f9d4ade.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.79798,
+          "longitud": -121.32992
+        }
+      }
+    }
+  }
+}

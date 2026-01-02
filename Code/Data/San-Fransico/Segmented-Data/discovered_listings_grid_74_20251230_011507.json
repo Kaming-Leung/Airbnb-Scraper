@@ -1,0 +1,249 @@
+{
+  "grid_id": 74,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-30 01:15:07",
+  "listings": {
+    "702424188669035629": {
+      "room_id": 702424188669035629,
+      "latitude": 37.43311,
+      "longitude": -122.38073,
+      "grid_id_assigned": null,
+      "grid_id_source": 74.0,
+      "bbox_id": "37.425760_-122.414040_37.452550_-122.380260",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 01:12:13",
+      "raw_data": {
+        "room_id": 702424188669035629,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Ranch Camping",
+        "title": "Campsite in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1649.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $329.80",
+              "amount": 1649.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzAyNDI0MTg4NjY5MDM1NjI5/original/ecc13462-32bc-4891-89ad-aa552a15c088.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-702424188669035629/original/e31892c6-ee97-45a3-9fe3-a7a4dd182239.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-702424188669035629/original/b901a502-c108-43b8-b475-3ee34544eb92.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzAyNDI0MTg4NjY5MDM1NjI5/original/4fd81396-118a-46a7-8187-c802da64dc48.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-702424188669035629/original/7cb9e991-553c-43ba-93df-ea5c0c324631.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-702424188669035629/original/40c87ae0-6bf0-4d7e-836b-46d7b8c5461f.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43311,
+          "longitud": -122.38073
+        }
+      }
+    },
+    "1203202192843299384": {
+      "room_id": 1203202192843299384,
+      "latitude": 37.43389,
+      "longitude": -122.38127,
+      "grid_id_assigned": null,
+      "grid_id_source": 74.0,
+      "bbox_id": "37.425760_-122.414040_37.452550_-122.380260",
+      "pass_id": 5,
+      "discovered_at": "2025-12-30 01:12:43",
+      "raw_data": {
+        "room_id": 1203202192843299384,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private Ranch Glamping",
+        "title": "Tent in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 828.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $275.78",
+              "amount": 827.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1203202192843299384/original/4ffd4f78-e3d1-4365-a853-b5c379170758.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwMzIwMjE5Mjg0MzI5OTM4NA%3D%3D/original/918a5381-db61-4f96-86f6-06f606bde669.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwMzIwMjE5Mjg0MzI5OTM4NA%3D%3D/original/c0d58c53-9137-4917-b3be-291277ec5be0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwMzIwMjE5Mjg0MzI5OTM4NA%3D%3D/original/25eccf31-4b43-4109-9499-ba2844d2de49.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwMzIwMjE5Mjg0MzI5OTM4NA%3D%3D/original/a26249e3-a7be-4494-834e-ca2328054526.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwMzIwMjE5Mjg0MzI5OTM4NA%3D%3D/original/47eae3b2-d885-40b5-ba28-3bca3572eaa9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43389,
+          "longitud": -122.38127
+        }
+      }
+    }
+  }
+}

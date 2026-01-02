@@ -1,0 +1,419 @@
+{
+  "grid_id": 85,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-26 03:33:47",
+  "listings": {
+    "1015380538572935006": {
+      "room_id": 1015380538572935006,
+      "latitude": 42.35281,
+      "longitude": -83.41709,
+      "grid_id_assigned": null,
+      "grid_id_source": 85.0,
+      "bbox_id": "42.342060_-83.421410_42.367500_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 03:30:53",
+      "raw_data": {
+        "room_id": 1015380538572935006,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy home in 5-star Livonia/Westland neighborhood",
+        "title": "Home in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1630.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $326.00",
+              "amount": 1630.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.29,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1015380538572935006/original/947829c7-b8d1-4259-8cbe-29a1ca182c69.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1015380538572935006/original/2265e0bd-1fa9-4e52-9a03-a3f6a6e052a6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1015380538572935006/original/5a4d9ce9-57eb-485d-9c6c-d66e611866d0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1015380538572935006/original/469fd57a-1da3-4682-9d5d-041c824d520d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1015380538572935006/original/7d17a3af-37b7-47bd-bba1-37d4675895e0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1015380538572935006/original/06abb79b-fc65-4dcd-a094-028639e7dbe5.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.35281,
+          "longitud": -83.41709
+        }
+      }
+    },
+    "1016157014387870936": {
+      "room_id": 1016157014387870936,
+      "latitude": 42.35245,
+      "longitude": -83.41674,
+      "grid_id_assigned": null,
+      "grid_id_source": 85.0,
+      "bbox_id": "42.342060_-83.421410_42.367500_-83.385860",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 03:31:06",
+      "raw_data": {
+        "room_id": 1016157014387870936,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/9f5e630e-b9f9-49e6-a1f2-943551e1950b.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Rosa",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/9f5e630e-b9f9-49e6-a1f2-943551e1950b.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 reviews on the listing",
+              "label": "Reviews",
+              "value": "6",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.67 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.67",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 5,
+            "months": 7
+          },
+          "ratingCount": 6,
+          "ratingAverage": 4.67
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A Gem - Central to Canton, Westland & Livonia",
+        "title": "Room in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 200.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $66.67",
+              "amount": 200.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/fc3291b7-552e-4a38-8a15-18e4615a643b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1015380538572935006/original/c1493ad9-c1b1-4cb9-b711-13a318e51e59.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1015380538572935006/original/e580dad0-d50d-4298-b49b-09eeea587d62.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bf005350-466a-4d1c-a973-9aa3e2b06cdd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bd18ebe6-baf4-4c34-998f-ad68b20e06fa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7c543781-2f47-45e3-8b19-ee70ee2eba07.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.35245,
+          "longitud": -83.41674
+        }
+      }
+    },
+    "1036432219469342327": {
+      "room_id": 1036432219469342327,
+      "latitude": 42.35352,
+      "longitude": -83.41651,
+      "grid_id_assigned": null,
+      "grid_id_source": 85.0,
+      "bbox_id": "42.342060_-83.421410_42.367500_-83.385860",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 03:31:06",
+      "raw_data": {
+        "room_id": 1036432219469342327,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/9f5e630e-b9f9-49e6-a1f2-943551e1950b.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Rosa",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/9f5e630e-b9f9-49e6-a1f2-943551e1950b.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5 reviews on the listing",
+              "label": "Reviews",
+              "value": "5",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 5,
+            "months": 7
+          },
+          "ratingCount": 5,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious peaceful home- No Car No problem- Central",
+        "title": "Room in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 205.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $68.33",
+              "amount": 205.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1036432219469342327/original/80b54313-e33b-43bd-90c0-9a18b6022881.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1015380538572935006/original/10142be4-9c19-40b2-9d03-6073b402e71e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1036432219469342327/original/8472131a-5957-4692-98de-568a00b6ae1d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1036432219469342327/original/74499816-087f-45af-a51e-2cfba9e09302.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1036432219469342327/original/ca65589c-d85e-47ad-81b2-f481a4b29a04.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1036432219469342327/original/ec352af8-fb60-444e-bc0d-f9ca5459fc5d.png"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.35352,
+          "longitud": -83.41651
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "grid_id": 2,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 23:28:56",
+  "listings": {
+    "52718026": {
+      "room_id": 52718026,
+      "latitude": 38.12024,
+      "longitude": -122.59093,
+      "grid_id_assigned": null,
+      "grid_id_source": 2,
+      "bbox_id": "38.118970_-122.595750_38.144700_-122.560640",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:26:02",
+      "raw_data": {
+        "room_id": 52718026,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious 4 Bedroom Home w/ Yard near Wine Country",
+        "title": "Home in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2249.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $449.62",
+              "amount": 2248.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "96"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52718026/original/b658832e-4775-42e4-9b82-53ad7b93cd17.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52718026/original/fd97ecc4-43e1-4d63-adc4-16b0d18098c2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/40474eef-6e54-4517-86de-d8877e4be36c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8e996fc7-c13d-4372-b211-5a2e8e6e8783.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8843bcd3-01a0-4e8d-afb4-836621f41d32.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a95cbe35-7fae-47cb-bf53-08c668c17115.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.12024,
+          "longitud": -122.59093
+        }
+      }
+    },
+    "566895428652304672": {
+      "room_id": 566895428652304672,
+      "latitude": 38.1206,
+      "longitude": -122.585,
+      "grid_id_assigned": null,
+      "grid_id_source": 2,
+      "bbox_id": "38.118970_-122.595750_38.144700_-122.560640",
+      "pass_id": 13,
+      "discovered_at": "2026-01-01 23:27:20",
+      "raw_data": {
+        "room_id": 566895428652304672,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "1 Bedroom w/Mtn View\n Napa, Sonoma, Marin Coast.",
+        "title": "Guest suite in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 394.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $196.86",
+              "amount": 393.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "56"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-566895428652304672/original/c9957217-7a22-469f-8b5c-285b8e6d9440.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-566895428652304672/original/e44dde01-b293-4dae-99ed-b92aa77500cf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-566895428652304672/original/4e4a7da2-7b32-4da3-a64d-9285aa227622.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-566895428652304672/original/708a4cca-87ba-4013-be8f-8083726e39d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-566895428652304672/original/4a83dd70-042e-4046-bd9e-b567e41f5a3b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-566895428652304672/original/89fce111-ddd7-42f1-97c4-3da0b34a8710.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.1206,
+          "longitud": -122.585
+        }
+      }
+    }
+  }
+}

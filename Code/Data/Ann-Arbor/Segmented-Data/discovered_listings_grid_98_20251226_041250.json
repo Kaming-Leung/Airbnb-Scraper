@@ -1,0 +1,399 @@
+{
+  "grid_id": 98,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-26 04:12:50",
+  "listings": {
+    "1225335653030149197": {
+      "room_id": 1225335653030149197,
+      "latitude": 42.31677,
+      "longitude": -83.72182,
+      "grid_id_assigned": null,
+      "grid_id_source": 98.0,
+      "bbox_id": "42.316620_-83.741350_42.342060_-83.705800",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:09:56",
+      "raw_data": {
+        "room_id": 1225335653030149197,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury 6 BR w/ Hot Tub!",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 7321.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,464.13",
+              "amount": 7320.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1225335653030149197/original/7a78ab4b-263f-45e2-a08e-312b77aba6ee.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1225335653030149197/original/84a4601f-1070-41d7-a84a-37636dd80843.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1225335653030149197/original/b2445e1e-7594-48d3-b899-0d36db5280e9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1225335653030149197/original/b251f3dd-a0e0-4cfd-8906-0f7b62db3e97.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1225335653030149197/original/7e0057dd-a4d1-463d-9eea-23b0be21ee72.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1225335653030149197/original/66709353-fa93-4672-b4ba-9fa315139952.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.31677,
+          "longitud": -83.72182
+        }
+      }
+    },
+    "997306096840490315": {
+      "room_id": 997306096840490315,
+      "latitude": 42.32174,
+      "longitude": -83.71739,
+      "grid_id_assigned": null,
+      "grid_id_source": 98.0,
+      "bbox_id": "42.316620_-83.741350_42.342060_-83.705800",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 04:10:02",
+      "raw_data": {
+        "room_id": 997306096840490315,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/users/13808208/profile_pic/1438496436/original.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Rex",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/13808208/profile_pic/1438496436/original.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5 reviews on the listing",
+              "label": "Reviews",
+              "value": "5",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.4 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.4",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 6
+          },
+          "ratingCount": 5,
+          "ratingAverage": 4.4
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet room near UofM campus",
+        "title": "Room in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 266.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $132.95",
+              "amount": 265.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.4,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-997306096840490315/original/3dedd4df-491c-488a-ac7f-6802dd781eb3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-997306096840490315/original/6b48941f-1bc8-42d7-a3f5-eb619804043c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-997306096840490315/original/158eee51-6400-40e8-90e0-47964e61cd3d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-997306096840490315/original/4f07fb39-d5bb-4212-918f-7623e461172d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-997306096840490315/original/04d0548d-10fe-4a86-9e8e-907e0f827b1e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.32174,
+          "longitud": -83.71739
+        }
+      }
+    },
+    "1547445435668184262": {
+      "room_id": 1547445435668184262,
+      "latitude": 42.33106974785632,
+      "longitude": -83.7141523565528,
+      "grid_id_assigned": null,
+      "grid_id_source": 98.0,
+      "bbox_id": "42.316620_-83.741350_42.342060_-83.705800",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 04:10:08",
+      "raw_data": {
+        "room_id": 1547445435668184262,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "A large Master bedroom in a townhouse",
+        "title": "Place to stay in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 202.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $67.27",
+              "amount": 201.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547445435668184262/original/8bad3af2-b8d7-4bca-a96a-ce39d180de91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547445435668184262/original/dd8b84c7-5b81-4aab-baee-7c7e43b17591.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547445435668184262/original/b1002021-5913-4052-97bf-b7d4d2023a72.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547445435668184262/original/a1116c00-d4ed-4f99-89fc-3886b628b79d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547445435668184262/original/c73a8df7-c0dc-4ac4-981e-c2488ec3fa64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1547445435668184262/original/feb8ac9d-5ded-4e19-a42b-a600fa20b184.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.33106974785632,
+          "longitud": -83.7141523565528
+        }
+      }
+    }
+  }
+}

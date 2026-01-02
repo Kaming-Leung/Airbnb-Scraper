@@ -1,0 +1,269 @@
+{
+  "grid_id": 39,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 01:46:50",
+  "listings": {
+    "1563196412166966880": {
+      "room_id": 1563196412166966880,
+      "latitude": 37.31798,
+      "longitude": -122.07573,
+      "grid_id_assigned": null,
+      "grid_id_source": 39.0,
+      "bbox_id": "37.293330_-122.095030_37.319770_-122.065300",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:43:56",
+      "raw_data": {
+        "room_id": 1563196412166966880,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "House near McLellan Ranch!",
+        "title": "Home in Cupertino",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1712.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $342.35",
+              "amount": 1711.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563196412166966880/original/08d2e06a-5b3a-4179-ac07-1df5620c6605.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563196412166966880/original/28ba9a7a-19ec-4873-8437-ae8d4ce585ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563196412166966880/original/cd1d46af-3281-4feb-8c8b-124ec8f98af6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563196412166966880/original/fbc63143-6621-49dd-9dad-ef7afe06c2b3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563196412166966880/original/7a34f88d-994b-4eb5-b33e-97db0c4de256.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563196412166966880/original/088f4e9f-8b1d-494b-a343-707a4dbd8904.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.31798,
+          "longitud": -122.07573
+        }
+      }
+    },
+    "1069568832340995485": {
+      "room_id": 1069568832340995485,
+      "latitude": 37.31461,
+      "longitude": -122.06887,
+      "grid_id_assigned": null,
+      "grid_id_source": 39.0,
+      "bbox_id": "37.293330_-122.095030_37.319770_-122.065300",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:43:56",
+      "raw_data": {
+        "room_id": 1069568832340995485,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-14104954/original/176b2e3b-b433-4d0f-b91c-e99468bf4acc.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Kebin",
+          "titleText": "Started hosting in 2024",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-14104954/original/176b2e3b-b433-4d0f-b91c-e99468bf4acc.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 11
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Room in house",
+        "title": "Room in Cupertino",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5009.0,
+            "discount": 4109.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,001.65",
+              "amount": 5008.0,
+              "currency": "$.24"
+            },
+            {
+              "description": "Special offer",
+              "amount": -900.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 4108.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069568832340995485/original/edc1bda0-7139-4486-8676-850b0b4620cd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069568832340995485/original/c9088b8d-dd19-4677-8290-9f8827955a79.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069568832340995485/original/9e534f7b-0a07-4574-906a-a45c01e5a5e2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069568832340995485/original/1e4dad3f-e2e4-4da5-863e-fa2f3238828c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069568832340995485/original/2d60484f-6c54-474f-afd4-16567899aba0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.31461,
+          "longitud": -122.06887
+        }
+      }
+    }
+  }
+}

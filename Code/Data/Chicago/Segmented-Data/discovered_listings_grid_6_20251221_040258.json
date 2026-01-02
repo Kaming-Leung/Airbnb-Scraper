@@ -1,0 +1,254 @@
+{
+  "grid_id": 6,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-21 04:02:58",
+  "listings": {
+    "907475998974766052": {
+      "room_id": 907475998974766052,
+      "latitude": 41.99885782264631,
+      "longitude": -87.80041780122136,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "41.994670_-87.816470_42.020000_-87.791760",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:02:53",
+      "raw_data": {
+        "room_id": 907475998974766052,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "By O’Hare* Norwood & Edison Park* Family Friendly!",
+        "title": "Apartment in Norwood Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 431.0,
+            "discount": 388.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $194.00",
+              "amount": 388.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "50"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907475998974766052/original/59a3b17c-db71-400b-9a27-566a9c0013bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907475998974766052/original/45eb5dc9-ce80-46ff-a8b0-22a8c8b8ef4c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907475998974766052/original/49e2cc17-1eae-4e75-a58e-5e7adf9d73d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907475998974766052/original/d16e5458-8200-4131-a47a-09b04631bc72.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907475998974766052/original/9be63b7d-f757-4619-b83f-9718f0f04981.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907475998974766052/original/1759eee8-a743-4499-988f-25cf3fc123ae.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 41.99885782264631,
+          "longitud": -87.80041780122136
+        }
+      }
+    },
+    "1395155617788133171": {
+      "room_id": 1395155617788133171,
+      "latitude": 41.99954,
+      "longitude": -87.80303,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "41.994670_-87.816470_42.020000_-87.791760",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:02:53",
+      "raw_data": {
+        "room_id": 1395155617788133171,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Nathan's vintage bungalow.",
+        "title": "Home in Norwood Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 414.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $206.56",
+              "amount": 413.0,
+              "currency": "$.11"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1395155617788133171/original/9f6a4317-09a6-4b44-891b-4f727e12dd88.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1395155617788133171/original/fbbe3f64-f2e2-4e29-8ba8-e4a336f9987c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1395155617788133171/original/62747196-e0e7-4e01-9fc2-514bd2863493.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1395155617788133171/original/2220ed71-50fd-4a24-8c3b-7336ce0965d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1395155617788133171/original/d8196a1f-1948-48a3-ab37-5305d3c3b768.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1395155617788133171/original/fd07ac26-1cce-4e6d-9730-325d5674f211.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 41.99954,
+          "longitud": -87.80303
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "grid_id": 25,
+  "total_listings": 7,
+  "discovery_timestamp": "2025-12-28 05:03:49",
+  "listings": {
+    "930660592630208418": {
+      "room_id": 930660592630208418,
+      "latitude": 38.34201,
+      "longitude": -122.32587,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 930660592630208418,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Senza's Bliss: Serene Haven",
+        "title": "Hotel in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1601.0,
+            "discount": 1386.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $277.18",
+              "amount": 1385.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "102"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930660592630208418/original/f50f84fb-d0d9-4b1c-bc78-e87736e94d1c.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930660592630208418/original/4c6b2834-178f-4cf7-beb3-de60311f6038.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930660592630208418/original/8d8942c7-1bc1-4421-bf95-eafb46bd1526.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930660592630208418/original/83e7ea7c-57f5-490d-ade1-b93d6cddbdf3.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930660592630208418/original/c3a8c003-8a03-43b9-9c2b-6e968ebef4ca.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930660592630208418/original/2e4520e0-2f6c-4278-961c-12cccd4cfe54.png"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.34201,
+          "longitud": -122.32587
+        }
+      }
+    },
+    "1225668582680101086": {
+      "room_id": 1225668582680101086,
+      "latitude": 38.34444,
+      "longitude": -122.32825,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 1225668582680101086,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious&PeacefulOasis!Beautiful!PerfectlyLocated!",
+        "title": "Condo in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1988.0,
+            "discount": 1313.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $262.47",
+              "amount": 1312.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "94"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1225668582680101086/original/3c438a91-c00a-408b-b777-21a8c24a3ed0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1225668582680101086/original/820efa5f-fb45-4e09-b27f-f3c7c0c11549.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1225668582680101086/original/915629f8-effd-4adc-865d-bec623414ece.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1225668582680101086/original/c1fef0cd-6af6-4ecd-9851-c9a7b5ed43a7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1225668582680101086/original/3d003681-76ce-4ed4-8433-376f3bee9369.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1225668582680101086/original/351700ad-fd27-4736-b6ad-71ac2f49c19f.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.34444,
+          "longitud": -122.32825
+        }
+      }
+    },
+    "990601929069149873": {
+      "room_id": 990601929069149873,
+      "latitude": 38.3416,
+      "longitude": -122.3247,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 990601929069149873,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Superior Suite amidst scenic vines",
+        "title": "Hotel in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2495.0,
+            "discount": 2262.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $452.33",
+              "amount": 2261.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.79,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601929069149873/original/d300046a-ec21-45cd-bece-46f94fcdcfd8.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601929069149873/original/0e23e0e3-e129-4b2a-9906-d48d1d821474.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601929069149873/original/caabfe46-71b5-4fd2-9c93-86aae290b78a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601929069149873/original/01afb6cb-b24e-4634-8f6b-ae8dea8f5542.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601929069149873/original/557d70b6-26e3-47a8-bef6-fa361c0cd9b0.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601929069149873/original/cbb485e6-7929-43e2-9824-8a19d169a5c4.png"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.3416,
+          "longitud": -122.3247
+        }
+      }
+    },
+    "930661229148184680": {
+      "room_id": 930661229148184680,
+      "latitude": 38.34173,
+      "longitude": -122.32408,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 930661229148184680,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Unwind in style amidst scenic vines",
+        "title": "Hotel in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2621.0,
+            "discount": 1976.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $395.18",
+              "amount": 1975.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930661229148184680/original/c0d2e7d2-2c49-4e5b-b1ae-2d1e73780060.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930661229148184680/original/532a7490-a959-43d3-93a5-9bac4e05e369.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930661229148184680/original/a11db5ed-1faa-47b3-91f7-0c25ff411699.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930661229148184680/original/8af87800-5aba-47c0-a172-ec615d18a77a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930661229148184680/original/2bf634e9-76cc-4407-9ef5-3af3c0932b51.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-930661229148184680/original/1b1aa7b7-4586-484c-958a-96b5f0c00fa6.png"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.34173,
+          "longitud": -122.32408
+        }
+      }
+    },
+    "16615375": {
+      "room_id": 16615375,
+      "latitude": 38.34438,
+      "longitude": -122.32363,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 16615375,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Vineyard House In The Heart Of Napa Valley",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3453.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $690.41",
+              "amount": 3452.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "398"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d903ef2e-a0b9-43d7-834b-dc1d449e7b91.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-16615375/original/31a9efe2-9cf0-4dae-b1b9-57389f49239e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-16615375/original/c96a3be7-e453-4f72-b97f-5356a1340d5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-16615375/original/8690c5bf-540d-4509-bfdb-390fa02a7345.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-16615375/original/c3713323-8937-4587-8f2f-3220e7ecc654.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c1025f61-fb5f-42d5-83e1-c8e48650abc0.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.34438,
+          "longitud": -122.32363
+        }
+      }
+    },
+    "990601439844865356": {
+      "room_id": 990601439844865356,
+      "latitude": 38.34262,
+      "longitude": -122.3246,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 990601439844865356,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Comfort Deluxe amidst scenic vines",
+        "title": "Hotel in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1804.0,
+            "discount": 1535.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $306.95",
+              "amount": 1534.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.5,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601439844865356/original/fe911b50-f0a0-43a8-aecf-ad9cc8e51ed7.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601439844865356/original/d24d79f2-8e64-4d19-b04e-549845baf624.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601439844865356/original/fcae300f-de17-44b3-b56f-ba614293e28a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601439844865356/original/59dacb7e-dc02-4084-affa-c07dfc5f2b6d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601439844865356/original/ffe7cb5c-0184-49e2-a582-99658cd00160.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990601439844865356/original/2be23fc2-d69c-47f4-ac27-4131a9c93b07.png"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.34262,
+          "longitud": -122.3246
+        }
+      }
+    },
+    "990602575799402951": {
+      "room_id": 990602575799402951,
+      "latitude": 38.34172,
+      "longitude": -122.32414,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "38.337580_-122.329230_38.345320_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:00:58",
+      "raw_data": {
+        "room_id": 990602575799402951,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Junior in style amidst scenic vines",
+        "title": "Hotel in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1418.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $283.53",
+              "amount": 1417.0,
+              "currency": "$.66"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990602575799402951/original/a163ac0f-db71-4b1a-b3fc-5d05c9eb2778.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990602575799402951/original/0eff6650-51d7-47d0-8144-747db9b745d1.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990602575799402951/original/070acc0e-3970-4ee0-9ad2-11d9b125a4c2.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990602575799402951/original/298ca83a-01ce-4399-a7c3-e64fa38bff4b.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990602575799402951/original/3ebb333d-6e4e-4ee7-8f91-9b375421d1f3.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-990602575799402951/original/82b9ddd4-9a0d-41a6-b483-c7498c09f7a5.png"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.34172,
+          "longitud": -122.32414
+        }
+      }
+    }
+  }
+}

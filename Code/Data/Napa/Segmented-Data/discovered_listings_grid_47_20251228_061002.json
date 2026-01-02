@@ -1,0 +1,701 @@
+{
+  "grid_id": 47,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-28 06:10:02",
+  "listings": {
+    "1132317647293881492": {
+      "room_id": 1132317647293881492,
+      "latitude": 38.32477,
+      "longitude": -122.32739,
+      "grid_id_assigned": null,
+      "grid_id_source": 47.0,
+      "bbox_id": "38.322090_-122.329230_38.329830_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:07:08",
+      "raw_data": {
+        "room_id": 1132317647293881492,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/4e572698-893b-4104-acfd-769611336276.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jeannie",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/4e572698-893b-4104-acfd-769611336276.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "32 reviews on the listing",
+              "label": "Reviews",
+              "value": "32",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 7
+          },
+          "ratingCount": 32,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Top-Rated Napa Boutique B&B, 2BR Gourmet Breakfast",
+        "title": "Rooms in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2342.0,
+            "discount": 1767.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $468.29",
+              "amount": 2341.0,
+              "currency": "$.43"
+            },
+            {
+              "description": "Special offer",
+              "amount": -93.0,
+              "currency": "$.24"
+            },
+            {
+              "description": "Special offer",
+              "amount": -122.0,
+              "currency": "$.76"
+            },
+            {
+              "description": "Special offer",
+              "amount": -122.0,
+              "currency": "$.76"
+            },
+            {
+              "description": "Special offer",
+              "amount": -158.0,
+              "currency": "$.85"
+            },
+            {
+              "description": "Special offer",
+              "amount": -77.0,
+              "currency": "$.70"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1766.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "32"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-35204882/original/ef54f102-169f-4126-bd87-4140fbe182aa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1132317647293881492/original/4b4b75d8-ab69-4d3f-b166-66ca25f2bfaf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1132317647293881492/original/a3c3f6fd-7b64-4edb-842a-721992b23a63.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-35204882/original/d6dcfb68-444a-4a03-afb0-d517e435d6d2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1132317647293881492/original/14d624a2-c968-492b-b7eb-5892c53c24c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1132317647293881492/original/fae21934-baa4-408c-a6f5-9c6d618ee4a3.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.32477,
+          "longitud": -122.32739
+        }
+      }
+    },
+    "50215440": {
+      "room_id": 50215440,
+      "latitude": 38.32221,
+      "longitude": -122.31924,
+      "grid_id_assigned": null,
+      "grid_id_source": 47.0,
+      "bbox_id": "38.322090_-122.329230_38.329830_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:07:08",
+      "raw_data": {
+        "room_id": 50215440,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 12 – 17",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 12 – 17",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Heart of Napa Modern Beauty + Hot Tub and Gazebo",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5763.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,152.59",
+              "amount": 5762.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/225c6d58-fc49-4f88-b8ea-6593e2fa5cc8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/52451e32-500c-4c6d-8887-7e6fd8d634ff.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-50215440/original/a0d94360-b702-4edb-8313-94754694fe80.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-50215440/original/ef6c4141-1d20-4fd2-a79d-d8a94799f2dd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-50215440/original/7ebfb295-a1fd-4e75-a7b7-189c37f43448.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-50215440/original/c56faec7-9290-4e55-ba8c-1414f1960f26.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.32221,
+          "longitud": -122.31924
+        }
+      }
+    },
+    "34945371": {
+      "room_id": 34945371,
+      "latitude": 38.32409,
+      "longitude": -122.32814,
+      "grid_id_assigned": null,
+      "grid_id_source": 47.0,
+      "bbox_id": "38.322090_-122.329230_38.329830_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:07:08",
+      "raw_data": {
+        "room_id": 34945371,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/4e572698-893b-4104-acfd-769611336276.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jeannie",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/4e572698-893b-4104-acfd-769611336276.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "90 reviews on the listing",
+              "label": "Reviews",
+              "value": "90",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.99 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.99",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 7
+          },
+          "ratingCount": 90,
+          "ratingAverage": 4.99
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "King Room in Top Napa Boutique B&B • Outdoor Oasis",
+        "title": "Room in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1332.0,
+            "discount": 1017.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $266.22",
+              "amount": 1331.0,
+              "currency": "$.10"
+            },
+            {
+              "description": "Special offer",
+              "amount": -50.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Special offer",
+              "amount": -38.0,
+              "currency": "$.07"
+            },
+            {
+              "description": "Special offer",
+              "amount": -59.0,
+              "currency": "$.64"
+            },
+            {
+              "description": "Special offer",
+              "amount": -101.0,
+              "currency": "$.52"
+            },
+            {
+              "description": "Special offer",
+              "amount": -65.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1016.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "90"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-34945371/original/4cac221d-303f-4142-b4cf-a35c70765506.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-34945371/original/fdc1577c-d82c-41e1-9ed4-7893709d62b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-34945371/original/0ee5fd40-b905-452a-aa9b-cd630f82c64d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-34945371/original/9b50448d-2cd1-47e0-8310-45d2cf24d7e1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bd2b337c-db17-452a-90cf-66737f319096.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-34945371/original/a282b968-86e9-4b7f-ab0b-ec610af4f060.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.32409,
+          "longitud": -122.32814
+        }
+      }
+    },
+    "35204882": {
+      "room_id": 35204882,
+      "latitude": 38.32546,
+      "longitude": -122.32742,
+      "grid_id_assigned": null,
+      "grid_id_source": 47.0,
+      "bbox_id": "38.322090_-122.329230_38.329830_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:07:08",
+      "raw_data": {
+        "room_id": 35204882,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/4e572698-893b-4104-acfd-769611336276.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jeannie",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/4e572698-893b-4104-acfd-769611336276.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "104 reviews on the listing",
+              "label": "Reviews",
+              "value": "104",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 7
+          },
+          "ratingCount": 104,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Queen Room in Napa Boutique B&B, Gourmet Breakfast",
+        "title": "Room in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1329.0,
+            "discount": 1064.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $265.80",
+              "amount": 1329.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -53.0,
+              "currency": "$.75"
+            },
+            {
+              "description": "Special offer",
+              "amount": -94.0,
+              "currency": "$.16"
+            },
+            {
+              "description": "Special offer",
+              "amount": -50.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Special offer",
+              "amount": -37.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Special offer",
+              "amount": -28.0,
+              "currency": "$.98"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1063.0,
+              "currency": "$.91"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "104"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-35204882/original/d6dcfb68-444a-4a03-afb0-d517e435d6d2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-35204882/original/e0f5ebfa-0a49-4e8e-9a76-0562639b2645.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-35204882/original/d9cc222a-ce7a-4934-b702-2c8d377ad853.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-35204882/original/ef54f102-169f-4126-bd87-4140fbe182aa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f5468d31-e4f2-4572-b6c3-198ff8db5b9f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-35204882/original/2cbee450-4f73-4afe-b588-417778f2d0c0.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.32546,
+          "longitud": -122.32742
+        }
+      }
+    }
+  }
+}

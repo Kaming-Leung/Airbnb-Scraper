@@ -1,0 +1,499 @@
+{
+  "grid_id": 77,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-28 00:14:43",
+  "listings": {
+    "1409434823892308395": {
+      "room_id": 1409434823892308395,
+      "latitude": 42.30108334514736,
+      "longitude": -83.12546015677559,
+      "grid_id_assigned": null,
+      "grid_id_source": 77.0,
+      "bbox_id": "42.277090_-83.142620_42.302020_-83.107660",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 00:11:53",
+      "raw_data": {
+        "room_id": 1409434823892308395,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cityside Charm 2BR Near Downtown",
+        "title": "Guest suite in Detroit",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 534.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $266.87",
+              "amount": 533.0,
+              "currency": "$.73"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.76,
+          "reviewCount": "34"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1409434823892308395/original/4ff326f3-a977-4e36-ad36-69906c467767.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1409434823892308395/original/e030880d-ada9-4a38-876c-1c3cbb3f16b2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1409434823892308395/original/d63ed363-57b7-4354-9597-780b2d0c321e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1409434823892308395/original/bdd1d1dc-e3cb-447c-a3b2-0de86f6c92a9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1409434823892308395/original/ed2db875-b0d1-4c04-909f-0b5c58fbe77e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1409434823892308395/original/5e5c3ba8-74af-4069-9970-06a643d459b9.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.30108334514736,
+          "longitud": -83.12546015677559
+        }
+      }
+    },
+    "1437557221967518321": {
+      "room_id": 1437557221967518321,
+      "latitude": 42.278,
+      "longitude": -83.1329,
+      "grid_id_assigned": null,
+      "grid_id_source": 77.0,
+      "bbox_id": "42.277090_-83.142620_42.302020_-83.107660",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:11:59",
+      "raw_data": {
+        "room_id": 1437557221967518321,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "15min to DT • free st. Pkg • heated BA floor • W/D",
+        "title": "Apartment in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 310.0,
+            "discount": 281.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $93.58",
+              "amount": 280.0,
+              "currency": "$.73"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1437557221967518321/original/c95f2b4c-9ad8-4e2b-842b-bc77037de270.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1437557221967518321/original/a058ae1b-8de0-49f4-bc08-30ee9e69df1f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1437557221967518321/original/e37b2f62-9deb-49c0-a8f6-1ac295b2c078.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1437557221967518321/original/438a1d43-b4b2-4359-b72e-9564ae31c651.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1437557221967518321/original/9b9a4228-b709-46d7-bf26-fe8afcbd7523.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1437557221967518321/original/c5ec5a13-301f-4a82-8e42-cb1bfbe8f20b.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.278,
+          "longitud": -83.1329
+        }
+      }
+    },
+    "1440538782586842325": {
+      "room_id": 1440538782586842325,
+      "latitude": 42.27841586898788,
+      "longitude": -83.13252348828262,
+      "grid_id_assigned": null,
+      "grid_id_source": 77.0,
+      "bbox_id": "42.277090_-83.142620_42.302020_-83.107660",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:11:59",
+      "raw_data": {
+        "room_id": 1440538782586842325,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "15min to DT • free st. Pkg • heated BA floor • W/D",
+        "title": "Apartment in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 281.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $93.58",
+              "amount": 280.0,
+              "currency": "$.73"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1440538782586842325/original/679c3ea3-6a97-4cf6-b9dd-a7fc4b97f89f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1440538782586842325/original/4fbd71da-0e9e-458c-9506-d6043b6e62f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1440538782586842325/original/e8061842-c693-40e7-95ff-3a048584bb4f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1440538782586842325/original/c07bcea8-2eb0-4885-a1c2-c292cb56851b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1440538782586842325/original/41c84a67-e492-4ffd-b154-455781417fe4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1440538782586842325/original/1cf818c9-fc34-4974-9970-7b94e2051b80.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.27841586898788,
+          "longitud": -83.13252348828262
+        }
+      }
+    },
+    "1562065124430172110": {
+      "room_id": 1562065124430172110,
+      "latitude": 42.278455006791965,
+      "longitude": -83.13359849523478,
+      "grid_id_assigned": null,
+      "grid_id_source": 77.0,
+      "bbox_id": "42.277090_-83.142620_42.302020_-83.107660",
+      "pass_id": 5,
+      "discovered_at": "2025-12-28 00:12:21",
+      "raw_data": {
+        "room_id": 1562065124430172110,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "15 min to DT - free str. Pkg - work desk space",
+        "title": "Apartment in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 285.0,
+            "discount": 249.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $94.93",
+              "amount": 284.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Special offer",
+              "amount": -35.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 249.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562065124430172110/original/34a07dd0-48dc-4c82-9f1d-e3ed3948a3cb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562065124430172110/original/1f8bb8d3-7588-4d1d-ae09-235668238548.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562065124430172110/original/0b2349fd-3e1a-4e26-9acf-ff4b65a44f7f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562065124430172110/original/436745e5-bb9a-4e1e-a96e-a85eed33cf3b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562065124430172110/original/e11b4548-cef0-4bcf-b919-aa7734e03ea0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562065124430172110/original/79dfef85-fb75-4dbf-a1c2-2eeb2cb1a1f1.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.278455006791965,
+          "longitud": -83.13359849523478
+        }
+      }
+    }
+  }
+}

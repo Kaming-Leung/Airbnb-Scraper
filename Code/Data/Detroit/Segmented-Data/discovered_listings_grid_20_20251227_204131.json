@@ -1,0 +1,140 @@
+{
+  "grid_id": 20,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-27 20:41:31",
+  "listings": {
+    "1393567866664423044": {
+      "room_id": 1393567866664423044,
+      "latitude": 42.4189766326164,
+      "longitude": -83.0041057939803,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "42.401730_-83.037740_42.426650_-83.002780",
+      "pass_id": 2,
+      "discovered_at": "2025-12-27 20:38:49",
+      "raw_data": {
+        "room_id": 1393567866664423044,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/025a26e2-d307-4f34-be30-3c1af39dcc1a.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Carile",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/025a26e2-d307-4f34-be30-3c1af39dcc1a.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 8
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Looking for a peaceful reset.",
+        "title": "Room in Detroit",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 388.0,
+            "discount": 320.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $129.18",
+              "amount": 387.0,
+              "currency": "$.53"
+            },
+            {
+              "description": "Special offer",
+              "amount": -68.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 319.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1393567866664423044/original/f0e44396-e6c5-4fd6-a1b0-ac4d82ea1af3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1393567866664423044/original/041ed93e-df79-4b79-8772-e784ba969797.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1393567866664423044/original/30d17be7-e843-4e64-ad64-1612a99836d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1393567866664423044/original/685562bb-c13f-4de4-b717-8eeb7b43d33c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1393567866664423044/original/179f779d-b625-4fd9-a381-6f0b7a9f9ec6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1393567866664423044/original/25441001-7270-40d4-b190-962ec44848a5.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4189766326164,
+          "longitud": -83.0041057939803
+        }
+      }
+    }
+  }
+}

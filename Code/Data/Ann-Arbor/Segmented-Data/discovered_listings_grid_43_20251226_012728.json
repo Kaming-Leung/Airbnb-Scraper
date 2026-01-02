@@ -1,0 +1,139 @@
+{
+  "grid_id": 43,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 01:27:28",
+  "listings": {
+    "1527822876286197325": {
+      "room_id": 1527822876286197325,
+      "latitude": 42.41512,
+      "longitude": -83.31834,
+      "grid_id_assigned": null,
+      "grid_id_source": 43.0,
+      "bbox_id": "42.392940_-83.350310_42.418380_-83.314760",
+      "pass_id": 3,
+      "discovered_at": "2025-12-26 01:24:51",
+      "raw_data": {
+        "room_id": 1527822876286197325,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bright and Peaceful Family home",
+        "title": "Home in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 263.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $262.47",
+              "amount": 262.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1527822876286197325/original/da854df2-c59d-4537-89c9-28e62b440920.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1527822876286197325/original/a7be8cb4-7fcb-4127-93aa-9900378c5e82.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1527822876286197325/original/2df9ac66-91f5-4e4d-be0e-0768928cc469.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1527822876286197325/original/0a47fea0-6c3b-4f9c-98f2-9a0b8e3223f4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1527822876286197325/original/d30a0263-3310-4560-83a1-adfe70508b36.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1527822876286197325/original/d17f5408-530b-4bfe-ace6-2c9c5f9870ac.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.41512,
+          "longitud": -83.31834
+        }
+      }
+    }
+  }
+}

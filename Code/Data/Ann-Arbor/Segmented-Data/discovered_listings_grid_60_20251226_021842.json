@@ -1,0 +1,131 @@
+{
+  "grid_id": 60,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 02:18:42",
+  "listings": {
+    "45739617": {
+      "room_id": 45739617,
+      "latitude": 42.37939,
+      "longitude": -83.51906,
+      "grid_id_assigned": null,
+      "grid_id_source": 60.0,
+      "bbox_id": "42.367500_-83.528060_42.392940_-83.492510",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:15:46",
+      "raw_data": {
+        "room_id": 45739617,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Plymouth Home Away From Home",
+        "title": "Guest suite in Plymouth",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1370.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $273.88",
+              "amount": 1369.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "113"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/55329edc-9b88-48ac-8cf4-77cf45f38f43.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/69f51fa4-3664-4a45-a501-d8b69372b7a8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3ce33704-61df-4921-86e3-00e640031284.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/86ead187-a419-4224-8cea-e968d6a89eea.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1381bdbb-21df-4b39-ac41-af77e325721d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7c9927e9-9d98-40d5-bff6-cfb2965d8039.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.37939,
+          "longitud": -83.51906
+        }
+      }
+    }
+  }
+}

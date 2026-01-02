@@ -1,0 +1,153 @@
+{
+  "grid_id": 101,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 01:26:55",
+  "listings": {
+    "1021957830211844271": {
+      "room_id": 1021957830211844271,
+      "latitude": 42.2499,
+      "longitude": -83.1403,
+      "grid_id_assigned": null,
+      "grid_id_source": 101.0,
+      "bbox_id": "42.227240_-83.142620_42.252170_-83.107660",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 01:24:07",
+      "raw_data": {
+        "room_id": 1021957830211844271,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Greivin",
+          "titleText": "Started hosting in 2024",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 11
+          },
+          "ratingCount": 2,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bella Ville.Entire house rent only.",
+        "title": "Rooms in Ecorse",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 352.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $175.74",
+              "amount": 351.0,
+              "currency": "$.48"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1021957830211844271/original/b12032be-99ee-4c70-8dca-3108aca0c246.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1021957830211844271/original/0305c7e5-07d6-4fe6-a014-f3c0df3fcd12.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1021957830211844271/original/820b2894-496d-4a92-80ec-8844c1080839.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1021957830211844271/original/a0e28705-903c-404f-9138-7444fce2e44a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1021957830211844271/original/7c9c845e-f438-4534-a5fe-4e3736b29630.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1021957830211844271/original/79246a04-b1be-49c8-8887-a6760ada360c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2499,
+          "longitud": -83.1403
+        }
+      }
+    }
+  }
+}

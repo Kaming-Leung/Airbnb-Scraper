@@ -1,0 +1,522 @@
+{
+  "grid_id": 53,
+  "total_listings": 4,
+  "discovery_timestamp": "2026-01-01 18:23:45",
+  "listings": {
+    "10434127": {
+      "room_id": 10434127,
+      "latitude": 37.74145,
+      "longitude": -122.2596,
+      "grid_id_assigned": null,
+      "grid_id_source": 53.0,
+      "bbox_id": "37.719190_-122.268770_37.745650_-122.235000",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 18:20:51",
+      "raw_data": {
+        "room_id": 10434127,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "★Bright BayFarm Lagoon Oasis 7min walk to SF Ferry",
+        "title": "Home in Bay Farm Island",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3367.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $673.29",
+              "amount": 3366.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/83804d35-61bf-461d-9246-61e2814ca9a2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e46d2cee-461b-4726-8689-64352e52529c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ed499bef-967a-47e8-9832-273e2f44d843.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/28f5c79d-19ab-4bab-bee1-7b2f4bf6e51f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8e021844-a645-4182-9800-0d0e9d85061f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/588cbf4d-b3f8-4347-8bcf-9564384bec25.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.74145,
+          "longitud": -122.2596
+        }
+      }
+    },
+    "1535979847383459575": {
+      "room_id": 1535979847383459575,
+      "latitude": 37.73562,
+      "longitude": -122.24064,
+      "grid_id_assigned": null,
+      "grid_id_source": 53.0,
+      "bbox_id": "37.719190_-122.268770_37.745650_-122.235000",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 18:20:51",
+      "raw_data": {
+        "room_id": 1535979847383459575,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Family-Friendly 2BR Home w/Big Private Yard",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1701.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $340.07",
+              "amount": 1700.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1535979847383459575/original/e72ca4f5-716f-4cc1-a1fc-2b0cb7b87589.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1535979847383459575/original/58c2a0b7-c311-4d09-91a1-5a3e0a214b66.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1535979847383459575/original/51d5b0a2-8c47-4b49-9ba5-83cd9b30328a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1535979847383459575/original/885455f6-8eb8-4791-a47e-4e1528594723.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1535979847383459575/original/956d1f25-e03c-4d99-ad53-8671d89c3e47.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1535979847383459575/original/bca36286-9aa1-472a-8559-d365b834cb39.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.73562,
+          "longitud": -122.24064
+        }
+      }
+    },
+    "935829": {
+      "room_id": 935829,
+      "latitude": 37.74311,
+      "longitude": -122.2501,
+      "grid_id_assigned": null,
+      "grid_id_source": 53.0,
+      "bbox_id": "37.719190_-122.268770_37.745650_-122.235000",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 18:21:03",
+      "raw_data": {
+        "room_id": 935829,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/users/5048672/profile_pic/1360615826/original.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": true,
+          "name": "Mary",
+          "titleText": "Superhost",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/5048672/profile_pic/1360615826/original.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "26 reviews on the listing",
+              "label": "Reviews",
+              "value": "26",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "13 years of hosting",
+              "label": "Years hosting",
+              "value": "13",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 12,
+            "months": 10
+          },
+          "ratingCount": 26,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet Beauty Near Airport & Ferry",
+        "title": "Room in Bay Farm Island",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $133.14",
+              "amount": 399.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "26"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/77681500-e326-40db-8bfe-45e89d2310c3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b634bf03-5e2b-4408-8429-cc4d92a33e46.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/13802660/64055349_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f3d6f1e5-2442-49f4-90bc-1395e4e2d9ad.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/00bf9260-360f-410f-95ea-c6b88c3c50e6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/13802936/bd300f8f_original.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.74311,
+          "longitud": -122.2501
+        }
+      }
+    },
+    "1356644563380849952": {
+      "room_id": 1356644563380849952,
+      "latitude": 37.7321,
+      "longitude": -122.2448,
+      "grid_id_assigned": null,
+      "grid_id_source": 53.0,
+      "bbox_id": "37.719190_-122.268770_37.745650_-122.235000",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 18:21:21",
+      "raw_data": {
+        "room_id": 1356644563380849952,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Modern Spacious 3br w/ Pool, Garage & Host Kitty!",
+        "title": "Home in Bay Farm Island",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 628.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $209.22",
+              "amount": 627.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1356644563380849952/original/b94f928c-f906-44f9-ba50-4841cb1503d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1356644563380849952/original/4345e008-779b-490b-affe-c048f0aa0a60.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1356644563380849952/original/60e808eb-350d-452a-a1ba-ec8efc0e66a1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1356644563380849952/original/0654b405-2766-4a73-9673-675eb00baddd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1356644563380849952/original/ca2304af-10ce-40c3-bf2f-8065ab4c9d8e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1356644563380849952/original/abc01b98-ace3-430b-baf1-e15581e5e451.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.7321,
+          "longitud": -122.2448
+        }
+      }
+    }
+  }
+}

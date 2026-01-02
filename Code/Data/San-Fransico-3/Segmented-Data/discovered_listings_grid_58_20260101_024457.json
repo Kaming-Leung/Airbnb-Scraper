@@ -1,0 +1,131 @@
+{
+  "grid_id": 58,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 02:44:57",
+  "listings": {
+    "47584829": {
+      "room_id": 47584829,
+      "latitude": 37.23981,
+      "longitude": -122.04094,
+      "grid_id_assigned": null,
+      "grid_id_source": 58.0,
+      "bbox_id": "37.214030_-122.065300_37.240460_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 02:42:01",
+      "raw_data": {
+        "room_id": 47584829,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Newly Built Studio, 2000 FT Elevation with Jacuzzi",
+        "title": "Guesthouse in Saratoga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1279.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $255.62",
+              "amount": 1278.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "175"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a854829d-0aed-496f-8163-d429913a3f23.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/519d5f28-d5a7-4c78-a49e-483aeef424c8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/37caf690-80d5-467b-82b1-5858035542b1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1e5f8063-e5da-42b9-86a2-7e84b65ff818.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3cd882a6-ae86-4bd2-8003-faab4d77209e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d5072132-789c-4281-ae53-1e53bba1fdec.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.23981,
+          "longitud": -122.04094
+        }
+      }
+    }
+  }
+}

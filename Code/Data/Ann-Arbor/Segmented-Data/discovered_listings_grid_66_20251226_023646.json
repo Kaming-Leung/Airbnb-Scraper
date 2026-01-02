@@ -1,0 +1,1034 @@
+{
+  "grid_id": 66,
+  "total_listings": 8,
+  "discovery_timestamp": "2025-12-26 02:36:46",
+  "listings": {
+    "1564549347652176933": {
+      "room_id": 1564549347652176933,
+      "latitude": 42.39192227577093,
+      "longitude": -83.28837137858042,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:33:49",
+      "raw_data": {
+        "room_id": 1564549347652176933,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Staycation",
+        "title": "Home in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2897.0,
+            "discount": 2397.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $579.29",
+              "amount": 2896.0,
+              "currency": "$.47"
+            },
+            {
+              "description": "Special offer",
+              "amount": -500.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 2396.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564549347652176933/original/69b3a9bf-57b6-4542-9d60-c2ca9e25bd59.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564549347652176933/original/afe2c3e4-09fa-4e8a-b260-ffc4a289046c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564549347652176933/original/bea569f4-3219-4e7d-abfc-c42e76516c49.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564549347652176933/original/5a099cb5-0f48-4dbd-9cb6-4b44704eb882.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1564549347652176933/original/a4cc2744-18ef-4128-87af-e71d577dcc1f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.39192227577093,
+          "longitud": -83.28837137858042
+        }
+      }
+    },
+    "627386446612462954": {
+      "room_id": 627386446612462954,
+      "latitude": 42.38684,
+      "longitude": -83.29619,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:33:49",
+      "raw_data": {
+        "room_id": 627386446612462954,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Master KING, GiG WiFi, Theater, PONG, Piano",
+        "title": "Home in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1164.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $232.66",
+              "amount": 1163.0,
+              "currency": "$.32"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "44"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-627386446612462954/original/4df08eb3-c80b-4a67-9f0c-3346ef60fcc4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-627386446612462954/original/c7c7b612-5aa3-4c16-ae9d-f64fba4784fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-627386446612462954/original/88a178a8-9a15-48da-b503-a49b305681c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-627386446612462954/original/29625957-8df7-4838-b9ee-ad81bf391332.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-627386446612462954/original/924bce0d-6344-40c3-9b7b-e766825519a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-627386446612462954/original/b1a1964e-68e0-4c97-b941-58c7968d1bfc.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.38684,
+          "longitud": -83.29619
+        }
+      }
+    },
+    "842031043975689854": {
+      "room_id": 842031043975689854,
+      "latitude": 42.36866,
+      "longitude": -83.30218,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:33:49",
+      "raw_data": {
+        "room_id": 842031043975689854,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful 4 Bedroom Home in Redford",
+        "title": "Home in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1353.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $270.46",
+              "amount": 1352.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "108"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-842031043975689854/original/37a27bc2-5871-4922-9cdc-c450a9e9edec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-842031043975689854/original/95dd733c-09bb-42d5-aab9-b69d1db4f926.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-842031043975689854/original/515bc915-cfbd-40bf-bcdf-a1f28af9b60a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-842031043975689854/original/65fc1052-75aa-4bbe-8a97-cbe566515c5a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-842031043975689854/original/bdf51dec-26ea-4dde-8174-21bc10ec5403.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-842031043975689854/original/95450027-52e5-4082-b19e-38d1e8a0924a.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.36866,
+          "longitud": -83.30218
+        }
+      }
+    },
+    "842213317778624945": {
+      "room_id": 842213317778624945,
+      "latitude": 42.3818,
+      "longitude": -83.29624,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:33:49",
+      "raw_data": {
+        "room_id": 842213317778624945,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Beautiful Beach House",
+        "title": "Home in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 1741.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $248.61",
+              "amount": 1740.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-842213317778624945/original/89639759-fb86-499c-9583-c8fb4d2a1fcb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-842213317778624945/original/3484b852-9e49-488a-8cac-e0d6bd2fef1f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-842213317778624945/original/6d44291d-37cb-4326-94a4-9b5f7b6d97d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-842213317778624945/original/d69f7f4c-4f11-4fee-a3be-f0030f027f34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-842213317778624945/original/366e6a2a-8cdf-4aa5-ade3-d8f04a7fadb0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-842213317778624945/original/daac2738-c1dd-4ea2-b323-574a3b4ffd19.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.3818,
+          "longitud": -83.29624
+        }
+      }
+    },
+    "663058562244677475": {
+      "room_id": 663058562244677475,
+      "latitude": 42.3896,
+      "longitude": -83.2821,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:33:49",
+      "raw_data": {
+        "room_id": 663058562244677475,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bunk bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Winston Airbnb",
+        "title": "Home in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 1682.0,
+            "discount": 1552.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $240.29",
+              "amount": 1682.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -130.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1552.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663058562244677475/original/7a7330d8-a5a4-4e41-a2ed-15f417885941.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663058562244677475/original/255fd174-01d2-42ac-be71-2d3f0e5e4f16.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8f70779c-836f-4ba0-a4d3-bcf3497b0615.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5037e025-26b8-4b8e-9649-a7561df6e62d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663058562244677475/original/085c2dfe-a7f2-44c1-ad07-45d08ed102b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-663058562244677475/original/6a2705c9-1653-4489-a0ed-3a0646bf7a9d.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.3896,
+          "longitud": -83.2821
+        }
+      }
+    },
+    "959983201016239902": {
+      "room_id": 959983201016239902,
+      "latitude": 42.39054,
+      "longitude": -83.28607,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 02:33:55",
+      "raw_data": {
+        "room_id": 959983201016239902,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/9b283c11-c342-4748-b3e2-e0721207c751.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Mia",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/9b283c11-c342-4748-b3e2-e0721207c751.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 4
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Redford Room to Rent",
+        "title": "Room in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $102.71",
+              "amount": 205.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959983201016239902/original/63463cf2-33dc-42ea-87a1-421a60edd1f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959983201016239902/original/c1ac660a-cdee-4a69-bc8d-8d82dab73edf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959983201016239902/original/f752bcc1-bf1f-4262-859c-700df74564ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959983201016239902/original/39707adb-2851-436d-a4cd-ab11fe3fde63.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959983201016239902/original/35a280e2-816e-4efc-9518-53e4375ab95b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959983201016239902/original/8137f775-ae54-44eb-b5da-7d2c18520540.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.39054,
+          "longitud": -83.28607
+        }
+      }
+    },
+    "1120994112916240969": {
+      "room_id": 1120994112916240969,
+      "latitude": 42.37477,
+      "longitude": -83.31467,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 02:34:01",
+      "raw_data": {
+        "room_id": 1120994112916240969,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Designer Detroit Retreat | 3BR w/ Game Room",
+        "title": "Home in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 632.0,
+            "discount": 572.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $190.67",
+              "amount": 572.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "98"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyMDk5NDExMjkxNjI0MDk2OQ%3D%3D/original/39bf2955-6aab-4196-bdc3-48d5451099c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1120994112916240969/original/c1e9007d-5fc8-4fb8-8bf7-b6d5f81fdf14.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1120994112916240969/original/18f2d003-817a-476e-a00e-a1bd415124f7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1120994112916240969/original/169d8e85-67b8-4a27-b7bf-2043d84c9bbc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1120994112916240969/original/fdbf6560-45a0-4b6a-9077-b913406cd770.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1120994112916240969/original/a7ada316-5e9d-4bd6-80cf-dc6696cde583.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.37477,
+          "longitud": -83.31467
+        }
+      }
+    },
+    "1442210418821792741": {
+      "room_id": 1442210418821792741,
+      "latitude": 42.3892,
+      "longitude": -83.3085,
+      "grid_id_assigned": null,
+      "grid_id_source": 66.0,
+      "bbox_id": "42.367500_-83.314760_42.392940_-83.279210",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 02:34:19",
+      "raw_data": {
+        "room_id": 1442210418821792741,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/095e4d1c-327b-4799-b02b-6c64ec93b74f.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Rachelle",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/095e4d1c-327b-4799-b02b-6c64ec93b74f.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 6
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Very Clean & Spacious Private Rooms",
+        "title": "Rooms in Redford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 225.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $74.94",
+              "amount": 224.0,
+              "currency": "$.81"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442210418821792741/original/631ca5b0-91bc-4c6a-ba16-97ee9d307656.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442210418821792741/original/7a89ced9-f8c9-4306-a5d1-9f7f1683e8e7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442210418821792741/original/8bfe7b18-9c82-4576-81cd-c5a98f26cca0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442210418821792741/original/6520706b-7f3a-4b99-bcb4-f130d17f11a1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442210418821792741/original/988f93fa-ff81-4a60-9ca8-04829fd9f507.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442210418821792741/original/333a7ead-1698-4415-bbf2-7a914fe79092.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.3892,
+          "longitud": -83.3085
+        }
+      }
+    }
+  }
+}

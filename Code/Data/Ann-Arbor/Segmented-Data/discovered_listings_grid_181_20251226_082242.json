@@ -1,0 +1,162 @@
+{
+  "grid_id": 181,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 08:22:42",
+  "listings": {
+    "720203939390511174": {
+      "room_id": 720203939390511174,
+      "latitude": 42.22514,
+      "longitude": -83.88568,
+      "grid_id_assigned": null,
+      "grid_id_source": 181.0,
+      "bbox_id": "42.214870_-83.919100_42.240310_-83.883550",
+      "pass_id": 3,
+      "discovered_at": "2025-12-26 08:20:05",
+      "raw_data": {
+        "room_id": 720203939390511174,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/8556c6db-9bfd-463c-bbd7-bba7756100eb.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Gloria",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8556c6db-9bfd-463c-bbd7-bba7756100eb.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0 reviews on the listing",
+              "label": "Reviews",
+              "value": "0",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "0.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 years of hosting",
+              "label": "Years hosting",
+              "value": "4",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 4,
+            "months": 3
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "A charming 1 bedroom in a 1870 home",
+        "title": "Room in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 571.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $570.59",
+              "amount": 570.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-720203939390511174/original/313d1e35-906b-4fb4-aab4-fc9555e1266a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-720203939390511174/original/53856641-70a7-4508-8ef5-f137f1659f4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-720203939390511174/original/f71e7691-2056-4d45-97e7-a6b5a6ae2a91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-720203939390511174/original/ff008ce1-5abe-43d3-b2af-2136cf49033c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-720203939390511174/original/75b2bf3d-fdd0-4cbd-a8e4-0b256324c0f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-720203939390511174/original/f9da74c2-1e64-4460-90fb-81947a0a8b2e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.22514,
+          "longitud": -83.88568
+        }
+      }
+    }
+  }
+}

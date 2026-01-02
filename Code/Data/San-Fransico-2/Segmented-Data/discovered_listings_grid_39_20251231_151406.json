@@ -1,0 +1,131 @@
+{
+  "grid_id": 39,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-31 15:14:06",
+  "listings": {
+    "1236549901391694881": {
+      "room_id": 1236549901391694881,
+      "latitude": 37.4054,
+      "longitude": -122.2493,
+      "grid_id_assigned": null,
+      "grid_id_source": 39.0,
+      "bbox_id": "37.393330_-122.267340_37.421050_-122.232210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 15:11:11",
+      "raw_data": {
+        "room_id": 1236549901391694881,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Peaceful Retreat near Stanford (+Long Term)",
+        "title": "Guesthouse in Woodside",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1370.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $273.88",
+              "amount": 1369.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "34"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1236549901391694881/original/c03de35a-cec5-4c01-9ab0-c1e8e2a51d53.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1236549901391694881/original/740dbf4b-1ccd-4da3-be6e-18175f6776b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1236549901391694881/original/93f3a7a7-3441-4d21-b913-9616fde193a3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1236549901391694881/original/56948c51-2b64-4b20-af63-11f144d5de47.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1236549901391694881/original/9271c894-e9b0-47c5-8329-61293f0c48c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1236549901391694881/original/814faa3a-ef4a-4655-a302-92c655558d22.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.4054,
+          "longitud": -122.2493
+        }
+      }
+    }
+  }
+}

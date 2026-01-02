@@ -1,0 +1,283 @@
+{
+  "grid_id": 30,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 17:14:39",
+  "listings": {
+    "722612313822104732": {
+      "room_id": 722612313822104732,
+      "latitude": 37.81783,
+      "longitude": -122.00703,
+      "grid_id_assigned": null,
+      "grid_id_source": 30.0,
+      "bbox_id": "37.798570_-122.032330_37.825040_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:11:45",
+      "raw_data": {
+        "room_id": 722612313822104732,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/53d25c1e-1497-4ef0-b67e-bf1d233bb41c.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Helen",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/53d25c1e-1497-4ef0-b67e-bf1d233bb41c.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 5,
+            "months": 11
+          },
+          "ratingCount": 4,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bed, Breakfast, and Books — A Writer’s Den",
+        "title": "Room in Danville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2197.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $439.35",
+              "amount": 2196.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-722612313822104732/original/ea096123-a83c-4a78-898f-e74dafcd0b01.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-722612313822104732/original/022f40bc-a0f9-4034-bc3f-ea44bc1801ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-722612313822104732/original/884c42a9-4005-4a08-bd8c-0b329b272e16.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-722612313822104732/original/f9137554-ceca-4cfc-8c7d-4408ace03d29.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-722612313822104732/original/c20dea7b-fe47-48fe-9336-51d984ab2213.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-722612313822104732/original/6af2b215-6134-4df4-ab13-f7cdf5a62bb0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.81783,
+          "longitud": -122.00703
+        }
+      }
+    },
+    "1180564863347971526": {
+      "room_id": 1180564863347971526,
+      "latitude": 37.82501,
+      "longitude": -122.0006,
+      "grid_id_assigned": null,
+      "grid_id_source": 30.0,
+      "bbox_id": "37.798570_-122.032330_37.825040_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:11:45",
+      "raw_data": {
+        "room_id": 1180564863347971526,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Downtown Danville Charmer",
+        "title": "Home in Danville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1421.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $284.15",
+              "amount": 1420.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1180564863347971526/original/08c09d1d-b54a-4a85-9b42-50e754d2b934.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1180564863347971526/original/dd7f156f-af2a-4071-b495-1987bcb02458.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1180564863347971526/original/05f4f097-0d3d-4947-843d-13b648aba843.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1180564863347971526/original/85628263-9f9f-46d2-b707-ad58ecfb7ae8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1180564863347971526/original/911034c5-735d-47e1-8741-bc5df8fa37fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1180564863347971526/original/8d65a938-1f2e-4433-aaa3-866132d9fcc7.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.82501,
+          "longitud": -122.0006
+        }
+      }
+    }
+  }
+}

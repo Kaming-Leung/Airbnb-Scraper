@@ -1,0 +1,255 @@
+{
+  "grid_id": 3,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-25 23:14:13",
+  "listings": {
+    "682741205171498124": {
+      "room_id": 682741205171498124,
+      "latitude": 42.42092,
+      "longitude": -83.95467,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "42.418380_-83.990200_42.443820_-83.954650",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:11:17",
+      "raw_data": {
+        "room_id": 682741205171498124,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Cottage Lakeside",
+        "title": "Cottage in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1768.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $353.54",
+              "amount": 1767.0,
+              "currency": "$.68"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "56"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682741205171498124/original/9fc351b9-1d5c-436d-97e3-169bd0eb67d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682741205171498124/original/8fedc6ca-371a-4c54-b51a-9b30770c87b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682741205171498124/original/b235d912-08e0-4a65-b026-63e219bfd6ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682741205171498124/original/346ec340-5989-448f-8819-9fd725602b75.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682741205171498124/original/94b59513-1266-493b-9daf-066e39215780.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682741205171498124/original/5b89be3b-e1c3-4203-b3c7-f8ca84253c6c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.42092,
+          "longitud": -83.95467
+        }
+      }
+    },
+    "996576563486761740": {
+      "room_id": 996576563486761740,
+      "latitude": 42.4303,
+      "longitude": -83.98719,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "42.418380_-83.990200_42.443820_-83.954650",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:11:17",
+      "raw_data": {
+        "room_id": 996576563486761740,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Sep 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Sep 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful house on a quiet lake",
+        "title": "Home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1056.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $211.12",
+              "amount": 1055.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e0d3083f-f8ea-41e8-8965-65a293b74d79.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/796adb1f-e68e-4ef8-ba9f-4a739d2d8438.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f872fddf-65ea-455d-9faa-4f19b5a83b24.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e9f45dda-6594-4b47-a84c-635b8fa6a098.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0f6953c6-1f8c-4e0a-8402-cf9d7f68acc3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f8561f56-bcee-431d-a26c-c31b6cdb96b9.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.4303,
+          "longitud": -83.98719
+        }
+      }
+    }
+  }
+}

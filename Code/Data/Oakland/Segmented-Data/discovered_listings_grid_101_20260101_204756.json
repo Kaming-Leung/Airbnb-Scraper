@@ -1,0 +1,131 @@
+{
+  "grid_id": 101,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 20:47:56",
+  "listings": {
+    "1515395510872074248": {
+      "room_id": 1515395510872074248,
+      "latitude": 37.58691,
+      "longitude": -122.33354,
+      "grid_id_assigned": null,
+      "grid_id_source": 101.0,
+      "bbox_id": "37.586880_-122.336330_37.613340_-122.302550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 20:45:02",
+      "raw_data": {
+        "room_id": 1515395510872074248,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quaint Apartment & King Bed Near Burlingame",
+        "title": "Apartment in San Mateo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1330.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $266.00",
+              "amount": 1330.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515395510872074248/original/f0eb7812-89b7-408a-b808-1b305e22f575.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515395510872074248/original/8bd94824-6e43-4432-a2fc-3012d5dfe1af.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515395510872074248/original/53adbc7a-f07f-4156-abfd-222a6b72203a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515395510872074248/original/ca0c98fb-cf7d-4eaa-9dfa-57eddd12f581.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515395510872074248/original/f9dc6c6d-3f36-434b-8518-ccde496fabac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1515395510872074248/original/9dbb22e9-f933-4ecd-bace-4ebc6ed22dda.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.58691,
+          "longitud": -122.33354
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 80,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 19:44:50",
+  "listings": {
+    "682695514836871283": {
+      "room_id": 682695514836871283,
+      "latitude": 37.6739,
+      "longitude": -122.0315,
+      "grid_id_assigned": null,
+      "grid_id_source": 80.0,
+      "bbox_id": "37.666270_-122.032330_37.692730_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:41:56",
+      "raw_data": {
+        "room_id": 682695514836871283,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 22 – 27",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 22 – 27",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Sun-lit, Luxurious 3BR Home Ideal for Families",
+        "title": "Cottage in Hayward",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $841.20",
+              "amount": 4206.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "32"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682695514836871283/original/7c185ff3-a90d-458a-af07-e636e89117a6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/54acb2a8-6263-48ad-a60d-3209659af6fd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682695514836871283/original/59b3f771-fbfb-4e42-8aef-ebb68cc66f41.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682695514836871283/original/19d1c2f2-6cde-419d-a859-74966b6ae740.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682695514836871283/original/c99a7dea-e099-4547-bbd5-27ea14b6c9c6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-682695514836871283/original/4be5cb55-6741-4316-8572-07079394376f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.6739,
+          "longitud": -122.0315
+        }
+      }
+    }
+  }
+}

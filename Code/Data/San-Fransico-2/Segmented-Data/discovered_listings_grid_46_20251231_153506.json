@@ -1,0 +1,377 @@
+{
+  "grid_id": 46,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-31 15:35:06",
+  "listings": {
+    "72211": {
+      "room_id": 72211,
+      "latitude": 37.3878,
+      "longitude": -122.20206,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.365610_-122.232210_37.393330_-122.197080",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 15:32:12",
+      "raw_data": {
+        "room_id": 72211,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "3 BR Home on Vineyard nr Palo Alto & Stanford",
+        "title": "Home in Portola Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3099.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $619.66",
+              "amount": 3098.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "173"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-72211/original/298cc70c-5b0c-499b-9fc0-98ae949becfd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6d3d58c6-3c09-49aa-930c-d819f0ebe157.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-72211/original/05ce8243-2783-4b60-85cb-4a317433b629.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-72211/original/29e50503-e536-4cf9-88ff-47203693df05.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-72211/original/f408e6e6-1d82-43c1-9bfe-97f5f67d9f63.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-72211/original/8274d92e-b97e-4e48-af66-f5eba964ebf1.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.3878,
+          "longitud": -122.20206
+        }
+      }
+    },
+    "5170921": {
+      "room_id": 5170921,
+      "latitude": 37.3856,
+      "longitude": -122.1982,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.365610_-122.232210_37.393330_-122.197080",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 15:32:12",
+      "raw_data": {
+        "room_id": 5170921,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "1 Bdr Cabana just west of Stanford",
+        "title": "Guesthouse in Portola Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1473.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $294.42",
+              "amount": 1472.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "212"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-5170921/original/9418d087-6f99-4f9b-a7d2-d2f05068e628.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-5170921/original/9b630900-64d7-4946-88f6-1565dd44698b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-5170921/original/7b1ad169-7010-480d-b60c-ddea69d2ad08.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-5170921/original/e0bf48da-7f4c-4bd1-8030-c266b4562f6c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-5170921/original/629e9932-f6a6-4b61-a801-31af75616e96.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-5170921/original/5468378c-8b11-4cc5-b4ba-fc5acaae41cb.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.3856,
+          "longitud": -122.1982
+        }
+      }
+    },
+    "1561837224737570024": {
+      "room_id": 1561837224737570024,
+      "latitude": 37.38474,
+      "longitude": -122.19861,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.365610_-122.232210_37.393330_-122.197080",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 15:32:12",
+      "raw_data": {
+        "room_id": 1561837224737570024,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "4 BR Home near Stanford",
+        "title": "Home in Portola Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3424.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $684.71",
+              "amount": 3423.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561837224737570024/original/7a1f2c53-ccb6-4391-bfe0-0d40053331f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561837224737570024/original/2e5f5ad9-e40a-45db-99eb-aa9cd74d58d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561837224737570024/original/0272d831-cd07-4274-884e-e500dc2bc6aa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561837224737570024/original/26ff42cc-e836-4eb7-84be-041123bbf01e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561837224737570024/original/e0641c55-a8d6-4138-be73-d414c9b2d855.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561837224737570024/original/63c84132-489e-4b23-ba43-d4de7b699f2c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.38474,
+          "longitud": -122.19861
+        }
+      }
+    }
+  }
+}

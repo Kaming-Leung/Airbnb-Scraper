@@ -1,0 +1,252 @@
+{
+  "grid_id": 16,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-25 23:53:16",
+  "listings": {
+    "13221305": {
+      "room_id": 13221305,
+      "latitude": 42.42493,
+      "longitude": -83.51099,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "42.418380_-83.528060_42.443820_-83.492510",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:50:21",
+      "raw_data": {
+        "room_id": 13221305,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Paradise",
+        "title": "Home in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 8616.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,723.18",
+              "amount": 8615.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.71,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/46c86b7a-7ff6-407c-ab6c-f07bce5792dc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d76878ea-f159-4f0e-a9e7-9ac319b919d8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d31e7350-3512-4b8d-94d1-757fa4c759fa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f016f3ea-1aa4-49ad-a539-3551d21a4aa7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d9a857df-cba4-4b9c-87fb-beb9c15ce76f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/66bdc697-0a26-47e1-8cee-2ce1176e29d7.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.42493,
+          "longitud": -83.51099
+        }
+      }
+    },
+    "1413370025999123404": {
+      "room_id": 1413370025999123404,
+      "latitude": 42.42489,
+      "longitude": -83.49377,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "42.418380_-83.528060_42.443820_-83.492510",
+      "pass_id": 1,
+      "discovered_at": "2025-12-25 23:50:27",
+      "raw_data": {
+        "room_id": 1413370025999123404,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Dlx Studio in heart of Livonia",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 263.0,
+            "discount": 219.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $131.50",
+              "amount": 263.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -44.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 218.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413370025999123404/original/0610f0de-095e-4d25-917e-624f8a3d74bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-722189729187705791/original/9bce839c-eda3-49e6-9f41-4e75c0c61e9d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a2651d22-a467-4ffc-b784-60cf20501b58.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb95bd44-68de-44fe-9483-68c9a36fb472.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-722189729187705791/original/02db27de-9d7a-42ad-b74a-71b508ba5f96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-722189729187705791/original/33f0f244-891c-45e5-a1eb-3f88f458dfc9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.42489,
+          "longitud": -83.49377
+        }
+      }
+    }
+  }
+}

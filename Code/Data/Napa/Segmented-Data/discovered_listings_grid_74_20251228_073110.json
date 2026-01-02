@@ -1,0 +1,484 @@
+{
+  "grid_id": 74,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-28 07:31:10",
+  "listings": {
+    "46515502": {
+      "room_id": 46515502,
+      "latitude": 38.30771,
+      "longitude": -122.27231,
+      "grid_id_assigned": null,
+      "grid_id_source": 74.0,
+      "bbox_id": "38.306600_-122.276690_38.314340_-122.266180",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 07:28:16",
+      "raw_data": {
+        "room_id": 46515502,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 25",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 25",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Hillside Home With A View",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 1410.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $201.34",
+              "amount": 1409.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/861ea06f-a086-4b96-9df8-0903ef12cde8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-46515502/original/f9203a36-ef2f-401e-a6a0-6a8b638a0cfd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-46515502/original/2ea012bc-826d-461a-aa7a-3545517547da.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f54c7d1c-4b46-4170-9a08-c43c30ff28ba.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b80adad9-c509-4dbd-a514-b7b8c3d2b0ed.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a5492715-186c-49b0-af86-1da3bc55065c.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.30771,
+          "longitud": -122.27231
+        }
+      }
+    },
+    "960439232828607158": {
+      "room_id": 960439232828607158,
+      "latitude": 38.30921,
+      "longitude": -122.27509,
+      "grid_id_assigned": null,
+      "grid_id_source": 74.0,
+      "bbox_id": "38.306600_-122.276690_38.314340_-122.266180",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 07:28:22",
+      "raw_data": {
+        "room_id": 960439232828607158,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Sweet Napa Casita",
+        "title": "Tiny home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 523.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $261.45",
+              "amount": 522.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "118"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTYwNDM5MjMyODI4NjA3MTU4/original/23e4b663-05a7-43dc-9af7-7e044bd749c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960439232828607158/original/934fda33-aca3-47e6-85e9-0ddf96d4f39c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960439232828607158/original/58b7d67c-691e-4e34-b39e-64bdfc464a2a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-960439232828607158/original/c44ff46e-c92f-453f-8d01-116fe22fcc19.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTYwNDM5MjMyODI4NjA3MTU4/original/6f34d6b2-8186-4f73-9df3-da77b0e26b58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTYwNDM5MjMyODI4NjA3MTU4/original/b49198ad-7350-4b67-a6ca-54d9b5715e09.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.30921,
+          "longitud": -122.27509
+        }
+      }
+    },
+    "6914167": {
+      "room_id": 6914167,
+      "latitude": 38.31393,
+      "longitude": -122.27107,
+      "grid_id_assigned": null,
+      "grid_id_source": 74.0,
+      "bbox_id": "38.306600_-122.276690_38.314340_-122.266180",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 07:28:28",
+      "raw_data": {
+        "room_id": 6914167,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bikes, King Bed, Downtown Napa/Oxbow  VR16-0054",
+        "title": "Guest suite in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 427.0,
+            "discount": 385.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $128.11",
+              "amount": 384.0,
+              "currency": "$.33"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "833"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/94839900/d621efee_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/94839958/50da6cc8_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjkxNDE2Nw==/original/077a204e-2222-429a-8eca-15b0710683f9.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/94839925/63fb0365_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/35e7dbe6-abc7-46b1-a7b4-75ab525c0436.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e0eadc4e-7e74-4a19-9f59-c8b022cbced8.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.31393,
+          "longitud": -122.27107
+        }
+      }
+    },
+    "7246798": {
+      "room_id": 7246798,
+      "latitude": 38.31097,
+      "longitude": -122.27409,
+      "grid_id_assigned": null,
+      "grid_id_source": 74.0,
+      "bbox_id": "38.306600_-122.276690_38.314340_-122.266180",
+      "pass_id": 3,
+      "discovered_at": "2025-12-28 07:28:34",
+      "raw_data": {
+        "room_id": 7246798,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 king beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 king beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bikes, King Beds, 1/2 mile to Oxbow + dt Napa",
+        "title": "Guest suite in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 289.0,
+            "discount": 266.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $266.00",
+              "amount": 266.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "544"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7246798/original/22452ba1-1fd1-4327-9782-b1895877db40.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7246798/original/2e39b040-8da8-4e93-9de2-d8a7c0d1066c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7246798/original/ca7766b7-7b91-4ab6-9f3f-125d72fc95fb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7246798/original/8b429c45-27bb-4434-8c47-3c97588e3a78.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7246798/original/36acfe25-c3e0-4483-a862-e00f714e7581.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7246798/original/77bcfdf7-1607-4853-9393-5e58774a37de.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.31097,
+          "longitud": -122.27409
+        }
+      }
+    }
+  }
+}

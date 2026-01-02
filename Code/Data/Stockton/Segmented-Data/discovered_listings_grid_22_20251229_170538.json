@@ -1,0 +1,250 @@
+{
+  "grid_id": 22,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-29 17:05:38",
+  "listings": {
+    "647101119672043231": {
+      "room_id": 647101119672043231,
+      "latitude": 37.98807,
+      "longitude": -121.23682,
+      "grid_id_assigned": null,
+      "grid_id_source": 22.0,
+      "bbox_id": "37.982170_-121.248340_38.008160_-121.216250",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:02:44",
+      "raw_data": {
+        "room_id": 647101119672043231,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 19 – 24",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 19 – 24",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cheerful 3 bed 2 bath newly renovated/off fwy 99",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1298.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $259.50",
+              "amount": 1297.0,
+              "currency": "$.52"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "81"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/36e1f7ab-c45d-45c3-a632-4de44cefd0f8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-647101119672043231/original/e5a6e56e-aca4-4d9c-a5b7-e1fc548809b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-647101119672043231/original/14c769af-b98b-4244-a955-323065cfee96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a8779a40-c772-459b-b106-fbb80dd63c65.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c834cd90-b542-4415-9699-6e7b8f4c9c10.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-647101119672043231/original/12b88fca-9e2f-4adc-b73d-5ae6cfa241b4.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.98807,
+          "longitud": -121.23682
+        }
+      }
+    },
+    "1367627700916167779": {
+      "room_id": 1367627700916167779,
+      "latitude": 37.99424907136999,
+      "longitude": -121.24551007811374,
+      "grid_id_assigned": null,
+      "grid_id_source": 22.0,
+      "bbox_id": "37.982170_-121.248340_38.008160_-121.216250",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:02:44",
+      "raw_data": {
+        "room_id": 1367627700916167779,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Charming house cherryland",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 6 nights",
+            "curency_symbol": "$",
+            "amount": 1826.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "6 nights x $304.31",
+              "amount": 1825.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1367627700916167779/original/3041675e-ac86-4265-acdb-bf57d2a2e448.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1367627700916167779/original/c4ac1ac8-bd56-4469-bdc2-2127368e3aad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1367627700916167779/original/94b3eafe-6d9a-4d65-a5d6-cb3e78f876cb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1367627700916167779/original/66fce005-623d-4cd8-8b2e-4dc90871ef7f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1367627700916167779/original/39db30c0-9bb7-4707-a0ca-9a8d89318e3d.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.99424907136999,
+          "longitud": -121.24551007811374
+        }
+      }
+    }
+  }
+}

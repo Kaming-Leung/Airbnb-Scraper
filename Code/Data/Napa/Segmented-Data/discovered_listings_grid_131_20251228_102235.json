@@ -1,0 +1,143 @@
+{
+  "grid_id": 131,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 10:22:35",
+  "listings": {
+    "832180508999828470": {
+      "room_id": 832180508999828470,
+      "latitude": 38.26963,
+      "longitude": -122.24988,
+      "grid_id_assigned": null,
+      "grid_id_source": 131.0,
+      "bbox_id": "38.267870_-122.255670_38.275620_-122.245170",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 10:19:41",
+      "raw_data": {
+        "room_id": 832180508999828470,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bottlerock Light-Up Glamping!",
+        "title": "Yurt in Vallejo",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -324.0,
+          "currency_symbol": "$.00"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3652.0,
+            "discount": 3328.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $730.33",
+              "amount": 3651.0,
+              "currency": "$.67"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -324.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 3327.0,
+              "currency": "$.67"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b0a456b9-a239-45d5-9e7e-f818075b4f4c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb2435fd-c452-4385-a236-f980919a03f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/04acb025-fabd-4fe1-a23b-d63c23a75924.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e460918c-7d9d-4071-aa48-20824f8c7ef9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/85b00909-dfe3-4fa1-b619-efb6ced74137.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b8cf721f-a824-4969-ba89-d616e1219248.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.26963,
+          "longitud": -122.24988
+        }
+      }
+    }
+  }
+}

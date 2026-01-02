@@ -1,0 +1,414 @@
+{
+  "grid_id": 75,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-28 00:08:41",
+  "listings": {
+    "15468003": {
+      "room_id": 15468003,
+      "latitude": 42.30001,
+      "longitude": -83.19067,
+      "grid_id_assigned": null,
+      "grid_id_source": 75.0,
+      "bbox_id": "42.277090_-83.212550_42.302020_-83.177590",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 00:05:47",
+      "raw_data": {
+        "room_id": 15468003,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/09523de9-b28f-45ea-93ca-60ed062a1c78.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Walid",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/09523de9-b28f-45ea-93ca-60ed062a1c78.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "15 reviews on the listing",
+              "label": "Reviews",
+              "value": "15",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.67 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.67",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 9,
+            "months": 2
+          },
+          "ratingCount": 15,
+          "ratingAverage": 4.67
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Dearborn fairline east place",
+        "title": "Room in Dearborn",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2865.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $572.87",
+              "amount": 2864.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a61c89fd-e281-408f-9e13-e0ece36018d9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/87c66b82-8dcb-438a-a974-a73a4770f6db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/be9e72ef-3688-412a-8bcf-2169532e2530.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c00160f9-2391-47db-b7e0-6742b4cf5233.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/877413f0-ea53-46ab-ae4a-d4a28ee151f8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/31d9c4f0-3b28-41ee-abc2-21e638475f7b.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.30001,
+          "longitud": -83.19067
+        }
+      }
+    },
+    "1401708397808227419": {
+      "room_id": 1401708397808227419,
+      "latitude": 42.28818712493165,
+      "longitude": -83.18652144478712,
+      "grid_id_assigned": null,
+      "grid_id_source": 75.0,
+      "bbox_id": "42.277090_-83.212550_42.302020_-83.177590",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:05:59",
+      "raw_data": {
+        "room_id": 1401708397808227419,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "New! 450Mbps Wi-Fi•Cozy Work & Relax•Retreat!",
+        "title": "Home in Melvindale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 438.0,
+            "discount": 313.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $104.23",
+              "amount": 312.0,
+              "currency": "$.68"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMTcwODM5NzgwODIyNzQxOQ==/original/fbfae54f-eb6d-4b35-8a67-3e26927d62c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMTcwODM5NzgwODIyNzQxOQ==/original/67743f29-1b61-4fb3-943e-e26d3876be1f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMTcwODM5NzgwODIyNzQxOQ==/original/c5d85e83-e42d-495e-b11c-551c91426646.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMTcwODM5NzgwODIyNzQxOQ==/original/2b3cc12c-490b-4f5b-bbe5-7195a6961b41.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMTcwODM5NzgwODIyNzQxOQ==/original/3cab972a-79de-426c-ba48-edaddac6d655.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMTcwODM5NzgwODIyNzQxOQ==/original/0d6759e9-0a4f-48a3-90a7-518c48f32369.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.28818712493165,
+          "longitud": -83.18652144478712
+        }
+      }
+    },
+    "18180889": {
+      "room_id": 18180889,
+      "latitude": 42.29275,
+      "longitude": -83.18579,
+      "grid_id_assigned": null,
+      "grid_id_source": 75.0,
+      "bbox_id": "42.277090_-83.212550_42.302020_-83.177590",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:05:59",
+      "raw_data": {
+        "room_id": 18180889,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "A lovely home with a big yard",
+        "title": "Home in Melvindale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 337.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $112.22",
+              "amount": 336.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "77"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/7a731ced-9891-4ee6-9fac-c0dde087fa24.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8d258453-73b1-49a1-878a-de63749ac1ec.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7687bf60-49ef-49bc-822e-e96bb28b8b42.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c41d3731-0e67-4a0c-94a2-6e71663b356d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/90ada830-3cb1-4d9d-a626-98a6728ca4a9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/068df056-8fe2-471b-abe0-98b38e41a475.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.29275,
+          "longitud": -83.18579
+        }
+      }
+    }
+  }
+}

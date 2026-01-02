@@ -1,0 +1,271 @@
+{
+  "grid_id": 67,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-02 01:17:01",
+  "listings": {
+    "1256168931838308463": {
+      "room_id": 1256168931838308463,
+      "latitude": 38.05571171269022,
+      "longitude": -122.51179799370932,
+      "grid_id_assigned": null,
+      "grid_id_source": 67,
+      "bbox_id": "38.041780_-122.525520_38.067510_-122.490400",
+      "pass_id": 0,
+      "discovered_at": "2026-01-02 01:14:07",
+      "raw_data": {
+        "room_id": 1256168931838308463,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Apr 15 – 22",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Apr 15 – 22",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Great Family Home in Hamilton",
+        "title": "Home in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2485.0,
+            "discount": 2237.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $355.00",
+              "amount": 2485.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -248.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 2236.0,
+              "currency": "$.50"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1256168931838308463/original/339ab8a8-15e4-4660-ba95-cac4505791b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1256168931838308463/original/44f2df85-2cf4-4148-91df-0e62fa6424d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1256168931838308463/original/ce7d4885-2495-481d-abb4-85add65f3d5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1256168931838308463/original/c0987e98-7953-4f12-b816-7987abd053cb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-959420181494583607/original/424a122c-362a-45a2-ab55-ca9ec7314749.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1256168931838308463/original/7f798359-af0e-4e2c-b078-4f4d703955df.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.05571171269022,
+          "longitud": -122.51179799370932
+        }
+      }
+    },
+    "1512645212713658705": {
+      "room_id": 1512645212713658705,
+      "latitude": 38.06019,
+      "longitude": -122.52292,
+      "grid_id_assigned": null,
+      "grid_id_source": 67,
+      "bbox_id": "38.041780_-122.525520_38.067510_-122.490400",
+      "pass_id": 2,
+      "discovered_at": "2026-01-02 01:14:19",
+      "raw_data": {
+        "room_id": 1512645212713658705,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Charming Guest House Stay",
+        "title": "Tiny home in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 375.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $124.77",
+              "amount": 374.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "25"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1512645212713658705/original/c49cef5e-539f-4962-9aae-176ae99e1054.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1512645212713658705/original/aef1d49c-7eec-4c69-b68b-a3d6d475affd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1512645212713658705/original/ee98a327-f7a6-4fda-a246-c99f8a6b2769.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1512645212713658705/original/9940619c-4474-4298-9f76-c4aec31caf2d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1512645212713658705/original/400ebff4-d353-44b6-ac2a-738db25b8f5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1512645212713658705/original/27ba403d-2543-43a1-ab9a-e44451f4577a.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.06019,
+          "longitud": -122.52292
+        }
+      }
+    }
+  }
+}

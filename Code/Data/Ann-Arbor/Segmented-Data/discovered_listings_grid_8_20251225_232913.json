@@ -1,0 +1,131 @@
+{
+  "grid_id": 8,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-25 23:29:13",
+  "listings": {
+    "1082983237252542524": {
+      "room_id": 1082983237252542524,
+      "latitude": 42.4374,
+      "longitude": -83.7902,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "42.418380_-83.812450_42.443820_-83.776900",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:26:19",
+      "raw_data": {
+        "room_id": 1082983237252542524,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern lake house Retreat. \n16 min to downtown A2",
+        "title": "Home in Whitmore Lake",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2910.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $582.00",
+              "amount": 2910.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1082983237252542524/original/0e73e47a-a3d6-45c3-8851-e17695baadce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1082983237252542524/original/da57686d-a9f7-4519-82df-ea6424394cc5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1082983237252542524/original/d5725d13-961e-4be2-a71b-d0e749414536.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1082983237252542524/original/881cdf50-3b81-47e0-a985-9390b157d808.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1082983237252542524/original/e4d0d8fb-02ed-44b1-9135-fb8a42de7c2a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1082983237252542524/original/e90385a7-5fc6-4366-9f65-84a0e26e8331.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.4374,
+          "longitud": -83.7902
+        }
+      }
+    }
+  }
+}

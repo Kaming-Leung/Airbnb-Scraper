@@ -1,0 +1,134 @@
+{
+  "grid_id": 53,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-21 12:05:08",
+  "listings": {
+    "1407192053934094991": {
+      "room_id": 1407192053934094991,
+      "latitude": 41.9302,
+      "longitude": -87.912,
+      "grid_id_assigned": null,
+      "grid_id_source": 53.0,
+      "bbox_id": "41.918670_-87.915290_41.944000_-87.890590",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:05:03",
+      "raw_data": {
+        "room_id": 1407192053934094991,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Ideal Spot Just Minutes from O’Hare Airport | LCP",
+        "title": "Home in Melrose Park",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 645.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $322.50",
+              "amount": 645.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.44,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1407192053934094991/original/0dd153c9-ca81-431d-a44e-aca6b03aaa8e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1407192053934094991/original/491b0356-102f-413e-9920-a83bf8626664.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1407192053934094991/original/318520e0-81be-4cb2-a5cf-c449d3ac328d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1407192053934094991/original/099dd3b9-dbb6-41a8-8db5-d12b7476ea10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1407192053934094991/original/e1fd8432-dfd9-4667-8c76-c768847f6836.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1407192053934094991/original/19f1dc9d-751d-4640-abf7-6da1660c13c7.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.9302,
+          "longitud": -87.912
+        }
+      }
+    }
+  }
+}

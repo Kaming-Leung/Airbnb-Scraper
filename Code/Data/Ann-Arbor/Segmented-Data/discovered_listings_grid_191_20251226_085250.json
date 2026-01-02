@@ -1,0 +1,131 @@
+{
+  "grid_id": 191,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 08:52:50",
+  "listings": {
+    "563333494614255420": {
+      "room_id": 563333494614255420,
+      "latitude": 42.22589,
+      "longitude": -83.56347,
+      "grid_id_assigned": null,
+      "grid_id_source": 191.0,
+      "bbox_id": "42.214870_-83.563610_42.240310_-83.528060",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 08:49:53",
+      "raw_data": {
+        "room_id": 563333494614255420,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Great cozy 6 bedroom home with gameroom & Firepit.",
+        "title": "Home in Ypsilanti",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2979.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $595.69",
+              "amount": 2978.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.73,
+          "reviewCount": "40"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/97fb29c5-3328-444f-9f20-d6652ab9490f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2b75c203-c657-4774-ae0e-a0c6fd6df727.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2c5cb604-97aa-4586-9ffc-6ab0d813f7cb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0eee897c-a5f9-4b38-9d57-b7c3898ce3e3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTYzMzMzNDk0NjE0MjU1NDIw/original/754d754a-a621-4783-a385-342b9bbc00bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e41f341-1df3-412b-bfca-bdb88cc63d9a.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.22589,
+          "longitud": -83.56347
+        }
+      }
+    }
+  }
+}

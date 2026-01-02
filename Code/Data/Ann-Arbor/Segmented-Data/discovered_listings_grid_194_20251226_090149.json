@@ -1,0 +1,129 @@
+{
+  "grid_id": 194,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 09:01:49",
+  "listings": {
+    "1456125202872597504": {
+      "room_id": 1456125202872597504,
+      "latitude": 42.21958967549155,
+      "longitude": -83.44307987840736,
+      "grid_id_assigned": null,
+      "grid_id_source": 194.0,
+      "bbox_id": "42.214870_-83.456960_42.240310_-83.421410",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 08:58:55",
+      "raw_data": {
+        "room_id": 1456125202872597504,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Belleville Lake Get Away!",
+        "title": "Home in Van Buren Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1689.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $337.79",
+              "amount": 1688.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.7,
+          "reviewCount": "37"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456125202872597504/original/b958b21b-7cb2-45e9-9ca2-a0ecf6f716b4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456125202872597504/original/45e6aeab-ce39-428b-88ff-6c5f01c7e410.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456125202872597504/original/3318f0cf-7d74-492f-9ffe-35cf123bd7e5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456125202872597504/original/b1dcc562-8cae-48d4-8628-fd4e9eed016f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456125202872597504/original/024840d7-f7d9-4e05-92da-9182b30dd3c2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456125202872597504/original/7f802bfd-0b3a-4e68-b7be-8b67b329bb32.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.21958967549155,
+          "longitud": -83.44307987840736
+        }
+      }
+    }
+  }
+}

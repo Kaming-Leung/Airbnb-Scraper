@@ -1,0 +1,129 @@
+{
+  "grid_id": 27,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 13:59:02",
+  "listings": {
+    "51443233": {
+      "room_id": 51443233,
+      "latitude": 37.55678,
+      "longitude": -121.88722,
+      "grid_id_assigned": null,
+      "grid_id_source": 27.0,
+      "bbox_id": "37.552450_-121.901730_37.577720_-121.869420",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:56:08",
+      "raw_data": {
+        "room_id": 51443233,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury French Chateau among rolling hills",
+        "title": "Villa in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 7240.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,447.93",
+              "amount": 7239.0,
+              "currency": "$.63"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.5,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51443233/original/20a7a922-f08a-4698-be28-2cf6a1ab504e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51443233/original/04ef1d1b-9c97-453f-afd6-4527b06d50b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51443233/original/dd93c75f-d636-4f32-b907-8cca00e284c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51443233/original/72f287c7-a6cb-427f-8608-9e932c413fec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51443233/original/32b66dc6-fe53-49f8-ac3e-6cca53c4fd37.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51443233/original/8f9b84c4-bac7-4e16-9662-2f87f5fe774b.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.55678,
+          "longitud": -121.88722
+        }
+      }
+    }
+  }
+}

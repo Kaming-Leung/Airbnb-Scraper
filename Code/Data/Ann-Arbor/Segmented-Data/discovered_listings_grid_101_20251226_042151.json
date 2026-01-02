@@ -1,0 +1,258 @@
+{
+  "grid_id": 101,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 04:21:51",
+  "listings": {
+    "20024153": {
+      "room_id": 20024153,
+      "latitude": 42.33675,
+      "longitude": -83.628,
+      "grid_id_assigned": null,
+      "grid_id_source": 101.0,
+      "bbox_id": "42.316620_-83.634710_42.342060_-83.599160",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:18:57",
+      "raw_data": {
+        "room_id": 20024153,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lovely country home near downtown Ann Arbor.",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2210.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $441.86",
+              "amount": 2209.0,
+              "currency": "$.32"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "69"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/2593e769-1322-4808-b437-4110cf4879b3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9b06b213-c7a5-4453-b406-80dc617b5e1a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/11678f17-7c2a-4164-8f92-5f788ee8b5a8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3c5b798d-7f0c-486b-8cb5-545a805109d1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/193f4ccf-1804-4148-a855-6435f5d851f7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fafff5ee-710f-4285-b84c-28bb893378a1.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.33675,
+          "longitud": -83.628
+        }
+      }
+    },
+    "1089282898398351179": {
+      "room_id": 1089282898398351179,
+      "latitude": 42.32491,
+      "longitude": -83.61133,
+      "grid_id_assigned": null,
+      "grid_id_source": 101.0,
+      "bbox_id": "42.316620_-83.634710_42.342060_-83.599160",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 04:19:27",
+      "raw_data": {
+        "room_id": 1089282898398351179,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Ann Arbor Country Ranch",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 569.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $189.44",
+              "amount": 568.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089282898398351179/original/b2a89353-351c-4ac2-9f7e-85f86bc0aa2c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089282898398351179/original/13c0e970-e2aa-4e8a-82bc-b6338cf7edc6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089282898398351179/original/a65924a1-66c1-4108-844c-e6764cd969f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089282898398351179/original/1e783903-50af-4d59-a19c-761e5955a2f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089282898398351179/original/63f0cfe9-f5d7-4c6c-8cdd-0834f133ec08.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089282898398351179/original/2f062a91-8854-4a97-886f-e8896db62454.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.32491,
+          "longitud": -83.61133
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "grid_id": 93,
+  "total_listings": 7,
+  "discovery_timestamp": "2025-12-23 09:42:02",
+  "listings": {
+    "1015210502164101739": {
+      "room_id": 1015210502164101739,
+      "latitude": 40.6611,
+      "longitude": -74.11639,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 09:39:08",
+      "raw_data": {
+        "room_id": 1015210502164101739,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Stylish retreat - NYC & NWK w/free parking",
+        "title": "Condo in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1658.0,
+            "discount": 1330.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $266.00",
+              "amount": 1330.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "158"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1015210502164101739/original/acba73fb-d622-4eab-8283-e3a8b0267df8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1015210502164101739/original/d1a79084-28bf-44c9-b009-d91267c3c942.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1015210502164101739/original/f7965626-0e36-4c0c-9338-94cfe865a2d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1015210502164101739/original/7f02cf53-46dd-44f2-b906-aa078137f645.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1015210502164101739/original/4104f07e-142b-4c80-bcc8-e333d9454d40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1015210502164101739/original/32455516-5d81-496b-a40b-6a4552213e62.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.6611,
+          "longitud": -74.11639
+        }
+      }
+    },
+    "1186327353895508042": {
+      "room_id": 1186327353895508042,
+      "latitude": 40.66119,
+      "longitude": -74.11598,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 09:39:08",
+      "raw_data": {
+        "room_id": 1186327353895508042,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Bayonne Getaway Just One Block from NYC Rail",
+        "title": "Apartment in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1423.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $284.60",
+              "amount": 1423.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "48"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NjMyNzM1Mzg5NTUwODA0Mg%3D%3D/original/b9463449-6a89-410b-92e8-94eb148fa367.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1186327353895508042/original/dd26c315-0e98-48a2-aa53-eca5f1d16e9e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NjMyNzM1Mzg5NTUwODA0Mg%3D%3D/original/d5b457a1-2014-44fa-bced-f873a16bc31a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NjMyNzM1Mzg5NTUwODA0Mg%3D%3D/original/8d620a49-88a6-40a2-b104-ee5eddac92fa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NjMyNzM1Mzg5NTUwODA0Mg%3D%3D/original/9310d5fc-48f1-44e3-88e7-d62326c13c0c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1186327353895508042/original/c956e4f0-ca62-4f1f-b04d-963bafdde3f0.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.66119,
+          "longitud": -74.11598
+        }
+      }
+    },
+    "1512476253337218102": {
+      "room_id": 1512476253337218102,
+      "latitude": 40.660178486732974,
+      "longitude": -74.11637912169599,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 09:39:08",
+      "raw_data": {
+        "room_id": 1512476253337218102,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy apt| 6 bedroom Multi-unit| 2 min to NYC Metro",
+        "title": "Apartment in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2117.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $423.40",
+              "amount": 2117.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1512476253337218102/original/57ca5890-4ac6-41a0-a3e6-eda3c80fbcc7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1512476253337218102/original/08d8fbf2-bced-4688-8900-f32774af8abc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1512476253337218102/original/f9cb28f0-c6f2-4f7c-bdfe-6570aedb5c76.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1512476253337218102/original/20a066ca-9bd3-4651-966b-121f3f9cdb95.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1512476253337218102/original/36152f34-e6f7-4f6b-8772-a15e9bfe819a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1512476253337218102/original/681b06d0-71ce-4be1-9db2-2e5de4cc0a50.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.660178486732974,
+          "longitud": -74.11637912169599
+        }
+      }
+    },
+    "1453786912489218212": {
+      "room_id": 1453786912489218212,
+      "latitude": 40.66176,
+      "longitude": -74.11779,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 09:39:08",
+      "raw_data": {
+        "room_id": 1453786912489218212,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Palma Suite - Bayonne | 15 min EWR | 30 min NYC",
+        "title": "Apartment in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1315.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $262.93",
+              "amount": 1314.0,
+              "currency": "$.64"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.33,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1453786912489218212/original/dbefa0df-2dcf-41e6-8dc1-d801d6c6fa3b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1453786912489218212/original/945e99d5-401a-47fc-9df8-25749bba050b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1453786912489218212/original/44f8f85c-25bb-42ff-8a7c-7a7a09e28ff6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1453786912489218212/original/a7dbb183-b66a-47e8-97f5-9ffa5cb8161b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1453786912489218212/original/4e21bc61-c11d-4f80-ad4e-972c426c7ff1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1453786912489218212/original/5fb70c54-48c8-4022-82f9-3094f6e643f9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.66176,
+          "longitud": -74.11779
+        }
+      }
+    },
+    "1446494778201195734": {
+      "room_id": 1446494778201195734,
+      "latitude": 40.66156,
+      "longitude": -74.10796,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 2,
+      "discovered_at": "2025-12-23 09:39:20",
+      "raw_data": {
+        "room_id": 1446494778201195734,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/7a8460b7-d658-4023-89d7-3bf78734ea57.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Alexis",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/7a8460b7-d658-4023-89d7-3bf78734ea57.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 months of hosting",
+              "label": "Months hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 6
+          },
+          "ratingCount": 4,
+          "ratingAverage": 4.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "home away from home",
+        "title": "Room in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $114.12",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446494778201195734/original/8a93975f-e54f-42dd-ae45-fe0dcc17fdc9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446494778201195734/original/4ee74d78-7769-4c34-ac4a-34d115ea78f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446494778201195734/original/ec117850-aac6-48e2-b02b-32fafae1c330.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446494778201195734/original/b0744186-7491-4f7f-afd4-cfdd283e5a30.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446494778201195734/original/44e4bc34-511b-4888-9b76-b3e6910d7d7f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446494778201195734/original/75e41f68-745e-4ee4-af5a-9da4ce555e90.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.66156,
+          "longitud": -74.10796
+        }
+      }
+    },
+    "1503734212212660204": {
+      "room_id": 1503734212212660204,
+      "latitude": 40.6607,
+      "longitude": -74.11644,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 09:39:32",
+      "raw_data": {
+        "room_id": 1503734212212660204,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Comfort Meets Convenience | 2BR Next to NYC Train",
+        "title": "Apartment in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 394.0,
+            "discount": 347.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $173.50",
+              "amount": 347.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1503734212212660204/original/64de29b3-d992-484d-8535-678f918c32e1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1503734212212660204/original/6024b327-e7d9-4ff6-b86e-cceac6c96dd9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1503734212212660204/original/96ca3bfc-c66d-4381-b676-6185ad2eb145.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1503734212212660204/original/5df8e34d-d48a-43b3-bdb7-87aed641327e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1503734212212660204/original/f4434817-0750-4857-a4b7-66dc425ead2e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1503734212212660204/original/b6e85a27-aca2-4d9c-a174-4247bcdc9040.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.6607,
+          "longitud": -74.11644
+        }
+      }
+    },
+    "1268988917116829081": {
+      "room_id": 1268988917116829081,
+      "latitude": 40.6638,
+      "longitude": -74.1165,
+      "grid_id_assigned": null,
+      "grid_id_source": 93.0,
+      "bbox_id": "40.641740_-74.117980_40.664170_-74.097010",
+      "pass_id": 13,
+      "discovered_at": "2025-12-23 09:40:26",
+      "raw_data": {
+        "room_id": 1268988917116829081,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Spacious Apartment | Near NYC & EWR",
+        "title": "Apartment in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 487.0,
+            "discount": 446.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $222.53",
+              "amount": 445.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "96"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1268988917116829081/original/1dcf45b6-df5d-4d4b-b4ae-0bb2dc7854fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1268988917116829081/original/bd02177f-291b-4269-ad38-054947823afd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1268988917116829081/original/137c84d4-a3e6-455a-92c4-56255ab816c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1268988917116829081/original/5369d9a1-25fb-4174-b7d2-05dc12441a69.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1268988917116829081/original/b1acac05-1540-4191-9828-41883545f631.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1268988917116829081/original/3e0908c2-02ed-440c-914a-873ab3dbd201.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.6638,
+          "longitud": -74.1165
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "grid_id": 87,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 03:39:48",
+  "listings": {
+    "789960839247688809": {
+      "room_id": 789960839247688809,
+      "latitude": 42.34772,
+      "longitude": -83.32925,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "42.342060_-83.350310_42.367500_-83.314760",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 03:36:59",
+      "raw_data": {
+        "room_id": 789960839247688809,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Whispering Pines",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 201.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $100.43",
+              "amount": 200.0,
+              "currency": "$.85"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-789960839247688809/original/82253368-7b90-469c-86d3-03b0cae85e81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-789960839247688809/original/7e5ba062-b038-4e75-bf39-0a9597473681.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-789960839247688809/original/5d1ba0ac-dd68-4050-9948-e77e3fd9f592.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-789960839247688809/original/bf029b62-8d93-4af6-8e24-97dd04afb411.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-789960839247688809/original/1657db5b-295a-4068-b398-ca7b14e55a68.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.34772,
+          "longitud": -83.32925
+        }
+      }
+    },
+    "1546325868184445987": {
+      "room_id": 1546325868184445987,
+      "latitude": 42.351,
+      "longitude": -83.3349,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "42.342060_-83.350310_42.367500_-83.314760",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 03:37:17",
+      "raw_data": {
+        "room_id": 1546325868184445987,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Farmhouse of Westland",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 367.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $183.05",
+              "amount": 366.0,
+              "currency": "$.09"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1546325868184445987/original/b7e05f8b-acea-4b1b-90d9-855ebc70d1f1.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1546325868184445987/original/196a3114-3b6f-4674-b2fc-c41e858cad1e.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1546325868184445987/original/fcedc103-2ec6-46e1-9263-9dd68547d969.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1546325868184445987/original/bdb98ad2-4bc9-4353-80ae-51ef8f75c341.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1546325868184445987/original/0c852df8-0b13-4242-9886-da0123a46076.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1546325868184445987/original/73ef2c4a-d4e0-494f-8bcb-d02f051a7725.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.351,
+          "longitud": -83.3349
+        }
+      }
+    }
+  }
+}

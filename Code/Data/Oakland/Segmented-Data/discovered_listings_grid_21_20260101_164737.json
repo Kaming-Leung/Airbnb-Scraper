@@ -1,0 +1,253 @@
+{
+  "grid_id": 21,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 16:47:37",
+  "listings": {
+    "22105552": {
+      "room_id": 22105552,
+      "latitude": 37.80542,
+      "longitude": -122.3243,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.798570_-122.336330_37.825040_-122.302550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:44:42",
+      "raw_data": {
+        "room_id": 22105552,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "High Rise SOMA nearby Westfield Hotel Zetta",
+        "title": "Apartment in West Oakland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2089.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $417.67",
+              "amount": 2088.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/18db6113-dbfc-42ae-935b-8fd2bb6bc701.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5dfec5bf-58ab-4948-a7f2-a8002acddac5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d3d23d2b-4fd2-4d20-9d08-f62b56ec374b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/50bb2c4b-ed3a-4b73-84f2-e0fa2309db62.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ceadf2c9-d664-4550-8d87-b31bb9065a5b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/926648bc-3dc7-4424-be73-c98b99a6cfe0.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.80542,
+          "longitud": -122.3243
+        }
+      }
+    },
+    "837071672476777449": {
+      "room_id": 837071672476777449,
+      "latitude": 37.80799,
+      "longitude": -122.30331,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.798570_-122.336330_37.825040_-122.302550",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 16:44:54",
+      "raw_data": {
+        "room_id": 837071672476777449,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "\"We had a Fabulous Stay\" private 2 Story townhome",
+        "title": "Home in West Oakland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 464.0,
+            "discount": 409.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $136.33",
+              "amount": 409.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "95"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-837071672476777449/original/afb1c8e2-d0b0-485c-9fda-83a9540dc9af.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-837071672476777449/original/1775ff3a-cf8f-4e4c-832e-f063139813b4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/85d01fa4-781f-4ac0-9ebb-5ce923c9f092.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-837071672476777449/original/b4d20629-3732-47f1-9954-4a15bcd06573.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/97a9f165-aa65-436c-bb5c-5dd0dc722758.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-837071672476777449/original/4247e3f4-d9a1-4dfa-84f7-90b577c8ff7f.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.80799,
+          "longitud": -122.30331
+        }
+      }
+    }
+  }
+}

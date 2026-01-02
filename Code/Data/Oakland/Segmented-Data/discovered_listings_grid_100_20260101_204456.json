@@ -1,0 +1,333 @@
+{
+  "grid_id": 100,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 20:44:56",
+  "listings": {
+    "28856540": {
+      "room_id": 28856540,
+      "latitude": 37.63005,
+      "longitude": -122.03108,
+      "grid_id_assigned": null,
+      "grid_id_source": 100.0,
+      "bbox_id": "37.613340_-122.032330_37.639800_-121.998550",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 20:42:08",
+      "raw_data": {
+        "room_id": 28856540,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a3ee614a-3356-469d-a6c9-08514455c400.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Christine",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a3ee614a-3356-469d-a6c9-08514455c400.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 review on the listing",
+              "label": "Review",
+              "value": "1",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 9
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Large suite, tranquil park view centrally located",
+        "title": "Room in Hayward",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 307.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $153.49",
+              "amount": 306.0,
+              "currency": "$.98"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/be8250f6-f545-4f1e-bf57-91a623207e63.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/00bc22e2-c80f-48fc-af70-346496083197.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d7fd38ff-fa80-44ec-8f04-38ed9375171b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/13243212-0256-4377-937d-bb786bee73e6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e98c3276-1e99-4896-9632-3a950f0ee5f3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eb2ad4ad-5310-4867-a442-c0cf91631734.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.63005,
+          "longitud": -122.03108
+        }
+      }
+    },
+    "29824569": {
+      "room_id": 29824569,
+      "latitude": 37.63053,
+      "longitude": -122.03148,
+      "grid_id_assigned": null,
+      "grid_id_source": 100.0,
+      "bbox_id": "37.613340_-122.032330_37.639800_-121.998550",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 20:42:32",
+      "raw_data": {
+        "room_id": 29824569,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a3ee614a-3356-469d-a6c9-08514455c400.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Christine",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a3ee614a-3356-469d-a6c9-08514455c400.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0 reviews on the listing",
+              "label": "Reviews",
+              "value": "0",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "0.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 9
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Two elegant suites with tranquil park view",
+        "title": "Rooms in Hayward",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -58.0,
+          "currency_symbol": "$.50"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 712.0,
+            "discount": 654.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $237.27",
+              "amount": 711.0,
+              "currency": "$.82"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -58.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 653.0,
+              "currency": "$.32"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d80067ad-bbc2-49f6-8547-77aee84b0cf0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c9558843-d8f5-479c-8e96-7dc94c0e26e3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/557693e4-f3c0-4a4e-8cbe-b04b2d7e9933.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ebbf2185-b1c1-4214-8409-b152b497b5a4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/57b1d6c0-e7ef-44cb-ad09-b65816278de4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/45c9b444-b4ae-46ec-9c24-7425f298e0c1.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.63053,
+          "longitud": -122.03148
+        }
+      }
+    }
+  }
+}

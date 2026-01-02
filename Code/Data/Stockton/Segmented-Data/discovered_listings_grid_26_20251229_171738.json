@@ -1,0 +1,765 @@
+{
+  "grid_id": 26,
+  "total_listings": 6,
+  "discovery_timestamp": "2025-12-29 17:17:38",
+  "listings": {
+    "1574221248897212878": {
+      "room_id": 1574221248897212878,
+      "latitude": 37.96649,
+      "longitude": -121.35391,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "37.956180_-121.376710_37.982170_-121.344610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:14:46",
+      "raw_data": {
+        "room_id": 1574221248897212878,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 19 – 24",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 19 – 24",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "For the Gorl’s",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1000.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $200.00",
+              "amount": 1000.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1574221248897212878/original/221a3172-f382-42cd-b789-0a40980ebd70.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1574221248897212878/original/0b53d2b1-6db3-492a-8bac-4d7f7d993460.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1574221248897212878/original/ac32e08b-c246-4151-9fef-f85ffe9fa522.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1574221248897212878/original/da1c7aee-ca73-4ad7-ac1b-fa9011f67ce6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1574221248897212878/original/210724e4-cb23-4732-b858-cb2e3a2b3d0e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1574221248897212878/original/b93ed7f6-bb6a-4042-a12c-a5db8991869f.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.96649,
+          "longitud": -121.35391
+        }
+      }
+    },
+    "1540706123828696361": {
+      "room_id": 1540706123828696361,
+      "latitude": 37.97651,
+      "longitude": -121.3451,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "37.956180_-121.376710_37.982170_-121.344610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:14:46",
+      "raw_data": {
+        "room_id": 1540706123828696361,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 11 – 16",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Calariva Oasis • Lakeside Escape w/ Relaxing Vibes",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1370.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $273.88",
+              "amount": 1369.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1540706123828696361/original/69dded47-e778-48ac-96ab-91c2e739f85b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1540706123828696361/original/068581e6-6186-4aeb-b2ed-34709bef5ba1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1540706123828696361/original/63c8e956-9fa0-41c9-8aac-15951667b0c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1540706123828696361/original/8ee7ec87-aa46-458f-9a05-967c620b0859.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1540706123828696361/original/31bea2c6-1808-47aa-a3f5-c7823b0dde34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1540706123828696361/original/db3c40c3-9d1e-4e61-8ca9-c30646fa3664.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.97651,
+          "longitud": -121.3451
+        }
+      }
+    },
+    "11972959": {
+      "room_id": 11972959,
+      "latitude": 37.97608,
+      "longitude": -121.34485,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "37.956180_-121.376710_37.982170_-121.344610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:14:46",
+      "raw_data": {
+        "room_id": 11972959,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Secluded, Relaxing, Spacious Home",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2226.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $445.06",
+              "amount": 2225.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "49"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-11972959/original/61c8acfd-782f-49d5-9a2b-2661d563e2ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0919994a-7881-47dc-b294-c9437fe67375.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ddb0701d-e937-4ff5-bce9-c320bda5ed44.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0d8a3c0f-ab09-49ee-8f77-6654feb092a8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-11972959/original/d8be06ae-33cd-4c57-b7d5-cb37070d38c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b9ce91e2-dc15-48e4-a9d2-0c8015e54629.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.97608,
+          "longitud": -121.34485
+        }
+      }
+    },
+    "745910073356627806": {
+      "room_id": 745910073356627806,
+      "latitude": 37.9758,
+      "longitude": -121.373,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "37.956180_-121.376710_37.982170_-121.344610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:14:46",
+      "raw_data": {
+        "room_id": 745910073356627806,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Luxury Yacht On the Delta",
+        "title": "Boat in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 6 nights",
+            "curency_symbol": "$",
+            "amount": 2048.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "6 nights x $341.21",
+              "amount": 2047.0,
+              "currency": "$.27"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-745910073356627806/original/bdc16387-6751-454a-9301-9f3f499f6629.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-745910073356627806/original/d2c55325-1db8-4188-821f-333223558713.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-745910073356627806/original/941b44e1-41bf-42e2-9b2f-6937dc07a2d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-745910073356627806/original/77881867-3007-43ee-aab2-d94bc6b2a52e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-745910073356627806/original/ee12121e-9091-4af9-a243-a29b36d43f4b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-745910073356627806/original/a710a40a-8cb0-4f85-8d17-1368b7841d90.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.9758,
+          "longitud": -121.373
+        }
+      }
+    },
+    "976823236955449780": {
+      "room_id": 976823236955449780,
+      "latitude": 37.97698,
+      "longitude": -121.37189,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "37.956180_-121.376710_37.982170_-121.344610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:14:46",
+      "raw_data": {
+        "room_id": 976823236955449780,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ultimate Toy Hauler !",
+        "title": "Camper/RV in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1778.0,
+            "discount": 1479.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $355.59",
+              "amount": 1777.0,
+              "currency": "$.97"
+            },
+            {
+              "description": "Special offer",
+              "amount": -299.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1478.0,
+              "currency": "$.97"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-976823236955449780/original/a8b3ba46-ff69-4dd2-9c56-3627ad840a8f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-976823236955449780/original/e7aac119-0056-4b1e-a717-4e98c6e43850.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-976823236955449780/original/07e593ea-296a-4faf-8a67-7e9bad387856.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-976823236955449780/original/49d2ada2-9a68-4a67-a79c-75f0d4e97c25.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-976823236955449780/original/b5ac0d0c-a485-448e-a58c-99bf9f938801.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-976823236955449780/original/0e570d40-1670-42b0-ad7c-895a16195848.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.97698,
+          "longitud": -121.37189
+        }
+      }
+    },
+    "971270436526960215": {
+      "room_id": 971270436526960215,
+      "latitude": 37.9758,
+      "longitude": -121.3727,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "37.956180_-121.376710_37.982170_-121.344610",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 17:14:46",
+      "raw_data": {
+        "room_id": 971270436526960215,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Family Glamping At Its Finest !",
+        "title": "Camper/RV in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2057.0,
+            "discount": 1708.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $411.24",
+              "amount": 2056.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Special offer",
+              "amount": -349.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1707.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-971270436526960215/original/e0aaa958-65b4-4ddb-b833-f37ea3cfa97a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-971270436526960215/original/a1a385bd-4e6d-4bda-ba84-b1b7ba11636d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-971270436526960215/original/635849a6-612d-4da5-86c3-0b8ed4d5268d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-971270436526960215/original/3b90a3d8-a883-4018-97ee-46fc7fc1d840.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-971270436526960215/original/9a781c13-bda5-402f-8727-ed036eb486c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-971270436526960215/original/69e2a852-6ef3-469d-a394-394ac4955cd2.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.9758,
+          "longitud": -121.3727
+        }
+      }
+    }
+  }
+}

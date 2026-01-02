@@ -1,0 +1,387 @@
+{
+  "grid_id": 59,
+  "total_listings": 3,
+  "discovery_timestamp": "2026-01-01 02:47:56",
+  "listings": {
+    "9364139": {
+      "room_id": 9364139,
+      "latitude": 37.22895,
+      "longitude": -122.00795,
+      "grid_id_assigned": null,
+      "grid_id_source": 59.0,
+      "bbox_id": "37.214030_-122.035570_37.240460_-122.005850",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 02:45:08",
+      "raw_data": {
+        "room_id": 9364139,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Elegant suite in Los Gatos - Beach in 30 min!",
+        "title": "Guest suite in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $199.71",
+              "amount": 399.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.78,
+          "reviewCount": "218"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/348482ea-fdc3-4301-a739-a4ab5c2a54f8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/913b5069-9aeb-41a0-a655-837eca922874.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4211e7c2-4894-41ca-ac94-239d0fa53fb9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cd5796c3-2639-4365-a6ec-493f10040329.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4956ec8e-0fd7-4ec5-9050-f270323cfc7b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/14a2a5d4-0ec2-4c72-9a6f-eacc8ecd55d5.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22895,
+          "longitud": -122.00795
+        }
+      }
+    },
+    "571634183939872071": {
+      "room_id": 571634183939872071,
+      "latitude": 37.23712,
+      "longitude": -122.01539,
+      "grid_id_assigned": null,
+      "grid_id_source": 59.0,
+      "bbox_id": "37.214030_-122.035570_37.240460_-122.005850",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 02:45:08",
+      "raw_data": {
+        "room_id": 571634183939872071,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-30218351/original/5bf74270-567d-47bc-8473-0bd1f665e0a2.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Mihir",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-30218351/original/5bf74270-567d-47bc-8473-0bd1f665e0a2.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "17 reviews on the listing",
+              "label": "Reviews",
+              "value": "17",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.71 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.71",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 years of hosting",
+              "label": "Years hosting",
+              "value": "4",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 10
+          },
+          "ratingCount": 17,
+          "ratingAverage": 4.71
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Heaven in the Hills - Gorgeous, Zen 1Bd/1Ba in LG",
+        "title": "Room in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 411.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $205.41",
+              "amount": 410.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.71,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-571634183939872071/original/58156643-a317-4acf-b2db-26713bb034a0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-571634183939872071/original/de46d7b3-dff2-4213-af6c-14641ea1b0bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-571634183939872071/original/28269f9c-a6fa-4b24-9e48-7f53699cc16e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-571634183939872071/original/5f1e874a-4b72-4e41-afec-5af6da0d38c0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-571634183939872071/original/0da5b3ab-e898-43c1-8a9f-139b9ac68979.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6258e29b-a780-45ce-9cae-bc71e26df0fc.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.23712,
+          "longitud": -122.01539
+        }
+      }
+    },
+    "49446120": {
+      "room_id": 49446120,
+      "latitude": 37.22825,
+      "longitude": -122.00708,
+      "grid_id_assigned": null,
+      "grid_id_source": 59.0,
+      "bbox_id": "37.214030_-122.035570_37.240460_-122.005850",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 02:45:31",
+      "raw_data": {
+        "room_id": 49446120,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Junior suite in Los Gatos - Beach in 30 minutes!",
+        "title": "Guest suite in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 605.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $201.61",
+              "amount": 604.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "35"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49446120/original/f6ba05c9-b6a5-485c-9d53-503c33b71316.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f74229c8-274c-4ce1-a957-d922d5663365.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49446120/original/6c62289b-8cfa-46e3-9dca-4c8a14b155ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49446120/original/0e059573-d47e-4479-a085-74ea046a86f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49446120/original/3dc0921a-cd0f-472d-b035-472067de4897.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-49446120/original/cebe8ba1-8864-4ae5-8c7f-cfefb12d6cc4.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22825,
+          "longitud": -122.00708
+        }
+      }
+    }
+  }
+}

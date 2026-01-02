@@ -1,0 +1,490 @@
+{
+  "grid_id": 40,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-26 01:18:27",
+  "listings": {
+    "1376305109334888170": {
+      "room_id": 1376305109334888170,
+      "latitude": 42.393482785586826,
+      "longitude": -83.45249683028094,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "42.392940_-83.456960_42.418380_-83.421410",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 01:15:33",
+      "raw_data": {
+        "room_id": 1376305109334888170,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Gorgeous 4br2ba Luxury Home",
+        "title": "Home in Plymouth",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1372.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $274.34",
+              "amount": 1371.0,
+              "currency": "$.69"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1376305109334888170/original/780b9a72-1c33-4378-a36a-200eb8872b5c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1376305109334888170/original/42a876e7-ce9b-453a-aff1-98aed7dc7688.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1376305109334888170/original/2603f394-4734-4136-9568-4478978a16fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1376305109334888170/original/fd06bac6-5e5b-46e6-b127-3e37fa91a19b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1376305109334888170/original/de03d368-69d8-446e-a26b-ea7fc86440d0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1376305109334888170/original/f8bea643-0626-4ab2-8365-d3eb7c8a98d3.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.393482785586826,
+          "longitud": -83.45249683028094
+        }
+      }
+    },
+    "1147769105566653120": {
+      "room_id": 1147769105566653120,
+      "latitude": 42.4098,
+      "longitude": -83.4376,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "42.392940_-83.456960_42.418380_-83.421410",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 01:15:39",
+      "raw_data": {
+        "room_id": 1147769105566653120,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Michigan Townhome w/ Smart TV: 25 Mi to Detroit!",
+        "title": "Condo in Northville township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 497.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $248.50",
+              "amount": 497.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147769105566653120/original/886aa7cc-aac7-46c6-93c4-c7ee183c8cb7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147769105566653120/original/a7cbdff9-0d71-4a59-b8e9-3416fda70f93.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147769105566653120/original/7fe05214-ced6-421d-99a8-78186f326131.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147769105566653120/original/fee6330c-a55c-4266-a1fc-4241c97744de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147769105566653120/original/00105be6-0180-4a6d-9612-c0c9eeb9e062.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147769105566653120/original/660ad119-0f86-4c56-bfb7-99efdadf4038.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.4098,
+          "longitud": -83.4376
+        }
+      }
+    },
+    "1455752746290133937": {
+      "room_id": 1455752746290133937,
+      "latitude": 42.41135,
+      "longitude": -83.42926,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "42.392940_-83.456960_42.418380_-83.421410",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 01:15:45",
+      "raw_data": {
+        "room_id": 1455752746290133937,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Near Laurel Park Mall + Breakfast. Kitchen. Gym.",
+        "title": "Hotel in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 283.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $94.09",
+              "amount": 282.0,
+              "currency": "$.27"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.35,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455752746290133937/original/b427b765-627c-4566-9f0f-480bf5b718b5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455752746290133937/original/8bcf7288-ba13-44e7-8f9a-52072a5b36f8.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455752746290133937/original/3fdc85c2-f9bf-401c-9d59-ea4d01dc81a5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455752746290133937/original/fd6249d6-dece-46e2-bea3-1c87bfe2a67c.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455752746290133937/original/684e6bbb-b829-4993-b5ec-f02685510ee3.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455752746290133937/original/a480c72f-3432-4379-88ce-0c06f0ed9c05.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.41135,
+          "longitud": -83.42926
+        }
+      }
+    },
+    "1455753869932735953": {
+      "room_id": 1455753869932735953,
+      "latitude": 42.41151,
+      "longitude": -83.42986,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "42.392940_-83.456960_42.418380_-83.421410",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 01:15:45",
+      "raw_data": {
+        "room_id": 1455753869932735953,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Close to Laurel Park Mall + Breakfast & Kitchen",
+        "title": "Hotel in Livonia",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 299.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $99.56",
+              "amount": 298.0,
+              "currency": "$.68"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455753869932735953/original/356a5518-094e-4c0d-8a30-0118b8e15864.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455753869932735953/original/bdd76dd3-9273-4f73-8527-7c54526e57f5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455753869932735953/original/413f6931-b9d4-465a-bf42-ccb030ffa6fa.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455753869932735953/original/369904ac-cb9e-461f-aa03-6162e28ca74d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455753869932735953/original/b1e0ad10-5fa8-4f26-8cd5-978d2aadbe13.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1455753869932735953/original/8d83ebc6-5d3d-462b-9c60-022aefe24df5.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.41151,
+          "longitud": -83.42986
+        }
+      }
+    }
+  }
+}

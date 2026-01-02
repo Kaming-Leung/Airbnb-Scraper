@@ -1,0 +1,253 @@
+{
+  "grid_id": 2,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 12:43:57",
+  "listings": {
+    "29853700": {
+      "room_id": 29853700,
+      "latitude": 37.62085,
+      "longitude": -122.09622,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "37.602980_-122.127910_37.628250_-122.095600",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 12:41:03",
+      "raw_data": {
+        "room_id": 29853700,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Renovated 5Bd/3Ba | King Suite | AC | Deck+Garden",
+        "title": "Home in Hayward",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1801.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $360.16",
+              "amount": 1800.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.69,
+          "reviewCount": "167"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk4NTM3MDA%3D/original/fd068229-90fc-4922-bbe9-a6c4e791ea3e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk4NTM3MDA%3D/original/7fbcde75-e6a9-4dc1-9c55-90f96393fc14.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk4NTM3MDA%3D/original/7cba92db-5f55-46bc-bd95-8f32c5c37b3c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk4NTM3MDA%3D/original/5c307f9b-8de4-4825-b707-58e3c6b81df0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk4NTM3MDA%3D/original/98d2f470-7d1b-4d03-b23a-65748dcf74cd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk4NTM3MDA%3D/original/60c36fac-b432-48b7-835f-17cbb076f495.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.62085,
+          "longitud": -122.09622
+        }
+      }
+    },
+    "52773678": {
+      "room_id": 52773678,
+      "latitude": 37.62789,
+      "longitude": -122.1046,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "37.602980_-122.127910_37.628250_-122.095600",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 12:41:09",
+      "raw_data": {
+        "room_id": 52773678,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3de17527-f79d-41dc-b3e3-1c3185571bc0.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Charles",
+          "titleText": "Started hosting in 2021",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3de17527-f79d-41dc-b3e3-1c3185571bc0.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 4,
+            "months": 2
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Hayward, CA one bedroom and private bathroom.",
+        "title": "Room in Hayward",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 349.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $174.03",
+              "amount": 348.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52773678/original/d947374e-9b7f-4365-9433-5a3b67fb2d78.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52773678/original/0572de59-cea6-44fc-b9c2-ca5f7b2a66cf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52773678/original/a58a4278-c832-49b5-b687-985d79f92aab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52773678/original/615a7b43-616b-41c0-ad71-620862cecf4c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52773678/original/e1c7f3d8-a07b-4b76-9d21-5a576556afb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52773678/original/5eb188c7-6cdf-4980-a8a9-7418c2e4523e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.62789,
+          "longitud": -122.1046
+        }
+      }
+    }
+  }
+}

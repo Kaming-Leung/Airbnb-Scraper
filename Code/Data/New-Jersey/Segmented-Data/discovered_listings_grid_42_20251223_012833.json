@@ -1,0 +1,967 @@
+{
+  "grid_id": 42,
+  "total_listings": 7,
+  "discovery_timestamp": "2025-12-23 01:28:33",
+  "listings": {
+    "1481368530799067877": {
+      "room_id": 1481368530799067877,
+      "latitude": 40.77006863776593,
+      "longitude": -74.13774403999122,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 01:25:38",
+      "raw_data": {
+        "room_id": 1481368530799067877,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern 3BR Near EWR, Parking, 25 Min NYC",
+        "title": "Apartment in Kearny",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1549.0,
+            "discount": 1409.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $281.64",
+              "amount": 1408.0,
+              "currency": "$.21"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1481368530799067877/original/295a706b-2791-4216-ae27-99835396be98.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1481368530799067877/original/c101a897-7a32-4160-99a9-05e0d2fba5ea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1481368530799067877/original/4f66f8bc-1aad-49d2-a7a3-66fd971cea8c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1481368530799067877/original/f7176379-6e9b-45f8-a94b-2b6589723843.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1481368530799067877/original/44b09a3c-d01b-4901-916f-d590496fed80.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1481368530799067877/original/64beeb0a-7b69-4032-bd2f-2a70d87c901a.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.77006863776593,
+          "longitud": -74.13774403999122
+        }
+      }
+    },
+    "1514517956281848386": {
+      "room_id": 1514517956281848386,
+      "latitude": 40.7715,
+      "longitude": -74.1373,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 01:25:38",
+      "raw_data": {
+        "room_id": 1514517956281848386,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "New & Modern 3BR/2BA Apartment-Spacious, Near NYC",
+        "title": "Apartment in Kearny",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1619.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $323.66",
+              "amount": 1618.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514517956281848386/original/baf868bc-4753-4209-b4ec-ae8af29ce816.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514517956281848386/original/f5c30462-0a47-429d-9147-0beb4ccc89bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514517956281848386/original/68b18bc9-2975-4c04-8c28-c9702ce96405.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514517956281848386/original/e0439936-c309-4c66-8e1c-24e0e255858b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514517956281848386/original/df14b5b6-bd83-4a43-bd0c-2f265f626865.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514517956281848386/original/83aae92c-156e-4199-bd7d-8e9dcd98870e.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.7715,
+          "longitud": -74.1373
+        }
+      }
+    },
+    "1530766930105716532": {
+      "room_id": 1530766930105716532,
+      "latitude": 40.7715,
+      "longitude": -74.1351,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 3,
+      "discovered_at": "2025-12-23 01:25:56",
+      "raw_data": {
+        "room_id": 1530766930105716532,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "CityView Haven – Near MetLife & American Dream",
+        "title": "Apartment in Kearny",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $353.76",
+              "amount": 353.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1530766930105716532/original/83b4aec1-0535-41c1-9dbe-07e6b44b5b15.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1530766930105716532/original/8eef09c1-65fb-4c8b-a0d8-a7f52a76fb34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1530766930105716532/original/27cde5a8-8c73-4661-9277-80d2068972ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1530766930105716532/original/1e16cf88-d22d-443b-b226-29dcdb12cb37.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1530766930105716532/original/93b6cbe7-dd5e-4e97-9234-b31b26099e65.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1530766930105716532/original/9c6d7e2f-8810-4cfa-b191-98c235a82155.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.7715,
+          "longitud": -74.1351
+        }
+      }
+    },
+    "1102320041697522123": {
+      "room_id": 1102320041697522123,
+      "latitude": 40.76872,
+      "longitude": -74.13676,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 01:26:02",
+      "raw_data": {
+        "room_id": 1102320041697522123,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy and comfy studio Apartment",
+        "title": "Apartment in Kearny",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 331.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $165.47",
+              "amount": 330.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.62,
+          "reviewCount": "45"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016096423818392437/original/e6cc0b09-1153-420c-bd5f-0f5f226e0821.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6c150893-f1d5-43c3-a9e0-678529481c36.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4b2ce132-da0f-4675-b8f3-e66dba7e155d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016096423818392437/original/4862fc9d-cb32-41a6-9f86-29ca480c1550.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEwMjMyMDA0MTY5NzUyMjEyMw%3D%3D/original/8ec3fc34-3508-4843-b9cb-a8ff6924ac99.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEwMjMyMDA0MTY5NzUyMjEyMw%3D%3D/original/1f6de000-9c85-4d4d-a69f-751c352d0d62.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.76872,
+          "longitud": -74.13676
+        }
+      }
+    },
+    "1400836150848230066": {
+      "room_id": 1400836150848230066,
+      "latitude": 40.77476864679365,
+      "longitude": -74.13662869606954,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 01:26:09",
+      "raw_data": {
+        "room_id": 1400836150848230066,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/97c1d605-0206-490d-9ca2-2d850e1a61fb.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sonia",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/97c1d605-0206-490d-9ca2-2d850e1a61fb.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "19 reviews on the listing",
+              "label": "Reviews",
+              "value": "19",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.95 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.95",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 year of hosting",
+              "label": "Year hosting",
+              "value": "1",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 2
+          },
+          "ratingCount": 19,
+          "ratingAverage": 4.95
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sonia’s place 2",
+        "title": "Room in Kearny",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 258.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $85.97",
+              "amount": 257.0,
+              "currency": "$.91"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1400836150848230066/original/d9d476ac-a333-4b1c-810a-9a24454f4959.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1400836150848230066/original/557fba93-6f23-45fd-a093-388e715ee6b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1400836150848230066/original/02ee478b-41f1-4618-b588-0a9cbce215c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1400836150848230066/original/74c3a7f7-91d6-4152-a176-53b192fc40f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1400836150848230066/original/7b13feca-42e2-4ac8-92d1-d827c6067b34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1400836150848230066/original/179c9f41-6db7-4b4c-9938-947885bb2ff6.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.77476864679365,
+          "longitud": -74.13662869606954
+        }
+      }
+    },
+    "1456076123831972390": {
+      "room_id": 1456076123831972390,
+      "latitude": 40.7744,
+      "longitude": -74.1361,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 01:26:09",
+      "raw_data": {
+        "room_id": 1456076123831972390,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/97c1d605-0206-490d-9ca2-2d850e1a61fb.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sonia",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/97c1d605-0206-490d-9ca2-2d850e1a61fb.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.75 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.75",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 year of hosting",
+              "label": "Year hosting",
+              "value": "1",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 2
+          },
+          "ratingCount": 4,
+          "ratingAverage": 4.75
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sonia’s place 3",
+        "title": "Room in Kearny",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -13.0,
+          "currency_symbol": "$.50"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 327.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $113.48",
+              "amount": 340.0,
+              "currency": "$.45"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -13.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 326.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456076123831972390/original/66c43bed-9b4a-485f-bf79-921130464420.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456076123831972390/original/85e18c88-89cb-4201-ad4b-427dd5035905.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456076123831972390/original/9e613fe4-2a4e-437b-abea-15843f4b70b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456076123831972390/original/997e2403-aa2a-4a58-8f9b-e560d670fe35.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456076123831972390/original/b994ae91-2329-412a-8e4d-88639fc8a7a0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1456076123831972390/original/36092e1c-0224-4e8e-8ffd-e0e91dd5d64d.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.7744,
+          "longitud": -74.1361
+        }
+      }
+    },
+    "1443769374563207029": {
+      "room_id": 1443769374563207029,
+      "latitude": 40.7638,
+      "longitude": -74.1382,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "40.753910_-74.138960_40.776340_-74.117980",
+      "pass_id": 8,
+      "discovered_at": "2025-12-23 01:26:26",
+      "raw_data": {
+        "room_id": 1443769374563207029,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Deluxe Modern 1 BR KING BED",
+        "title": "Apartment in Kearny",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 683.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $227.36",
+              "amount": 682.0,
+              "currency": "$.08"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.5,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443769374563207029/original/d0accab3-da5d-4e49-8c27-e1a878ef6bd5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443769374563207029/original/1d516509-2b9a-442d-8c6e-5566dcacd98b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443769374563207029/original/559db23e-17f7-4663-a3bd-809c0048469f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443769374563207029/original/7f04a2b6-272a-411f-8d2c-a03c9440161c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443769374563207029/original/e99e2702-cfa2-4118-8c5c-14739ed2730c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443769374563207029/original/f5281538-e6a6-49e0-bcd3-a0da51698be1.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 40.7638,
+          "longitud": -74.1382
+        }
+      }
+    }
+  }
+}

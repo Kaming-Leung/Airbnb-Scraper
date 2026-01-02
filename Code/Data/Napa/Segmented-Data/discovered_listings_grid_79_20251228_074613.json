@@ -1,0 +1,131 @@
+{
+  "grid_id": 79,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 07:46:13",
+  "listings": {
+    "803665588008021716": {
+      "room_id": 803665588008021716,
+      "latitude": 38.29977,
+      "longitude": -122.33957,
+      "grid_id_assigned": null,
+      "grid_id_source": 79.0,
+      "bbox_id": "38.298850_-122.339730_38.306600_-122.329230",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 07:43:17",
+      "raw_data": {
+        "room_id": 803665588008021716,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet Napa Retreat",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1570.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $313.82",
+              "amount": 1569.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803665588008021716/original/ca811896-7517-4a8a-806f-dc08a577dd14.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803665588008021716/original/71dd3033-d39e-4052-9576-3924d4c912f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803665588008021716/original/b4ba020e-5460-4655-a2de-b6c43d4fa308.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803665588008021716/original/bea07d14-3692-4803-8152-b5bcd37a5231.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803665588008021716/original/55d6b5b1-4850-4e3c-b294-e9e1180a9044.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803665588008021716/original/a7daf1f2-2d4d-49b7-83ce-0f85429cc5d3.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.29977,
+          "longitud": -122.33957
+        }
+      }
+    }
+  }
+}

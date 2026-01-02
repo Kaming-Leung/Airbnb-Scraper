@@ -1,0 +1,131 @@
+{
+  "grid_id": 26,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 00:23:23",
+  "listings": {
+    "1467026865454871169": {
+      "room_id": 1467026865454871169,
+      "latitude": 42.41533547671674,
+      "longitude": -83.92124032669814,
+      "grid_id_assigned": null,
+      "grid_id_source": 26.0,
+      "bbox_id": "42.392940_-83.954650_42.418380_-83.919100",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 00:20:30",
+      "raw_data": {
+        "room_id": 1467026865454871169,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "New Luxury Lakefront! 5BR/4BA",
+        "title": "Home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2340.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $467.88",
+              "amount": 2339.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467026865454871169/original/693cb409-095d-4a7f-aca4-e524f0429a2b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467026865454871169/original/58763de1-8710-48a7-9ae5-32ec4591d00f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467026865454871169/original/21f3d9f0-9e16-47d7-97aa-237d17db9167.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467026865454871169/original/9a92fc21-8380-434f-9ca5-4b93051bd507.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467026865454871169/original/7b30a316-976b-446d-8344-dc57ee91ec2d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1467026865454871169/original/c0f1bc04-38ff-4e26-a865-ac1ded0eb183.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.41533547671674,
+          "longitud": -83.92124032669814
+        }
+      }
+    }
+  }
+}

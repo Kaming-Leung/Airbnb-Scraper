@@ -1,0 +1,157 @@
+{
+  "grid_id": 18,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 00:43:41",
+  "listings": {
+    "1414722114831841113": {
+      "room_id": 1414722114831841113,
+      "latitude": 37.39944,
+      "longitude": -122.00505,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.399070_-122.005850_37.425500_-121.976120",
+      "pass_id": 11,
+      "discovered_at": "2026-01-01 00:41:53",
+      "raw_data": {
+        "room_id": 1414722114831841113,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/80ce09e3-c5c2-485f-956b-0bdf9f81431d.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Echo",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/80ce09e3-c5c2-485f-956b-0bdf9f81431d.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5 reviews on the listing",
+              "label": "Reviews",
+              "value": "5",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.6 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.6",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 2
+          },
+          "ratingCount": 5,
+          "ratingAverage": 4.6
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Master Room S30/ Bath & Desk At Silicon Valley",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $91.29",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.6,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1414722114831841113/original/5b17eac1-2ea0-40b5-ab87-fc6475f5fdf8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1414722114831841113/original/2bba1264-5a8e-46e5-8aec-af44c4f0cf69.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1414722114831841113/original/77865eeb-e711-46f0-b450-c92d43ffca02.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1414722114831841113/original/fef98dbd-5261-4c5e-aa10-704bfec4f9f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1414722114831841113/original/d66e3887-e061-4ec3-ab19-a5a4ad2900f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1414722114831841113/original/d01e406f-bec4-44d5-b230-bc71b2f988d5.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.39944,
+          "longitud": -122.00505
+        }
+      }
+    }
+  }
+}

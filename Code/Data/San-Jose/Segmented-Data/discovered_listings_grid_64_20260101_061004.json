@@ -1,0 +1,315 @@
+{
+  "grid_id": 64,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 06:10:04",
+  "listings": {
+    "22690560": {
+      "room_id": 22690560,
+      "latitude": 37.3068,
+      "longitude": -121.7594,
+      "grid_id_assigned": null,
+      "grid_id_source": 64.0,
+      "bbox_id": "37.289070_-121.761560_37.315080_-121.728380",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:07:10",
+      "raw_data": {
+        "room_id": 22690560,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/1fb1f69d-3d06-4406-8375-1825bbfdb1b2.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Shariq",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1fb1f69d-3d06-4406-8375-1825bbfdb1b2.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "135 reviews on the listing",
+              "label": "Reviews",
+              "value": "135",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.97 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.97",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 11
+          },
+          "ratingCount": 135,
+          "ratingAverage": 4.97
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy guest room in an elegant house",
+        "title": "Room in Evergreen",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3732.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $746.33",
+              "amount": 3731.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "135"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/5144ebe5-8a85-4b34-9bfc-00f093d61c37.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d7f52b3a-92b8-4f10-8129-6c4d9cc1c596.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d1f30ab1-1f14-4670-aa8f-53960047e31a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7950db18-a10b-4bd9-906b-550ea2343fd6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ad8bf724-fe63-47a1-b934-17461c5e5fea.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/289a24ff-9e12-40fc-8c5f-7cadd55c7f97.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3068,
+          "longitud": -121.7594
+        }
+      }
+    },
+    "27339859": {
+      "room_id": 27339859,
+      "latitude": 37.3068,
+      "longitude": -121.7594,
+      "grid_id_assigned": null,
+      "grid_id_source": 64.0,
+      "bbox_id": "37.289070_-121.761560_37.315080_-121.728380",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:07:10",
+      "raw_data": {
+        "room_id": 27339859,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/1fb1f69d-3d06-4406-8375-1825bbfdb1b2.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Shariq",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1fb1f69d-3d06-4406-8375-1825bbfdb1b2.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "66 reviews on the listing",
+              "label": "Reviews",
+              "value": "66",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.92 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.92",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 11
+          },
+          "ratingCount": 66,
+          "ratingAverage": 4.92
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy room in an elegant house with private bath",
+        "title": "Room in Evergreen",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3726.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $745.19",
+              "amount": 3725.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "66"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/2e811d2c-affd-4c83-b51d-63e7f1ae41cf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4f23d57c-749c-4aac-a4a9-1178eda4798f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a1cf4c21-a9d8-4f7d-b28e-ea8526619afd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0dc8803a-434e-4790-97b1-7a8ca086c41d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0c010917-fb95-42d0-80ed-c747819965dd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8a41fca2-a26f-479f-8e52-439baf8685c8.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3068,
+          "longitud": -121.7594
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 87,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 05:55:38",
+  "listings": {
+    "1058168915152854562": {
+      "room_id": 1058168915152854562,
+      "latitude": 38.51364,
+      "longitude": -121.29626,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "38.479820_-121.316340_38.524530_-121.271020",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 05:52:43",
+      "raw_data": {
+        "room_id": 1058168915152854562,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Horse     the only opening Ranch guest house",
+        "title": "Guesthouse in Sacramento",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1056.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $211.12",
+              "amount": 1055.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.79,
+          "reviewCount": "52"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1058168915152854562/original/d1466591-4361-4c8b-86d7-31f7173c75f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1058168915152854562/original/9423fc4e-edbb-47ee-869c-3f7ffeeed3f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1058168915152854562/original/7698366c-7c68-4fc8-8701-2971a551e5ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1058168915152854562/original/5f4d1051-462d-4211-bb11-a18648c88d3b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1058168915152854562/original/6c0eff14-cca6-4c9c-99aa-3e3889e4c625.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1058168915152854562/original/8018ffaf-ea5e-48ca-aacb-867eb49994bf.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.51364,
+          "longitud": -121.29626
+        }
+      }
+    }
+  }
+}

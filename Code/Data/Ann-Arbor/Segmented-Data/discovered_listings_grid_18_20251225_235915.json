@@ -1,0 +1,128 @@
+{
+  "grid_id": 18,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-25 23:59:15",
+  "listings": {
+    "1506627263908353473": {
+      "room_id": 1506627263908353473,
+      "latitude": 42.4279,
+      "longitude": -83.4504,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "42.418380_-83.456960_42.443820_-83.421410",
+      "pass_id": 1,
+      "discovered_at": "2025-12-25 23:56:28",
+      "raw_data": {
+        "room_id": 1506627263908353473,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Studio",
+        "title": "Apartment in Northville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 226.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $112.98",
+              "amount": 225.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1506627263908353473/original/c08d2982-32a4-4c57-a04d-859d478f735e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1506627263908353473/original/1db5f2b2-a355-4823-ab0e-444a35258f03.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1506627263908353473/original/6aeb58af-51bf-4a29-af09-8c0c2a4abcc7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTUwNjYyNzI2MzkwODM1MzQ3Mw==/original/afc1f782-2835-46ae-8a51-e6b3d5393be2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1506627263908353473/original/75b176dc-3881-464e-9221-ae339279a754.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1506627263908353473/original/6d8e4f4b-0708-49c2-8257-5b48662ac066.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4279,
+          "longitud": -83.4504
+        }
+      }
+    }
+  }
+}

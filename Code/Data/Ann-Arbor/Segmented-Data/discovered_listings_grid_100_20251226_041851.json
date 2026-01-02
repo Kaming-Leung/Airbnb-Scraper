@@ -1,0 +1,131 @@
+{
+  "grid_id": 100,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 04:18:51",
+  "listings": {
+    "32089021": {
+      "room_id": 32089021,
+      "latitude": 42.32232,
+      "longitude": -83.63634,
+      "grid_id_assigned": null,
+      "grid_id_source": 100.0,
+      "bbox_id": "42.316620_-83.670250_42.342060_-83.634710",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:15:56",
+      "raw_data": {
+        "room_id": 32089021,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "12 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Shyka's Country House - Country home in Ann Arbor",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4023.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $804.53",
+              "amount": 4022.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "51"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32089021/original/20373c9a-fc89-4eb3-8c6c-0073cab789ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32089021/original/12bb07f7-b550-4088-a67c-24324bed77b3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32089021/original/61032210-a027-450d-b512-4f0ed6e02137.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32089021/original/7666a469-ec32-4548-a9d7-aa89dd87af23.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f3a59715-3203-4e71-84b9-925cbb17f84f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/10620bf2-ee05-444b-9dfa-4dd8a1e59036.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.32232,
+          "longitud": -83.63634
+        }
+      }
+    }
+  }
+}

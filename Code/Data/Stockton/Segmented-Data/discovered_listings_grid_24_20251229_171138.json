@@ -1,0 +1,139 @@
+{
+  "grid_id": 24,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 17:11:38",
+  "listings": {
+    "1576890504102633386": {
+      "room_id": 1576890504102633386,
+      "latitude": 37.9946,
+      "longitude": -121.1681,
+      "grid_id_assigned": null,
+      "grid_id_source": 24.0,
+      "bbox_id": "37.982170_-121.184150_38.008160_-121.152060",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 17:08:50",
+      "raw_data": {
+        "room_id": 1576890504102633386,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "charming cottage studio",
+        "title": "Guesthouse in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 379.0,
+            "discount": 334.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $189.50",
+              "amount": 379.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -45.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 333.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1576890504102633386/original/81964db2-59f8-42e6-8817-4c859b4a0b29.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1576890504102633386/original/2d6000b4-84c2-4377-8bd0-ed214ff89d4c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1576890504102633386/original/3578efaa-6eee-4ac3-b402-074e9e2a60cd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1576890504102633386/original/18015c18-0477-4cfc-b33b-fed2a2f80d04.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1576890504102633386/original/1751abb9-3d48-4845-9adc-fb67f0762daa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1576890504102633386/original/b9c9a3eb-5244-4edd-8d68-83ff70556b1f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.9946,
+          "longitud": -121.1681
+        }
+      }
+    }
+  }
+}

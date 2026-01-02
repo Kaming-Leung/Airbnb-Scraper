@@ -1,0 +1,131 @@
+{
+  "grid_id": 114,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 05:00:54",
+  "listings": {
+    "54048449": {
+      "room_id": 54048449,
+      "latitude": 42.31305,
+      "longitude": -83.94917,
+      "grid_id_assigned": null,
+      "grid_id_source": 114.0,
+      "bbox_id": "42.291190_-83.954650_42.316620_-83.919100",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:58:00",
+      "raw_data": {
+        "room_id": 54048449,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Secluded Destination with Modern Amenities!",
+        "title": "Vacation home in Dexter",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 8702.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,740.29",
+              "amount": 8701.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54048449/original/55cd438a-c720-4897-94ef-260f2d5e4fed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54048449/original/53a88843-bf3d-4ace-bea5-d341605deafc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54048449/original/5fbd8d75-0c73-43e0-bdcc-b9d6ffeb2636.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54048449/original/0bdfd313-aafa-446b-8178-62cf08a5784e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54048449/original/d2d1f560-78ba-4b01-812e-50a1799be849.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54048449/original/98ad7393-d753-461a-b7af-38cbed568db9.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.31305,
+          "longitud": -83.94917
+        }
+      }
+    }
+  }
+}

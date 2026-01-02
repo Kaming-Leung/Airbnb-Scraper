@@ -1,0 +1,129 @@
+{
+  "grid_id": 101,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 06:37:41",
+  "listings": {
+    "818046827793762031": {
+      "room_id": 818046827793762031,
+      "latitude": 38.39688,
+      "longitude": -121.57228,
+      "grid_id_assigned": null,
+      "grid_id_source": 101.0,
+      "bbox_id": "38.390400_-121.588250_38.435110_-121.542930",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:34:47",
+      "raw_data": {
+        "room_id": 818046827793762031,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "20 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Large Elegant Clarksburg Villa",
+        "title": "Home in Clarksburg",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4694.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $938.80",
+              "amount": 4694.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.61,
+          "reviewCount": "62"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-818046827793762031/original/e0ceeda0-f9b7-4633-a352-25622dfae66c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-818046827793762031/original/ed416a94-00eb-404b-a3cc-34263d44ac02.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-818046827793762031/original/7db33f58-745b-4d90-9d07-4792427f03af.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-818046827793762031/original/69bc0837-0b2b-480e-a8c6-1ff853485059.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-818046827793762031/original/df7ef2f6-6ef8-40a3-b873-7b3950ba33fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-818046827793762031/original/36894dc6-9a19-46d5-9f74-f06a9fb054c2.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.39688,
+          "longitud": -121.57228
+        }
+      }
+    }
+  }
+}

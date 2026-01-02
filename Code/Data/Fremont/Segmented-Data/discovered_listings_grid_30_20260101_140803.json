@@ -1,0 +1,145 @@
+{
+  "grid_id": 30,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 14:08:03",
+  "listings": {
+    "1334277354052379355": {
+      "room_id": 1334277354052379355,
+      "latitude": 37.5381,
+      "longitude": -122.0745,
+      "grid_id_assigned": null,
+      "grid_id_source": 30.0,
+      "bbox_id": "37.527180_-122.095600_37.552450_-122.063290",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 14:05:15",
+      "raw_data": {
+        "room_id": 1334277354052379355,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Petite glamping experience",
+        "title": "Camper/RV in Fremont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 381.0,
+            "discount": 320.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $190.25",
+              "amount": 380.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Special offer",
+              "amount": -61.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 319.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1334277354052379355/original/7444ceb3-4692-461c-87a6-8d5d3c42a0a4.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1334277354052379355/original/1e680ae4-cf16-4d27-abac-948dacf6b4e5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1334277354052379355/original/03131d28-023c-4999-a68a-6c5d4154b57f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1334277354052379355/original/4e5d21ce-5b6e-4714-a911-87c0f6710455.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1334277354052379355/original/cd9cb0ae-ea4f-4074-b5a4-70768f609bde.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1334277354052379355/original/8aa95e6e-e13f-48d4-95b4-a682e77ff973.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.5381,
+          "longitud": -122.0745
+        }
+      }
+    }
+  }
+}

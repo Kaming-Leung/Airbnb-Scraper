@@ -1,0 +1,131 @@
+{
+  "grid_id": 12,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-25 23:41:15",
+  "listings": {
+    "52534240": {
+      "room_id": 52534240,
+      "latitude": 42.4297,
+      "longitude": -83.6567,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "42.418380_-83.670250_42.443820_-83.634710",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:38:20",
+      "raw_data": {
+        "room_id": 52534240,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful 4BR/3BA Farmhouse Escape W/ Jacuzzi!",
+        "title": "Home in South Lyon",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2244.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $448.80",
+              "amount": 2244.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.78,
+          "reviewCount": "32"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52534240/original/572e59af-dc84-4021-ab65-0b9b4e2db3d0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52534240/original/6496a4be-967c-4f35-8464-6560637ba7a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52534240/original/33358f6b-c9c4-4bab-b63b-581fffb244a8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52534240/original/ade20529-6e28-468f-9922-ec2da44abeff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52534240/original/5f5ea48d-6d55-42e2-848c-45e2b1e39119.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52534240/original/e156ed34-5386-4eff-84c1-5f3a827aea1b.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.4297,
+          "longitud": -83.6567
+        }
+      }
+    }
+  }
+}

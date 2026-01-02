@@ -1,0 +1,131 @@
+{
+  "grid_id": 92,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 03:54:49",
+  "listings": {
+    "10379679": {
+      "room_id": 10379679,
+      "latitude": 42.3182,
+      "longitude": -83.93081,
+      "grid_id_assigned": null,
+      "grid_id_source": 92.0,
+      "bbox_id": "42.316620_-83.954650_42.342060_-83.919100",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 03:51:55",
+      "raw_data": {
+        "room_id": 10379679,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Camp Woodbury Cabin 4",
+        "title": "Cabin in Dexter",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1712.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $342.35",
+              "amount": 1711.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "126"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/14585080-60d8-4464-b895-2b7417b19981.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7b340ce6-b920-4704-84d9-ec777ddc0035.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fa45c67c-9c52-4041-8abe-ae18383a30db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a9b93dd6-3623-4be9-87d8-75cd7da8ad4a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/797e999a-90eb-4b3b-8d68-bc2c1d7e5906.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3ffa799a-a2fd-4a32-b9b4-ae69dd077436.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.3182,
+          "longitud": -83.93081
+        }
+      }
+    }
+  }
+}

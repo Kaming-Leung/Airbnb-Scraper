@@ -1,0 +1,257 @@
+{
+  "grid_id": 2,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-21 04:02:18",
+  "listings": {
+    "1171861362449358177": {
+      "room_id": 1171861362449358177,
+      "latitude": 42.0095,
+      "longitude": -87.9003,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "41.994670_-87.915290_42.020000_-87.890590",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:02:13",
+      "raw_data": {
+        "room_id": 1171861362449358177,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Serene & Charming 5br Des Plaines Getaway",
+        "title": "Home in Des Plains",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 1238.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $618.90",
+              "amount": 1237.0,
+              "currency": "$.80"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.46,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1171861362449358177/original/8adfef45-8cbe-4749-8ef9-a9aa03b95a4a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1171861362449358177/original/244037db-e43b-4a35-97d9-49337d05bbfd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1171861362449358177/original/a3cbd7b2-6ac7-429a-a250-f6bf77f4a91d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1171861362449358177/original/66f3eb22-ddd0-4419-acdf-21b24d1eef2b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1171861362449358177/original/525b9213-919a-4e9b-a34d-530844f3c26b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1171861362449358177/original/bde2b6e8-df2a-4198-a6d6-defcd49430c0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.0095,
+          "longitud": -87.9003
+        }
+      }
+    },
+    "923233270492182774": {
+      "room_id": 923233270492182774,
+      "latitude": 42.01937,
+      "longitude": -87.89461,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "41.994670_-87.915290_42.020000_-87.890590",
+      "pass_id": 1,
+      "discovered_at": "2025-12-21 04:02:18",
+      "raw_data": {
+        "room_id": 923233270492182774,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire house, close to O'Hare airport",
+        "title": "Home in Des Plains",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 622.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $310.97",
+              "amount": 621.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "138"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-923233270492182774/original/ac1d5065-8f13-4689-a4b8-9f6b0ef4f4ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-923233270492182774/original/af772b3f-736f-4242-b81b-5be8534eb206.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-923233270492182774/original/c8e0c06e-1e24-4ed8-958e-8df2aab4ded1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-923233270492182774/original/6c6beb06-c906-4fba-9645-3e84f32f3099.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-923233270492182774/original/bda5dcf7-a0bd-4116-87d3-40e172e0bce9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-923233270492182774/original/b5b4309c-9016-465b-8e88-7a8a72c1de7c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.01937,
+          "longitud": -87.89461
+        }
+      }
+    }
+  }
+}

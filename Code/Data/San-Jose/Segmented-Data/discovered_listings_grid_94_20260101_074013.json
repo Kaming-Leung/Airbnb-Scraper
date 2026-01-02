@@ -1,0 +1,419 @@
+{
+  "grid_id": 94,
+  "total_listings": 3,
+  "discovery_timestamp": "2026-01-01 07:40:13",
+  "listings": {
+    "50542947": {
+      "room_id": 50542947,
+      "latitude": 37.19319,
+      "longitude": -121.79643,
+      "grid_id_assigned": null,
+      "grid_id_source": 94.0,
+      "bbox_id": "37.185030_-121.827920_37.211040_-121.794740",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 07:37:20",
+      "raw_data": {
+        "room_id": 50542947,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "11 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Villa at The Ranch Almaden",
+        "title": "Villa in Almaden Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 21027.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $4,205.24",
+              "amount": 21026.0,
+              "currency": "$.19"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "41"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50542947/original/79fb174c-dac4-4130-9d51-5961bb87194c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50542947/original/98ba4eba-4f76-42bd-93c8-28214a382a89.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50542947/original/874ddcc8-5035-4cb3-93ea-dff62c014722.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50542947/original/d21a8d42-adac-47ff-be34-6e43a489f5c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50542947/original/0acd4527-0dc8-419b-ba2a-dc0799b2bd30.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50542947/original/1f1e06a1-504d-412a-adce-34c0c5c3e719.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.19319,
+          "longitud": -121.79643
+        }
+      }
+    },
+    "870376559744806998": {
+      "room_id": 870376559744806998,
+      "latitude": 37.20049,
+      "longitude": -121.82762,
+      "grid_id_assigned": null,
+      "grid_id_source": 94.0,
+      "bbox_id": "37.185030_-121.827920_37.211040_-121.794740",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 07:37:31",
+      "raw_data": {
+        "room_id": 870376559744806998,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/users/1155421/profile_pic/1439076778/original.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Elle",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/1155421/profile_pic/1439076778/original.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 reviews on the listing",
+              "label": "Reviews",
+              "value": "9",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.89 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.89",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 4
+          },
+          "ratingCount": 9,
+          "ratingAverage": 4.89
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy room w/ shared bath-Almaden, San Jose, CA",
+        "title": "Room in Almaden Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 255.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $84.83",
+              "amount": 254.0,
+              "currency": "$.48"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/1e962e71-6b5e-4d2b-8b59-73921634937f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/08ec57a9-a5f7-4921-941f-04f03a2113f0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870376559744806998/original/14bfb52d-659f-4af8-82e1-785bd8cf0d25.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870376559744806998/original/c18c775e-4c2f-4c57-8222-e7d1affea908.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870376559744806998/original/0d02f840-b717-4316-978c-89f1166c34c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/81458d96-efda-42e3-b891-4cfe7beb33c1.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.20049,
+          "longitud": -121.82762
+        }
+      }
+    },
+    "7773067": {
+      "room_id": 7773067,
+      "latitude": 37.19894,
+      "longitude": -121.82708,
+      "grid_id_assigned": null,
+      "grid_id_source": 94.0,
+      "bbox_id": "37.185030_-121.827920_37.211040_-121.794740",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 07:37:31",
+      "raw_data": {
+        "room_id": 7773067,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/users/1155421/profile_pic/1439076778/original.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Elle",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/1155421/profile_pic/1439076778/original.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "88 reviews on the listing",
+              "label": "Reviews",
+              "value": "88",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.65 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.65",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 4
+          },
+          "ratingCount": 88,
+          "ratingAverage": 4.65
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy home in Almaden Valley; S. SJ",
+        "title": "Room in Almaden Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 278.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $92.44",
+              "amount": 277.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.65,
+          "reviewCount": "88"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7773067/original/fa03c292-b7e1-4bcb-9c58-96c6ca751931.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7773067/original/1a5e5d51-3849-480a-a1e3-5389128c43f1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7773067/original/b70bbe52-af27-42bf-a83a-105e493173c2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7773067/original/ea4f6bd0-2313-4055-ace1-3abff9a3e924.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7773067/original/69a6675c-4537-46f9-85a2-a4bd08654ac0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7773067/original/b49ee974-2843-4083-b2bf-2b2e3cd3c6a4.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.19894,
+          "longitud": -121.82708
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,772 @@
+{
+  "grid_id": 22,
+  "total_listings": 6,
+  "discovery_timestamp": "2026-01-01 23:52:57",
+  "listings": {
+    "3697605": {
+      "room_id": 3697605,
+      "latitude": 38.10852,
+      "longitude": -122.59759,
+      "grid_id_assigned": null,
+      "grid_id_source": 22,
+      "bbox_id": "38.093240_-122.630870_38.118970_-122.595750",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:50:03",
+      "raw_data": {
+        "room_id": 3697605,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Guest House Bed and Breakfast",
+        "title": "Guesthouse in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1484.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $296.71",
+              "amount": 1483.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "261"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-3697605/original/4f1ae0a9-d58b-4e13-8436-e2952292798e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-3697605/original/eacac250-41e7-41b9-b9a4-26456a1883d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-3697605/original/691df933-8110-4d89-a942-369e8f4d794b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-3697605/original/04dc8003-1987-4b5c-b7cd-4fb59178ee1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-3697605/original/6476e8fc-5647-416f-aa25-cc21b6b8a980.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-3697605/original/fc64f858-ec76-4ba0-9268-6ccbaccb8799.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.10852,
+          "longitud": -122.59759
+        }
+      }
+    },
+    "20461712": {
+      "room_id": 20461712,
+      "latitude": 38.11237,
+      "longitude": -122.61051,
+      "grid_id_assigned": null,
+      "grid_id_source": 22,
+      "bbox_id": "38.093240_-122.630870_38.118970_-122.595750",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:50:03",
+      "raw_data": {
+        "room_id": 20461712,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 10 – 17",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 10 – 17",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Novato Farmhouse Inn",
+        "title": "Bungalow in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2004.0,
+            "discount": 1665.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $286.27",
+              "amount": 2003.0,
+              "currency": "$.89"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -339.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1664.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "100"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20461712/original/18baed18-e8dc-4289-8eb4-55c9c4f9fb7e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20461712/original/d2c9288e-4674-434a-98b1-f064132aca36.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20461712/original/04c312f3-ac17-412e-8476-7b385cafdb52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20461712/original/3d09e73f-97d6-4df5-b280-dfe8d1c0cd23.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjA0NjE3MTI%3D/original/d5978ba4-50f0-41b5-9369-34ffd2ba47d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjA0NjE3MTI%3D/original/7506a82a-108f-452d-bcd5-10173d947812.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.11237,
+          "longitud": -122.61051
+        }
+      }
+    },
+    "27827698": {
+      "room_id": 27827698,
+      "latitude": 38.11885,
+      "longitude": -122.6044,
+      "grid_id_assigned": null,
+      "grid_id_source": 22,
+      "bbox_id": "38.093240_-122.630870_38.118970_-122.595750",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:50:03",
+      "raw_data": {
+        "room_id": 27827698,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 21 – 26",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 21 – 26",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Very Nice, Comfortable, Spacious 3br/2ba home",
+        "title": "Home in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1353.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $270.46",
+              "amount": 1352.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "148"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-27827698/original/ac5e7da0-f605-4fb9-b8ab-1a6ca02378b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4026a4c2-b8e6-4627-bc8c-093c2dcdaa20.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9e65338b-4659-418c-a7dc-79f74b5ab6c2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/32f18d96-a37f-4d83-95cf-ebb9e17a0c23.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1991ecda-09fb-43df-8cfb-d62640258c01.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/962ec3a5-829d-4a74-ba1c-7d4e04e86d26.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.11885,
+          "longitud": -122.6044
+        }
+      }
+    },
+    "734778382678529884": {
+      "room_id": 734778382678529884,
+      "latitude": 38.1175,
+      "longitude": -122.596,
+      "grid_id_assigned": null,
+      "grid_id_source": 22,
+      "bbox_id": "38.093240_-122.630870_38.118970_-122.595750",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:50:03",
+      "raw_data": {
+        "room_id": 734778382678529884,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Novato 2 Bed w/ Hot Tub near Wine Country, Hiking",
+        "title": "Guest suite in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1535.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $306.98",
+              "amount": 1534.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "38"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-734778382678529884/original/d917468e-5edc-4a74-8478-08bd8cb3ac49.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-734778382678529884/original/9ec6bdd6-bca4-4f7d-818d-42b590768c68.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-734778382678529884/original/235198bf-ac76-4a5a-9c45-99ae5c4a30bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-734778382678529884/original/58a936e3-0b79-4b2e-a499-e2c4d2949469.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-734778382678529884/original/13872762-4468-49e2-b696-1ed6f843507f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-734778382678529884/original/9f1c8fdd-6864-4604-b1eb-498f06b1d20d.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.1175,
+          "longitud": -122.596
+        }
+      }
+    },
+    "32475155": {
+      "room_id": 32475155,
+      "latitude": 38.1108,
+      "longitude": -122.61094,
+      "grid_id_assigned": null,
+      "grid_id_source": 22,
+      "bbox_id": "38.093240_-122.630870_38.118970_-122.595750",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 23:50:03",
+      "raw_data": {
+        "room_id": 32475155,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 5 – 12",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 5 – 12",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Novato Farmhouse Escape",
+        "title": "Home in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2156.0,
+            "discount": 1784.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $307.95",
+              "amount": 2155.0,
+              "currency": "$.66"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -372.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1783.0,
+              "currency": "$.66"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.64,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzI0NzUxNTU%3D/original/821b63a1-0ce6-4046-82cd-9f2828ca9482.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32475155/original/5cd126ff-82ac-4b3b-bb65-800b51940450.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzI0NzUxNTU%3D/original/158a76c4-55b0-401f-8775-7185969b22f7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32475155/original/a98dedbd-b3bf-459e-a8ce-c5d76c382d58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32475155/original/58910c1f-acef-438a-a827-fb4e2bc1a344.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzI0NzUxNTU%3D/original/a2492835-8467-4f3f-99e9-382e4de926d3.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.1108,
+          "longitud": -122.61094
+        }
+      }
+    },
+    "36982815": {
+      "room_id": 36982815,
+      "latitude": 38.10619,
+      "longitude": -122.60309,
+      "grid_id_assigned": null,
+      "grid_id_source": 22,
+      "bbox_id": "38.093240_-122.630870_38.118970_-122.595750",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 23:50:09",
+      "raw_data": {
+        "room_id": 36982815,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Classy Private Suite with Beautiful Patio.",
+        "title": "Guest suite in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 398.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $198.57",
+              "amount": 397.0,
+              "currency": "$.13"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "213"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/03bc1723-669a-4881-805f-afbfa64e17ef.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a75f0420-d9cb-421a-a8fb-ebbd319b1e96.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c234acb1-0fd1-4cea-8af4-c08052eb1436.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9354498b-f274-4986-8032-41e484462cc5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b147eef-c3a9-4eeb-ab28-fed9526d08be.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/40c9e076-add2-41dd-9b3e-042549619641.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.10619,
+          "longitud": -122.60309
+        }
+      }
+    }
+  }
+}

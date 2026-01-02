@@ -1,0 +1,131 @@
+{
+  "grid_id": 120,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 09:49:33",
+  "listings": {
+    "1266236501013944458": {
+      "room_id": 1266236501013944458,
+      "latitude": 38.28050561527842,
+      "longitude": -122.25565704015112,
+      "grid_id_assigned": null,
+      "grid_id_source": 120.0,
+      "bbox_id": "38.275620_-122.255670_38.283360_-122.245170",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 09:46:39",
+      "raw_data": {
+        "room_id": 1266236501013944458,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2BD/2BA Napa Retreat– Near Downtown/Private Escape",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3109.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $621.71",
+              "amount": 3108.0,
+              "currency": "$.57"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NjIzNjUwMTAxMzk0NDQ1OA%3D%3D/original/4bf0011b-d533-42fe-ba30-474b5571e382.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1266236501013944458/original/b28f4d15-88b6-4421-ab5c-f8179cdd1239.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1266236501013944458/original/8e00fc1d-4b70-4246-adc4-08c8e59fade2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1266236501013944458/original/714694ae-87cf-4819-b969-7fa188b68c3e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1266236501013944458/original/4a52be89-2a01-4027-82af-70d0d304125a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1266236501013944458/original/ade83af5-75ac-4d79-89f1-79dffd8c9152.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.28050561527842,
+          "longitud": -122.25565704015112
+        }
+      }
+    }
+  }
+}

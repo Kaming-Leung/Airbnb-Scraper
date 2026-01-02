@@ -1,0 +1,766 @@
+{
+  "grid_id": 4,
+  "total_listings": 6,
+  "discovery_timestamp": "2025-12-22 23:19:17",
+  "listings": {
+    "1305049014262910325": {
+      "room_id": 1305049014262910325,
+      "latitude": 40.851,
+      "longitude": -74.0782,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "40.843640_-74.097010_40.866070_-74.076030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 23:16:23",
+      "raw_data": {
+        "room_id": 1305049014262910325,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Why haven't you Booked? | 35% off | American Dream",
+        "title": "Apartment in Hasbrouch Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1309.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $261.80",
+              "amount": 1309.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.55,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305049014262910325/original/b5e92f73-a0ef-44da-9c3e-4b38745fe9f4.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305049014262910325/original/b8707e3b-72ff-49fd-88fd-2a81adebb23c.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305049014262910325/original/1220b0db-0578-4376-9cd5-60473f2e59aa.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305049014262910325/original/44c1e691-9f19-4ab2-8748-e78648428bf1.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305049014262910325/original/ff090824-3b20-4e03-b649-bbd90c246f13.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwNTA0OTAxNDI2MjkxMDMyNQ%3D%3D/original/c595cfdd-6017-41ac-8ec5-6b47608736b6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.851,
+          "longitud": -74.0782
+        }
+      }
+    },
+    "1305050393895998355": {
+      "room_id": 1305050393895998355,
+      "latitude": 40.851,
+      "longitude": -74.0782,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "40.843640_-74.097010_40.866070_-74.076030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 23:16:23",
+      "raw_data": {
+        "room_id": 1305050393895998355,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "*The 2 Bedroom American Dream by American Dream !*",
+        "title": "Apartment in Hasbrouch Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1743.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $348.60",
+              "amount": 1743.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.44,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwNTA1MDM5Mzg5NTk5ODM1NQ==/original/506e7a5f-80df-4e23-9e5b-9ae1bfea68f4.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwNTA1MDM5Mzg5NTk5ODM1NQ==/original/ab451428-f15d-43ca-affe-9444953cf8ad.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305050393895998355/original/fb5655cc-0091-4c74-9b9a-21cbbd71867d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305050393895998355/original/c2f3d192-cc9b-4363-af8e-20618e2d2a65.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwNTA1MDM5Mzg5NTk5ODM1NQ==/original/bf277773-0e14-4028-867d-9defdf87d8ee.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1305050393895998355/original/9c6fc7df-f9aa-4085-befb-5c32aca58148.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.851,
+          "longitud": -74.0782
+        }
+      }
+    },
+    "1069005789692475547": {
+      "room_id": 1069005789692475547,
+      "latitude": 40.85041,
+      "longitude": -74.07912,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "40.843640_-74.097010_40.866070_-74.076030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 23:16:23",
+      "raw_data": {
+        "room_id": 1069005789692475547,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "GREAT discount Near by American Dream Mall by EWR!",
+        "title": "Apartment in Hasbrouch Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1670.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $334.00",
+              "amount": 1670.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.69,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069005789692475547/original/114333e7-c43b-43c5-a0c0-ad8dc0abf335.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069005789692475547/original/3da672ce-5e58-4fb1-9528-4c822b48f8e3.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069005789692475547/original/08a00299-7728-4aed-8825-1b6c80a97773.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069005789692475547/original/0eca29a6-5e81-4970-9f09-74fecb4d17f6.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069005789692475547/original/e434c7d3-80d3-497f-9ef1-c3f86391d70b.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1069005789692475547/original/c33f89c4-f4ba-406a-832b-f5f76edd8ef7.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.85041,
+          "longitud": -74.07912
+        }
+      }
+    },
+    "1171676965161687948": {
+      "room_id": 1171676965161687948,
+      "latitude": 40.85162,
+      "longitude": -74.07705,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "40.843640_-74.097010_40.866070_-74.076030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 23:16:23",
+      "raw_data": {
+        "room_id": 1171676965161687948,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2 DEEP Discounted Apts by American Dream, Sleeps 8",
+        "title": "Apartment in Hasbrouch Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2851.0,
+            "discount": 2560.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $512.00",
+              "amount": 2560.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1171676965161687948/original/f47c5ff2-2a2b-4139-aca8-1ebee15d919c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1171676965161687948/original/fa61b947-a0c6-4e46-9d0b-f5a9e1d6b93d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1171676965161687948/original/98a0aafc-2b40-4b0f-88db-2c12c9e6f7c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1171676965161687948/original/20cd023b-dee2-4dc4-8988-cf56ce544e00.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1171676965161687948/original/07060fde-3a33-4139-a001-ae54aa9398de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1171676965161687948/original/59aec21d-135c-477b-acdb-4f3fa95ac132.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.85162,
+          "longitud": -74.07705
+        }
+      }
+    },
+    "1464569282941819256": {
+      "room_id": 1464569282941819256,
+      "latitude": 40.8465,
+      "longitude": -74.08105,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "40.843640_-74.097010_40.866070_-74.076030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 23:16:23",
+      "raw_data": {
+        "room_id": 1464569282941819256,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jul 12 – 19",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jul 12 – 19",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "World cup rental",
+        "title": "Home in Wood - Ridge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 16456.0,
+            "discount": 14996.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $2,350.72",
+              "amount": 16455.0,
+              "currency": "$.07"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -1460.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 14995.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1464569282941819256/original/379352fc-6ca8-4668-9741-51a6f9554f43.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1464569282941819256/original/25dd4737-9ec7-40ae-86ae-e7cbf3a83d71.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1464569282941819256/original/9781006e-8cf2-45a1-85ef-85708f48f4fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1464569282941819256/original/5cf009de-f717-4f45-a567-039bebea23b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1464569282941819256/original/d106f0ff-a435-46fe-a4b7-dc52feb80df6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1464569282941819256/original/df64701d-9711-4d28-ad13-c0ba7808f1b6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.8465,
+          "longitud": -74.08105
+        }
+      }
+    },
+    "40001093": {
+      "room_id": 40001093,
+      "latitude": 40.85067,
+      "longitude": -74.08603,
+      "grid_id_assigned": null,
+      "grid_id_source": 4.0,
+      "bbox_id": "40.843640_-74.097010_40.866070_-74.076030",
+      "pass_id": 5,
+      "discovered_at": "2025-12-22 23:16:52",
+      "raw_data": {
+        "room_id": 40001093,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/f74044f9-ef24-45fd-8a67-44ce44b7cc5a.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Nasser",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f74044f9-ef24-45fd-8a67-44ce44b7cc5a.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "23 reviews on the listing",
+              "label": "Reviews",
+              "value": "23",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 0
+          },
+          "ratingCount": 23,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "New cozy room near Manhattan and MetLife Stadium",
+        "title": "Room in Wood - Ridge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $117.92",
+              "amount": 353.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/bd5b0e11-3d28-4b7d-bc20-6bd45b5ba590.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0e886299-ca27-4667-aebd-307db9d39178.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8d373b40-638f-416e-937f-786059829a85.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a289d89b-a54d-4eff-8f94-5ba3cf44c0a1.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.85067,
+          "longitud": -74.08603
+        }
+      }
+    }
+  }
+}

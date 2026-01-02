@@ -1,0 +1,136 @@
+{
+  "grid_id": 123,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 05:28:10",
+  "listings": {
+    "718780769442184514": {
+      "room_id": 718780769442184514,
+      "latitude": 42.31614,
+      "longitude": -83.6335,
+      "grid_id_assigned": null,
+      "grid_id_source": 123.0,
+      "bbox_id": "42.291190_-83.634710_42.316620_-83.599160",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 05:25:27",
+      "raw_data": {
+        "room_id": 718780769442184514,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Shipping Container Tiny House",
+        "title": "Shipping container in Superior Charter Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 681.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $226.71",
+              "amount": 680.0,
+              "currency": "$.14"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718780769442184514/original/ae7ea7eb-7270-4396-9c73-2a5475e8eb32.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718780769442184514/original/121b2ebb-1e42-4984-be78-d5b05b471a9c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718780769442184514/original/b70323e7-3fcd-44f7-9887-f10938222486.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718780769442184514/original/0bf2ac53-862b-4f21-a3fa-e226afe46955.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718780769442184514/original/4a1cb886-2011-4d12-a8a6-e367d46dd1f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-718780769442184514/original/a5a907bf-5694-4e7d-afb9-63996d2f38f1.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.31614,
+          "longitud": -83.6335
+        }
+      }
+    }
+  }
+}

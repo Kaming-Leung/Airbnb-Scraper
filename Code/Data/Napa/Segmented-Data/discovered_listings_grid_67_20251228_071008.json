@@ -1,0 +1,131 @@
+{
+  "grid_id": 67,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 07:10:08",
+  "listings": {
+    "559464667121581692": {
+      "room_id": 559464667121581692,
+      "latitude": 38.3115,
+      "longitude": -122.3439,
+      "grid_id_assigned": null,
+      "grid_id_source": 67.0,
+      "bbox_id": "38.306600_-122.350240_38.314340_-122.339730",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 07:07:15",
+      "raw_data": {
+        "room_id": 559464667121581692,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Harvard House • Napa Stay w/ Hot Tub",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3506.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $701.10",
+              "amount": 3505.0,
+              "currency": "$.49"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "167"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-559464667121581692/original/3eca2063-49df-4fb6-a090-109c25b0a965.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-559464667121581692/original/1e5b7a52-fb6b-46bb-ba4c-c8352947f8f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-559464667121581692/original/237ba0c2-6a84-422a-a876-7ca90d7b98ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-559464667121581692/original/0c594656-d646-4521-9cd7-26786255b5f7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-559464667121581692/original/f05095d6-a998-484d-ba8f-d590e1838b55.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-559464667121581692/original/ab12aa6c-0088-46b2-a7df-e804417f64ec.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.3115,
+          "longitud": -122.3439
+        }
+      }
+    }
+  }
+}

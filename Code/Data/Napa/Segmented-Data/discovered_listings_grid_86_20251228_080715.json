@@ -1,0 +1,131 @@
+{
+  "grid_id": 86,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 08:07:15",
+  "listings": {
+    "4109621": {
+      "room_id": 4109621,
+      "latitude": 38.30269,
+      "longitude": -122.26587,
+      "grid_id_assigned": null,
+      "grid_id_source": 86.0,
+      "bbox_id": "38.298850_-122.266180_38.306600_-122.255670",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:04:21",
+      "raw_data": {
+        "room_id": 4109621,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private 2Bdrm Suite 1400 Sq Ft Napa, Pmt VR16-0001",
+        "title": "Guest suite in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1655.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $330.94",
+              "amount": 1654.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "385"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/53489573/3952b06b_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53489539/7425b8a6_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53489511/0d3b65ae_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/52153374/6a1c008b_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53489597/70d97a55_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53489624/2361de1e_original.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.30269,
+          "longitud": -122.26587
+        }
+      }
+    }
+  }
+}

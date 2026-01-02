@@ -1,0 +1,2066 @@
+{
+  "grid_id": 14,
+  "total_listings": 16,
+  "discovery_timestamp": "2026-01-01 13:19:59",
+  "listings": {
+    "1060556497811723440": {
+      "room_id": 1060556497811723440,
+      "latitude": 37.60256,
+      "longitude": -122.02851,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 1060556497811723440,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "New! 3Bed 2.5Ba Home Close to Silicon Valley",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1644.0,
+            "discount": 1433.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $286.51",
+              "amount": 1432.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1060556497811723440/original/b2b6b99c-41fa-4eb6-89f0-b040b12ba960.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1060556497811723440/original/e37d2b64-6ebf-4160-a328-850f468aed1b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1060556497811723440/original/855aba76-8d93-42ef-a151-7f3ca22c6722.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1060556497811723440/original/13d9b55b-52bd-4f8d-8583-4dadbf5edcbb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1060556497811723440/original/2e2b75f2-7f9e-46cc-b2cb-ad42af201e13.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1060556497811723440/original/58a941b1-84c9-4a72-9079-72e38a0b9fd9.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.60256,
+          "longitud": -122.02851
+        }
+      }
+    },
+    "1278419289980442782": {
+      "room_id": 1278419289980442782,
+      "latitude": 37.58803,
+      "longitude": -122.00947,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 1278419289980442782,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Breathtaking Luxurious Spacious Bay Area Home",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2333.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $466.51",
+              "amount": 2332.0,
+              "currency": "$.57"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.06,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/f2c34190-8854-4373-b4fc-3a852d4e1ad9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/5acb48fe-68bf-4f2e-bdc7-4c87e0286013.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/61ba0185-94bc-4276-ae79-d28255edff5a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/24227155-75f7-4623-b74e-1833658e0650.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/ba16bb15-242c-4e3e-965d-2011b9935d4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/21c4d1dc-1504-4104-8762-f4a2b7fe76ce.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.58803,
+          "longitud": -122.00947
+        }
+      }
+    },
+    "39755791": {
+      "room_id": 39755791,
+      "latitude": 37.59325,
+      "longitude": -122.02878,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 39755791,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire home (5bed/3bath)",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2922.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $417.34",
+              "amount": 2921.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39755791/original/d8d69fd7-dd5f-4b4b-998b-1d8c5570afae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39755791/original/9a5db4ac-ca18-4277-97c2-7c6be282c84d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39755791/original/744682fd-558f-4385-9c3a-40f46814a5b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39755791/original/835191b9-b3c1-4fbf-8154-fe3b30bcfdd0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39755791/original/877a9f54-f54b-4d48-985c-90dd8e10a0f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mzk3NTU3OTE=/original/b817ca08-e87e-4ccf-9997-095fcf92cceb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.59325,
+          "longitud": -122.02878
+        }
+      }
+    },
+    "39206512": {
+      "room_id": 39206512,
+      "latitude": 37.5881,
+      "longitude": -122.0157,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 39206512,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "5BR/3BA Single Family House，Walk-to-Bart/Shops",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 5284.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $754.81",
+              "amount": 5283.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/74e78f2e-b558-4447-b6ed-4173e4894ff0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/becc6bab-48c1-4084-8e6d-56b4dfce5e95.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1682bd60-5b30-4fd2-aecc-2916d613f22a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7a7a24b0-b1a8-47ff-9f7d-9e4661db1349.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6283098a-93c4-45a0-984c-29f17e3c66f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/66ac7a24-f3b1-4b41-94c0-244ce30c2ed6.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.5881,
+          "longitud": -122.0157
+        }
+      }
+    },
+    "37814185": {
+      "room_id": 37814185,
+      "latitude": 37.5887,
+      "longitude": -122.0157,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 37814185,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/dc9c2930-0d71-4d8f-bc7c-b398dc7d7b77.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Tenten",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dc9c2930-0d71-4d8f-bc7c-b398dc7d7b77.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 reviews on the listing",
+              "label": "Reviews",
+              "value": "2",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 3
+          },
+          "ratingCount": 2,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2-Room MasterSuite A with Bath, Walk-to-Bart/Shops",
+        "title": "Rooms in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 1570.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $224.16",
+              "amount": 1569.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/32969434-f3ee-4db6-98d2-c39a2f2c7c3a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9d347d73-8f27-48b4-af01-d5cec83f6326.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/65e9dd66-2827-408b-a9dd-66a0af15f762.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5000a7de-0da4-4b55-87b5-ef19c2772538.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/72b68945-7088-409d-9181-4e918d57b97e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8c8106e5-af8e-4cc5-a4d4-f1f7b03b7063.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.5887,
+          "longitud": -122.0157
+        }
+      }
+    },
+    "1243506245204336089": {
+      "room_id": 1243506245204336089,
+      "latitude": 37.5797,
+      "longitude": -122.0239,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 1243506245204336089,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Qiong",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0 reviews on the listing",
+              "label": "Reviews",
+              "value": "0",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "0.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 months of hosting",
+              "label": "Months hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 10
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Serene Retreat",
+        "title": "Room in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 6 nights",
+            "curency_symbol": "$",
+            "amount": 1838.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "6 nights x $306.22",
+              "amount": 1837.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243506245204336089/original/fcc07a90-898a-45a5-8816-d81d6519dfb4.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243506245204336089/original/230a75e9-2739-4fe5-b8ba-e515eadc01d5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243506245204336089/original/c15f6c91-0b62-45d3-8052-b8d67e5581f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243506245204336089/original/32d7516c-1ba5-4039-b0d6-f3b217b038b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243506245204336089/original/3032019d-66b7-440f-b102-85b875f5dc64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243506245204336089/original/f787b6c4-61c3-4f7f-9022-8e34e716152e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.5797,
+          "longitud": -122.0239
+        }
+      }
+    },
+    "1384166571456829430": {
+      "room_id": 1384166571456829430,
+      "latitude": 37.58646660867724,
+      "longitude": -122.007758193702,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:17:05",
+      "raw_data": {
+        "room_id": 1384166571456829430,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxe Spacious Bay Area Retreat",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 4223.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $603.19",
+              "amount": 4222.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/f2c34190-8854-4373-b4fc-3a852d4e1ad9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/5acb48fe-68bf-4f2e-bdc7-4c87e0286013.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/61ba0185-94bc-4276-ae79-d28255edff5a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/24227155-75f7-4623-b74e-1833658e0650.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/ba16bb15-242c-4e3e-965d-2011b9935d4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1278419289980442782/original/21c4d1dc-1504-4104-8762-f4a2b7fe76ce.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.58646660867724,
+          "longitud": -122.007758193702
+        }
+      }
+    },
+    "50197225": {
+      "room_id": 50197225,
+      "latitude": 37.59735,
+      "longitude": -122.00319,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:17:11",
+      "raw_data": {
+        "room_id": 50197225,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Cheerful 2-Bedroom Suite with Mountain View",
+        "title": "Guest suite in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 346.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $172.89",
+              "amount": 345.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.68,
+          "reviewCount": "142"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/3a4f356c-7d22-4ea5-b598-987beb204272.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50197225/original/b8b85bc1-3ca0-4560-8bd8-e8475e91ed9d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50197225/original/fca3aa9b-1571-4dc8-8cec-1963b20dfea4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50197225/original/f04a221f-d520-472d-99cd-18b85b8f8904.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50197225/original/07a80605-b242-49af-a12d-99787d00fcfa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50197225/original/3aa37b4a-d7e5-4b85-8b8d-fef43cb61d83.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.59735,
+          "longitud": -122.00319
+        }
+      }
+    },
+    "977282738656562035": {
+      "room_id": 977282738656562035,
+      "latitude": 37.6015,
+      "longitude": -122.0221,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:17:11",
+      "raw_data": {
+        "room_id": 977282738656562035,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Home in Union City",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 626.0,
+            "discount": 478.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $238.51",
+              "amount": 477.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "63"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-977282738656562035/original/f158efc4-2f0b-42d8-8a48-11b49ebc3097.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-977282738656562035/original/19ac8962-82f5-4f1c-b917-8dc5829ceb6d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-977282738656562035/original/37144a30-1da3-47fd-84cc-0aca57bb12d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-977282738656562035/original/b7f62f45-e245-438a-bb65-374912daec3c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-977282738656562035/original/006631cb-ccce-4f91-8293-fd570138456c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-977282738656562035/original/dc861d5b-6844-4058-823f-04b63139b438.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.6015,
+          "longitud": -122.0221
+        }
+      }
+    },
+    "1152450586474688419": {
+      "room_id": 1152450586474688419,
+      "latitude": 37.59622,
+      "longitude": -121.99905,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:17:11",
+      "raw_data": {
+        "room_id": 1152450586474688419,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Ozy Cozy private unit.",
+        "title": "Apartment in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $136.94",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1152450586474688419/original/d009912e-121b-44bc-b3b0-d30379729b52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1152450586474688419/original/9e37cdea-c7c4-43b4-bffb-6b07e84ea276.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1152450586474688419/original/1db94029-09c7-4373-899c-fae180c291ae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1152450586474688419/original/921240ab-0e64-427e-aa7c-0c758e309020.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1152450586474688419/original/e44e9dce-03de-4efe-8670-dccd4e6697d2.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.59622,
+          "longitud": -121.99905
+        }
+      }
+    },
+    "45090250": {
+      "room_id": 45090250,
+      "latitude": 37.60094,
+      "longitude": -122.02529,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:17:11",
+      "raw_data": {
+        "room_id": 45090250,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lisa",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 10
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "sweet room 02(3-4 guests)",
+        "title": "Room in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $142.65",
+              "amount": 285.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45090250/original/63747ec2-eb65-4e58-905b-f2114aa7d9a7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45090250/original/ad4dcd28-7bcb-463f-a0f3-bb0038eb23e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45090250/original/b9b32aa1-02a5-44ac-b5f9-fbf76a9ac643.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45090250/original/b5ed32ce-2cb9-40a0-97fc-a6c539e3eb7e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4baf043b-d308-43f9-9754-3500f111c040.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2132db19-5c5c-47fa-bf59-707b963716c6.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.60094,
+          "longitud": -122.02529
+        }
+      }
+    },
+    "1557388116185230118": {
+      "room_id": 1557388116185230118,
+      "latitude": 37.58183,
+      "longitude": -122.01855,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 13:17:17",
+      "raw_data": {
+        "room_id": 1557388116185230118,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "3.5BR Quarry Lake Oasis • Pool & GameRoom!",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 799.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $266.27",
+              "amount": 798.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1557388116185230118/original/95a3784b-0b7a-4221-92f1-e840478ca782.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1557388116185230118/original/d51348b6-d789-4c00-ad88-7a29c98bf956.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1557388116185230118/original/32f63642-aed1-4c45-967a-90b2a83439ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1557388116185230118/original/20b11ee9-1422-4e50-9abf-062d87e90254.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1557388116185230118/original/d8b1049a-9c16-45e6-8566-4341748b961a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1557388116185230118/original/ff14a5fa-c618-4a11-9fcf-7f285709df19.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.58183,
+          "longitud": -122.01855
+        }
+      }
+    },
+    "1126097090528198431": {
+      "room_id": 1126097090528198431,
+      "latitude": 37.5958,
+      "longitude": -122.03,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 13:17:17",
+      "raw_data": {
+        "room_id": 1126097090528198431,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Pet Friendly, 5m to Niles District, Pool Table",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 973.0,
+            "discount": 847.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $282.33",
+              "amount": 847.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126097090528198431/original/8fa37da4-3c32-44d9-9dde-d7fc62a7ba0c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126097090528198431/original/fdfbff08-83af-4e13-9629-bce72d6555d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126097090528198431/original/771a369b-1fad-4ed8-9c2e-17b403561c03.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126097090528198431/original/f0f21ac0-44b6-48fa-a7b6-cf92231d80d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126097090528198431/original/b861299f-5096-4b4a-b40b-ec4ba09a83a5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126097090528198431/original/77c1b288-2f0b-4b41-a459-14d88cc594e0.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.5958,
+          "longitud": -122.03
+        }
+      }
+    },
+    "838758932044086289": {
+      "room_id": 838758932044086289,
+      "latitude": 37.60099,
+      "longitude": -122.02443,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 13:17:17",
+      "raw_data": {
+        "room_id": 838758932044086289,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lisa",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 10
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sweet room 01 (2 guests)",
+        "title": "Room in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 320.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $106.51",
+              "amount": 319.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-838758932044086289/original/de8f9599-4d78-4dd9-ad28-6d7305b20270.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-838758932044086289/original/0a567557-02fd-4772-b30a-cd3623a7b541.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-838758932044086289/original/6b9ed619-845e-4ae9-abdd-a6e79e8f3a85.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-838758932044086289/original/aeb57a95-b8aa-499e-82da-4eb4e85bced0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.60099,
+          "longitud": -122.02443
+        }
+      }
+    },
+    "7455781": {
+      "room_id": 7455781,
+      "latitude": 37.59017,
+      "longitude": -122.03092,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 13:17:35",
+      "raw_data": {
+        "room_id": 7455781,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a761e09e-1f63-477c-a2eb-e04d92213605.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Mercie",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a761e09e-1f63-477c-a2eb-e04d92213605.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "59 reviews on the listing",
+              "label": "Reviews",
+              "value": "59",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 5
+          },
+          "ratingCount": 59,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sage Room: A Thoughtful Space",
+        "title": "Room in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 264.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $87.87",
+              "amount": 263.0,
+              "currency": "$.61"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "59"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7455781/original/4b984bfc-cce9-48db-9ff7-fd16f4dd63c5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7455781/original/c91fb2d7-5425-4d5c-9497-aa2a7e386f5a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bc354074-d7cc-4fc7-873e-d403a95dd23a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-7455781/original/1c1b476d-bc2a-4617-9680-47e4102637a0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0e9a6a54-9dd5-4259-8259-29c06037296a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/baa3ed6c-15c6-47d0-8e79-ee900294b2e0.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.59017,
+          "longitud": -122.03092
+        }
+      }
+    },
+    "1097540246854845769": {
+      "room_id": 1097540246854845769,
+      "latitude": 37.57782,
+      "longitude": -122.01934,
+      "grid_id_assigned": null,
+      "grid_id_source": 14.0,
+      "bbox_id": "37.577720_-122.030980_37.602980_-121.998660",
+      "pass_id": 6,
+      "discovered_at": "2026-01-01 13:17:41",
+      "raw_data": {
+        "room_id": 1097540246854845769,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Silicon Valley Spacious 3b2b house| patio+yard",
+        "title": "Home in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 398.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $397.13",
+              "amount": 397.0,
+              "currency": "$.13"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "40"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1097540246854845769/original/92bb057b-4244-4b47-863b-4e9442871ad5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1097540246854845769/original/536f40b9-6ebe-4547-9111-9c5a5613a641.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1097540246854845769/original/7b123d02-f5af-4845-9212-ee904c4a55e1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1097540246854845769/original/08e756a0-98cb-4c7c-852f-688202d6fa5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1097540246854845769/original/3cfbe100-d6fd-4a0d-a51b-89ec43680c58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1097540246854845769/original/c181a76a-0db4-4d5c-b6c2-d4c380eca161.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.57782,
+          "longitud": -122.01934
+        }
+      }
+    }
+  }
+}

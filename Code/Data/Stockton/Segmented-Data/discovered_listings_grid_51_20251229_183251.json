@@ -1,0 +1,191 @@
+{
+  "grid_id": 51,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 18:32:51",
+  "listings": {
+    "873572425683579742": {
+      "room_id": 873572425683579742,
+      "latitude": 37.89964,
+      "longitude": -121.32338,
+      "grid_id_assigned": null,
+      "grid_id_source": 51.0,
+      "bbox_id": "37.878200_-121.344620_37.904200_-121.312520",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 18:30:27",
+      "raw_data": {
+        "room_id": 873572425683579742,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/317104e3-421d-4af7-a5e7-cc67d4e92497.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Anmol",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/317104e3-421d-4af7-a5e7-cc67d4e92497.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 reviews on the listing",
+              "label": "Reviews",
+              "value": "9",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3.67 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "3.67",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 8
+          },
+          "ratingCount": 9,
+          "ratingAverage": 3.67
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private Room (A) in Stockton",
+        "title": "Rooms in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 232.0,
+            "discount": 214.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $77.13",
+              "amount": 231.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Early bird discount",
+              "amount": -18.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 213.0,
+              "currency": "$.40"
+            }
+          ]
+        },
+        "rating": {
+          "value": 3.67,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/101ffdf4-6843-412b-b274-bfbb6c21e0eb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/546da9d4-7ce8-41e7-9344-b2626d8f2e91.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c8d0f286-8d5c-46bd-9e2f-96cf90f59676.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bb68c976-3cdc-4c9b-b4c3-4ce2b572be2a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/dffae987-bb8c-460f-b0ba-6a703ba910d1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e63d9ffe-555a-4735-8dcb-a5cabc3d295d.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.89964,
+          "longitud": -121.32338
+        }
+      }
+    }
+  }
+}

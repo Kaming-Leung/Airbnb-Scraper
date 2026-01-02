@@ -1,0 +1,136 @@
+{
+  "grid_id": 37,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 01:09:26",
+  "listings": {
+    "1213372638054439961": {
+      "room_id": 1213372638054439961,
+      "latitude": 42.3992,
+      "longitude": -83.5306,
+      "grid_id_assigned": null,
+      "grid_id_source": 37.0,
+      "bbox_id": "42.392940_-83.563610_42.418380_-83.528060",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 01:06:44",
+      "raw_data": {
+        "room_id": 1213372638054439961,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy 2 Bedroom Retreat – Fully Renovated!",
+        "title": "Home in Northville township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 537.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $178.78",
+              "amount": 536.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "31"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1213372638054439961/original/5649d1a2-92f4-43db-8188-a4284a006f43.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1213372638054439961/original/0601beb7-2659-494b-9f90-2bed8e78fbb3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM3MjYzODA1NDQzOTk2MQ%3D%3D/original/23df7bdc-7a75-4bcc-9248-f9ddf83f8f51.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM3MjYzODA1NDQzOTk2MQ%3D%3D/original/eb8edbd3-a714-45d7-bd1a-7b2589fc954e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM3MjYzODA1NDQzOTk2MQ%3D%3D/original/47f35579-8478-435c-a642-3e737b86c1e4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM3MjYzODA1NDQzOTk2MQ%3D%3D/original/d6cebb67-5213-4f9e-b457-0123a327362d.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.3992,
+          "longitud": -83.5306
+        }
+      }
+    }
+  }
+}

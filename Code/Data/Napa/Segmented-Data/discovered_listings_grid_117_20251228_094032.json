@@ -1,0 +1,131 @@
+{
+  "grid_id": 117,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 09:40:32",
+  "listings": {
+    "51902634": {
+      "room_id": 51902634,
+      "latitude": 38.2806,
+      "longitude": -122.27684,
+      "grid_id_assigned": null,
+      "grid_id_source": 117.0,
+      "bbox_id": "38.275620_-122.287200_38.283360_-122.276690",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 09:37:38",
+      "raw_data": {
+        "room_id": 51902634,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "No cleaning fee Near Oxbow ModernFarmhouse Getaway",
+        "title": "Condo in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2299.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $459.67",
+              "amount": 2298.0,
+              "currency": "$.33"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "109"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/df893270-d390-4a91-ada7-1048b95574c2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/307d07cd-823c-4d85-aa3b-89e56ce604ac.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3fc2ea32-c907-43f9-a2c6-74ed4295e84f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/036a74fe-042a-416d-9086-98f19cddf6a0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b155e688-6957-4328-b2ac-2b45ee70408a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0edf708d-4342-41ed-8df1-8638c40beef2.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.2806,
+          "longitud": -122.27684
+        }
+      }
+    }
+  }
+}

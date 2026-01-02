@@ -1,0 +1,131 @@
+{
+  "grid_id": 117,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 07:25:46",
+  "listings": {
+    "774209856359859593": {
+      "room_id": 774209856359859593,
+      "latitude": 38.3796,
+      "longitude": -121.2825,
+      "grid_id_assigned": null,
+      "grid_id_source": 117.0,
+      "bbox_id": "38.345690_-121.316340_38.390400_-121.271020",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 07:22:52",
+      "raw_data": {
+        "room_id": 774209856359859593,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "1929 Craftsman Farmhouse",
+        "title": "Farm stay in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1370.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $273.88",
+              "amount": 1369.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "61"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-774209856359859593/original/38c0dcc4-8e71-484a-b4f1-53dfaa8545fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-774209856359859593/original/75e95b0c-3260-4bda-ba76-2a426f0ab618.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-774209856359859593/original/5753ff3d-1ab4-4428-9c79-02720c73440f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-774209856359859593/original/79dc5ec0-c250-4ecc-9675-855d49cc8ec4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-774209856359859593/original/eac2acc9-865d-404a-ba4d-a4b9ac0aae7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-774209856359859593/original/62d356b1-6526-421a-a746-40d2f742da55.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.3796,
+          "longitud": -121.2825
+        }
+      }
+    }
+  }
+}

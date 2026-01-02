@@ -1,0 +1,368 @@
+{
+  "grid_id": 46,
+  "total_listings": 3,
+  "discovery_timestamp": "2026-01-01 02:08:02",
+  "listings": {
+    "886982126655868074": {
+      "room_id": 886982126655868074,
+      "latitude": 37.291644393612216,
+      "longitude": -122.04418707546893,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.266900_-122.065300_37.293330_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 02:05:08",
+      "raw_data": {
+        "room_id": 886982126655868074,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Home in Saratoga",
+        "title": "Home in Saratoga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1256.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $251.06",
+              "amount": 1255.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-886982126655868074/original/7977ea30-be65-4238-b8fe-81e2c1863401.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2f3637e2-6fe4-400a-900a-d08799abe5be.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f28ca481-c1a5-44e7-be17-e9fae446b5a7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/957e9992-3699-43f8-bc3e-6d950e3a247e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2792a5ab-8a15-4bf5-bb6f-41c4b47c0125.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4e2e201c-d6b7-4122-a7e2-1acfd58a4022.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.291644393612216,
+          "longitud": -122.04418707546893
+        }
+      }
+    },
+    "7307115": {
+      "room_id": 7307115,
+      "latitude": 37.27078,
+      "longitude": -122.04337,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.266900_-122.065300_37.293330_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 02:05:08",
+      "raw_data": {
+        "room_id": 7307115,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The studio at Sarahills Vineyards",
+        "title": "Guesthouse in Saratoga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1473.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $294.42",
+              "amount": 1472.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "92"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-7307115/original/8268899f-2906-43f6-93d1-070405a6aba4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4b35ec83-655b-4561-98ae-a6b1edce67a7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b6fb65c2-9a79-4439-a7e7-0a42e1041a9a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-7307115/original/b8ef6568-797d-4f33-be5d-354bd13ed278.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/176fffbd-743b-4c5c-b869-923830b87ea0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a52e00b5-170b-4d03-b2c0-dc86ba40ff12.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.27078,
+          "longitud": -122.04337
+        }
+      }
+    },
+    "24830315": {
+      "room_id": 24830315,
+      "latitude": 37.28376,
+      "longitude": -122.04554,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "37.266900_-122.065300_37.293330_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 02:05:08",
+      "raw_data": {
+        "room_id": 24830315,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bubble Escape In Hidden Wineries of Silicon Valley",
+        "title": "Dome in Saratoga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4049.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $809.80",
+              "amount": 4049.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "73"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/794c2c82-803c-4e8c-9cf9-82b535d0da2c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6689346c-9117-4a5c-b979-76db2b1e37db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9ababdf7-2398-46a4-b860-acd083b83653.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a1cb2b42-4896-490d-af4b-3430fe971516.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7ab6811b-2974-4659-aeae-129992dc0be4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18a357f5-dcb9-4659-b166-a16b47746537.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.28376,
+          "longitud": -122.04554
+        }
+      }
+    }
+  }
+}

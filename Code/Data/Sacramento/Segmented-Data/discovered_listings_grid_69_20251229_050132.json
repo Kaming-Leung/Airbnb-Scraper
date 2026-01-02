@@ -1,0 +1,143 @@
+{
+  "grid_id": 69,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 05:01:32",
+  "listings": {
+    "1500179567159657669": {
+      "room_id": 1500179567159657669,
+      "latitude": 38.5693,
+      "longitude": -121.1984,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "38.569240_-121.225710_38.613950_-121.180390",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 04:58:44",
+      "raw_data": {
+        "room_id": 1500179567159657669,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a87df499-7dee-4b6c-bbed-59ed20688dae.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sophia",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a87df499-7dee-4b6c-bbed-59ed20688dae.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 3
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "SoWay Suite",
+        "title": "Room in Rancho Cordova",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 279.0,
+            "discount": 229.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $139.12",
+              "amount": 278.0,
+              "currency": "$.24"
+            },
+            {
+              "description": "Special offer",
+              "amount": -50.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 228.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1500179567159657669/original/bb6f6aa1-9693-4a71-8b5d-56a7ec5b54eb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1500179567159657669/original/50056ee4-358e-4339-b9ea-cda90a093baa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1500179567159657669/original/a890212a-d913-4070-890e-f4e2f7b05bb3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1500179567159657669/original/0e615b98-f248-477e-ad11-979429d8cbfa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1500179567159657669/original/67f72439-a134-4882-81b1-087d4f9c84b4.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.5693,
+          "longitud": -121.1984
+        }
+      }
+    }
+  }
+}

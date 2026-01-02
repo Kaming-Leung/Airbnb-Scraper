@@ -1,0 +1,129 @@
+{
+  "grid_id": 88,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 08:13:16",
+  "listings": {
+    "914685122277429625": {
+      "room_id": 914685122277429625,
+      "latitude": 38.29892,
+      "longitude": -122.23774,
+      "grid_id_assigned": null,
+      "grid_id_source": 88.0,
+      "bbox_id": "38.298850_-122.245170_38.306600_-122.234660",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:10:22",
+      "raw_data": {
+        "room_id": 914685122277429625,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Close to Downtown: 1 Bedroom ADU",
+        "title": "Guest suite in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1427.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $285.29",
+              "amount": 1426.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.64,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-914685122277429625/original/fa4457d9-d6f8-49e2-960b-fe082677aef3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-914685122277429625/original/f5d4bff6-11d6-4821-a66a-3af48f13ed9c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-914685122277429625/original/da4b2415-717d-45d0-bcaa-f9baa592b8ac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-914685122277429625/original/3de51c95-0030-4578-9647-f437c67715b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-914685122277429625/original/fb461760-5451-4871-8087-4bd31c3c0dd4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-914685122277429625/original/a093da04-6165-49d9-8876-cf3ab88e28dc.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.29892,
+          "longitud": -122.23774
+        }
+      }
+    }
+  }
+}

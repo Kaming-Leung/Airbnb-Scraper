@@ -1,0 +1,261 @@
+{
+  "grid_id": 17,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-29 02:25:12",
+  "listings": {
+    "810067205097830134": {
+      "room_id": 810067205097830134,
+      "latitude": 38.79459,
+      "longitude": -121.28721,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "38.792790_-121.316340_38.837500_-121.271020",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 02:22:18",
+      "raw_data": {
+        "room_id": 810067205097830134,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Roseville Home with Hot Tub & Game Room",
+        "title": "Home in Roseville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1632.0,
+            "discount": 1335.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $267.00",
+              "amount": 1335.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "177"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-810067205097830134/original/c598680a-cf8c-45e1-8547-2f517617a90a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-810067205097830134/original/391ae6ae-9068-4fd4-9dfa-0165a39d9f38.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-810067205097830134/original/ce6f556b-721f-4521-a2c9-0217e72141de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-810067205097830134/original/e09162c2-e902-4c7a-8fc7-05ebf6189187.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-810067205097830134/original/be3d60d0-114f-4f43-9b95-31b97a0ff370.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-810067205097830134/original/3a770ff3-e441-4399-9c44-ee3926cb54a8.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.79459,
+          "longitud": -121.28721
+        }
+      }
+    },
+    "803032101272402744": {
+      "room_id": 803032101272402744,
+      "latitude": 38.82337,
+      "longitude": -121.28805,
+      "grid_id_assigned": null,
+      "grid_id_source": 17.0,
+      "bbox_id": "38.792790_-121.316340_38.837500_-121.271020",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 02:22:48",
+      "raw_data": {
+        "room_id": 803032101272402744,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Clean InLaw Guest Suite w/2 fridges in Rocklin, CA",
+        "title": "Guesthouse in Rocklin",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 520.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $173.08",
+              "amount": 519.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "127"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803032101272402744/original/30d38321-f7b3-4c7b-97e3-e175d4a0fad0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803032101272402744/original/6e0039ac-0f18-41d2-822c-80c557805433.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803032101272402744/original/4a7b1dc8-3669-4322-82eb-aed625889f64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803032101272402744/original/085f72cf-4e48-4893-99c3-7b06109ad8f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803032101272402744/original/e99cc495-a797-481f-9246-a09eaabcd866.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-803032101272402744/original/000f8c80-643e-4040-8cac-49d0f7d174e4.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.82337,
+          "longitud": -121.28805
+        }
+      }
+    }
+  }
+}

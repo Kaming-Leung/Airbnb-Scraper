@@ -1,0 +1,129 @@
+{
+  "grid_id": 46,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 01:36:28",
+  "listings": {
+    "14358324": {
+      "room_id": 14358324,
+      "latitude": 42.38917400268589,
+      "longitude": -84.00267953224798,
+      "grid_id_assigned": null,
+      "grid_id_source": 46.0,
+      "bbox_id": "42.367500_-84.025750_42.392940_-83.990200",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 01:33:34",
+      "raw_data": {
+        "room_id": 14358324,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Designer Home on North Lake",
+        "title": "Home in Gregory",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2711.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $542.06",
+              "amount": 2710.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQzNTgzMjQ%3D/original/1c8e11bf-2705-4ceb-aa84-c59964ed476d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQzNTgzMjQ%3D/original/3420021e-4f0f-4d7f-9f58-657b4a38c33f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-14358324/original/3be51a12-da46-47d2-b511-2c122ad3fff9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQzNTgzMjQ%3D/original/3c2d244a-173c-42f1-8fd4-156a8f58a262.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQzNTgzMjQ%3D/original/e2501180-0a24-4b17-9e58-d07136ed27b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-14358324/original/f37b9575-d04c-4d24-ae5c-d6c766710279.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.38917400268589,
+          "longitud": -84.00267953224798
+        }
+      }
+    }
+  }
+}

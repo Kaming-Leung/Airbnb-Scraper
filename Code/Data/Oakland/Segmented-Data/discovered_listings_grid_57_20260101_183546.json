@@ -1,0 +1,363 @@
+{
+  "grid_id": 57,
+  "total_listings": 3,
+  "discovery_timestamp": "2026-01-01 18:35:46",
+  "listings": {
+    "5823349": {
+      "room_id": 5823349,
+      "latitude": 37.73528,
+      "longitude": -122.13218,
+      "grid_id_assigned": null,
+      "grid_id_source": 57.0,
+      "bbox_id": "37.719190_-122.133660_37.745650_-122.099880",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 18:32:52",
+      "raw_data": {
+        "room_id": 5823349,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Panoramic Bay Views Sanctuary",
+        "title": "Townhouse in Sheffield",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2315.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $462.86",
+              "amount": 2314.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "255"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/540d9d2a-2ba7-45ff-8dce-90f3a0804466.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/188cdc8e-d2c4-454b-ac01-cf71e92ff0a0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/794d1bcc-b659-4800-83c2-deefe8e31622.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-5823349/original/2a901b65-6ebe-4b01-8eb0-1b40fecde105.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-5823349/original/bb79725b-eaa0-406c-b493-1f13c2f597eb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-5823349/original/6e99dcc3-00d1-4933-a25d-98270924b289.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.73528,
+          "longitud": -122.13218
+        }
+      }
+    },
+    "3363844": {
+      "room_id": 3363844,
+      "latitude": 37.74412,
+      "longitude": -122.10145,
+      "grid_id_assigned": null,
+      "grid_id_source": 57.0,
+      "bbox_id": "37.719190_-122.133660_37.745650_-122.099880",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 18:32:58",
+      "raw_data": {
+        "room_id": 3363844,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Glamping! Vintage Airstream Trailer",
+        "title": "Camper/RV in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 257.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $128.38",
+              "amount": 256.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "28"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/42624649/db908cab_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/46011565/29e4066f_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/42624934/ae7fa50a_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/46011238/672d455d_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/46011386/7d17c568_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/46011331/401b28d0_original.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.74412,
+          "longitud": -122.10145
+        }
+      }
+    },
+    "38160049": {
+      "room_id": 38160049,
+      "latitude": 37.73389,
+      "longitude": -122.13217,
+      "grid_id_assigned": null,
+      "grid_id_source": 57.0,
+      "bbox_id": "37.719190_-122.133660_37.745650_-122.099880",
+      "pass_id": 3,
+      "discovered_at": "2026-01-01 18:33:10",
+      "raw_data": {
+        "room_id": 38160049,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Hike-in Bay Views Cabin w HotTub",
+        "title": "Cabin in Sheffield",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 278.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $277.31",
+              "amount": 277.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "351"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/c0b2016c-d5ad-46dd-ae9d-1c8cfa3e25a1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/57eb0df9-6e29-4aab-b451-b79548517098.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a0f9851e-4e9b-4814-8622-f462a1546e2f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-38160049/original/412c8418-4bda-4c6f-9225-9eb68ddf6ee3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1a557ac3-d517-496c-b9fa-1c2ae15072db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0d61bebd-e5d0-471f-abc1-a3db6507b681.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.73389,
+          "longitud": -122.13217
+        }
+      }
+    }
+  }
+}

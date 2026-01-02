@@ -1,0 +1,131 @@
+{
+  "grid_id": 61,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 19:02:53",
+  "listings": {
+    "53091946": {
+      "room_id": 53091946,
+      "latitude": 37.86488,
+      "longitude": -121.25487,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "37.852210_-121.280430_37.878200_-121.248340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 18:59:59",
+      "raw_data": {
+        "room_id": 53091946,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Manteca Farmstay",
+        "title": "Farm stay in Manteca",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1193.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $238.51",
+              "amount": 1192.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.78,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/61a5cf10-3437-4738-bd33-05bf07cb6b9f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/532886c0-b446-4d4d-9786-d1a1dca46907.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/618f40e6-5230-4ba9-96ec-b3bbae09b4a6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0af01f77-39e5-4e54-9abd-2c7854d9627a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-53091946/original/7585bc49-1e24-4ebe-a2f7-0fc4fc5b0fd8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cd0a266b-d1a9-4906-90f3-6cadd0bdde5a.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.86488,
+          "longitud": -121.25487
+        }
+      }
+    }
+  }
+}

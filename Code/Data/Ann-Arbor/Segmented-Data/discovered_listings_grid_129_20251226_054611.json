@@ -1,0 +1,851 @@
+{
+  "grid_id": 129,
+  "total_listings": 6,
+  "discovery_timestamp": "2025-12-26 05:46:11",
+  "listings": {
+    "1478148475209466507": {
+      "room_id": 1478148475209466507,
+      "latitude": 42.30111,
+      "longitude": -83.39752,
+      "grid_id_assigned": null,
+      "grid_id_source": 129.0,
+      "bbox_id": "42.291190_-83.421410_42.316620_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:43:17",
+      "raw_data": {
+        "room_id": 1478148475209466507,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Sep 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Sep 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious Oasis-15 mins from DTW Airport",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1193.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $238.51",
+              "amount": 1192.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478148475209466507/original/68157705-f5f2-4ed4-98e7-0e01c14e91bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478148475209466507/original/3566e13a-367a-4333-93ad-50f7de8047b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478148475209466507/original/fb89120d-afc0-4b92-b919-9f34e524b56f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478148475209466507/original/ef6120a8-dfa5-4538-a978-c6fca25994dd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478148475209466507/original/fcf3860d-4a5a-4b52-96e9-b257c84aa579.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1478148475209466507/original/ea2b30e4-09c6-42d4-89d2-4a9ef0606709.png"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.30111,
+          "longitud": -83.39752
+        }
+      }
+    },
+    "950917932079466546": {
+      "room_id": 950917932079466546,
+      "latitude": 42.2912,
+      "longitude": -83.4096,
+      "grid_id_assigned": null,
+      "grid_id_source": 129.0,
+      "bbox_id": "42.291190_-83.421410_42.316620_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:43:17",
+      "raw_data": {
+        "room_id": 950917932079466546,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/c0859d64-9535-47e3-9bde-c5ac526b0041.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Partap",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/c0859d64-9535-47e3-9bde-c5ac526b0041.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "20 reviews on the listing",
+              "label": "Reviews",
+              "value": "20",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.8 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.8",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 5
+          },
+          "ratingCount": 20,
+          "ratingAverage": 4.8
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Calm Place1- 1Bedroom-1Queen bed-1.5 washroom",
+        "title": "Room in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1478.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $295.56",
+              "amount": 1477.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "20"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-950844956644108532/original/cb90e5fc-99c2-41ea-941f-506b771bdc88.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwOTE3OTMyMDc5NDY2NTQ2/original/fe38ce51-4cdc-4bd7-af62-7c434ea5a918.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-950844956644108532/original/4be711ba-3d72-4e66-ab16-2d8fb09c3f94.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwOTE3OTMyMDc5NDY2NTQ2/original/fe281a37-184d-44bd-ba19-c353a234a3d7.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwOTE3OTMyMDc5NDY2NTQ2/original/80965fb3-2410-4ab1-945f-c900213d19c9.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwOTE3OTMyMDc5NDY2NTQ2/original/b7da0f55-9d7c-4cc1-9045-9c35ddce2eb5.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2912,
+          "longitud": -83.4096
+        }
+      }
+    },
+    "950844956644108532": {
+      "room_id": 950844956644108532,
+      "latitude": 42.2913,
+      "longitude": -83.4095,
+      "grid_id_assigned": null,
+      "grid_id_source": 129.0,
+      "bbox_id": "42.291190_-83.421410_42.316620_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:43:17",
+      "raw_data": {
+        "room_id": 950844956644108532,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/c0859d64-9535-47e3-9bde-c5ac526b0041.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Partap",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/c0859d64-9535-47e3-9bde-c5ac526b0041.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "24 reviews on the listing",
+              "label": "Reviews",
+              "value": "24",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.71 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.71",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 5
+          },
+          "ratingCount": 24,
+          "ratingAverage": 4.71
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Calm Place2- 1Bedroom- 1Queen bed-1.5 washroom",
+        "title": "Room in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1478.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $295.56",
+              "amount": 1477.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.71,
+          "reviewCount": "24"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwODQ0OTU2NjQ0MTA4NTMy/original/2e50a120-35f6-4d08-a5b2-acfa72a9e19f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwODQ0OTU2NjQ0MTA4NTMy/original/152035e9-3e13-43ea-a402-ccc3ffd828db.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-950844956644108532/original/4be711ba-3d72-4e66-ab16-2d8fb09c3f94.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-950844956644108532/original/cb90e5fc-99c2-41ea-941f-506b771bdc88.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwODQ0OTU2NjQ0MTA4NTMy/original/f288d7aa-4e8f-49da-accc-649be56db00d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTUwODQ0OTU2NjQ0MTA4NTMy/original/b77003dd-3f31-41b2-805a-791e637b6a2d.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2913,
+          "longitud": -83.4095
+        }
+      }
+    },
+    "939807137876262345": {
+      "room_id": 939807137876262345,
+      "latitude": 42.2912,
+      "longitude": -83.4096,
+      "grid_id_assigned": null,
+      "grid_id_source": 129.0,
+      "bbox_id": "42.291190_-83.421410_42.316620_-83.385860",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:43:17",
+      "raw_data": {
+        "room_id": 939807137876262345,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/c0859d64-9535-47e3-9bde-c5ac526b0041.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Partap",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/c0859d64-9535-47e3-9bde-c5ac526b0041.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 5
+          },
+          "ratingCount": 4,
+          "ratingAverage": 4.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Calm Place- 2Bedrooms- 2Queen beds-1.5 washroom",
+        "title": "Rooms in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2922.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $584.28",
+              "amount": 2921.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-939807137876262345/original/76d53528-152d-4000-8e94-9ec154cce249.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTM5ODA3MTM3ODc2MjYyMzQ1/original/72850ec6-209f-4e7b-87c3-b8f328ca30dc.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-939807137876262345/original/e10e84bc-cd9f-40eb-8cfe-3269f15d76ca.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTM5ODA3MTM3ODc2MjYyMzQ1/original/811f9762-18a4-4f29-a997-01699fc50264.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTM5ODA3MTM3ODc2MjYyMzQ1/original/a1f26128-8f01-40ab-818a-3860d32ea795.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTM5ODA3MTM3ODc2MjYyMzQ1/original/565578e4-969f-4933-9311-041ac1014505.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2912,
+          "longitud": -83.4096
+        }
+      }
+    },
+    "1425950589012267530": {
+      "room_id": 1425950589012267530,
+      "latitude": 42.29918378020436,
+      "longitude": -83.39490870864638,
+      "grid_id_assigned": null,
+      "grid_id_source": 129.0,
+      "bbox_id": "42.291190_-83.421410_42.316620_-83.385860",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 05:43:23",
+      "raw_data": {
+        "room_id": 1425950589012267530,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxe Retreat w/ Massage Chair + Full Kitchen",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 394.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $196.86",
+              "amount": 393.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425950589012267530/original/852dd73b-816c-4dbb-bca5-89fd703a890d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425950589012267530/original/f59394b7-2060-4262-93bb-2558f9fd0468.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425950589012267530/original/cd1d8716-586b-4c38-bf1a-d01e63b351e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425950589012267530/original/ffb5d013-405d-47da-8634-a81645c08cce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425950589012267530/original/07ac5a6d-15e4-4e99-a851-e9ae29e0964a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425950589012267530/original/ae9be19a-e4fb-4afa-807e-2f32c8d776e2.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29918378020436,
+          "longitud": -83.39490870864638
+        }
+      }
+    },
+    "1216225432269209422": {
+      "room_id": 1216225432269209422,
+      "latitude": 42.2974855472156,
+      "longitude": -83.39539373921627,
+      "grid_id_assigned": null,
+      "grid_id_source": 129.0,
+      "bbox_id": "42.291190_-83.421410_42.316620_-83.385860",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 05:43:23",
+      "raw_data": {
+        "room_id": 1216225432269209422,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bright, Cozy Home in Westland! (3Bedroom 1Bath)",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 477.0,
+            "discount": 432.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $215.86",
+              "amount": 431.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "20"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1216225432269209422/original/d153266d-9311-4b91-b5ad-3f9bc0d629f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1216225432269209422/original/109cc46c-356e-4d0a-89d0-26bc60d595ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1216225432269209422/original/8e019913-1dcd-4ae7-9809-c21daccb5b9a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1216225432269209422/original/b8c69703-e7c6-438f-b8c9-7282ecbc69bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1216225432269209422/original/53514396-16ac-47f9-b7ca-13de7c3c765f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1216225432269209422/original/94e93a81-2705-4707-8774-2911d52d8bc0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2974855472156,
+          "longitud": -83.39539373921627
+        }
+      }
+    }
+  }
+}

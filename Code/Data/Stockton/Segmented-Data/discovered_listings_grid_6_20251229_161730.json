@@ -1,0 +1,375 @@
+{
+  "grid_id": 6,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-29 16:17:30",
+  "listings": {
+    "1432822097320505869": {
+      "room_id": 1432822097320505869,
+      "latitude": 38.05897,
+      "longitude": -121.23021,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "38.034160_-121.248340_38.060150_-121.216250",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 16:14:36",
+      "raw_data": {
+        "room_id": 1432822097320505869,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Ranch: Pool, Wineries, Orchards and Events",
+        "title": "Farm stay in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2368.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $473.59",
+              "amount": 2367.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1432822097320505869/original/03479089-58d8-4a20-8f2f-722141c02bfe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1432822097320505869/original/d71b3973-28d0-4b93-be04-7321d8db05f9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1432822097320505869/original/8c967e65-f5ae-4f74-83e9-1aac85c067de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1432822097320505869/original/a2d7e0d1-134d-4f56-9b91-0601d4727352.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1432822097320505869/original/4678f490-fa63-48d5-becb-24afcb038b83.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1432822097320505869/original/6cebb281-1451-4f25-a200-264a4eba4a53.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.05897,
+          "longitud": -121.23021
+        }
+      }
+    },
+    "1312539152741952328": {
+      "room_id": 1312539152741952328,
+      "latitude": 38.03645275666531,
+      "longitude": -121.24520046301275,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "38.034160_-121.248340_38.060150_-121.216250",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 16:14:43",
+      "raw_data": {
+        "room_id": 1312539152741952328,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2 Br Cozy Container Home w/ Pond View & Fire pit",
+        "title": "Shipping container in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $142.65",
+              "amount": 285.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "74"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1312539152741952328/original/f90103a1-77a4-45e9-93a3-7b9b316fb33d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxMjUzOTE1Mjc0MTk1MjMyOA%3D%3D/original/d9a2efbc-f98f-4d37-88be-3a9219ee4309.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxMjUzOTE1Mjc0MTk1MjMyOA%3D%3D/original/4f837b54-6095-42dd-a745-342b94265f96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1312539152741952328/original/d74fcbed-ec1b-48fd-bcc3-3a6f46885256.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1312539152741952328/original/3742609b-d25a-48df-aa48-b4bc7755f8df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1312539152741952328/original/e31df2b5-683d-4e2d-bde8-88114d675f16.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.03645275666531,
+          "longitud": -121.24520046301275
+        }
+      }
+    },
+    "1147241259995965227": {
+      "room_id": 1147241259995965227,
+      "latitude": 38.03748,
+      "longitude": -121.2453,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "38.034160_-121.248340_38.060150_-121.216250",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 16:14:43",
+      "raw_data": {
+        "room_id": 1147241259995965227,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Container Home Stay with Pond Views– Sleeps 5",
+        "title": "Shipping container in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $142.65",
+              "amount": 285.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "95"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE0NzI0MTI1OTk5NTk2NTIyNw%3D%3D/original/16ec737d-053f-44dd-9f57-8c11cebbacce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147241259995965227/original/d91de1c9-199f-4ebe-98ad-6cfc2698dcf7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147241259995965227/original/f51b6426-9234-4e94-8181-f2428b410b50.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147241259995965227/original/9f41cec1-7375-4e4c-8a7b-64f2ab104461.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147241259995965227/original/94ce2eb9-a37a-4ba7-a8df-4943f289fef3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147241259995965227/original/1dcfb004-bf67-4c54-88ec-5ffbe2fe496c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.03748,
+          "longitud": -121.2453
+        }
+      }
+    }
+  }
+}

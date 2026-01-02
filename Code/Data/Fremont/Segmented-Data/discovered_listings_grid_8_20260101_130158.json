@@ -1,0 +1,129 @@
+{
+  "grid_id": 8,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 13:01:58",
+  "listings": {
+    "1187131533713871352": {
+      "room_id": 1187131533713871352,
+      "latitude": 37.62685,
+      "longitude": -121.91085,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.602980_-121.934040_37.628250_-121.901730",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 12:59:04",
+      "raw_data": {
+        "room_id": 1187131533713871352,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "8 mins from Wineries | Country Retreat",
+        "title": "Cabin in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1606.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $321.13",
+              "amount": 1605.0,
+              "currency": "$.64"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzEzMTUzMzcxMzg3MTM1Mg%3D%3D/original/e5076c43-b7a1-4e74-9caa-6b7b7cf5dbeb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzEzMTUzMzcxMzg3MTM1Mg%3D%3D/original/9e16b847-27d9-40a6-8ed5-b7feb5806395.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzEzMTUzMzcxMzg3MTM1Mg%3D%3D/original/9e38bf71-8551-4ff8-b53b-4ee58dee4e5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzEzMTUzMzcxMzg3MTM1Mg%3D%3D/original/c565bcbd-dac1-41ec-8417-4c7725f54b6e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzEzMTUzMzcxMzg3MTM1Mg%3D%3D/original/7eec6cda-8373-4005-86a4-3275a6f9a622.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1187131533713871352/original/6813e9d0-b5ef-4466-bd99-7b8ba408b2e1.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.62685,
+          "longitud": -121.91085
+        }
+      }
+    }
+  }
+}

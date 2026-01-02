@@ -1,0 +1,843 @@
+{
+  "grid_id": 21,
+  "total_listings": 6,
+  "discovery_timestamp": "2026-01-01 03:59:58",
+  "listings": {
+    "1204939101994563803": {
+      "room_id": 1204939101994563803,
+      "latitude": 37.4391,
+      "longitude": -121.8371,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.419130_-121.861100_37.445140_-121.827920",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 03:57:11",
+      "raw_data": {
+        "room_id": 1204939101994563803,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Studio Mountain view/Orchard/Ranch/Working",
+        "title": "Home in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 387.0,
+            "discount": 354.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $176.71",
+              "amount": 353.0,
+              "currency": "$.42"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.61,
+          "reviewCount": "18"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1016592931247509412/original/af22c380-bdfb-4c11-bd2b-f3b2943a5509.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1016592931247509412/original/1c01ffe8-1f23-4304-8890-4c13ee7b0843.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNDkzOTEwMTk5NDU2MzgwMw==/original/2df2e51a-06ad-4f34-a8ae-a44496a714c0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1016592931247509412/original/78ea9ed6-1d02-443d-80e4-de54989c059b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1016592931247509412/original/343d78a4-9ed9-4b90-94c3-98149ce6406d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1016592931247509412/original/984d16d7-dada-4186-b429-81d462038140.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4391,
+          "longitud": -121.8371
+        }
+      }
+    },
+    "1390307653085748391": {
+      "room_id": 1390307653085748391,
+      "latitude": 37.44067588910679,
+      "longitude": -121.83763723101555,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.419130_-121.861100_37.445140_-121.827920",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 03:57:16",
+      "raw_data": {
+        "room_id": 1390307653085748391,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "33 Acres Ranch/Mountain View/Events, Camping&More",
+        "title": "Tent in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 285.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $94.83",
+              "amount": 284.0,
+              "currency": "$.50"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM5MDMwNzY1MzA4NTc0ODM5MQ==/original/0676d062-2151-4f30-8631-5fbde2076131.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1283751074061452208/original/59968cb8-8062-439e-856a-05aed3241aa6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1283751074061452208/original/439b3817-c5f8-4b63-ba3e-d4b6dc8e4c62.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1283751074061452208/original/2b9d67c1-e4a9-4533-9b48-bc47861f8aa2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1283751074061452208/original/8f9f528c-5167-45cf-b5de-21e16698f7fa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1390307653085748391/original/774c0b2b-8030-42fa-98e9-bdec84a9e844.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.44067588910679,
+          "longitud": -121.83763723101555
+        }
+      }
+    },
+    "864197672513516354": {
+      "room_id": 864197672513516354,
+      "latitude": 37.4398,
+      "longitude": -121.8369,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.419130_-121.861100_37.445140_-121.827920",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 03:57:28",
+      "raw_data": {
+        "room_id": 864197672513516354,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Mountains Getaways/Farmstead/Farm/Bay View",
+        "title": "Home in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 744.0,
+            "discount": 679.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $339.30",
+              "amount": 678.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.6,
+          "reviewCount": "42"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODY0MTk3NjcyNTEzNTE2MzU0/original/f8a1b206-c523-4501-83b9-2f298b4b13ad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODY0MTk3NjcyNTEzNTE2MzU0/original/68391102-1ad9-4298-b8f4-3e1b15148a45.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODY0MTk3NjcyNTEzNTE2MzU0/original/21aa1a26-6465-42e6-af02-e1a4adabad21.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODY0MTk3NjcyNTEzNTE2MzU0/original/234ef44d-ed8d-488b-8815-50743a8ec349.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODY0MTk3NjcyNTEzNTE2MzU0/original/467f489a-192d-4125-a0bf-820c184ac658.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODY0MTk3NjcyNTEzNTE2MzU0/original/5461d240-09bf-4cb9-a483-4413471d608f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4398,
+          "longitud": -121.8369
+        }
+      }
+    },
+    "1110617213523832037": {
+      "room_id": 1110617213523832037,
+      "latitude": 37.43928,
+      "longitude": -121.8375,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.419130_-121.861100_37.445140_-121.827920",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 03:57:34",
+      "raw_data": {
+        "room_id": 1110617213523832037,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/36bc16d6-39a1-4799-9e2d-ce4a9089a3b7.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lily",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/36bc16d6-39a1-4799-9e2d-ce4a9089a3b7.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 reviews on the listing",
+              "label": "Reviews",
+              "value": "6",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.33 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.33",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 4
+          },
+          "ratingCount": 6,
+          "ratingAverage": 4.33
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "33 Acres Ranch Room Mountain View Natual Spring",
+        "title": "Room in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 359.0,
+            "discount": 328.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $109.19",
+              "amount": 327.0,
+              "currency": "$.57"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.33,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110617213523832037/original/d1ed1aae-cf7d-44a5-b28b-5da44d713387.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDYxNzIxMzUyMzgzMjAzNw%3D%3D/original/2867cee1-adc9-4430-b594-6d06667e6f41.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDYxNzIxMzUyMzgzMjAzNw%3D%3D/original/832fbc2d-84d1-4d08-b986-eee11bb1114b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDYxNzIxMzUyMzgzMjAzNw%3D%3D/original/3020bf37-4ac4-46dd-9670-a16960270064.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110617213523832037/original/10b3f8f3-b41a-4a48-a3b0-ef1222c5a626.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDYxNzIxMzUyMzgzMjAzNw==/original/cf1235ce-4dcc-403b-8937-e1425ace5b2f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43928,
+          "longitud": -121.8375
+        }
+      }
+    },
+    "1250727047253985581": {
+      "room_id": 1250727047253985581,
+      "latitude": 37.439120839099566,
+      "longitude": -121.83774092666059,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.419130_-121.861100_37.445140_-121.827920",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 03:57:34",
+      "raw_data": {
+        "room_id": 1250727047253985581,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/36bc16d6-39a1-4799-9e2d-ce4a9089a3b7.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lily",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/36bc16d6-39a1-4799-9e2d-ce4a9089a3b7.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 review on the listing",
+              "label": "Review",
+              "value": "1",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "3.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 4
+          },
+          "ratingCount": 1,
+          "ratingAverage": 3.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Scenic Ranch | Natural Spring & Ponds Included",
+        "title": "Room in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 428.0,
+            "discount": 368.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $142.38",
+              "amount": 427.0,
+              "currency": "$.13"
+            },
+            {
+              "description": "Special offer",
+              "amount": -59.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 367.0,
+              "currency": "$.73"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110581747723931322/original/2cc69c17-2c3d-4d3a-93ed-88140d93d46a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDU4MTc0NzcyMzkzMTMyMg%3D%3D/original/8682f5b6-d1aa-4937-b0ba-9206d6727e36.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110581747723931322/original/6e13e352-e5a0-426f-a530-192f151aa219.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110581747723931322/original/c9a2a2f0-a384-4c23-a342-c33f18896bff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI1MDcyNzA0NzI1Mzk4NTU4MQ==/original/208811f9-dae0-4d7c-846a-b1a8f83fcd8b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDU4MTc0NzcyMzkzMTMyMg%3D%3D/original/0aeca258-fbb6-4274-a1bc-358698e0e6eb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.439120839099566,
+          "longitud": -121.83774092666059
+        }
+      }
+    },
+    "1110581747723931322": {
+      "room_id": 1110581747723931322,
+      "latitude": 37.4398,
+      "longitude": -121.8369,
+      "grid_id_assigned": null,
+      "grid_id_source": 21.0,
+      "bbox_id": "37.419130_-121.861100_37.445140_-121.827920",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 03:57:34",
+      "raw_data": {
+        "room_id": 1110581747723931322,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/36bc16d6-39a1-4799-9e2d-ce4a9089a3b7.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lily",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/36bc16d6-39a1-4799-9e2d-ce4a9089a3b7.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 reviews on the listing",
+              "label": "Reviews",
+              "value": "10",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.1 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.1",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 4
+          },
+          "ratingCount": 10,
+          "ratingAverage": 4.1
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Quiet Farm Room | Scenic Mountain Views & Ponds",
+        "title": "Room in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 371.0,
+            "discount": 339.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $113.00",
+              "amount": 338.0,
+              "currency": "$.99"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.1,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110581747723931322/original/2cc69c17-2c3d-4d3a-93ed-88140d93d46a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDU4MTc0NzcyMzkzMTMyMg%3D%3D/original/8682f5b6-d1aa-4937-b0ba-9206d6727e36.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110581747723931322/original/6e13e352-e5a0-426f-a530-192f151aa219.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1110581747723931322/original/4069182e-0135-462a-b590-c08b3f25916a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDU4MTc0NzcyMzkzMTMyMg==/original/f7592c77-b645-4414-b0a5-2eea758ddb11.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExMDU4MTc0NzcyMzkzMTMyMg%3D%3D/original/fc4b680a-249e-4e42-8247-6d554293c4cb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4398,
+          "longitud": -121.8369
+        }
+      }
+    }
+  }
+}

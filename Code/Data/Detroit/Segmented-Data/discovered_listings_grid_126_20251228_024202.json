@@ -1,0 +1,253 @@
+{
+  "grid_id": 126,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-28 02:42:02",
+  "listings": {
+    "1497090847812004409": {
+      "room_id": 1497090847812004409,
+      "latitude": 42.1876,
+      "longitude": -83.0928,
+      "grid_id_assigned": null,
+      "grid_id_source": 126.0,
+      "bbox_id": "42.177390_-83.107660_42.202310_-83.072700",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 02:39:14",
+      "raw_data": {
+        "room_id": 1497090847812004409,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "That House on Front",
+        "title": "Home in LaSalle",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 325.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $162.25",
+              "amount": 324.0,
+              "currency": "$.50"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1497090847812004409/original/26c78153-531b-44eb-89e7-3ffdc4dcefdc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1497090847812004409/original/f643a451-0ff6-4bfe-bf90-77cf4207e98e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1497090847812004409/original/c4130180-3e4d-46c8-8c93-18e1ef2c5928.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1497090847812004409/original/218bc0de-a6d4-4ab9-8e37-7d036d52ff7f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1497090847812004409/original/ebc72ee0-ceca-412f-81ec-beff8b78e908.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1497090847812004409/original/147c3307-5d59-42b9-856d-c50635eeda39.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1876,
+          "longitud": -83.0928
+        }
+      }
+    },
+    "32387179": {
+      "room_id": 32387179,
+      "latitude": 42.1998,
+      "longitude": -83.0951,
+      "grid_id_assigned": null,
+      "grid_id_source": 126.0,
+      "bbox_id": "42.177390_-83.107660_42.202310_-83.072700",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 02:39:23",
+      "raw_data": {
+        "room_id": 32387179,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet LaSalle Newly Renovated Entire Country Home",
+        "title": "Home in LaSalle",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 308.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $102.43",
+              "amount": 307.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "161"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/0093c3c2-e24a-42c2-bf58-aeeee8f1b104.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d7f66528-b9d1-4981-b589-19e48ae52912.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/94313df4-53c2-4cad-8658-af02b3238463.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/361103ff-f612-4276-a4b4-4f7fdb00e9e5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/45ad47f6-4f61-4683-8b7b-a1f91255a1ef.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5f046759-fdf0-4168-9e37-64a5e3760b12.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1998,
+          "longitud": -83.0951
+        }
+      }
+    }
+  }
+}

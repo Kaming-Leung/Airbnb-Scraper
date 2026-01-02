@@ -1,0 +1,379 @@
+{
+  "grid_id": 6,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-25 23:23:13",
+  "listings": {
+    "1377746923727471740": {
+      "room_id": 1377746923727471740,
+      "latitude": 42.43576410163151,
+      "longitude": -83.87922331418058,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "42.418380_-83.883550_42.443820_-83.848000",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:20:19",
+      "raw_data": {
+        "room_id": 1377746923727471740,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Lake Home only 20 miles to The Big House!",
+        "title": "Home in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3021.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $604.14",
+              "amount": 3020.0,
+              "currency": "$.70"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377746923727471740/original/5bc21af0-d1f3-4793-8047-5e58a15e8026.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377746923727471740/original/a5c74598-b2d7-4ea8-87dd-e343884d8be1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377746923727471740/original/ba057c74-384b-4149-a016-fa1edac7e6c3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377746923727471740/original/5286569d-d97e-47b7-9e02-535480651abe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377746923727471740/original/d9d6c507-e641-4440-922b-c1a06eda7470.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377746923727471740/original/7199f77a-d6d4-401b-b361-a847c78c5b39.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.43576410163151,
+          "longitud": -83.87922331418058
+        }
+      }
+    },
+    "689768771046373081": {
+      "room_id": 689768771046373081,
+      "latitude": 42.44038,
+      "longitude": -83.85598,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "42.418380_-83.883550_42.443820_-83.848000",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:20:19",
+      "raw_data": {
+        "room_id": 689768771046373081,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bunk beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Welcome to Shoreview Island!",
+        "title": "Cottage in Whitmore Lake",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1842.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $368.37",
+              "amount": 1841.0,
+              "currency": "$.86"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "35"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-689768771046373081/original/d28b295b-65dc-4a0b-9446-00d1d9225cb0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-689768771046373081/original/4202cb66-6c60-4d32-b7c1-02c3ba3149a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-689768771046373081/original/83c16103-31b3-4964-8d39-3a5abbd1eab0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-689768771046373081/original/5b461ae3-c4e9-4c74-a734-2a5d8629c201.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-689768771046373081/original/359d6d35-6dbf-42b4-9702-bd2314c2d81b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-689768771046373081/original/5b3f552e-5228-4c51-ae57-c3e896469566.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.44038,
+          "longitud": -83.85598
+        }
+      }
+    },
+    "597906389968589801": {
+      "room_id": 597906389968589801,
+      "latitude": 42.4377,
+      "longitude": -83.8557,
+      "grid_id_assigned": null,
+      "grid_id_source": 6.0,
+      "bbox_id": "42.418380_-83.883550_42.443820_-83.848000",
+      "pass_id": 0,
+      "discovered_at": "2025-12-25 23:20:19",
+      "raw_data": {
+        "room_id": 597906389968589801,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lakefront-Kayaks-King Bed- UofM football 25 min",
+        "title": "Home in Whitmore Lake",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1515.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $303.00",
+              "amount": 1515.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "38"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-597906389968589801/original/d5c43fd6-249f-48bd-bbae-90f18a7609fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-597906389968589801/original/df81d0e8-1cca-40d1-8028-16211c349329.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-597906389968589801/original/47eab730-35a3-4cad-9825-08c087c0e105.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-597906389968589801/original/34f78e08-553f-428f-9706-657f0768eac7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-597906389968589801/original/5d7584e3-c351-4628-aaba-5f0af3640401.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-597906389968589801/original/7f3be0ed-b0a3-4eeb-a653-a7eb4a35069c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.4377,
+          "longitud": -83.8557
+        }
+      }
+    }
+  }
+}

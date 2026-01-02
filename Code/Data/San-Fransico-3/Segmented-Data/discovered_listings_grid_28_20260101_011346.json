@@ -1,0 +1,4853 @@
+{
+  "grid_id": 28,
+  "total_listings": 37,
+  "discovery_timestamp": "2026-01-01 01:13:46",
+  "listings": {
+    "9929199": {
+      "room_id": 9929199,
+      "latitude": 37.35307,
+      "longitude": -122.04469,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 9929199,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lush Lux Villa • Sunny Deck & Private Escape",
+        "title": "Guesthouse in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1528.0,
+            "discount": 1405.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $305.54",
+              "amount": 1527.0,
+              "currency": "$.72"
+            },
+            {
+              "description": "Special offer",
+              "amount": -123.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1404.0,
+              "currency": "$.22"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "239"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e292eb1-9c09-45b3-9d89-93a45ed4a617.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ffff1ba8-4acf-4015-87cf-ee0701ec8c2e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/244c6072-1268-4d25-aaf6-323593eb4711.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/428aff87-7e6c-4256-b9c2-4c797e7d9b56.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c3f04f7a-3030-40be-8525-0a238b2be0a9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0f481d0a-1b57-4fe0-a9a9-1932c70d63db.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35307,
+          "longitud": -122.04469
+        }
+      }
+    },
+    "23600104": {
+      "room_id": 23600104,
+      "latitude": 37.35773,
+      "longitude": -122.04587,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 23600104,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxurious Ritz Suite w fireplace, Business retreat",
+        "title": "Guest suite in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1453.0,
+            "discount": 1316.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $290.54",
+              "amount": 1452.0,
+              "currency": "$.72"
+            },
+            {
+              "description": "Special offer",
+              "amount": -137.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1315.0,
+              "currency": "$.32"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "173"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/40560fb7-a30c-476a-923a-5dd1231fc7de.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-23600104/original/a18b8565-50e6-48ad-891f-7ee163586dc2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-23600104/original/ee405f8e-fee7-42e4-ba71-ce7172bd1135.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-23600104/original/75e74ead-074e-4154-99cd-dd2cd7817259.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ec8f9ef9-238e-4672-833e-b2b889d6e948.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0bbaea2a-44e2-45a4-84e6-0cf7d9010066.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35773,
+          "longitud": -122.04587
+        }
+      }
+    },
+    "732307021809531037": {
+      "room_id": 732307021809531037,
+      "latitude": 37.3706,
+      "longitude": -122.0474,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 732307021809531037,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 19 – 24",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 19 – 24",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "@ Marbella Lane - Exquisite Home | 3BR",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1422.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $284.31",
+              "amount": 1421.0,
+              "currency": "$.54"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.65,
+          "reviewCount": "34"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-732307021809531037/original/c9ca3aa9-7646-4e08-bed0-ff449a0304c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-732307021809531037/original/a8b6d958-3d00-4c3e-8ad9-d0ef99c30431.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-732307021809531037/original/a8f90c7c-4c07-49b8-a01c-4d0bee787eb8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-732307021809531037/original/b727bafd-4024-4482-9c17-59e4d75d3d65.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-732307021809531037/original/8579d682-8584-44dc-a747-ab94489dae8f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-732307021809531037/original/015c31d8-35b8-47e9-b9a6-0d9fe9fa7940.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3706,
+          "longitud": -122.0474
+        }
+      }
+    },
+    "29210280": {
+      "room_id": 29210280,
+      "latitude": 37.3614,
+      "longitude": -122.03727,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 29210280,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Amazing Sunnyvale Home",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 2580.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $368.44",
+              "amount": 2579.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "28"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/c8dd0276-addd-409e-9008-866acaa955f1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/01191c0b-280e-4801-8917-e5b2b2d3c4ec.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a3d97b16-b8fb-4272-b929-6f0553f50a62.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5980875e-aed0-4d54-9f9f-74b003e69d2b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/976bd18b-76fe-4101-8223-052424d25e7a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/71c184f8-284b-4eaa-b566-3dc919c1971f.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.3614,
+          "longitud": -122.03727
+        }
+      }
+    },
+    "913834457557934451": {
+      "room_id": 913834457557934451,
+      "latitude": 37.371177,
+      "longitude": -122.04277,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 913834457557934451,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Proximity at its Best! 3 Family-friendly Units",
+        "title": "Hotel room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1794.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $358.80",
+              "amount": 1794.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.6,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834457557934451/original/c5dfc84f-b51c-4021-9a30-5719d99b4029.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834457557934451/original/3b4fa61a-0128-47af-9908-0decdae834f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834457557934451/original/55c0dca3-97dd-4e29-9c56-aa573e400a56.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834457557934451/original/90045de7-116e-41ac-905a-7f498c8f1cb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834457557934451/original/47349f13-2d05-44cd-9841-e347af80a3d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834457557934451/original/c8e0891e-8dd6-4ce3-bbbf-5367c9917796.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.371177,
+          "longitud": -122.04277
+        }
+      }
+    },
+    "1305828683755594956": {
+      "room_id": 1305828683755594956,
+      "latitude": 37.3691,
+      "longitude": -122.0394,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 1305828683755594956,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Comfort In The Heart Of Silicon Valley |Restaurant",
+        "title": "Hotel in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1261.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $252.00",
+              "amount": 1260.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828683755594956/original/f504cd3c-af07-4546-b292-c35a56c58532.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828683755594956/original/4a10725d-36a1-4920-95ae-f422f6eb2418.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828683755594956/original/17be596b-8489-4140-8d7e-2edb7a0190e4.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828683755594956/original/0026c309-eb02-42d0-93a5-1fbe9a220454.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828683755594956/original/0b9b0b18-bbf6-4303-9197-9aa037b3bb90.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828683755594956/original/0c59bd30-9eb2-421a-831c-752d3d9665c4.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3691,
+          "longitud": -122.0394
+        }
+      }
+    },
+    "913832328865797606": {
+      "room_id": 913832328865797606,
+      "latitude": 37.371177,
+      "longitude": -122.04277,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 01:10:50",
+      "raw_data": {
+        "room_id": 913832328865797606,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "For The Whole Family! 4 Relaxing Units, Pool",
+        "title": "Hotel room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2392.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $478.40",
+              "amount": 2392.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913832328865797606/original/010d0c27-75d7-4678-9b79-cfa3c84f51bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913832328865797606/original/4a19d450-792b-4993-bb81-09ad758ba2b4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913832328865797606/original/2a687c82-64eb-4931-a789-db1c17acf1a6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913832328865797606/original/7c60092d-4a0e-4dba-aa17-0ce1c2f70285.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913832328865797606/original/21314d93-a400-4468-8975-64cfd83948ea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913832328865797606/original/6e3701e1-188d-459c-9e7d-b6d9948c0a20.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.371177,
+          "longitud": -122.04277
+        }
+      }
+    },
+    "13753164": {
+      "room_id": 13753164,
+      "latitude": 37.35597,
+      "longitude": -122.04475,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 13753164,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lux Serenity • Garden Retreat • Biz Travel Ready",
+        "title": "Guest suite in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 490.0,
+            "discount": 422.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $244.58",
+              "amount": 489.0,
+              "currency": "$.15"
+            },
+            {
+              "description": "Special offer",
+              "amount": -67.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 421.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "180"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13753164/original/1bcc35d2-cc88-4590-ba40-44cc49030f4b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13753164/original/3575cd84-2de5-44ea-a77c-9a25e5a07de0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13753164/original/d6babe66-503d-4f04-9fa8-1b6e27d5fa8d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13753164/original/55fe78fb-b6a6-4c62-b9bc-38a49d32284a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13753164/original/39dd348d-d09e-40ce-b30d-c24833cb09e7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13753164/original/00e82725-376c-499a-a884-4d406f5d930c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35597,
+          "longitud": -122.04475
+        }
+      }
+    },
+    "18828298": {
+      "room_id": 18828298,
+      "latitude": 37.35718,
+      "longitude": -122.052,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 18828298,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Va",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "177 reviews on the listing",
+              "label": "Reviews",
+              "value": "177",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.94 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.94",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 2
+          },
+          "ratingCount": 177,
+          "ratingAverage": 4.94
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ensuite | Vegan Sculpture Garden of Silicon Valley",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 302.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $150.64",
+              "amount": 301.0,
+              "currency": "$.27"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "177"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/edc178df-597d-44c9-9ba4-9c68feb11a72.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-18828298/original/b2836d81-aad8-4b7e-9025-f9719fb91318.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-18828298/original/acb8668f-8366-4f86-95da-8b8b247601b2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-18828298/original/94d2dff3-10f9-4273-9d5f-53735d4c4c13.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-18828298/original/0de1f489-dd4e-4d8f-a34b-7d7da771527a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f6440d31-fb95-4b11-9f49-daf88e88eb20.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35718,
+          "longitud": -122.052
+        }
+      }
+    },
+    "51156460": {
+      "room_id": 51156460,
+      "latitude": 37.363536737117684,
+      "longitude": -122.0377978933039,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 51156460,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "1-Bedroom Suite next to Park and near Restaurants",
+        "title": "Guest suite in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 300.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $150.00",
+              "amount": 300.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-51156460/original/36797205-4c3c-4931-9519-a15a12d0251f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTExNTY0NjA=/original/e4814adb-6f39-45e8-9de3-1f365213d95d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTExNTY0NjA=/original/90127143-bde5-4c71-af58-5b0f9a02c1d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-51156460/original/b50d5bf4-3837-4214-b432-e48fde38386c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTExNTY0NjA=/original/52df7d3b-feba-4766-8b9a-f8448d2603fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTExNTY0NjA=/original/3ccd9581-1772-409d-b744-a60179149637.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.363536737117684,
+          "longitud": -122.0377978933039
+        }
+      }
+    },
+    "854382122825167918": {
+      "room_id": 854382122825167918,
+      "latitude": 37.371177,
+      "longitude": -122.04277,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 854382122825167918,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Your Relaxing Getaway Awaits! Free Parking!",
+        "title": "Hotel room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $143.00",
+              "amount": 286.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.42,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854382122825167918/original/7caaaec8-4bf1-4e79-a80b-03aad74cc4b5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854382122825167918/original/55884fce-982a-4cb1-81db-1c0c51e6b6ae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854382122825167918/original/7782d452-ffe3-4462-bebc-6ad15d42d1e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854382122825167918/original/e6905686-7656-4dc3-aa3c-98445902cafa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854382122825167918/original/c368b550-a2a7-4003-b896-4a2003e5afd4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854382122825167918/original/42a9be4e-a0a9-40e2-9a51-81d140266ec7.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.371177,
+          "longitud": -122.04277
+        }
+      }
+    },
+    "1305828040241327956": {
+      "room_id": 1305828040241327956,
+      "latitude": 37.3687,
+      "longitude": -122.0395,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 1305828040241327956,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Tech Meets Comfort In Sunnyvale | Restaurant",
+        "title": "Hotel in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 399.0,
+            "discount": 339.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $169.14",
+              "amount": 338.0,
+              "currency": "$.27"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.6,
+          "reviewCount": "75"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828040241327956/original/d231ac05-a548-4048-8b71-060098e2149f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828040241327956/original/a00639f7-197c-4fbf-aa67-8bb48df9720d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828040241327956/original/92c13056-f369-4ce8-8f3a-e7ceecc42c99.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828040241327956/original/15e2379b-adfe-43b8-bf19-c394cee60c5d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828040241327956/original/32c998d5-5c25-48cf-be1b-b061fc046eea.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828040241327956/original/357325c1-fe72-43c0-839f-93b2c1f57d42.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3687,
+          "longitud": -122.0395
+        }
+      }
+    },
+    "1305829452424142304": {
+      "room_id": 1305829452424142304,
+      "latitude": 37.3691,
+      "longitude": -122.0398,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 1305829452424142304,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Silicon Valley Journey | Outdoor Pool. Restaurant",
+        "title": "Hotel in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 504.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $251.79",
+              "amount": 503.0,
+              "currency": "$.57"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305829452424142304/original/94eee25f-7e5c-4733-99da-d37d7ebb165d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305829452424142304/original/0521f1ff-22c5-49f2-a59e-65aec07d029d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305829452424142304/original/c2adb169-48d3-4f8d-85c1-b2b25dd84a82.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305829452424142304/original/82dd84d0-719d-4dc9-a6b9-7d0587a133f9.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305829452424142304/original/ada4d31b-7ec3-4e33-8703-772d933c1b63.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305829452424142304/original/e80e7309-8a39-4857-856f-4c183cfe1eb7.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3691,
+          "longitud": -122.0398
+        }
+      }
+    },
+    "854381245674993435": {
+      "room_id": 854381245674993435,
+      "latitude": 37.371177,
+      "longitude": -122.04277,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 854381245674993435,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Convenient Stay! Pool. Pets Allowed, Parking!",
+        "title": "Hotel room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $143.00",
+              "amount": 286.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.41,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854381245674993435/original/afde358f-3339-4cb7-9a85-0fb93db5bc27.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854381245674993435/original/0b395467-a5ef-4722-8f09-c63ee38c8de5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854381245674993435/original/33cda0ab-9e40-4e9d-b326-6fa6b492e052.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854381245674993435/original/5835218d-33be-4980-839e-b97d48e83a18.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854381245674993435/original/618f3d1c-1d0d-4e32-83a9-5314dec48475.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854381245674993435/original/0c9571d9-af47-45b7-a279-5dc2deedae35.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.371177,
+          "longitud": -122.04277
+        }
+      }
+    },
+    "913834922801748883": {
+      "room_id": 913834922801748883,
+      "latitude": 37.371177,
+      "longitude": -122.04277,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 913834922801748883,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Best Place to Unwind! 2 Spacious Units, Pool",
+        "title": "Hotel room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 572.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $286.00",
+              "amount": 572.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834922801748883/original/be36901c-7e09-4ebd-ba72-173ba27e9921.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834922801748883/original/ebb0b416-215d-467b-8669-878fe64ba4f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834922801748883/original/011e3bc3-3681-4ce8-a868-af32a19acc3d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834922801748883/original/a5c11bc7-6b31-45e7-a3a7-719c48ae324b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834922801748883/original/c4fd3626-3794-41d3-863f-9602059c44d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-913834922801748883/original/3379f4f8-67d6-4c70-968a-f46440e42380.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.371177,
+          "longitud": -122.04277
+        }
+      }
+    },
+    "1572250991716927434": {
+      "room_id": 1572250991716927434,
+      "latitude": 37.36123,
+      "longitude": -122.03686,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 1572250991716927434,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sunnyvale Serenity Suite",
+        "title": "Place to stay in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 376.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $187.52",
+              "amount": 375.0,
+              "currency": "$.04"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572250991716927434/original/b35ea994-92f1-434c-9c50-51df67dc0a52.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572250991716927434/original/0661b528-4ad2-4139-8e18-8de83331fc7f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572250991716927434/original/c728ccd0-6e94-4407-92b2-8d0c7b465f6a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572250991716927434/original/ec9e96fd-4ffc-4b1f-abb4-219d806aa613.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572250991716927434/original/054e8ef7-3cb7-4955-b135-59d580df1347.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.36123,
+          "longitud": -122.03686
+        }
+      }
+    },
+    "1362081798517392411": {
+      "room_id": 1362081798517392411,
+      "latitude": 37.36893,
+      "longitude": -122.04352,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 1362081798517392411,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Entry 2BR Guest Suite | Near Downtown",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 515.0,
+            "discount": 443.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $257.39",
+              "amount": 514.0,
+              "currency": "$.78"
+            },
+            {
+              "description": "Special offer",
+              "amount": -72.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 442.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2MjA4MTc5ODUxNzM5MjQxMQ==/original/81665131-3e12-4353-94d3-6cbcc8706498.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2MjA4MTc5ODUxNzM5MjQxMQ==/original/e79b4746-49bd-42a0-ac5b-d97c99e991cd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2MjA4MTc5ODUxNzM5MjQxMQ==/original/64b817e1-ce42-4dbd-8438-ea726cf46276.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2MjA4MTc5ODUxNzM5MjQxMQ==/original/334d929f-868f-4f0e-83ee-7b9fd2270272.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2MjA4MTc5ODUxNzM5MjQxMQ==/original/4986e0ac-e522-4023-9399-65ce20a2815a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2MjA4MTc5ODUxNzM5MjQxMQ==/original/802bbe91-1de2-49e2-87d2-00cf15d5d79d.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.36893,
+          "longitud": -122.04352
+        }
+      }
+    },
+    "1305828443166223162": {
+      "room_id": 1305828443166223162,
+      "latitude": 37.3687,
+      "longitude": -122.0395,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 1305828443166223162,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Experience All That Silicon Valley Has To Offer",
+        "title": "Hotel in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 397.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $198.14",
+              "amount": 396.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828443166223162/original/398760ef-5317-4506-a4b1-043ed567db91.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828443166223162/original/df069816-5aed-451a-9ac9-015bbca2c42a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828443166223162/original/58b347d2-f484-4a3c-bf35-346754159f87.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828443166223162/original/b4450b8e-4e18-4049-8589-ec86efd64619.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828443166223162/original/5d5279d8-d2c0-47de-9318-bf9f516bd9be.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828443166223162/original/b1bfbe77-ab66-49ac-9905-f53e1eec3b10.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3687,
+          "longitud": -122.0395
+        }
+      }
+    },
+    "1305828226323001216": {
+      "room_id": 1305828226323001216,
+      "latitude": 37.3687,
+      "longitude": -122.0395,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 1305828226323001216,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "In The Heart Of Silicon Valley | Outdoor Pool",
+        "title": "Hotel in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 339.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $169.14",
+              "amount": 338.0,
+              "currency": "$.27"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.33,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828226323001216/original/2d4fb038-7900-4880-99c4-8d9c12db1749.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828226323001216/original/3f58771e-d790-41c3-9ae9-0e4f5168bd65.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828226323001216/original/47eac0c6-1dfb-48a0-a292-45e0a29f2dfb.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828226323001216/original/af68655b-510c-422a-8eb4-d6deee9bddf0.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828226323001216/original/dba2467d-6baa-4f9b-bbed-d2a601ec0ea2.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305828226323001216/original/491a804f-1977-49c0-ac49-496c5b7d5d13.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3687,
+          "longitud": -122.0395
+        }
+      }
+    },
+    "854378462786419688": {
+      "room_id": 854378462786419688,
+      "latitude": 37.371177,
+      "longitude": -122.04277,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 01:10:56",
+      "raw_data": {
+        "room_id": 854378462786419688,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Comfort & Convenience! FREE Parking, Pool Onsite!",
+        "title": "Hotel room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 329.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $164.50",
+              "amount": 329.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854378462786419688/original/8e18105c-2535-4235-aa5a-9d968adff9af.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854378462786419688/original/7c5c9174-d741-40a2-872b-dc49ce0c3c58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854378462786419688/original/289bee2a-b9d6-46ed-a088-397ad394b275.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854378462786419688/original/13ad669c-8bc0-4be6-8461-9685421c5383.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854378462786419688/original/91afdc57-77a6-4622-b237-3f35c21434f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-854378462786419688/original/93d39081-908b-45eb-b7cf-5a306090e503.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.371177,
+          "longitud": -122.04277
+        }
+      }
+    },
+    "1327632842500602959": {
+      "room_id": 1327632842500602959,
+      "latitude": 37.37093,
+      "longitude": -122.04261,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 01:11:02",
+      "raw_data": {
+        "room_id": 1327632842500602959,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Brand New Apt. w/ Parking Blocks from Downtown- A",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 521.0,
+            "discount": 473.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $157.67",
+              "amount": 473.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "25"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632842500602959/original/bcd475a0-9ca4-47e3-9efd-8c9fd422c138.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632842500602959/original/3d0c9241-fea3-4c7e-9a65-29e5859b4d9e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632842500602959/original/fcb7eda2-72b8-46f4-b4c9-0220a6a8c3be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632842500602959/original/cf4e1ea1-9c41-411f-b4ad-f00babe9ec12.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632842500602959/original/7faed2bd-2c4b-4632-b89a-d9424cd149ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632842500602959/original/f39d39a6-cb8b-4c9e-9201-2b698c69e529.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.37093,
+          "longitud": -122.04261
+        }
+      }
+    },
+    "8995123": {
+      "room_id": 8995123,
+      "latitude": 37.35736,
+      "longitude": -122.05219,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 01:11:02",
+      "raw_data": {
+        "room_id": 8995123,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Va",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "261 reviews on the listing",
+              "label": "Reviews",
+              "value": "261",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.92 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.92",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 2
+          },
+          "ratingCount": 261,
+          "ratingAverage": 4.92
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Haven | Vegan Sculpture Garden of Silicon Valley",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 284.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $94.34",
+              "amount": 283.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "261"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODk5NTEyMw%3D%3D/original/cde39fc4-64a6-4da1-87cc-e6a8e246cf3a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODk5NTEyMw%3D%3D/original/b1ee28a8-b690-4ba4-a426-3b4569b45a27.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODk5NTEyMw%3D%3D/original/e82be093-6d1c-45f0-b7fe-3d59144999da.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODk5NTEyMw%3D%3D/original/cfbf8e04-2a09-46da-aedd-16042bf153f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8995123/original/d08bb7e8-d4b0-4ae3-890a-a5d5a6d1038f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8995123/original/58630be6-249e-4798-abec-f64329525c41.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35736,
+          "longitud": -122.05219
+        }
+      }
+    },
+    "695202677777789328": {
+      "room_id": 695202677777789328,
+      "latitude": 37.34635,
+      "longitude": -122.04069,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 01:11:02",
+      "raw_data": {
+        "room_id": 695202677777789328,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a7595ea6-ce06-4015-b610-00d5ae63ff97.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Xi",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a7595ea6-ce06-4015-b610-00d5ae63ff97.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "73 reviews on the listing",
+              "label": "Reviews",
+              "value": "73",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.89 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.89",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 3
+          },
+          "ratingCount": 73,
+          "ratingAverage": 4.89
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Priv.Master BD,Priv.Bath,King,Floor-to-Ceiling Wds",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 439.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $146.07",
+              "amount": 438.0,
+              "currency": "$.21"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "73"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-695202677777789328/original/e7b62674-5c06-41de-a6a3-b99518966d42.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-695202677777789328/original/218db451-e3fb-4609-93bd-93a48a5625d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-695202677777789328/original/5e07cffe-6679-4ce6-8b1b-52c9e99bbbdf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-695202677777789328/original/fee7092c-a96d-40cd-a82e-95c3d542ed23.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-695202677777789328/original/6931011c-51d0-4014-b121-17bb35109666.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-695202677777789328/original/caad23e2-bcef-41b4-9e0c-23f066b3dd31.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.34635,
+          "longitud": -122.04069
+        }
+      }
+    },
+    "1327633035608208118": {
+      "room_id": 1327633035608208118,
+      "latitude": 37.37236,
+      "longitude": -122.04327,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 01:11:02",
+      "raw_data": {
+        "room_id": 1327633035608208118,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Brand New Apt. w/ Parking Blocks from Downtown- C",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 570.0,
+            "discount": 524.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $174.67",
+              "amount": 524.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "35"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633035608208118/original/e529d560-610a-46c2-a95d-e7e131dbe2a5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633035608208118/original/102c2fbb-a41b-4fe0-8c5f-4434dfe7c32a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633035608208118/original/becff323-8a36-4ffc-83dc-f66bad8aa78b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633035608208118/original/f6923256-eb4a-4d3e-8965-824709f6a926.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633035608208118/original/196748dd-98fc-49a0-92ac-2225b80f05e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633035608208118/original/f80fb32f-f88a-4b48-a2e8-799d65901c48.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.37236,
+          "longitud": -122.04327
+        }
+      }
+    },
+    "5761415": {
+      "room_id": 5761415,
+      "latitude": 37.35553,
+      "longitude": -122.05228,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 01:11:02",
+      "raw_data": {
+        "room_id": 5761415,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Va",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "334 reviews on the listing",
+              "label": "Reviews",
+              "value": "334",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.95 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.95",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 2
+          },
+          "ratingCount": 334,
+          "ratingAverage": 4.95
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy | Vegan Sculpture Garden of Silicon Valley",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 344.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $114.50",
+              "amount": 343.0,
+              "currency": "$.49"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "334"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/110613759/1905c818_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b6ab0720-f9d5-491f-b156-33fcf889646c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3e081c5b-eafa-48f0-b311-125d876aa8e8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/29e11394-c3c9-4db5-babc-fa4344dcd93f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-5761415/original/01a3e255-4795-4af2-9431-ba5679911f77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-5761415/original/b70c4e25-f6d3-4cde-9313-f133220928a7.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35553,
+          "longitud": -122.05228
+        }
+      }
+    },
+    "712402097926115673": {
+      "room_id": 712402097926115673,
+      "latitude": 37.3465,
+      "longitude": -122.04271,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 01:11:02",
+      "raw_data": {
+        "room_id": 712402097926115673,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a7595ea6-ce06-4015-b610-00d5ae63ff97.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Xi",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a7595ea6-ce06-4015-b610-00d5ae63ff97.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "42 reviews on the listing",
+              "label": "Reviews",
+              "value": "42",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 3
+          },
+          "ratingCount": 42,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Private BR, Mins to High Tech, Backyard View",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 309.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $102.71",
+              "amount": 308.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "42"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712402097926115673/original/734b0a59-df9a-43a1-9e61-f043cfa8aed0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712402097926115673/original/7433c659-4e8f-4276-bbcc-949c0f90b174.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712402097926115673/original/fa358684-0798-4992-875c-3d9cd2ec0c55.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712402097926115673/original/f132246b-5e19-445b-94a1-df4bdce0d5c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712402097926115673/original/d94c1595-0a6f-48d1-8b1f-b4ca5c1248ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712402097926115673/original/065aea52-b26b-4570-acdb-d84d23dc386b.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.3465,
+          "longitud": -122.04271
+        }
+      }
+    },
+    "8088629": {
+      "room_id": 8088629,
+      "latitude": 37.37143,
+      "longitude": -122.05568,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 01:11:14",
+      "raw_data": {
+        "room_id": 8088629,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private cottage in a garden",
+        "title": "Guesthouse in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 297.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $148.36",
+              "amount": 296.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "451"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/00fcc5e1-78ca-4609-adfc-0b9ae0acb9e7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/af71580a-a8e2-4a63-a9f8-b31533864587.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/06c8fe79-3050-4405-85a6-67ad258fb3c0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e9750fd8-45ee-495f-9383-7216177eaf70.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a439c95e-7878-4f4f-adca-5c29f30b57d6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a6f2c3d8-55a6-4bb6-9d1f-e7d6513c0a74.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.37143,
+          "longitud": -122.05568
+        }
+      }
+    },
+    "1327633144054772758": {
+      "room_id": 1327633144054772758,
+      "latitude": 37.37242,
+      "longitude": -122.04237,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 01:11:14",
+      "raw_data": {
+        "room_id": 1327633144054772758,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Brand New Apt. w/ Parking Blocks from Downtown- E",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 402.0,
+            "discount": 366.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $183.00",
+              "amount": 366.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "25"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633144054772758/original/be35287c-db28-4cae-afe2-47dbe3d2dd8a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633144054772758/original/60d9a487-8096-40e6-abd3-5ffece462f6a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633144054772758/original/87f3800e-c638-4302-8969-8421ce5dac73.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633144054772758/original/d377dfbf-bd6b-4fc3-bd93-4872c94baa17.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633144054772758/original/45156a57-1e59-46d3-b4f7-a8b5f049abfd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633144054772758/original/11083fff-c589-40f2-bc77-f2e76de85095.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.37242,
+          "longitud": -122.04237
+        }
+      }
+    },
+    "1327633087160698461": {
+      "room_id": 1327633087160698461,
+      "latitude": 37.37232,
+      "longitude": -122.04229,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 01:11:14",
+      "raw_data": {
+        "room_id": 1327633087160698461,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Brand New Apt. w/ Parking Blocks from Downtown- D",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 371.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $185.50",
+              "amount": 371.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633087160698461/original/71b81017-75c9-443f-8c6e-c810668be5fd.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633087160698461/original/9b07101a-d36b-49f0-a693-892cda126749.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633087160698461/original/5e33b032-c0cf-42c3-9533-f776a44e8f70.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633087160698461/original/dab1f3e6-3787-4d97-8e0d-719f13573c3d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633087160698461/original/b51079fe-dcad-44d3-979d-e59c206477ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633087160698461/original/2fc26e67-b153-4575-877b-2b670fe87802.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.37232,
+          "longitud": -122.04229
+        }
+      }
+    },
+    "22051577": {
+      "room_id": 22051577,
+      "latitude": 37.36683,
+      "longitude": -122.06269,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 01:11:20",
+      "raw_data": {
+        "room_id": 22051577,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Modern one bedroom in-law unit in Sunnyvale",
+        "title": "Guest suite in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 563.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $187.53",
+              "amount": 562.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "221"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a7d2fb41-960a-494f-8a28-2a46b0bd4b5d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c144ea3e-b47d-4b74-a983-7d604c27ff6b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/567042bd-32d0-4a35-9fef-39d77ed24d9c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c9215b19-6fe8-4c45-9b52-87ba96b68530.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bdb04be9-754b-4fed-bbab-50ec14b40c9e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/011583d8-51f5-4973-a8a2-4fd99cd4a0e8.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.36683,
+          "longitud": -122.06269
+        }
+      }
+    },
+    "30984765": {
+      "room_id": 30984765,
+      "latitude": 37.360331713237684,
+      "longitude": -122.04907360454844,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 01:11:20",
+      "raw_data": {
+        "room_id": 30984765,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bright Guest Suite in the Heart of Silicon Valley!",
+        "title": "Guest suite in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 617.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $205.67",
+              "amount": 617.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "76"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/05a40942-46b0-4473-b07c-8408eec4be1e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/897a53ce-027c-4504-9589-578504c144d7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c19113a4-10ab-4c60-b3b3-774c5f93d474.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9f87d384-e007-4381-9832-2f4444e5976e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/48c5b24a-0497-43fe-a9a2-a7fb55006bd9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/11f137ac-8252-40a5-a9f7-2764f9596125.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.360331713237684,
+          "longitud": -122.04907360454844
+        }
+      }
+    },
+    "1572198684010069774": {
+      "room_id": 1572198684010069774,
+      "latitude": 37.37048,
+      "longitude": -122.0442,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 01:11:20",
+      "raw_data": {
+        "room_id": 1572198684010069774,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Jane's Home (BRD) | Upgraded 2B Home +HVAC+Parking",
+        "title": "Apartment in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 993.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $330.94",
+              "amount": 992.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572198684010069774/original/91f05ca2-b40b-4cd9-8416-8cc77f61068c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572198684010069774/original/d2d15f07-6aed-4de8-9bcc-1dcdb9ab1abd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572198684010069774/original/8af27abb-e0ff-4c2f-ba3e-a6636a2e169a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572198684010069774/original/4a592bc5-29c7-4ee9-b5c3-6f94fad0f910.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572198684010069774/original/69ac61d4-bb24-4288-9720-9bccc0c96636.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572198684010069774/original/8530d502-b323-4454-8c2a-98948dcd1723.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.37048,
+          "longitud": -122.0442
+        }
+      }
+    },
+    "563258033439367215": {
+      "room_id": 563258033439367215,
+      "latitude": 37.3722,
+      "longitude": -122.03681,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 01:11:20",
+      "raw_data": {
+        "room_id": 563258033439367215,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Large Suite with  Private Entrance",
+        "title": "Place to stay in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 531.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $176.88",
+              "amount": 530.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "43"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/be486927-706a-4692-812f-2dc6ca8395c4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/66736862-882f-4e16-8427-b672a54d39ac.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2c2aa767-e602-424c-bc59-48cf83720e11.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/65fef610-6e29-483c-b058-0b136455fee7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0dfa6b5c-d5f9-4991-8c28-8b6eaef0c239.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/54bdc604-17fb-46c3-8448-4f8a15343f6f.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.3722,
+          "longitud": -122.03681
+        }
+      }
+    },
+    "1327633214244863598": {
+      "room_id": 1327633214244863598,
+      "latitude": 37.37173,
+      "longitude": -122.04235,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 01:11:20",
+      "raw_data": {
+        "room_id": 1327633214244863598,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Brand New Apt. w/ Parking Blocks from Downtown- F",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 757.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $252.33",
+              "amount": 757.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "41"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633214244863598/original/86897766-3508-4a70-88f2-b0b9c1d8073c.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633214244863598/original/64a0eb25-7417-4486-90e3-e7b72e78db16.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633214244863598/original/bab9bf8d-af8d-475b-8c0a-3ea4454ef363.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633214244863598/original/2f20e9ef-fd7b-4799-a26e-8fa23f9c20bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633214244863598/original/a21e0a6e-640e-4180-8ecf-cf76c364384b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327633214244863598/original/7a2cd7f6-6205-4920-a44b-9fd549904f89.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.37173,
+          "longitud": -122.04235
+        }
+      }
+    },
+    "1327632932881922974": {
+      "room_id": 1327632932881922974,
+      "latitude": 37.3724,
+      "longitude": -122.04285,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 01:11:20",
+      "raw_data": {
+        "room_id": 1327632932881922974,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Brand New Apt. w/ Parking Blocks from Downtown- B",
+        "title": "Home in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 719.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $239.67",
+              "amount": 719.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632932881922974/original/3b87b2e8-2c8a-48fe-8ff1-35e26193abdf.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632932881922974/original/c066ae5b-7b7a-438a-98a3-89a78f0ad3aa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632932881922974/original/8ea7ef35-3dd7-4596-8b89-a54a293cac22.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632932881922974/original/3e10e35e-fa1e-4bb0-bce5-7cc1d28ae967.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632932881922974/original/00fc0674-6192-4b70-bbee-de3ed9e1dae4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1327632932881922974/original/1e3e7b04-e4b3-48a1-8d0f-893f5bd1b339.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.3724,
+          "longitud": -122.04285
+        }
+      }
+    },
+    "13641281": {
+      "room_id": 13641281,
+      "latitude": 37.35718,
+      "longitude": -122.05123,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 11,
+      "discovered_at": "2026-01-01 01:11:56",
+      "raw_data": {
+        "room_id": 13641281,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Va",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-29889834/original/b06cc268-f1ad-4df5-a1b7-29e2469cb08e.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "299 reviews on the listing",
+              "label": "Reviews",
+              "value": "299",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.96 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.96",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 2
+          },
+          "ratingCount": 299,
+          "ratingAverage": 4.96
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Getaway | Vegan Sculpture Garden of Silicon Valley",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 313.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $104.23",
+              "amount": 312.0,
+              "currency": "$.68"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "299"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM2NDEyODE%3D/original/73f82ef3-498c-49ae-9696-7b00cce4a55f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-13641281/original/15f2b67f-2dae-46a0-a63e-fd7c37ee9bf4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-13641281/original/b9d9bb45-6f24-4158-a4f8-7a171327dbd5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d734d058-25fd-41a0-b74e-857fac2e374a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-13641281/original/aa2b2391-cbec-463c-8058-895c0ee4af53.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-13641281/original/f6b419ae-fe9a-4417-b5dd-e3a758521e66.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.35718,
+          "longitud": -122.05123
+        }
+      }
+    },
+    "1449595174972845989": {
+      "room_id": 1449595174972845989,
+      "latitude": 37.3492,
+      "longitude": -122.03615,
+      "grid_id_assigned": null,
+      "grid_id_source": 28.0,
+      "bbox_id": "37.346200_-122.065300_37.372630_-122.035570",
+      "pass_id": 11,
+      "discovered_at": "2026-01-01 01:11:56",
+      "raw_data": {
+        "room_id": 1449595174972845989,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/80ce09e3-c5c2-485f-956b-0bdf9f81431d.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Echo",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/80ce09e3-c5c2-485f-956b-0bdf9f81431d.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 reviews on the listing",
+              "label": "Reviews",
+              "value": "3",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.67 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.67",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 2
+          },
+          "ratingCount": 3,
+          "ratingAverage": 4.67
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Affordable Room in Sunnyvale, Near Tech & Transit",
+        "title": "Room in Sunnyvale",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -2.0,
+          "currency_symbol": "$.60"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 282.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $94.60",
+              "amount": 283.0,
+              "currency": "$.79"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -2.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 281.0,
+              "currency": "$.19"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1449595174972845989/original/e4f1fc32-5239-428e-b390-5f0358b44d84.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1449595174972845989/original/1bb20e14-af3e-4be0-ba37-322e5f5bcfe8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1449595174972845989/original/045f2232-5c02-41fe-9880-052c6ee88a96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1449595174972845989/original/eef79825-314b-4ffa-86ae-a3b7db17350c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1449595174972845989/original/82de3bce-8d96-4a24-82eb-4ca758cebd6e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1449595174972845989/original/db119d5b-c2aa-47df-99a5-15a208ef7777.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.3492,
+          "longitud": -122.03615
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 118,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 09:43:33",
+  "listings": {
+    "1269225196852121675": {
+      "room_id": 1269225196852121675,
+      "latitude": 38.2828627081705,
+      "longitude": -122.26754895914993,
+      "grid_id_assigned": null,
+      "grid_id_source": 118.0,
+      "bbox_id": "38.275620_-122.276690_38.283360_-122.266180",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 09:40:50",
+      "raw_data": {
+        "room_id": 1269225196852121675,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bungalow Bliss: Centrally Located in Wine Country!",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 765.0,
+            "discount": 640.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $213.02",
+              "amount": 639.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "78"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1269225196852121675/original/b5e545f2-719b-4d78-aaa8-d4e812224521.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1269225196852121675/original/993fe343-68ab-406f-a374-50780cc25e97.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1269225196852121675/original/b8eb4427-56a4-4923-8c1c-5d7658c865e3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1269225196852121675/original/3ab1c3b3-4de5-49e6-8def-43d7e48928ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1269225196852121675/original/ac1e2f2e-8170-4d28-a0d0-88beba3964bf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1269225196852121675/original/f501e02a-aaec-4316-890e-00483caca89a.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.2828627081705,
+          "longitud": -122.26754895914993
+        }
+      }
+    }
+  }
+}

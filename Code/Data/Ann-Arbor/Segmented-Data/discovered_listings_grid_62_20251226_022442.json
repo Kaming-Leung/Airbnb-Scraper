@@ -1,0 +1,266 @@
+{
+  "grid_id": 62,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 02:24:42",
+  "listings": {
+    "955630638495970074": {
+      "room_id": 955630638495970074,
+      "latitude": 42.36752,
+      "longitude": -83.43133,
+      "grid_id_assigned": null,
+      "grid_id_source": 62.0,
+      "bbox_id": "42.367500_-83.456960_42.392940_-83.421410",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:21:49",
+      "raw_data": {
+        "room_id": 955630638495970074,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 9 – 14",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Spacious Family / Kid Friendly home 5 BD",
+        "title": "Home in Plymouth",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1475.0,
+            "discount": 1203.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $295.00",
+              "amount": 1475.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -272.0,
+              "currency": "$.36"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1202.0,
+              "currency": "$.64"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "98"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-955630638495970074/original/97037afb-bff8-4e95-9fc5-d2f2c49f6450.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-955630638495970074/original/5d7dcea0-2c3c-4373-83a1-134c8577506e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-955630638495970074/original/3833f713-4e2c-4c5c-a073-a2b451529a4f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-955630638495970074/original/1ac802c4-a358-4cec-9b97-64f8c2e4f986.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-955630638495970074/original/36e103e1-b80b-4817-b008-1089a862e223.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-955630638495970074/original/089b8f32-810b-4c22-8348-37e8f40a894f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.36752,
+          "longitud": -83.43133
+        }
+      }
+    },
+    "902900510893476094": {
+      "room_id": 902900510893476094,
+      "latitude": 42.39042,
+      "longitude": -83.44327,
+      "grid_id_assigned": null,
+      "grid_id_source": 62.0,
+      "bbox_id": "42.367500_-83.456960_42.392940_-83.421410",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 02:21:49",
+      "raw_data": {
+        "room_id": 902900510893476094,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy and Stylish 3 BD home in Plymouth Twp",
+        "title": "Home in Plymouth",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1855.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $370.88",
+              "amount": 1854.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "40"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902900510893476094/original/e2bfab5e-5224-4357-96db-9ba5b8a00dd1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902900510893476094/original/8eba9eae-6487-400d-9b2d-e073c5d8b518.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902900510893476094/original/c4530d01-907c-45e2-adc1-f39c7309afdc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902900510893476094/original/23f3847e-42c3-4e05-ae1a-5aed359b094c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902900510893476094/original/1ff6f23e-1372-4a13-89c8-52968edc2ab3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-902900510893476094/original/c4ac75ee-3d54-4c70-bdbb-a30207e8f43c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.39042,
+          "longitud": -83.44327
+        }
+      }
+    }
+  }
+}

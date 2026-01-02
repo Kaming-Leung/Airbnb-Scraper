@@ -1,0 +1,130 @@
+{
+  "grid_id": 58,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 18:38:46",
+  "listings": {
+    "1480143296231536024": {
+      "room_id": 1480143296231536024,
+      "latitude": 37.72052,
+      "longitude": -122.09028,
+      "grid_id_assigned": null,
+      "grid_id_source": 58.0,
+      "bbox_id": "37.719190_-122.099880_37.745650_-122.066110",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 18:36:05",
+      "raw_data": {
+        "room_id": 1480143296231536024,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Guest suite in Castro Valley",
+        "title": "Home in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 446.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $148.35",
+              "amount": 445.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480143296231536024/original/792f1301-532a-4363-ad50-d40707ab26cd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480143296231536024/original/1b3d9cea-8abb-4ec4-ac3d-1bb78fbd00d5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480143296231536024/original/067a90da-f435-4530-b5a9-f53b84f50dd5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480143296231536024/original/ce3070ef-5e20-4646-beeb-f718a1001280.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480143296231536024/original/395f953e-284c-4bf9-9330-7834898c35d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480143296231536024/original/0f3d4118-b5d1-4f2e-9f09-f879487d0de7.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.72052,
+          "longitud": -122.09028
+        }
+      }
+    }
+  }
+}

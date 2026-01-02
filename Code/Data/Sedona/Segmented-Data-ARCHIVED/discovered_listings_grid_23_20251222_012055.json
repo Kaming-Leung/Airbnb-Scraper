@@ -1,0 +1,257 @@
+{
+  "grid_id": 23,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-22 01:20:55",
+  "listings": {
+    "42777801": {
+      "room_id": 42777801,
+      "latitude": 34.80691,
+      "longitude": -111.79295,
+      "grid_id_assigned": null,
+      "grid_id_source": 23.0,
+      "bbox_id": "34.794340_-111.806250_34.817440_-111.774840",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 01:20:50",
+      "raw_data": {
+        "room_id": 42777801,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 26 – 31",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 26 – 31",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "\"Love Rocks\" on 2+ acres of land, outdoor dining",
+        "title": "Bungalow in Sedona",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1801.0,
+            "discount": 1501.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $300.13",
+              "amount": 1500.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "323"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e670f013-286c-4b18-a431-05b5f8442beb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a0afc821-7d89-431e-b590-4c99eb768f8e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bab1d5d4-2e41-4267-81d9-9e9b72c124fb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1b7ebab9-dd38-4644-9835-3395c77221e1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7dbf6f11-b224-492c-b510-a1997c8257e6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0051dee0-34ad-4616-8011-1a19596cb6a3.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.80691,
+          "longitud": -111.79295
+        }
+      }
+    },
+    "37595963": {
+      "room_id": 37595963,
+      "latitude": 34.7994,
+      "longitude": -111.795,
+      "grid_id_assigned": null,
+      "grid_id_source": 23.0,
+      "bbox_id": "34.794340_-111.806250_34.817440_-111.774840",
+      "pass_id": 0,
+      "discovered_at": "2025-12-22 01:20:50",
+      "raw_data": {
+        "room_id": 37595963,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Sedona High Desert Sanctuary, Views, Deck Luxury!",
+        "title": "Home in Sedona",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4841.0,
+            "discount": 4212.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $842.29",
+              "amount": 4211.0,
+              "currency": "$.45"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37595963/original/6608f9d9-b242-431a-a292-3370e2de9c9e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37595963/original/2f38baf8-20cc-412a-938f-cf09d6e8bf10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37595963/original/28d4635e-39cb-40f4-85ed-0fef77ef1481.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37595963/original/29d53221-4fef-4024-864a-a1a7de1bedfa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37595963/original/2bf370f3-b03e-4654-b66e-06aa99e73cbf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37595963/original/6dfa4888-37ef-4f0d-a0bf-c47816429839.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.7994,
+          "longitud": -111.795
+        }
+      }
+    }
+  }
+}

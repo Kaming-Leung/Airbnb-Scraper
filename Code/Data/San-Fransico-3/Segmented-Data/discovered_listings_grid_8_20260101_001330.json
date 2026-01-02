@@ -1,0 +1,3972 @@
+{
+  "grid_id": 8,
+  "total_listings": 31,
+  "discovery_timestamp": "2026-01-01 00:13:30",
+  "listings": {
+    "1148871947396088918": {
+      "room_id": 1148871947396088918,
+      "latitude": 37.44295899538496,
+      "longitude": -122.12382261685673,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1148871947396088918,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Palo Alto Guesthouse",
+        "title": "Guesthouse in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1627.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $325.24",
+              "amount": 1626.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "46"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1148871947396088918/original/3a822c97-2272-46b6-a937-965061827cde.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1148871947396088918/original/bff1d389-5564-4d57-9b5e-449223ccde17.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1148871947396088918/original/148eba5c-3ccb-4684-96ba-0c89f4fba876.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1148871947396088918/original/b6ea30d2-5c9e-4000-8a67-2372f5cb5c2d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1148871947396088918/original/daec687b-38f6-4d1d-8a0f-007dc44193d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1148871947396088918/original/d0513f48-d81a-4b4f-bfc9-d85506146112.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.44295899538496,
+          "longitud": -122.12382261685673
+        }
+      }
+    },
+    "40537228": {
+      "room_id": 40537228,
+      "latitude": 37.42821,
+      "longitude": -122.10562,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 40537228,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 21 – 26",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 21 – 26",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Retreat Near Stanford",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2645.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $528.82",
+              "amount": 2644.0,
+              "currency": "$.11"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "37"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-40537228/original/6c83871e-292a-4b8c-8de6-dd42d09683d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c877a7d8-5e47-4a17-86e9-504e3b958ace.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ea6df2c3-370c-4871-b458-7ac35e87ef5c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e694f45e-ad8a-4169-83cd-61389e239264.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d37a2d91-2f66-426c-ad52-70524259ca7b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a213f703-79e0-4ac3-9574-296a0542d522.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.42821,
+          "longitud": -122.10562
+        }
+      }
+    },
+    "1514256027221301564": {
+      "room_id": 1514256027221301564,
+      "latitude": 37.43421,
+      "longitude": -122.11955,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1514256027221301564,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 17 – 22",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 17 – 22",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Light-Filled Retreat · 4BR/2BA · Lush Backyard",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2511.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $502.12",
+              "amount": 2510.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514256027221301564/original/34b77dec-eafc-4905-86c6-934ab0c96899.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514256027221301564/original/0cf84afc-58d9-4f3e-8aa2-27aa452f6e21.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514256027221301564/original/80699eac-65a6-4507-b987-5cd96972f3c3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514256027221301564/original/672ecd58-22d3-41a3-a061-6d3f68adaf24.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514256027221301564/original/a6f5f9c3-2f1b-4367-ad11-d4e38790c863.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1514256027221301564/original/d47f4e15-819e-4b42-8806-259a7c67bd20.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43421,
+          "longitud": -122.11955
+        }
+      }
+    },
+    "1517718150006321018": {
+      "room_id": 1517718150006321018,
+      "latitude": 37.4346,
+      "longitude": -122.12455,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1517718150006321018,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire home in Palo Alto",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1662.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $332.31",
+              "amount": 1661.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1517718150006321018/original/9605fe29-42a5-49ed-8f62-d1d305e0bc05.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1517718150006321018/original/3f339159-0ff1-450d-a290-4a4921d860f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1517718150006321018/original/87327ae5-f8bf-4204-91e2-ffbad3bb5364.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1517718150006321018/original/e5a92abd-f97a-47de-88c2-5b94b3ee8963.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1517718150006321018/original/ed1c86fb-ef97-4a25-bfe7-80c728be9669.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1517718150006321018/original/755f2814-0beb-48cd-8cef-f740e5b14dc2.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.4346,
+          "longitud": -122.12455
+        }
+      }
+    },
+    "19222582": {
+      "room_id": 19222582,
+      "latitude": 37.43998,
+      "longitude": -122.12013,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 19222582,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Large, beautiful Eichler in Midtown Palo Alto",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3909.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $781.71",
+              "amount": 3908.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f8e897bb-2cd0-459f-8520-62cfbfbf821e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb2e9cc7-fd3c-4bcf-a3a8-1f0e7fca411c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c7552d5e-c689-4b4c-9042-39fc9b47a868.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0ac3dc12-e0aa-40c3-9e99-7322e7bbd284.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eb947525-67c7-48e1-8c92-b903e7c33ae3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b17ebc15-12d1-4d92-96a5-a125eb6aaab2.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43998,
+          "longitud": -122.12013
+        }
+      }
+    },
+    "650844312733706164": {
+      "room_id": 650844312733706164,
+      "latitude": 37.43119,
+      "longitude": -122.11822,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 650844312733706164,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 21 – 26",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 21 – 26",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bright 3-bedroom House with large yard",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2197.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $439.35",
+              "amount": 2196.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f0863fc4-fbfd-4899-b60d-b751e0499906.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/66969d7c-467f-4d3f-bef5-ca583dd25370.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-650844312733706164/original/1a845050-2e56-4be0-a67f-72992a80e240.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-650844312733706164/original/05980b8c-a27e-4318-b353-f9c66cfed5ad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f2e74726-302c-40d5-bc18-969eb4e78ecf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-650844312733706164/original/3c0731dc-3d08-4fa1-aac8-535f3a3015d7.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43119,
+          "longitud": -122.11822
+        }
+      }
+    },
+    "1561957582012962457": {
+      "room_id": 1561957582012962457,
+      "latitude": 37.43239,
+      "longitude": -122.11116,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1561957582012962457,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern One-Bedroom ADU Retreat - Cozy & Private",
+        "title": "Tiny home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1450.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $289.86",
+              "amount": 1449.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561957582012962457/original/ffba324b-04b5-4087-aa24-275cd67b8eda.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561957582012962457/original/b5dd19aa-7319-41d7-9591-591cf5a58921.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561957582012962457/original/797ae265-c48d-45c5-93fe-4123a6a630b3.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561957582012962457/original/98cf4fe6-ff17-4352-808a-d2acd5151428.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1561957582012962457/original/f39372e8-3e27-4955-93e1-645a22a494a4.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43239,
+          "longitud": -122.11116
+        }
+      }
+    },
+    "795852913913077001": {
+      "room_id": 795852913913077001,
+      "latitude": 37.44021085959828,
+      "longitude": -122.1174386530618,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 795852913913077001,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jul 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jul 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Renovated & Private Guest House",
+        "title": "Guesthouse in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2968.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $593.41",
+              "amount": 2967.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795852913913077001/original/ae1a5c77-aa79-4d95-9614-82bb3bf4969e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795852913913077001/original/1eabb68e-5850-4343-a6e5-3b270acdeac9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795852913913077001/original/ac3d4d74-5060-40c5-b08d-3a6f2a6b0d36.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795852913913077001/original/3d3f6543-fc73-42bc-995e-06da4ecca768.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795852913913077001/original/1b32be49-6b09-4434-8dd9-dd3d6fccfc96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795852913913077001/original/23a91797-d256-400b-82e1-9268b907a570.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.44021085959828,
+          "longitud": -122.1174386530618
+        }
+      }
+    },
+    "4881147": {
+      "room_id": 4881147,
+      "latitude": 37.43013,
+      "longitude": -122.11132,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 4881147,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "HUGE  7B/4b House+  Office/Baby Room",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5107.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,021.35",
+              "amount": 5106.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.77,
+          "reviewCount": "266"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/264582ba-a1fa-478d-8a0a-215c9157f1d7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/dff71542-9f3f-4c31-808e-30b11a81e307.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a343dc75-6b96-4b69-a1ea-ec55ab70a593.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/050832ed-8749-4d9b-8345-0f0be8d6e872.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/acad286a-6b63-41f6-99da-a3b8ed42b83e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3e679171-f873-4234-9787-d80ba321e4e5.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43013,
+          "longitud": -122.11132
+        }
+      }
+    },
+    "1562741112558131861": {
+      "room_id": 1562741112558131861,
+      "latitude": 37.43501,
+      "longitude": -122.12321,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1562741112558131861,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Central 6B2B House in Palo Alto/Stanford",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2549.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $509.60",
+              "amount": 2548.0,
+              "currency": "$.02"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562741112558131861/original/2b41862b-e316-4981-b83d-456a00df4ef7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562741112558131861/original/3a976ad8-741c-4e5e-a7b2-6a2131e4876e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562741112558131861/original/5b41cb8c-6a51-4b53-8c41-eef100633f4f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562741112558131861/original/4cc2b295-f89a-4947-8206-e2cf7b1083ca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/1f7a2f9e-76bc-4cbc-b1f8-920b7305abf5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1562741112558131861/original/60838a09-1a6a-4359-85ff-11a12a66e43a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43501,
+          "longitud": -122.12321
+        }
+      }
+    },
+    "2560649": {
+      "room_id": 2560649,
+      "latitude": 37.4271,
+      "longitude": -122.1098,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 2560649,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jul 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jul 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Remodeled Eichler Mid-Century House in Palo Alto",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 7076.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,415.06",
+              "amount": 7075.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjU2MDY0OQ%3D%3D/original/1405703c-2b39-420c-a8c4-137ce48e17b5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjU2MDY0OQ%3D%3D/original/d5d9a025-7b73-484e-8e78-d4ee9b3f4e9f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-2560649/original/8da81566-23a8-418c-ae67-4c500773f512.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjU2MDY0OQ%3D%3D/original/3939f324-2135-4a53-ab29-c6237c78f92b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjU2MDY0OQ%3D%3D/original/553046f0-fa2d-4eb3-82ff-125f71b901bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5841de2f-4a24-461c-aff1-a673c2bf1c41.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4271,
+          "longitud": -122.1098
+        }
+      }
+    },
+    "7860219": {
+      "room_id": 7860219,
+      "latitude": 37.4341,
+      "longitude": -122.11135,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 7860219,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern 5 Bedroom Palo Alto Home-sleeps 10!",
+        "title": "Home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 23109.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $4,621.77",
+              "amount": 23108.0,
+              "currency": "$.83"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/100939207/0971b2a5_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/100939136/f617be24_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/100938980/95fdeb6c_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/100939106/38e2e983_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/100939079/283a6093_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/100939072/8d999902_original.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4341,
+          "longitud": -122.11135
+        }
+      }
+    },
+    "1577984804621349469": {
+      "room_id": 1577984804621349469,
+      "latitude": 37.44303,
+      "longitude": -122.12419,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1577984804621349469,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A simple room for rent. Great location",
+        "title": "Place to stay in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4904.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $980.73",
+              "amount": 4903.0,
+              "currency": "$.64"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1577984804621349469/original/e06f0d9a-b715-4874-9b1e-e2852d2d6804.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1577984804621349469/original/9799a94d-48ca-4ff1-ad61-523343151ab9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1577984804621349469/original/fa44553a-b93e-4122-a059-310d8c0eda89.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1577984804621349469/original/096227b3-2904-4451-ab5c-f5db7a65391d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1577984804621349469/original/3ff4c208-e702-449f-820a-f83b37a5f50a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.44303,
+          "longitud": -122.12419
+        }
+      }
+    },
+    "1140674919438231981": {
+      "room_id": 1140674919438231981,
+      "latitude": 37.42840914794555,
+      "longitude": -122.11157919882912,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 00:10:36",
+      "raw_data": {
+        "room_id": 1140674919438231981,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Room",
+        "title": "Guesthouse in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1670.0,
+            "discount": 1370.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $333.88",
+              "amount": 1669.0,
+              "currency": "$.41"
+            },
+            {
+              "description": "Special offer",
+              "amount": -300.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1369.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140674919438231981/original/29855798-9899-45fb-8476-187d0613f764.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140674919438231981/original/71d6698a-54ee-4063-aaab-079ed1ac9f91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140674919438231981/original/1cdf6450-c3a6-4183-b1ad-c68a342c78a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140674919438231981/original/8793ef5f-60a7-4583-a93f-e6a191e0d940.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140674919438231981/original/db2f6272-963f-4cf9-954a-8b79363b0750.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.42840914794555,
+          "longitud": -122.11157919882912
+        }
+      }
+    },
+    "740836031270673515": {
+      "room_id": 740836031270673515,
+      "latitude": 37.44083,
+      "longitude": -122.12459,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 00:10:42",
+      "raw_data": {
+        "room_id": 740836031270673515,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern suite with private bath and entrance",
+        "title": "Place to stay in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 287.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $143.22",
+              "amount": 286.0,
+              "currency": "$.44"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "123"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-740836031270673515/original/583fd713-fc81-48fe-946a-2ac7f3f24679.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-740836031270673515/original/41616d82-6aaa-459b-a7ca-27e33af51a77.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-740836031270673515/original/8aeb0292-087a-437b-a237-97c789a03aea.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-740836031270673515/original/691e806e-68c7-486c-82a8-8b0d160d54a2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-740836031270673515/original/2f3bc796-36e5-4d65-97bf-97a410957971.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-740836031270673515/original/92b2b3f2-b128-4ebe-8056-1a91e359e168.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.44083,
+          "longitud": -122.12459
+        }
+      }
+    },
+    "45514548": {
+      "room_id": 45514548,
+      "latitude": 37.43501,
+      "longitude": -122.11041,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 00:10:42",
+      "raw_data": {
+        "room_id": 45514548,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Guesthouse in Serene Neighborhood",
+        "title": "Guesthouse in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 450.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $224.81",
+              "amount": 449.0,
+              "currency": "$.62"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "105"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-45514548/original/3d0e22e8-e572-480d-b1a6-28066e05cec2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-45514548/original/e84fdf9b-f85d-4e02-a073-06929ebbeb6e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-45514548/original/039b0f61-6543-48bf-9e32-e4380a047bf5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-45514548/original/511591fd-44b8-4ebc-9b00-f7ccb8c3bfa3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-45514548/original/61afc5b8-d0ca-45e7-bdeb-38266ecd1b35.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-45514548/original/dc89fdca-a3f1-40f8-ba7b-dd1479dcef75.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43501,
+          "longitud": -122.11041
+        }
+      }
+    },
+    "25457915": {
+      "room_id": 25457915,
+      "latitude": 37.43542,
+      "longitude": -122.12336,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 00:10:42",
+      "raw_data": {
+        "room_id": 25457915,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/cf234543-aff6-4dc4-acfb-ec480ee7bc3e.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Wendy",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cf234543-aff6-4dc4-acfb-ec480ee7bc3e.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "30 reviews on the listing",
+              "label": "Reviews",
+              "value": "30",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.8 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.8",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 7
+          },
+          "ratingCount": 30,
+          "ratingAverage": 4.8
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sutter House Room 2",
+        "title": "Rooms in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 295.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $147.21",
+              "amount": 294.0,
+              "currency": "$.42"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e0481e98-aa07-406f-a876-a71fdb388acf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e687195-6736-44bd-acde-7dde4b557173.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/120c833f-137c-43ef-a9d6-9735de211386.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5dd65296-b714-4d2c-97d4-f5a66aa1fd2b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/16eb310e-7de2-4a0e-8985-81cc99cb08f0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/489520d0-66ba-4b6e-90ec-f03028ee56fa.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.43542,
+          "longitud": -122.12336
+        }
+      }
+    },
+    "27681475": {
+      "room_id": 27681475,
+      "latitude": 37.43333,
+      "longitude": -122.12294,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 00:10:42",
+      "raw_data": {
+        "room_id": 27681475,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/cf234543-aff6-4dc4-acfb-ec480ee7bc3e.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Wendy",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cf234543-aff6-4dc4-acfb-ec480ee7bc3e.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "31 reviews on the listing",
+              "label": "Reviews",
+              "value": "31",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.9 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.9",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 7
+          },
+          "ratingCount": 31,
+          "ratingAverage": 4.9
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sutter House Room 5",
+        "title": "Room in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 295.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $147.21",
+              "amount": 294.0,
+              "currency": "$.42"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "31"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e0481e98-aa07-406f-a876-a71fdb388acf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e687195-6736-44bd-acde-7dde4b557173.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/120c833f-137c-43ef-a9d6-9735de211386.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5dd65296-b714-4d2c-97d4-f5a66aa1fd2b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/16eb310e-7de2-4a0e-8985-81cc99cb08f0.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43333,
+          "longitud": -122.12294
+        }
+      }
+    },
+    "25629189": {
+      "room_id": 25629189,
+      "latitude": 37.43555,
+      "longitude": -122.12296,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 00:10:42",
+      "raw_data": {
+        "room_id": 25629189,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/cf234543-aff6-4dc4-acfb-ec480ee7bc3e.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Wendy",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cf234543-aff6-4dc4-acfb-ec480ee7bc3e.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "21 reviews on the listing",
+              "label": "Reviews",
+              "value": "21",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.9 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.9",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 7,
+            "months": 7
+          },
+          "ratingCount": 21,
+          "ratingAverage": 4.9
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sutter House Room 1",
+        "title": "Room in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 323.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $161.48",
+              "amount": 322.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/3c414b12-690a-4e89-b20e-566c1608f0f6.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43555,
+          "longitud": -122.12296
+        }
+      }
+    },
+    "25630033": {
+      "room_id": 25630033,
+      "latitude": 37.4335,
+      "longitude": -122.12269,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 00:10:42",
+      "raw_data": {
+        "room_id": 25630033,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sutter House Room 3",
+        "title": "Shared room in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 438.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $218.54",
+              "amount": 437.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/2cd242a6-77ea-4ee0-82e6-fcb1ec4097c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5d2aa217-9ce6-485f-b7eb-1b60d609b535.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d59a8b32-c12a-4f5e-8785-0e0f3faf1587.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3dc2de4b-8a18-4dd4-ba09-b57960fdc00a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e98ff199-3c3a-42dc-b8a3-b3a8590308d1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b8247915-67c6-4b6b-bc21-ea6c62c2b284.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.4335,
+          "longitud": -122.12269
+        }
+      }
+    },
+    "894577969567757663": {
+      "room_id": 894577969567757663,
+      "latitude": 37.44337171433646,
+      "longitude": -122.12313697746877,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 00:10:48",
+      "raw_data": {
+        "room_id": 894577969567757663,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Palo Alto -15 mins to Stanford(1087-107)",
+        "title": "Apartment in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 649.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $216.25",
+              "amount": 648.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "26"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-894577969567757663/original/7f94d343-547a-42a8-8984-7cbd357fba81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-894577969567757663/original/0d283329-42db-471a-aaca-0000f870ee51.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-894577969567757663/original/43eee808-de41-4764-8670-0fa4454dff77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-894577969567757663/original/0bd10257-83c1-4fe3-8d21-463917355b41.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-894577969567757663/original/01533370-e5b4-48c0-aae8-2f424f9adb0f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-894577969567757663/original/31cd32b5-5838-49ca-8c4f-17a4f58cc5f4.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.44337171433646,
+          "longitud": -122.12313697746877
+        }
+      }
+    },
+    "1558500163884577850": {
+      "room_id": 1558500163884577850,
+      "latitude": 37.43468558784922,
+      "longitude": -122.12223014773494,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 00:10:48",
+      "raw_data": {
+        "room_id": 1558500163884577850,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Master Bedroom #A in Palo Alto/Stanford",
+        "title": "Place to stay in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 344.0,
+            "discount": 297.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $114.55",
+              "amount": 343.0,
+              "currency": "$.65"
+            },
+            {
+              "description": "Special offer",
+              "amount": -47.0,
+              "currency": "$.40"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 296.0,
+              "currency": "$.25"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/2d10c125-90f5-49af-a35e-144a454d3dcf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/8fb75355-501d-4cf7-8ddc-51288540d9d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/610317fd-dc29-4221-b838-fc24399cdd97.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/b259412f-8a44-4e80-996f-10f231602b67.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/a6f133d5-7844-4f52-bd7f-ffb04313a848.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1558500163884577850/original/1f7a2f9e-76bc-4cbc-b1f8-920b7305abf5.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43468558784922,
+          "longitud": -122.12223014773494
+        }
+      }
+    },
+    "2676760": {
+      "room_id": 2676760,
+      "latitude": 37.43655,
+      "longitude": -122.11712,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 00:10:48",
+      "raw_data": {
+        "room_id": 2676760,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a1fdd304-9a71-47bc-908f-2f9d71483d2d.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jennifer",
+          "titleText": "Started hosting in 2019",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a1fdd304-9a71-47bc-908f-2f9d71483d2d.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 11
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Single room",
+        "title": "Room in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $114.12",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/854f2e22-062e-4c6c-9b80-8857438692be.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9a4cf771-14e8-4b26-8141-7a54467ca221.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f0cb62b6-76a1-4905-ac10-be5e5a38bada.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/94008f4a-144d-4e3e-8350-b44f0ed23944.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4a4e0299-3b6a-4602-ac8e-41336f861af2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/30a09ea7-e9d9-411a-83cb-326b63714946.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43655,
+          "longitud": -122.11712
+        }
+      }
+    },
+    "1566205331915991243": {
+      "room_id": 1566205331915991243,
+      "latitude": 37.4343150509064,
+      "longitude": -122.12324871607741,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 00:10:48",
+      "raw_data": {
+        "room_id": 1566205331915991243,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Private Bedroom #D in Palo Alto/Stanford",
+        "title": "Place to stay in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 319.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $106.11",
+              "amount": 318.0,
+              "currency": "$.34"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566205331915991243/original/a0cd5499-af5d-4282-aec6-9ba721b1d6e5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566205331915991243/original/d8ed0de9-7111-4654-9f1f-72f81f623cb2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563515620169825524/original/9f5ef30d-d985-4082-98a4-bd83175ec278.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563515620169825524/original/88a6ea2f-a2a9-4f28-af3f-32b0a400b2a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566205331915991243/original/59a08472-fe54-4931-8f23-d191e6f95bcf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563515620169825524/original/905e340a-d7c7-4813-872c-75fa8773ddd9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4343150509064,
+          "longitud": -122.12324871607741
+        }
+      }
+    },
+    "870560754870693020": {
+      "room_id": 870560754870693020,
+      "latitude": 37.443844974151226,
+      "longitude": -122.12093676488628,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 00:10:48",
+      "raw_data": {
+        "room_id": 870560754870693020,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Palo Alto -15 mins to Stanford(1087-107)",
+        "title": "Apartment in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 649.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $216.25",
+              "amount": 648.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870560754870693020/original/ae577c9f-4ce3-47c6-8c01-37f5c218f8dd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870560754870693020/original/14905604-c0ac-44aa-96dc-8b5c43497619.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870560754870693020/original/485045c1-de22-4983-8da4-49132d3ae15c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870560754870693020/original/d29bb61f-57f9-401b-955d-bd498aa70a2a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870560754870693020/original/33599aaa-7d69-448c-87ed-4f74ba8e7636.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-870560754870693020/original/741b53ac-739d-437e-98fb-da653ad38a94.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.443844974151226,
+          "longitud": -122.12093676488628
+        }
+      }
+    },
+    "45928784": {
+      "room_id": 45928784,
+      "latitude": 37.43071,
+      "longitude": -122.1157,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 00:10:59",
+      "raw_data": {
+        "room_id": 45928784,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Savvy Studio ❤︎  Palo Alto  ❤︎ of Silicon Valley",
+        "title": "Guest suite in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 355.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $177.46",
+              "amount": 354.0,
+              "currency": "$.91"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "340"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45928784/original/ecb9b693-2d91-4653-b70f-3a3d9d929ce2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45928784/original/65697bbd-1356-4a73-b3ee-43509088ad21.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45928784/original/0bddd4d0-ec06-4439-80d7-42dd04ae2dd7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45928784/original/050fb56b-256b-4647-acd6-500302f75903.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45928784/original/1f5a5c7f-2cb3-40f6-a4f6-a31a581114dd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-45928784/original/809a0fe2-186c-4b91-9e5e-b3d771574f4e.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43071,
+          "longitud": -122.1157
+        }
+      }
+    },
+    "1511990778109577937": {
+      "room_id": 1511990778109577937,
+      "latitude": 37.4315,
+      "longitude": -122.1163,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 00:11:05",
+      "raw_data": {
+        "room_id": 1511990778109577937,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Modern Private Room in the Heart of Silicon Valley",
+        "title": "Place to stay in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 296.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $98.52",
+              "amount": 295.0,
+              "currency": "$.56"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511990778109577937/original/4390f648-495a-4a9e-91cb-aadd8b193ceb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511990778109577937/original/660984d4-ed04-44f1-be30-224d95988a15.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511990778109577937/original/e317ee2c-3e11-4fdb-99ec-ff1e57f30bcb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511990778109577937/original/7cc9111d-c341-4159-b1f1-9bd15abda65c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511990778109577937/original/65ab3e96-01af-458c-b81a-8f92b7cd4f5d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511990778109577937/original/7b33879b-a06d-4132-bb97-0d0356649b87.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.4315,
+          "longitud": -122.1163
+        }
+      }
+    },
+    "882190321555128821": {
+      "room_id": 882190321555128821,
+      "latitude": 37.44467831778442,
+      "longitude": -122.1217435684789,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 8,
+      "discovered_at": "2026-01-01 00:11:23",
+      "raw_data": {
+        "room_id": 882190321555128821,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Palo Alto -15 mins to Stanford(1090-102)",
+        "title": "Apartment in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 648.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $215.75",
+              "amount": 647.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882190321555128821/original/9c38fbfe-3fc1-41b0-b170-dca1ca5bca56.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882190321555128821/original/46cf4cbe-62d6-4e1f-9810-98730e4d0844.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882190321555128821/original/4e026b00-fd65-4b7d-aeef-bfafe9b7883c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882190321555128821/original/9a7ce5fb-d12d-4121-8c71-65045c30c264.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882190321555128821/original/d750fe9e-3ce5-439a-a154-fd1eb4992910.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882190321555128821/original/c4b78557-a842-47c8-baef-78b17078e6cf.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.44467831778442,
+          "longitud": -122.1217435684789
+        }
+      }
+    },
+    "861182686898743630": {
+      "room_id": 861182686898743630,
+      "latitude": 37.44490984957592,
+      "longitude": -122.12204696441205,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 8,
+      "discovered_at": "2026-01-01 00:11:23",
+      "raw_data": {
+        "room_id": 861182686898743630,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Palo Alto -15 mins to Stanford(1090-102)",
+        "title": "Apartment in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 661.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $220.06",
+              "amount": 660.0,
+              "currency": "$.17"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-861182686898743630/original/059babf3-1e64-4ae5-b92e-a1d456324cc4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-861182686898743630/original/fd8a20dc-8992-43e6-b469-3d7f15b1d54c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-861182686898743630/original/8d4a2385-4950-4cba-a2ff-befd5e69347b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-861182686898743630/original/53a90a49-7f9c-4072-821e-8f536fb8dcdb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-861182686898743630/original/fa7bd8fc-421e-42e3-89d5-d68436ace2c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-861182686898743630/original/efda960f-8c46-4c9a-a01b-f775d0acec7f.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.44490984957592,
+          "longitud": -122.12204696441205
+        }
+      }
+    },
+    "38046194": {
+      "room_id": 38046194,
+      "latitude": 37.43239,
+      "longitude": -122.115,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 13,
+      "discovered_at": "2026-01-01 00:11:54",
+      "raw_data": {
+        "room_id": 38046194,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/b2d26d95-8b9a-46a8-95a9-703593aed680.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jack",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b2d26d95-8b9a-46a8-95a9-703593aed680.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "59 reviews on the listing",
+              "label": "Reviews",
+              "value": "59",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.97 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.97",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 9,
+            "months": 4
+          },
+          "ratingCount": 59,
+          "ratingAverage": 4.97
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy private room in a house near Stanford",
+        "title": "Room in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 347.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $173.46",
+              "amount": 346.0,
+              "currency": "$.92"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "59"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/48b90c09-0ec7-48ec-9cd9-5d36bbeb4b7e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/defe9214-3dc5-459a-9616-198b0ef28b9d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e8bd28e4-59f6-4476-b912-4a6d8484b71e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-38046194/original/b2e7b7a7-6489-4fe6-a4c0-812f4031496d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/36ca12ab-5eca-4e7c-ae7d-a9ccbd5277d2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-38046194/original/43154d88-a5bc-42e7-ad5a-3518c9d067e0.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.43239,
+          "longitud": -122.115
+        }
+      }
+    },
+    "35256768": {
+      "room_id": 35256768,
+      "latitude": 37.43695,
+      "longitude": -122.11129,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "37.425500_-122.124750_37.451940_-122.095030",
+      "pass_id": 13,
+      "discovered_at": "2026-01-01 00:11:54",
+      "raw_data": {
+        "room_id": 35256768,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Standalone Tiny House in Palo Alto",
+        "title": "Tiny home in Palo Alto",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $171.18",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.26,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/fc52561b-6a6a-4f58-9709-fa4baa5aa052.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-35256768/original/91ba01c3-d44b-40ec-b3b0-ab8e631478e5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/541c1059-3fc0-46b2-8a13-1a0ec9142289.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c93a735e-cf18-46f6-aad8-7775eaa3df5b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/969a51fc-36f3-4845-b42a-b4d79737bbdd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a34c9dfe-749d-4948-960e-2db5a6186e90.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.43695,
+          "longitud": -122.11129
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "grid_id": 54,
+  "total_listings": 3,
+  "discovery_timestamp": "2026-01-01 18:26:46",
+  "listings": {
+    "1345837428242820603": {
+      "room_id": 1345837428242820603,
+      "latitude": 37.73403787464455,
+      "longitude": -122.23449859750542,
+      "grid_id_assigned": null,
+      "grid_id_source": 54.0,
+      "bbox_id": "37.719190_-122.235000_37.745650_-122.201220",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 18:23:57",
+      "raw_data": {
+        "room_id": 1345837428242820603,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Alameda Guesthouse/King Bed/Fenced Backyard/Ferry",
+        "title": "Guesthouse in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 365.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $182.39",
+              "amount": 364.0,
+              "currency": "$.78"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.4,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345837428242820603/original/a52ae233-3854-499d-97fc-9f7e6ad3ee91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345837428242820603/original/cef911fd-0fb5-4b91-99e7-6ff4ddd5f202.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345837428242820603/original/de7948e2-7546-4743-b92a-dbde112748fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345837428242820603/original/609c4bfb-cc3e-4f9f-844d-4952d92153c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345837428242820603/original/909643e2-06ef-4a8c-8ba0-3e2136b45a57.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345837428242820603/original/ff832193-f9dd-43e4-8f87-11693ca08b95.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.73403787464455,
+          "longitud": -122.23449859750542
+        }
+      }
+    },
+    "1465550599928921851": {
+      "room_id": 1465550599928921851,
+      "latitude": 37.73586713324017,
+      "longitude": -122.2153006148439,
+      "grid_id_assigned": null,
+      "grid_id_source": 54.0,
+      "bbox_id": "37.719190_-122.235000_37.745650_-122.201220",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 18:23:57",
+      "raw_data": {
+        "room_id": 1465550599928921851,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Yash",
+          "titleText": "Started hosting in 2024",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 5
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy apt with equipped kitchen",
+        "title": "Room in Oakland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 412.0,
+            "discount": 338.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $205.90",
+              "amount": 411.0,
+              "currency": "$.79"
+            },
+            {
+              "description": "Special offer",
+              "amount": -74.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 337.0,
+              "currency": "$.79"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1465550599928921851/original/f1263d83-af5d-4d05-a56e-dbd6455fa1e2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1465550599928921851/original/de2fefe6-8b39-4d15-8802-fc7298d451d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1465550599928921851/original/c1080059-bd12-44c4-9f51-267821f7a1e1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1465550599928921851/original/9cd628db-5832-4ab1-9686-2cd09df4ae5e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1465550599928921851/original/aebfd435-3c45-4fe2-85dd-2e38b6a9d22f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1465550599928921851/original/7826a46a-089d-4687-a780-35bab37b889b.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.73586713324017,
+          "longitud": -122.2153006148439
+        }
+      }
+    },
+    "1495187251735099502": {
+      "room_id": 1495187251735099502,
+      "latitude": 37.72926,
+      "longitude": -122.23423,
+      "grid_id_assigned": null,
+      "grid_id_source": 54.0,
+      "bbox_id": "37.719190_-122.235000_37.745650_-122.201220",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 18:24:03",
+      "raw_data": {
+        "room_id": 1495187251735099502,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Aakanshi",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 4
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy 1B/1B. 10 mins from OAK.",
+        "title": "Room in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 585.0,
+            "discount": 480.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $194.76",
+              "amount": 584.0,
+              "currency": "$.29"
+            },
+            {
+              "description": "Special offer",
+              "amount": -105.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 479.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1495187251735099502/original/19fbe315-2922-4b6e-9d29-8026abc968bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ5NTE4NzI1MTczNTA5OTUwMg==/original/012b399c-0d25-4a02-8f17-afd4395e53fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1495187251735099502/original/b643a8f6-7d52-4850-a6a8-8109b1dee1a1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1495187251735099502/original/83af7f50-f4aa-42f5-b2d7-f6c5ada3136c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1495187251735099502/original/93c43fd4-ea1e-4155-a715-0152b6dc9bb1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1495187251735099502/original/cdfbbb77-01e8-4796-b075-283b52294ac6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.72926,
+          "longitud": -122.23423
+        }
+      }
+    }
+  }
+}

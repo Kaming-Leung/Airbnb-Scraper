@@ -1,0 +1,131 @@
+{
+  "grid_id": 135,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 06:04:13",
+  "listings": {
+    "658196771504528489": {
+      "room_id": 658196771504528489,
+      "latitude": 42.2668,
+      "longitude": -83.9855,
+      "grid_id_assigned": null,
+      "grid_id_source": 135.0,
+      "bbox_id": "42.265750_-83.990200_42.291180_-83.954650",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 06:01:19",
+      "raw_data": {
+        "room_id": 658196771504528489,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cheerful 3 bedroom home in a nice country setting.",
+        "title": "Home in Chelsea",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1672.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $334.36",
+              "amount": 1671.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-658196771504528489/original/63ff333d-b0a7-4fde-a576-7ee51c4cfa18.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-658196771504528489/original/c393f3e7-4a8c-41ed-867d-56cb47ec7955.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-658196771504528489/original/404d597f-5271-4107-86fa-476ef4ca0d07.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-658196771504528489/original/40c7c789-a7a5-4d3a-bb6c-86166421e266.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-658196771504528489/original/14e082f3-a3f8-48d0-ab97-d70f45dbfbe8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-658196771504528489/original/72349788-3dd0-418d-9bbd-b6385053fb38.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2668,
+          "longitud": -83.9855
+        }
+      }
+    }
+  }
+}

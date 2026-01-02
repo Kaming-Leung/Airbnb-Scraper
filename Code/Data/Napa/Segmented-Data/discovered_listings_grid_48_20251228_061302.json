@@ -1,0 +1,146 @@
+{
+  "grid_id": 48,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 06:13:02",
+  "listings": {
+    "1313168584442568453": {
+      "room_id": 1313168584442568453,
+      "latitude": 38.3225,
+      "longitude": -122.3117,
+      "grid_id_assigned": null,
+      "grid_id_source": 48.0,
+      "bbox_id": "38.322090_-122.318720_38.329830_-122.308210",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 06:10:15",
+      "raw_data": {
+        "room_id": 1313168584442568453,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Family-friendly Napa Valley getaway",
+        "title": "Hotel in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 499.0,
+            "discount": 413.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $214.50",
+              "amount": 429.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Airbnb guest discount",
+              "amount": -85.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Resort fee",
+              "amount": 69.0,
+              "currency": "$.14"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 412.0,
+              "currency": "$.34"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313168584442568453/original/bf4b8b8b-d347-4ced-a43b-91aea153cbff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313168584442568453/original/ef6c2ff7-e856-4c40-a51b-928b6fc37758.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313168584442568453/original/f301ca41-4c37-42c2-8f51-f8700552a8fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313168584442568453/original/c1f2fdf6-45e4-4dc1-8adf-15b38077e94c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313168584442568453/original/baf37d06-27c7-4ce9-9d1c-1970ebf2095b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313168584442568453/original/8692aff4-6874-4aa4-be9b-b99461399c28.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.3225,
+          "longitud": -122.3117
+        }
+      }
+    }
+  }
+}

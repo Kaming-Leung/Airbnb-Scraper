@@ -1,0 +1,261 @@
+{
+  "grid_id": 54,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-23 02:09:58",
+  "listings": {
+    "1555409133386233688": {
+      "room_id": 1555409133386233688,
+      "latitude": 40.732826988081875,
+      "longitude": -74.07622104960141,
+      "grid_id_assigned": null,
+      "grid_id_source": 54.0,
+      "bbox_id": "40.731470_-74.097010_40.753910_-74.076030",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 02:07:06",
+      "raw_data": {
+        "room_id": 1555409133386233688,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lindo apartamento",
+        "title": "Apartment in Jersey City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1616.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $323.18",
+              "amount": 1615.0,
+              "currency": "$.91"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982161671070648813/original/ad14a5d3-ad83-48bb-8610-f7c466fb4ea1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982161671070648813/original/b354865c-c1e0-4114-975e-4e7c018a4d81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1555409133386233688/original/3e7c188f-4f0a-4910-89cc-4c81a2ad5346.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982161671070648813/original/b67d282e-f2cf-4856-ae7f-81a0e57418e9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1555409133386233688/original/40155e85-df3b-45d7-990a-d4aba8e94ffa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1555409133386233688/original/3035f792-878e-4840-b2ac-f6504d6fe019.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.732826988081875,
+          "longitud": -74.07622104960141
+        }
+      }
+    },
+    "1108986134192148267": {
+      "room_id": 1108986134192148267,
+      "latitude": 40.7347,
+      "longitude": -74.0783,
+      "grid_id_assigned": null,
+      "grid_id_source": 54.0,
+      "bbox_id": "40.731470_-74.097010_40.753910_-74.076030",
+      "pass_id": 3,
+      "discovered_at": "2025-12-23 02:07:22",
+      "raw_data": {
+        "room_id": 1108986134192148267,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "beautiful spacious apartment,",
+        "title": "Apartment in Jersey City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 314.0,
+            "discount": 271.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $313.57",
+              "amount": 313.0,
+              "currency": "$.57"
+            },
+            {
+              "description": "Special offer",
+              "amount": -43.0,
+              "currency": "$.02"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 270.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.7,
+          "reviewCount": "93"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/5eadd1e9-ebb0-4605-8ee2-6d903b10eae2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/761cfa2a-925f-4b34-9db1-622b8d4eca0c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1108986134192148267/original/e7c7efd8-6b32-4b1a-aa13-9e65f96940bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1108986134192148267/original/ebc5f907-63bd-49f1-a8e2-14c4d5389d2f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e406aa17-d64e-4073-90c3-60dbdd17d3c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d87e8e90-90b9-4aa1-bc43-4144f1368472.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.7347,
+          "longitud": -74.0783
+        }
+      }
+    }
+  }
+}

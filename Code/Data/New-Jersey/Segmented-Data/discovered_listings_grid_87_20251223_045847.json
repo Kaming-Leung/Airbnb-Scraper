@@ -1,0 +1,329 @@
+{
+  "grid_id": 87,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-23 04:58:47",
+  "listings": {
+    "1172674114375162597": {
+      "room_id": 1172674114375162597,
+      "latitude": 40.676288100614215,
+      "longitude": -74.0140341540309,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "40.664170_-74.034090_40.686610_-74.013110",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 04:55:47",
+      "raw_data": {
+        "room_id": 1172674114375162597,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/6e13cced-1a73-486f-98fc-d4aae717743c.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Nick",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/6e13cced-1a73-486f-98fc-d4aae717743c.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "36 reviews on the listing",
+              "label": "Reviews",
+              "value": "36",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.94 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.94",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "11 years of hosting",
+              "label": "Years hosting",
+              "value": "11",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 11,
+            "months": 2
+          },
+          "ratingCount": 36,
+          "ratingAverage": 4.94
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Neo-Country Seaside Loft",
+        "title": "Rooms in Red Hook",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2748.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $549.60",
+              "amount": 2748.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5OTAyNzM2NTA2MjMyOTc4/original/0a6cd73f-a47e-4be2-9b7d-59dd4072164d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5OTAyNzM2NTA2MjMyOTc4/original/638c4a9e-3c58-4fff-873f-fce43dccc2d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5OTAyNzM2NTA2MjMyOTc4/original/00dbbb7a-5702-4d71-a653-f1b15061a4e3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-949902736506232978/original/13db3154-d9b4-4bb7-86e6-bfa0ae09fe1d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1172674114375162597/original/1cdc3e59-86f9-404d-88b3-118978f894d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-949902736506232978/original/9d143d74-28f5-4fc7-bfc7-5c68f3d1d7e2.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.676288100614215,
+          "longitud": -74.0140341540309
+        }
+      }
+    },
+    "8704528": {
+      "room_id": 8704528,
+      "latitude": 40.67695402753895,
+      "longitude": -74.01460717300326,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "40.664170_-74.034090_40.686610_-74.013110",
+      "pass_id": 11,
+      "discovered_at": "2025-12-23 04:56:55",
+      "raw_data": {
+        "room_id": 8704528,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/77b01894-8d23-4933-9552-4b40071300a2.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": true,
+          "name": "Marjorie",
+          "titleText": "Superhost",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/77b01894-8d23-4933-9552-4b40071300a2.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "562 reviews on the listing",
+              "label": "Reviews",
+              "value": "562",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 2
+          },
+          "ratingCount": 562,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private bedroom & bath in Red Hook Bklyn for solo",
+        "title": "Room in Red Hook",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 263.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $87.49",
+              "amount": 262.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "562"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8704528/original/c0791f2e-c4c0-4571-a7ff-519400743836.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8704528/original/58f1c74f-9939-47ef-8121-9426e7b1e577.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8704528/original/0176b598-6c88-4854-a453-d024d6e490d4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8704528/original/92a5bccb-7882-4fd4-a63b-c3cd9aa8f811.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8704528/original/56d01e33-d8fe-43b3-9782-6cef494f1f0a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-8704528/original/912af3f6-c560-4532-8466-2766a26cbf47.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.67695402753895,
+          "longitud": -74.01460717300326
+        }
+      }
+    }
+  }
+}

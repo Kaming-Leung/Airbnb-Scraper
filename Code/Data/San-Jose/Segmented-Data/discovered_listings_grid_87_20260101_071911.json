@@ -1,0 +1,622 @@
+{
+  "grid_id": 87,
+  "total_listings": 5,
+  "discovery_timestamp": "2026-01-01 07:19:11",
+  "listings": {
+    "566229963242391299": {
+      "room_id": 566229963242391299,
+      "latitude": 37.23105,
+      "longitude": -121.79046,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "37.211040_-121.794740_37.237050_-121.761560",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 07:16:18",
+      "raw_data": {
+        "room_id": 566229963242391299,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Super Bowl-Ready 5BR | Walk to Light Rail",
+        "title": "Home in San Jose",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2626.0,
+            "discount": 2102.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $420.40",
+              "amount": 2102.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.61,
+          "reviewCount": "41"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-566229963242391299/original/c523d4ab-7a37-4723-8198-171c3da3672f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-566229963242391299/original/51d182be-9222-436c-976d-adb6b6a286d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-566229963242391299/original/b9ccd732-e307-4a71-b6c0-44ec02c5f05b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-566229963242391299/original/f7ed9f00-f189-409e-b240-b16ad8e62310.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-566229963242391299/original/8625d526-de00-482b-a185-7dba25ad11e4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-566229963242391299/original/5a39042b-623c-4468-9587-4b5002b02888.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.23105,
+          "longitud": -121.79046
+        }
+      }
+    },
+    "1456484624177508120": {
+      "room_id": 1456484624177508120,
+      "latitude": 37.2354,
+      "longitude": -121.77417,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "37.211040_-121.794740_37.237050_-121.761560",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 07:16:29",
+      "raw_data": {
+        "room_id": 1456484624177508120,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Near San Jose Arena + Breakfast. Pool. Kitchen",
+        "title": "Hotel in Los Paseos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 327.0,
+            "discount": 271.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $90.08",
+              "amount": 270.0,
+              "currency": "$.23"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456484624177508120/original/66ec20da-c0a7-4327-952f-6acc21d12f60.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456484624177508120/original/7f8be00f-72bd-470e-9205-9a63accc6462.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456484624177508120/original/477f1f7d-99aa-4284-b4d2-fab3da3a6c7f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456484624177508120/original/1cc4df11-b477-48f0-943c-6059083e8407.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456484624177508120/original/ed13c73b-befe-4ca3-9c43-5482ec73081e.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456484624177508120/original/e8aa5295-a714-4a22-a05c-fab73c7545bb.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.2354,
+          "longitud": -121.77417
+        }
+      }
+    },
+    "9463114": {
+      "room_id": 9463114,
+      "latitude": 37.22643,
+      "longitude": -121.77627,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "37.211040_-121.794740_37.237050_-121.761560",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 07:16:29",
+      "raw_data": {
+        "room_id": 9463114,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-21501018/original/2f447a3e-b58a-4460-8564-820940208849.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Edward",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-21501018/original/2f447a3e-b58a-4460-8564-820940208849.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "24 reviews on the listing",
+              "label": "Reviews",
+              "value": "24",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.92 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.92",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 1
+          },
+          "ratingCount": 24,
+          "ratingAverage": 4.92
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Comfortable guest room",
+        "title": "Room in Los Paseos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $114.12",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "24"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-9463114/original/7c599729-5b44-4d1a-85fc-de7e22dea9d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-9463114/original/be1fa847-db2d-4282-98db-9da3572c0438.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-9463114/original/c8430631-471e-414f-b208-e37929fead9c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-9463114/original/329b64ba-7c8a-449c-8f0a-b9eb1e8833d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-9463114/original/1c8924cc-4ea1-4940-a7b2-f9747b18adc1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-9463114/original/d4718dbf-cb61-46b5-bbbf-8a15e54d8fad.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22643,
+          "longitud": -121.77627
+        }
+      }
+    },
+    "1456483452923221874": {
+      "room_id": 1456483452923221874,
+      "latitude": 37.23393,
+      "longitude": -121.77275,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "37.211040_-121.794740_37.237050_-121.761560",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 07:16:29",
+      "raw_data": {
+        "room_id": 1456483452923221874,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Near Great America | Free Breakfast. Pool. Kitchen",
+        "title": "Hotel in Los Paseos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 317.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $105.40",
+              "amount": 316.0,
+              "currency": "$.19"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456483452923221874/original/3947a126-6e74-43fc-b095-f74227d8fe03.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456483452923221874/original/10fc6798-d118-41fc-9389-3cd0105ae7a8.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456483452923221874/original/a31e012c-a6fe-47ec-b26e-ab62b88dbd99.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456483452923221874/original/124d62c4-eae6-46b7-a1e1-9039bb50f77d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456483452923221874/original/594a6076-64c4-47ab-8d3e-3b5c448d96a9.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1456483452923221874/original/91312ced-2dc8-42f5-90dc-983d64cd48ce.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.23393,
+          "longitud": -121.77275
+        }
+      }
+    },
+    "672456837875979139": {
+      "room_id": 672456837875979139,
+      "latitude": 37.22547,
+      "longitude": -121.78504,
+      "grid_id_assigned": null,
+      "grid_id_source": 87.0,
+      "bbox_id": "37.211040_-121.794740_37.237050_-121.761560",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 07:16:41",
+      "raw_data": {
+        "room_id": 672456837875979139,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Luxurious One Bedroom House with Backyard",
+        "title": "Home in San Jose",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 558.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $278.79",
+              "amount": 557.0,
+              "currency": "$.58"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "109"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a2f63351-2535-4849-bc7d-81c198ee53c5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7aa7ec00-9b2e-4453-adf6-05fc8d44e067.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672456837875979139/original/4c212109-669e-4896-9056-840f74fdb91e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672456837875979139/original/3bf24226-8975-4279-ba01-49f76c2771b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672456837875979139/original/de28c233-cc1b-4f9b-9be7-0716d4da58df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-672456837875979139/original/1afff8d5-e986-43b6-8ee8-d495fa43add3.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.22547,
+          "longitud": -121.78504
+        }
+      }
+    }
+  }
+}

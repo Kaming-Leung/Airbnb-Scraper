@@ -1,0 +1,129 @@
+{
+  "grid_id": 12,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 03:32:55",
+  "listings": {
+    "1566658194012718279": {
+      "room_id": 1566658194012718279,
+      "latitude": 37.45187,
+      "longitude": -121.88488,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "37.445140_-121.894270_37.471150_-121.861090",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 03:30:01",
+      "raw_data": {
+        "room_id": 1566658194012718279,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Super Home (4 Bed Rooms with BRs) for Super Bowl",
+        "title": "Place to stay in Milpitas",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 11298.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $2,259.53",
+              "amount": 11297.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566367914574659924/original/272b2f9f-6fc5-43b2-96e9-31f2789fd43a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566367914574659924/original/d0985f7a-45b2-47ae-aafb-159e91f9e254.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566367914574659924/original/0aadfa29-bffa-4b0c-923f-6954f389b6df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566367914574659924/original/7413036c-49b9-4bf7-8bcf-df549ecb9ccb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566367914574659924/original/04fd31a6-3474-4804-a6c8-1c8b1ad72bdb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1566367914574659924/original/370c8e63-e3a2-4261-996d-241843e88e21.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.45187,
+          "longitud": -121.88488
+        }
+      }
+    }
+  }
+}

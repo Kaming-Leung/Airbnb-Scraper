@@ -1,0 +1,132 @@
+{
+  "grid_id": 45,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-23 01:37:32",
+  "listings": {
+    "886917414549135513": {
+      "room_id": 886917414549135513,
+      "latitude": 40.754708333984894,
+      "longitude": -74.05535662718387,
+      "grid_id_assigned": null,
+      "grid_id_source": 45.0,
+      "bbox_id": "40.753910_-74.076030_40.776340_-74.055060",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 01:34:39",
+      "raw_data": {
+        "room_id": 886917414549135513,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Parking Spot | Patio | 20 Min to NYC!",
+        "title": "Home in The Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2282.0,
+            "discount": 1768.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $353.60",
+              "amount": 1768.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "111"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-886917414549135513/original/4771473b-f27a-420c-9ecc-7e3500487831.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-886917414549135513/original/175792d7-d56d-41ea-afcf-8a419d6cbbd8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-886917414549135513/original/ffa82869-de48-40c6-8743-78276575d7b3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-886917414549135513/original/31edc2ee-5aee-491f-8820-23aeb05f9d48.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-886917414549135513/original/cf93386d-12a2-4fe8-8fd9-f8b4813bd460.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-886917414549135513/original/3b74862d-c762-4a80-adbc-d5ba35d752f1.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.754708333984894,
+          "longitud": -74.05535662718387
+        }
+      }
+    }
+  }
+}

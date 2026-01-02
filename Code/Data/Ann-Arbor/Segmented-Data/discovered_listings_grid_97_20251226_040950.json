@@ -1,0 +1,131 @@
+{
+  "grid_id": 97,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 04:09:50",
+  "listings": {
+    "681263145315269086": {
+      "room_id": 681263145315269086,
+      "latitude": 42.31937,
+      "longitude": -83.76225,
+      "grid_id_assigned": null,
+      "grid_id_source": 97.0,
+      "bbox_id": "42.316620_-83.776900_42.342060_-83.741350",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:06:56",
+      "raw_data": {
+        "room_id": 681263145315269086,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ann Arbor Midcentury Home Designed by R. Metcalf",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $480.00",
+              "amount": 2400.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "38"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-681263145315269086/original/2ca26c02-334c-4b1b-84b5-c59105db557c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-681263145315269086/original/f352e611-d8fa-4b45-9b6f-18d4489d7f52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-681263145315269086/original/043a834d-d850-4b6a-9adc-aae373514805.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-681263145315269086/original/ad573a05-c2aa-413a-8d28-20a34805cb7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-681263145315269086/original/333aa58e-2c93-4998-9c78-75b2cfd387fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-681263145315269086/original/2eb0e81f-b998-48a1-bcde-4d11c25e1d3e.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.31937,
+          "longitud": -83.76225
+        }
+      }
+    }
+  }
+}

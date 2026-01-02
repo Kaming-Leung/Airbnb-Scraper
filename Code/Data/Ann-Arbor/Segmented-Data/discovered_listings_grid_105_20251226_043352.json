@@ -1,0 +1,556 @@
+{
+  "grid_id": 105,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-26 04:33:52",
+  "listings": {
+    "18119981": {
+      "room_id": 18119981,
+      "latitude": 42.32195,
+      "longitude": -83.46467,
+      "grid_id_assigned": null,
+      "grid_id_source": 105.0,
+      "bbox_id": "42.316620_-83.492510_42.342060_-83.456960",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 04:31:10",
+      "raw_data": {
+        "room_id": 18119981,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/507c6a19-d07e-4799-9587-26af5567fc48.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Kathy",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/507c6a19-d07e-4799-9587-26af5567fc48.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "656 reviews on the listing",
+              "label": "Reviews",
+              "value": "656",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.95 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.95",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 8
+          },
+          "ratingCount": 656,
+          "ratingAverage": 4.95
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "studio apartment -  private entrance  & bath.",
+        "title": "Room in Canton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 234.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $77.98",
+              "amount": 233.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "656"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/66e74150-f294-4b55-9c53-2d345387f733.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8efed072-263f-4302-89a5-064dbcb7c36e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3e3d2260-57a2-47e5-9eb8-d7d96936f90c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eb8f7e53-3b7e-4e9f-9a71-ab39a8d5c6f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3443d7a3-100b-4616-ad0f-7c13c8ab7fa1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/08594573-17ef-440a-9fb8-f9a35a0590c2.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.32195,
+          "longitud": -83.46467
+        }
+      }
+    },
+    "1447488908463534141": {
+      "room_id": 1447488908463534141,
+      "latitude": 42.31701438804204,
+      "longitude": -83.47813797377188,
+      "grid_id_assigned": null,
+      "grid_id_source": 105.0,
+      "bbox_id": "42.316620_-83.492510_42.342060_-83.456960",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 04:31:10",
+      "raw_data": {
+        "room_id": 1447488908463534141,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Work or Relax l Quiet & Clean",
+        "title": "Home in Canton Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 493.0,
+            "discount": 407.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $135.61",
+              "amount": 406.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "39"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1447488908463534141/original/4b72fcea-8915-4ef1-9896-8cf455e3d907.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1447488908463534141/original/71d1d48f-ca0d-4175-8993-71c7922fe0f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1447488908463534141/original/f19e0aab-b6c3-4b52-b522-7bd6a367fc20.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1447488908463534141/original/35e1f918-bc4b-48b6-91c3-df938fa5d4e9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1447488908463534141/original/7abd6c44-1545-4e49-8f60-fe54c335986b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1447488908463534141/original/17f93a46-26c1-483d-9be7-3e595da6d868.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.31701438804204,
+          "longitud": -83.47813797377188
+        }
+      }
+    },
+    "53061789": {
+      "room_id": 53061789,
+      "latitude": 42.33275,
+      "longitude": -83.45905,
+      "grid_id_assigned": null,
+      "grid_id_source": 105.0,
+      "bbox_id": "42.316620_-83.492510_42.342060_-83.456960",
+      "pass_id": 3,
+      "discovered_at": "2025-12-26 04:31:16",
+      "raw_data": {
+        "room_id": 53061789,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "**Luxury** - Newly Renovated 3 BR Oasis - Canton/Plymouth/Ann Arbor",
+        "title": "Home in Canton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 260.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $260.00",
+              "amount": 260.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "145"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-53061789/original/4934fa91-44b9-4875-a858-c2c24fd4f720.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53061789/original/69199579-9ffc-4417-9067-eb8d63088433.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53061789/original/638ba820-38ca-4228-9799-54fd06b1cc4b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53061789/original/71ab6318-93d6-48f9-ae64-1b88cfd76dca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53061789/original/6dfa85d6-29ed-461d-93d6-7fe9334291fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53061789/original/466d5f76-cd27-40e8-8a80-55b08a0763d5.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.33275,
+          "longitud": -83.45905
+        }
+      }
+    },
+    "926662966651518380": {
+      "room_id": 926662966651518380,
+      "latitude": 42.33815,
+      "longitude": -83.49061,
+      "grid_id_assigned": null,
+      "grid_id_source": 105.0,
+      "bbox_id": "42.316620_-83.492510_42.342060_-83.456960",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 04:31:28",
+      "raw_data": {
+        "room_id": 926662966651518380,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-520048700/original/0131e8e5-2be3-44be-80b4-33f9fe5cef07.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Guiling",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-520048700/original/0131e8e5-2be3-44be-80b4-33f9fe5cef07.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "16 reviews on the listing",
+              "label": "Reviews",
+              "value": "16",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 6
+          },
+          "ratingCount": 16,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private 1Bed with Private 1Bath with free parking",
+        "title": "Room in Canton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 238.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $79.12",
+              "amount": 237.0,
+              "currency": "$.36"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-913876470176184534/original/88d1af11-8ce2-4cdb-8142-fa5a153567be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-926662966651518380/original/b2279aa6-2d56-4677-abba-c59959a5c728.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-926662966651518380/original/2a70a282-ee9e-4190-80d5-7686829c7e26.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c60788e9-e729-4d71-b5c9-b514492719d2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/742a35c9-abf2-49b0-ad86-a74f0f7f7498.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-913876470176184534/original/b21215df-03b9-44a9-b1cf-0eeb95c0fe9b.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.33815,
+          "longitud": -83.49061
+        }
+      }
+    }
+  }
+}

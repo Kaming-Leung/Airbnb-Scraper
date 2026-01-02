@@ -1,0 +1,131 @@
+{
+  "grid_id": 96,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 04:06:50",
+  "listings": {
+    "24021533": {
+      "room_id": 24021533,
+      "latitude": 42.3187,
+      "longitude": -83.7952,
+      "grid_id_assigned": null,
+      "grid_id_source": 96.0,
+      "bbox_id": "42.316620_-83.812450_42.342060_-83.776900",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:03:55",
+      "raw_data": {
+        "room_id": 24021533,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Huron River Lodge",
+        "title": "Home in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1855.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $370.88",
+              "amount": 1854.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "178"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/178fb4b0-1bb7-488d-9f79-e8dbdb67a494.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/24df89e9-bda1-474c-aa41-0b5a29e9df16.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a4547f3c-0a04-40d2-ad1f-537db8bb112b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/931c0b77-8eb5-4bbc-8e20-4a222ccdcace.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-24021533/original/3d5f6e0d-55c1-4083-9706-709f179a926e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-24021533/original/a3f75bbd-25ec-48fa-9559-efd16992b4e8.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.3187,
+          "longitud": -83.7952
+        }
+      }
+    }
+  }
+}

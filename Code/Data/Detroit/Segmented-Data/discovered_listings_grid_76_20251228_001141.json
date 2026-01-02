@@ -1,0 +1,104 @@
+{
+  "grid_id": 76,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 00:11:41",
+  "listings": {
+    "1198526845170783683": {
+      "room_id": 1198526845170783683,
+      "latitude": 42.28742,
+      "longitude": -83.16625,
+      "grid_id_assigned": null,
+      "grid_id_source": 76.0,
+      "bbox_id": "42.277090_-83.177590_42.302020_-83.142620",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:09:00",
+      "raw_data": {
+        "room_id": 1198526845170783683,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "ground floor with easy access",
+        "title": "Hotel in Melvindale",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 201.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $66.76",
+              "amount": 200.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1198526845170783683/original/7450d032-4c8c-4562-9edd-790d661e4fd0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1198526845170783683/original/37224973-58c3-4d85-b7ae-c262b81f8c54.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1198526845170783683/original/7d74eaff-7a50-462a-b0ea-36be22eeaff7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1198526845170783683/original/a9505e2a-4ca6-4a18-bf44-e6ba731a2059.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.28742,
+          "longitud": -83.16625
+        }
+      }
+    }
+  }
+}

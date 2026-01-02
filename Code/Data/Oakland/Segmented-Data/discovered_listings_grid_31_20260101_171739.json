@@ -1,0 +1,120 @@
+{
+  "grid_id": 31,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 17:17:39",
+  "listings": {
+    "44579604": {
+      "room_id": 44579604,
+      "latitude": 37.78261,
+      "longitude": -122.3098,
+      "grid_id_assigned": null,
+      "grid_id_source": 31.0,
+      "bbox_id": "37.772110_-122.336330_37.798570_-122.302550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:14:45",
+      "raw_data": {
+        "room_id": 44579604,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Your next camping companion.",
+        "title": "Camper/RV in Alameda Point",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1427.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $285.29",
+              "amount": 1426.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/9a5a425a-5741-4d59-9413-c6c196152484.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3bf188ce-7b71-4dd8-a664-bc8d69922ee7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/13edfa3d-9fa3-43aa-91b5-24235c7e8926.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b96a35a-eccf-407f-973b-e0d7f8f4fce2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f2efab88-20ad-4159-9851-73368c3dbb02.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/530162d5-89cd-4fb0-8e35-020fec2fe18a.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.78261,
+          "longitud": -122.3098
+        }
+      }
+    }
+  }
+}

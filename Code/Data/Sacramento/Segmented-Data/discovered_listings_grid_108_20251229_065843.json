@@ -1,0 +1,252 @@
+{
+  "grid_id": 108,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-29 06:58:43",
+  "listings": {
+    "46085086": {
+      "room_id": 46085086,
+      "latitude": 38.40986,
+      "longitude": -121.24728,
+      "grid_id_assigned": null,
+      "grid_id_source": 108.0,
+      "bbox_id": "38.390400_-121.271020_38.435110_-121.225710",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:55:49",
+      "raw_data": {
+        "room_id": 46085086,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 sofa bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Prairie Springs Estate - Cozy Ranch Studios",
+        "title": "Farm stay in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1427.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $285.29",
+              "amount": 1426.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-46085086/original/ea449787-b66a-42a0-bb7d-f6fbe24c6155.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4861e881-0b9f-4c59-9ac4-eea9f194c989.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5473a773-a643-44e5-a6cb-f42d190bc179.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/964ee322-ccd4-400b-ba91-2165c0fb485f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/392beb00-af3c-4689-927f-50c2abb7dfae.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/58c10843-2219-4bd8-80da-0064ae43ff9c.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.40986,
+          "longitud": -121.24728
+        }
+      }
+    },
+    "40655463": {
+      "room_id": 40655463,
+      "latitude": 38.40526,
+      "longitude": -121.24563,
+      "grid_id_assigned": null,
+      "grid_id_source": 108.0,
+      "bbox_id": "38.390400_-121.271020_38.435110_-121.225710",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 06:55:55",
+      "raw_data": {
+        "room_id": 40655463,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private super cozy country cottage with pool & spa",
+        "title": "Cottage in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $171.18",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "142"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/57a2debe-6a10-41bc-93e5-78d80d32b668.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ecf556e2-39cb-49ba-b21d-d9de767fd839.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/56ad119f-69b2-48fb-a666-69a397501d5a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d5573e77-3ac6-4f7f-851c-d4873d5aef0e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/47199cef-9227-48a1-ae0d-4938caec0bac.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d5a5dc56-151b-45a1-b926-2a98862c73e3.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.40526,
+          "longitud": -121.24563
+        }
+      }
+    }
+  }
+}

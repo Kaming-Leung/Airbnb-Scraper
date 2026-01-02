@@ -1,0 +1,1879 @@
+{
+  "grid_id": 52,
+  "total_listings": 15,
+  "discovery_timestamp": "2025-12-21 12:04:58",
+  "listings": {
+    "51789226": {
+      "room_id": 51789226,
+      "latitude": 41.92151,
+      "longitude": -87.93512,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 51789226,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Elmhurst NEW - Super Clean Modern Farmhouse!",
+        "title": "Home in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 750.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $375.00",
+              "amount": 750.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "133"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/8da69b87-85f5-4c94-b63a-3cdf90af4ec1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51789226/original/6a36836d-c10a-449a-bdf4-e815788e8bd7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/45418bca-2ee3-4bcd-b991-f8b6c5514ef0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/285d990f-5af0-4eae-88dc-cd9f538953ef.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/50ecf4bb-96c7-42f6-b742-76b33b092faa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/34469d64-33a4-4a54-b8f2-d3eb2810fefd.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 41.92151,
+          "longitud": -87.93512
+        }
+      }
+    },
+    "783386687642495717": {
+      "room_id": 783386687642495717,
+      "latitude": 41.93917,
+      "longitude": -87.93557,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 783386687642495717,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Skyway w/ Shuffleboard",
+        "title": "Home in Bensenville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 915.0,
+            "discount": 827.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $413.50",
+              "amount": 827.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "125"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgzMzg2Njg3NjQyNDk1NzE3/original/50f4a506-0032-4867-81ee-7c23cf6f33c6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgzMzg2Njg3NjQyNDk1NzE3/original/9029899c-90f6-4cef-abc2-c8ffaa55b45a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgzMzg2Njg3NjQyNDk1NzE3/original/52c53e80-7689-42d0-83b2-f4eb7a419f39.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgzMzg2Njg3NjQyNDk1NzE3/original/aac930dd-9c92-4eb4-9619-24ec076a828e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgzMzg2Njg3NjQyNDk1NzE3/original/34942817-49d5-407e-8c20-70a619b6af81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgzMzg2Njg3NjQyNDk1NzE3/original/1f1c19e2-5eca-43e7-a36e-237bea2c7604.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.93917,
+          "longitud": -87.93557
+        }
+      }
+    },
+    "1461178759861962017": {
+      "room_id": 1461178759861962017,
+      "latitude": 41.920817268445646,
+      "longitude": -87.92706871843072,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1461178759861962017,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Lucky #7 w/ Gym",
+        "title": "Home in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 1064.0,
+            "discount": 922.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $461.00",
+              "amount": 922.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.3,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1461178759861962017/original/2567f198-7538-49a7-b3d3-99ca73601e04.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1461178759861962017/original/4e333b05-c69d-4742-aae0-b1e0006356c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1461178759861962017/original/36723877-f31d-45fb-89e3-3d4e610a117a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1461178759861962017/original/d0e42b80-3083-4d43-a8ae-9075b860c6ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1461178759861962017/original/95ecaa2b-af3a-4470-bdd6-929f1404b58f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1461178759861962017/original/9dd5ac8d-015d-421b-a8e3-8e0a75ad735a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.920817268445646,
+          "longitud": -87.92706871843072
+        }
+      }
+    },
+    "1222758254201042689": {
+      "room_id": 1222758254201042689,
+      "latitude": 41.92985,
+      "longitude": -87.93874,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1222758254201042689,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "10 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "10 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "27min2City-Fun~SLP10-15~Large patio w/dining~BBQ",
+        "title": "Home in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 753.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $376.45",
+              "amount": 752.0,
+              "currency": "$.90"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.87,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIyMjc1ODI1NDIwMTA0MjY4OQ%3D%3D/original/b00ddb4a-8461-4dfa-a31c-2562bfc5ae4b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIyMjc1ODI1NDIwMTA0MjY4OQ%3D%3D/original/96ad23a2-24a7-4da4-bc7a-acc7f7e07287.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIyMjc1ODI1NDIwMTA0MjY4OQ%3D%3D/original/2c7eecde-bd34-45d4-921c-d62426a2b4d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIyMjc1ODI1NDIwMTA0MjY4OQ%3D%3D/original/dbb3aa80-1f82-4313-8541-d9a9ae7b7507.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIyMjc1ODI1NDIwMTA0MjY4OQ%3D%3D/original/3d47ae89-3d82-40e3-a5ec-5f7212aac264.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIyMjc1ODI1NDIwMTA0MjY4OQ%3D%3D/original/798e84e8-14fb-4051-be61-7251012d3be3.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 41.92985,
+          "longitud": -87.93874
+        }
+      }
+    },
+    "1250354118028566203": {
+      "room_id": 1250354118028566203,
+      "latitude": 41.922305288721276,
+      "longitude": -87.93907158830308,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1250354118028566203,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Downtown Elmhurst minutes away!",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 605.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $302.41",
+              "amount": 604.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/3550ccb0-381c-410a-8585-1cd69c6e942c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1250354118028566203/original/565f4018-804b-4dba-b7e9-7271dbfb31d6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1250354118028566203/original/901aa53c-529f-4793-9742-0a970ab4a252.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1250354118028566203/original/3d0c1ccc-a42c-4561-b6d5-0abec67237d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1250354118028566203/original/12beb679-8907-4ffd-b99e-1e0b813cccc0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/8de14c04-215a-4266-b6a3-796200670c0b.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 41.922305288721276,
+          "longitud": -87.93907158830308
+        }
+      }
+    },
+    "1367046783026971962": {
+      "room_id": 1367046783026971962,
+      "latitude": 41.92426951018123,
+      "longitude": -87.93895334102965,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1367046783026971962,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "5 min from Downtown Elmhurst !",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 411.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $205.41",
+              "amount": 410.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/f8129697-14bf-4a89-8a58-8b0f6f2ebd91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/9f3fa8b2-59e4-4543-b399-f4d31472a415.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/9b4d0101-be28-4ad6-b21e-b7586ec048b2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/fb3272af-21d9-431f-a8ad-0144297debca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/1d3c7a52-85bc-46f6-b202-261c06b9536c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/f54201d6-861c-46c0-a45c-1fc8ff556fff.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 41.92426951018123,
+          "longitud": -87.93895334102965
+        }
+      }
+    },
+    "1178158191973942105": {
+      "room_id": 1178158191973942105,
+      "latitude": 41.92386,
+      "longitude": -87.93894,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1178158191973942105,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Downtown Elmhurst 5 min away!",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 503.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $251.06",
+              "amount": 502.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-945808774262498801/original/8e95f598-4c0b-4662-b513-7cbd6f689381.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1178158191973942105/original/a7d81268-7d82-430e-95aa-30efc4dab78a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1178158191973942105/original/bcfaad52-c321-4a2d-ae56-4126e5e19b33.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5f40436b-7982-459e-b2d0-fd805b5b65ab.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d5c2e2bb-5701-45b5-9fea-eb669d548902.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1178158191973942105/original/8b941975-3f10-48fa-a8bf-66784c669517.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 41.92386,
+          "longitud": -87.93894
+        }
+      }
+    },
+    "1259630229078394324": {
+      "room_id": 1259630229078394324,
+      "latitude": 41.920659132107325,
+      "longitude": -87.9353103989604,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1259630229078394324,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/2cc02103-ce03-4d17-a756-7fd598d5731e.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Ka",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/2cc02103-ce03-4d17-a756-7fd598d5731e.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 10
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Balconette, fireplace, and deck!",
+        "title": "Room in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 331.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $165.47",
+              "amount": 330.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1259630229078394324/original/5e0b44c2-630c-4776-b9f2-93b869c55f21.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1259630229078394324/original/f74461c5-0914-4c86-9690-70f3c8f30403.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1259630229078394324/original/1835ad72-8c98-4a36-82f4-9a3c78ce4f22.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1259630229078394324/original/7e0efbe8-d22b-4ae7-8f80-ab67543d1dfb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1259630229078394324/original/5b3bde37-3932-4020-a1b6-64462b3104b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1259630229078394324/original/390443d2-1d8d-4d83-bfe9-9291a56f8514.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.920659132107325,
+          "longitud": -87.9353103989604
+        }
+      }
+    },
+    "905776005959536396": {
+      "room_id": 905776005959536396,
+      "latitude": 41.9226,
+      "longitude": -87.93868,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 905776005959536396,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "5 star HUGE Downtown Elmhurst minutes away",
+        "title": "Home in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 931.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $465.03",
+              "amount": 930.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/cf50518e-73da-444b-92dd-78575cd10c95.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/97309a24-b4e0-4f5c-8614-4d3e587c8161.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1a8a4b15-404b-4cb5-b1f7-e40cd10c6472.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ffb2de4d-e9a1-4e3b-9690-80895d7dc391.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-882259454843933275/original/fb190a09-2682-4145-b675-cd361e88cc6d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-905776005959536396/original/ca5faf19-df82-400c-b58f-6541490a2244.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 41.9226,
+          "longitud": -87.93868
+        }
+      }
+    },
+    "1101683621896980529": {
+      "room_id": 1101683621896980529,
+      "latitude": 41.923,
+      "longitude": -87.93976,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1101683621896980529,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy garden unit",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $171.18",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1101683621896980529/original/aae1f63b-042e-42fb-99a9-1d1b251a9578.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1101683621896980529/original/da62eb0b-ded1-47cb-8124-e86388c398c2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1101683621896980529/original/a32d7bd6-8f6d-4dff-b539-8e982f5132c2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1101683621896980529/original/41baf6f2-9e10-4ed6-b4ad-f8d66e20df28.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1101683621896980529/original/57ecf016-3dab-415b-a7ed-8a0018b408f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1101683621896980529/original/5f77c646-bcf6-4dbc-acac-c3a21a8ba6e9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.923,
+          "longitud": -87.93976
+        }
+      }
+    },
+    "1068208853161185059": {
+      "room_id": 1068208853161185059,
+      "latitude": 41.92226,
+      "longitude": -87.93841,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1068208853161185059,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Downtown Elmhust 5 min away King,Queen 3twin Beds",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 360.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $179.74",
+              "amount": 359.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1068208853161185059/original/f86f1222-6249-41c0-ab5d-a689ee44e253.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1068208853161185059/original/1b2236ef-afe3-434e-bff0-334a5c147f1a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1068208853161185059/original/312f2330-5042-4224-b3b0-d7d0a4e374df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1068208853161185059/original/4aac4aef-f3f0-4a0d-b86f-9da36e5b4cef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1068208853161185059/original/34a0e46c-8fca-4e4c-98a7-a129556ea464.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.92226,
+          "longitud": -87.93841
+        }
+      }
+    },
+    "1243816946134501424": {
+      "room_id": 1243816946134501424,
+      "latitude": 41.9285,
+      "longitude": -87.93851,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1243816946134501424,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "10 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "10 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "27min2City-Cozy~SLP10-15~Large patio w/dining~BBQ",
+        "title": "Home in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 1170.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $585.00",
+              "amount": 1170.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0MzgxNjk0NjEzNDUwMTQyNA%3D%3D/original/afc28556-958a-482b-a698-ca0efd4d2303.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0MzgxNjk0NjEzNDUwMTQyNA%3D%3D/original/13ce1e08-f06e-4229-a6ad-f0fd1a55ac81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0MzgxNjk0NjEzNDUwMTQyNA%3D%3D/original/0c8f7830-42c0-4f80-87eb-84e7bdac14f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0MzgxNjk0NjEzNDUwMTQyNA%3D%3D/original/e010a0fa-5b1b-4e27-8ad9-38a06d9d7779.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0MzgxNjk0NjEzNDUwMTQyNA%3D%3D/original/f4089a6c-7b3e-41be-b44d-6a9127351624.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0MzgxNjk0NjEzNDUwMTQyNA%3D%3D/original/7f9ab53f-25a5-4d93-b65c-02a2e390ece3.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 41.9285,
+          "longitud": -87.93851
+        }
+      }
+    },
+    "1492825527155525700": {
+      "room_id": 1492825527155525700,
+      "latitude": 41.92236873236082,
+      "longitude": -87.93902699994909,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1492825527155525700,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Elmhurst 2 BR 3bed unit!",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 457.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $228.24",
+              "amount": 456.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/fa7f7285-909e-47ed-b613-7cb1805505a5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/e5ad5471-49ef-498b-b10f-9b7db4ea5f28.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/3cbce5d6-82a4-4ee9-b6e2-c4ebefdf1613.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/089d28f3-3ad5-4ce7-bb18-d72cd6970481.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/889e946f-13c8-4ba9-8a1b-3bf009eb8671.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-942068785196196406/original/3550ccb0-381c-410a-8585-1cd69c6e942c.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 41.92236873236082,
+          "longitud": -87.93902699994909
+        }
+      }
+    },
+    "1166899702928322510": {
+      "room_id": 1166899702928322510,
+      "latitude": 41.92443,
+      "longitude": -87.93836,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 12:04:53",
+      "raw_data": {
+        "room_id": 1166899702928322510,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "5 star Downtown Elmhurst 5min away! King/Queen bed",
+        "title": "Apartment in Elmhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 571.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $285.30",
+              "amount": 570.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/f8129697-14bf-4a89-8a58-8b0f6f2ebd91.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/9f3fa8b2-59e4-4543-b399-f4d31472a415.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/9b4d0101-be28-4ad6-b21e-b7586ec048b2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/fb3272af-21d9-431f-a8ad-0144297debca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/631b92cf-f811-4008-afaf-0d189f2593db.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1166899702928322510/original/dea8890a-53bc-4164-bfc9-33e497ae4b3b.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 41.92443,
+          "longitud": -87.93836
+        }
+      }
+    },
+    "599522119955187943": {
+      "room_id": 599522119955187943,
+      "latitude": 41.94003,
+      "longitude": -87.93464,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "41.918670_-87.940000_41.944000_-87.915290",
+      "pass_id": 1,
+      "discovered_at": "2025-12-21 12:04:58",
+      "raw_data": {
+        "room_id": 599522119955187943,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "New! Arcade+Sauna+Slots+Karaoke+more by O’Hare",
+        "title": "Home in Bensenville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 2896.0,
+            "discount": 2632.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $1,315.82",
+              "amount": 2631.0,
+              "currency": "$.63"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "52"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTk5NTIyMTE5OTU1MTg3OTQz/original/dc06eb60-f002-4fcf-9742-18b815a86d27.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTk5NTIyMTE5OTU1MTg3OTQz/original/7b521be9-5915-49a2-be35-4da89834ac5a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTk5NTIyMTE5OTU1MTg3OTQz/original/b4a5b26d-4866-4953-91e3-49bb451721b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTk5NTIyMTE5OTU1MTg3OTQz/original/905d726f-4eb6-4152-bacc-a8ce40429c37.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTk5NTIyMTE5OTU1MTg3OTQz/original/20fecccb-5830-4b64-b1ed-eaa59787bc7a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTk5NTIyMTE5OTU1MTg3OTQz/original/763180c2-2ab8-4459-9303-e47fab3e0f6a.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 41.94003,
+          "longitud": -87.93464
+        }
+      }
+    }
+  }
+}

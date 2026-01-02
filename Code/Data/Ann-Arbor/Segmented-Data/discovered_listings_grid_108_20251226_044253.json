@@ -1,0 +1,268 @@
+{
+  "grid_id": 108,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 04:42:53",
+  "listings": {
+    "1569051554384985771": {
+      "room_id": 1569051554384985771,
+      "latitude": 42.34113,
+      "longitude": -83.3709,
+      "grid_id_assigned": null,
+      "grid_id_source": 108.0,
+      "bbox_id": "42.316620_-83.385860_42.342060_-83.350310",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 04:40:11",
+      "raw_data": {
+        "room_id": 1569051554384985771,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Nice home in Westland",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 544.0,
+            "discount": 446.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $181.04",
+              "amount": 543.0,
+              "currency": "$.12"
+            },
+            {
+              "description": "Special offer",
+              "amount": -97.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 445.0,
+              "currency": "$.52"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1569051554384985771/original/10e64ad6-228c-48e6-8341-e75660615239.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1569051554384985771/original/51d43dbf-61c9-45d6-87ba-4b51fa478821.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1569051554384985771/original/6d9ca5d3-bb42-4783-a508-17cca6781836.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1569051554384985771/original/ae74daa4-fabd-4a1d-8184-ffb94dca6a6b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1569051554384985771/original/2a19464f-75f1-4513-ad55-3e5c8e948c0c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1569051554384985771/original/52b2bc0b-8f6c-4a82-8e87-578b2f5d5909.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.34113,
+          "longitud": -83.3709
+        }
+      }
+    },
+    "565794376362729830": {
+      "room_id": 565794376362729830,
+      "latitude": 42.31831,
+      "longitude": -83.3808,
+      "grid_id_assigned": null,
+      "grid_id_source": 108.0,
+      "bbox_id": "42.316620_-83.385860_42.342060_-83.350310",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 04:40:23",
+      "raw_data": {
+        "room_id": 565794376362729830,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Meets Elegance | 3BR Stay| Detroit & DTW",
+        "title": "Home in Westland",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 353.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $176.50",
+              "amount": 353.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "258"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/449a3822-a99f-41f3-be50-2595e5a1a2c7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-565794376362729830/original/d127306c-8005-4ede-ad84-4c4fefec90ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-565794376362729830/original/1c2a35ac-a41e-4908-a618-5870251147f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-565794376362729830/original/7539c6f4-860b-441a-af6e-3e250118969a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-565794376362729830/original/31d02ce0-4976-4956-8fe3-5f0c9e3323fd.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-565794376362729830/original/32bbca28-a19f-45f9-9aa6-ffc71ca7c00a.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.31831,
+          "longitud": -83.3808
+        }
+      }
+    }
+  }
+}

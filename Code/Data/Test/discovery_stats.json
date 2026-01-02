@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "total_unique_listings": 18,
+    "total_searches": 6,
+    "total_requests": 6
+  },
+  "by_grid": {
+    "1": {
+      "unique_listings": 16,
+      "listings_by_pass": {
+        "0": 11,
+        "1": 3,
+        "2": 2
+      }
+    },
+    "2": {
+      "unique_listings": 2,
+      "listings_by_pass": {
+        "0": 2
+      }
+    }
+  },
+  "subdivision_stats": {
+    "total_subdivisions": 0,
+    "searches_by_depth": {}
+  },
+  "multi_pass_gains": {},
+  "retries": {
+    "total_retries": 0,
+    "failed_searches": 0
+  }
+}

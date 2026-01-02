@@ -1,0 +1,129 @@
+{
+  "grid_id": 104,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 04:30:52",
+  "listings": {
+    "1463438600781895072": {
+      "room_id": 1463438600781895072,
+      "latitude": 42.3348,
+      "longitude": -83.5141,
+      "grid_id_assigned": null,
+      "grid_id_source": 104.0,
+      "bbox_id": "42.316620_-83.528060_42.342060_-83.492510",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 04:27:58",
+      "raw_data": {
+        "room_id": 1463438600781895072,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 28 – Apr 2",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 28 – Apr 2",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Large family home, upscale sub",
+        "title": "Home in Canton Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4040.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $807.95",
+              "amount": 4039.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1463438600781895072/original/1b19e489-13a2-4b82-84e1-25c1c41dcebd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1463438600781895072/original/6e61c482-f2c3-4a50-8476-7d1417666189.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1463438600781895072/original/36c2fa45-e0bd-4089-9f3f-41d534626156.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1463438600781895072/original/9c9e7f0c-e4da-4ae0-b5fb-b1644853e73a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1463438600781895072/original/67daac08-8b4f-42f2-afd9-ca2045eb25bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1463438600781895072/original/e3fd73cc-7695-496c-9dc8-d580bd38b9fa.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.3348,
+          "longitud": -83.5141
+        }
+      }
+    }
+  }
+}

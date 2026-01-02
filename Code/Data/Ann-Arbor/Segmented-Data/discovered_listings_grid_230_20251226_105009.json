@@ -1,0 +1,235 @@
+{
+  "grid_id": 230,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 10:50:09",
+  "listings": {
+    "29363414": {
+      "room_id": 29363414,
+      "latitude": 42.17004,
+      "longitude": -83.71576,
+      "grid_id_assigned": null,
+      "grid_id_source": 230.0,
+      "bbox_id": "42.163990_-83.741350_42.189430_-83.705800",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 10:47:21",
+      "raw_data": {
+        "room_id": 29363414,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious Lower Level Guest Suite",
+        "title": "Guest suite in Saline",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 343.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $171.18",
+              "amount": 342.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "471"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/766ba0bf-3000-4868-abcc-e5a2848923a4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c08707b4-cd03-420f-a483-99d2d0cc29b7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5f320370-07c9-4700-9cf3-a722dc480973.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/397571ed-6a9b-45d5-8373-b630a9271270.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/72a6964b-06fa-460f-bf49-8692264f26d4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/037d753e-a9f4-491a-9405-558e1b12d244.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.17004,
+          "longitud": -83.71576
+        }
+      }
+    },
+    "844844035654217790": {
+      "room_id": 844844035654217790,
+      "latitude": 42.169990639904306,
+      "longitude": -83.71469690845588,
+      "grid_id_assigned": null,
+      "grid_id_source": 230.0,
+      "bbox_id": "42.163990_-83.741350_42.189430_-83.705800",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 10:47:21",
+      "raw_data": {
+        "room_id": 844844035654217790,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Rural Studio with Patio",
+        "title": "Apartment in Saline",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $142.65",
+              "amount": 285.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/aaa5e5ec-94cd-47a0-958c-0819c27b7263.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4f37a790-2935-4fdd-a1ad-09e2ef35ecc5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9903939b-1108-4fb5-b6b2-b9fe49de5400.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e336ceb2-e636-4de9-97b9-e39d5fd3a396.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6cafa753-1588-47e8-b859-dca1ad69234f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/26c6c3f1-71b2-4017-9330-d4fbb39ea580.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.169990639904306,
+          "longitud": -83.71469690845588
+        }
+      }
+    }
+  }
+}

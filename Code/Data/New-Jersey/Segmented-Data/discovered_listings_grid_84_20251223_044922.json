@@ -1,0 +1,117 @@
+{
+  "grid_id": 84,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-23 04:49:22",
+  "listings": {
+    "1360226637480424815": {
+      "room_id": 1360226637480424815,
+      "latitude": 40.6708,
+      "longitude": -74.0939,
+      "grid_id_assigned": null,
+      "grid_id_source": 84.0,
+      "bbox_id": "40.664170_-74.097010_40.686610_-74.076030",
+      "pass_id": 3,
+      "discovered_at": "2025-12-23 04:46:49",
+      "raw_data": {
+        "room_id": 1360226637480424815,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Luxury 1 bed 20 mins from NY",
+        "title": "Apartment in Bayonne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 1 night",
+            "curency_symbol": "$",
+            "amount": 270.0,
+            "discount": 250.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "1 night x $250.00",
+              "amount": 250.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.56,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1360226637480424815/original/e377e642-e262-4f48-9292-6ac5552ff4ca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1360226637480424815/original/ce52a449-8926-4fbc-8688-4ca7c1f262cb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1360226637480424815/original/14b4a797-96c4-4d73-827f-e12ce6bfed9d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1360226637480424815/original/38dea3d1-c9aa-43bc-a61f-52e59c4ec5aa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1360226637480424815/original/957db27b-4238-4307-ac08-15e4baf97879.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1360226637480424815/original/507a9c83-f134-4862-8b7f-167a701cb23a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.6708,
+          "longitud": -74.0939
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 19,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 16:41:36",
+  "listings": {
+    "1140477291760346880": {
+      "room_id": 1140477291760346880,
+      "latitude": 37.84578,
+      "longitude": -122.03728,
+      "grid_id_assigned": null,
+      "grid_id_source": 19.0,
+      "bbox_id": "37.825040_-122.066110_37.851500_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:38:42",
+      "raw_data": {
+        "room_id": 1140477291760346880,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 12 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 12 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Immaculate Tuscan Villa in West Alamo",
+        "title": "Home in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 6 nights",
+            "curency_symbol": "$",
+            "amount": 5592.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "6 nights x $931.96",
+              "amount": 5591.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140477291760346880/original/675552bf-936f-4b3a-824f-93d9c280d191.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140477291760346880/original/ba416944-0ff8-4bce-8975-d29adebf2639.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140477291760346880/original/0ffa3e09-d33d-4138-93be-b0082b194673.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140477291760346880/original/72010bee-e21e-41fd-96f9-7f06e55f18ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140477291760346880/original/4866a8e7-f3c8-44d4-83f5-ca5940ad50c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1140477291760346880/original/521f7623-3265-4de4-a487-ce7b0e704a34.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.84578,
+          "longitud": -122.03728
+        }
+      }
+    }
+  }
+}

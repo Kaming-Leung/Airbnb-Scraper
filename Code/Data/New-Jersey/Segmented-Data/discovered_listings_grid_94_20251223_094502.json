@@ -1,0 +1,296 @@
+{
+  "grid_id": 94,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-23 09:45:02",
+  "listings": {
+    "704509709325061320": {
+      "room_id": 704509709325061320,
+      "latitude": 40.64544,
+      "longitude": -74.08525,
+      "grid_id_assigned": null,
+      "grid_id_source": 94.0,
+      "bbox_id": "40.641740_-74.097010_40.664170_-74.076030",
+      "pass_id": 4,
+      "discovered_at": "2025-12-23 09:42:32",
+      "raw_data": {
+        "room_id": 704509709325061320,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3b6fc24c-6d4e-4699-a234-8d617ff46d5e.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Elaine",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b6fc24c-6d4e-4699-a234-8d617ff46d5e.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "118 reviews on the listing",
+              "label": "Reviews",
+              "value": "118",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.6 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.6",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5 years of hosting",
+              "label": "Years hosting",
+              "value": "5",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 4,
+            "months": 6
+          },
+          "ratingCount": 118,
+          "ratingAverage": 4.6
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Spacious Home Away from Home 2",
+        "title": "Rooms in St. George",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 483.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $241.36",
+              "amount": 482.0,
+              "currency": "$.72"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.6,
+          "reviewCount": "118"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-704509709325061320/original/06839705-a9e1-410d-a367-79106f2251bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-704509709325061320/original/0d585cfc-7a40-4b49-8b2c-b935173d8f9e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c5335f92-6640-431c-99b8-6a1e72ad3b56.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/78e3f360-4588-4b09-b5ea-c78aecbf4521.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-704509709325061320/original/5da655f2-bed7-4086-836c-dea6233aa8ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-704509709325061320/original/e5b2dbb5-d3df-4150-bafa-ce90d7802538.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.64544,
+          "longitud": -74.08525
+        }
+      }
+    },
+    "1480480048164486842": {
+      "room_id": 1480480048164486842,
+      "latitude": 40.64248,
+      "longitude": -74.09111,
+      "grid_id_assigned": null,
+      "grid_id_source": 94.0,
+      "bbox_id": "40.641740_-74.097010_40.664170_-74.076030",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 09:42:38",
+      "raw_data": {
+        "room_id": 1480480048164486842,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Suite, 5 Minute Uber to the Manhattan Ferry!",
+        "title": "Place to stay in Staten Island",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 349.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $116.02",
+              "amount": 348.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480480048164486842/original/048e6742-2b29-4ae2-81f9-ec878e2951e3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480480048164486842/original/4667c599-84c8-45ad-a6da-166f6c5077b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480480048164486842/original/6abf8f2d-4777-427c-a3c2-7f2329a9c956.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480480048164486842/original/7d164ddd-2bd3-4328-8f01-a123becdc98d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480480048164486842/original/b63326ee-e475-450e-832e-a94135523006.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1480480048164486842/original/6285b1ae-6811-4d53-a984-9d1bb6972365.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 40.64248,
+          "longitud": -74.09111
+        }
+      }
+    }
+  }
+}

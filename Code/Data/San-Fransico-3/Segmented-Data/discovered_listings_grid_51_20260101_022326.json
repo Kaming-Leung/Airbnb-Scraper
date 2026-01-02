@@ -1,0 +1,131 @@
+{
+  "grid_id": 51,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 02:23:26",
+  "listings": {
+    "680025446822474144": {
+      "room_id": 680025446822474144,
+      "latitude": 37.2536,
+      "longitude": -122.0695,
+      "grid_id_assigned": null,
+      "grid_id_source": 51.0,
+      "bbox_id": "37.240460_-122.095030_37.266900_-122.065300",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 02:20:32",
+      "raw_data": {
+        "room_id": 680025446822474144,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "13 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "7 Bedrooms, Large,Private Villa with Gorgeous View",
+        "title": "Villa in Saratoga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 12262.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $2,452.33",
+              "amount": 12261.0,
+              "currency": "$.66"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "50"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/2f6868ad-51a9-4e00-959d-f328a1eff3ec.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-680025446822474144/original/98f8825e-6136-4692-bde0-c1fd3df4ccd4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-680025446822474144/original/0c676602-5711-49a1-8f98-7208f573966a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-680025446822474144/original/3623ef75-3f85-496a-9a58-1a55f7c0ca6d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/521a7913-6fda-41b2-b939-cd7da80e9107.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e9b067b8-9887-493d-8663-69452387579b.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.2536,
+          "longitud": -122.0695
+        }
+      }
+    }
+  }
+}

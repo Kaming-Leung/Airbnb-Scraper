@@ -1,0 +1,1584 @@
+{
+  "grid_id": 40,
+  "total_listings": 13,
+  "discovery_timestamp": "2025-12-29 03:34:20",
+  "listings": {
+    "1325697350784139351": {
+      "room_id": 1325697350784139351,
+      "latitude": 38.74251,
+      "longitude": -121.17629,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:31:26",
+      "raw_data": {
+        "room_id": 1325697350784139351,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Granite Bay Home | 5BR with Private Yard",
+        "title": "Home in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3824.0,
+            "discount": 3290.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $658.00",
+              "amount": 3290.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1325697350784139351/original/5813a225-4bf8-4e6e-b65e-065b85982be3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1325697350784139351/original/bc0ffe6b-1eb2-4954-8d62-e6bb80770c3f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1325697350784139351/original/3aa3850b-15d1-407c-936d-521b43588d59.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1325697350784139351/original/47a4529c-2701-4a96-b303-0eeebafc6be6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1325697350784139351/original/37611efd-9391-4b2f-84f8-617aaf3253d0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1325697350784139351/original/5023e4b1-fb82-4ed8-91d2-68326289b419.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.74251,
+          "longitud": -121.17629
+        }
+      }
+    },
+    "23125734": {
+      "room_id": 23125734,
+      "latitude": 38.7378,
+      "longitude": -121.1567,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:31:26",
+      "raw_data": {
+        "room_id": 23125734,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "'Casa d'Amore': Extravagant Lakefront Villa!",
+        "title": "Home in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4223.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $844.60",
+              "amount": 4223.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "53"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23125734/original/1415c591-c7d7-484f-b0fd-e138278f32d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23125734/original/966e6c43-b8b7-483c-a016-846828cc855b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23125734/original/9f11fc5a-a6b8-4682-ae11-0c4a6cb96565.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23125734/original/fe2c14b5-3dc0-48ec-af98-cdbf9edddfc1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23125734/original/ff9bbfab-feb2-43d4-b8a2-e2d69614cab4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23125734/original/be032249-2fd5-43ea-8435-75ab7e0a2160.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.7378,
+          "longitud": -121.1567
+        }
+      }
+    },
+    "18961529": {
+      "room_id": 18961529,
+      "latitude": 38.73684,
+      "longitude": -121.15598,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:31:26",
+      "raw_data": {
+        "room_id": 18961529,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Casita d'Amore - relaxing-Get-Away & Athletic base",
+        "title": "Guest suite in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1018.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $203.59",
+              "amount": 1017.0,
+              "currency": "$.93"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "112"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/2bfd17a5-9732-4f3a-8fd8-38ecc0c7a4dc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/47a40e11-6262-46b5-a9a3-41dd9f6490bd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/69152008-8fd1-40ee-a7b7-5da469803bd4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7e93cac5-df0f-4c16-b68d-41c2baa27d6d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0fe115f5-97d4-44a0-a93e-c40a932e22e5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c2ba1c62-3c94-40d4-8d83-95e745ca3f85.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.73684,
+          "longitud": -121.15598
+        }
+      }
+    },
+    "13591304": {
+      "room_id": 13591304,
+      "latitude": 38.7203,
+      "longitude": -121.17745,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:31:26",
+      "raw_data": {
+        "room_id": 13591304,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 15 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 15 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lg. Kid Friendly Folsom Lake Home. Sleeps 10. Pool",
+        "title": "Home in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 7932.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,586.24",
+              "amount": 7931.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/500b21b3-f893-46a1-9c49-60b66a104ad4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c9d3c75e-8ba3-4677-bf34-07871c96296c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ca9e7891-ccc1-4c92-8747-3364329d3ae9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/734740f1-4a37-4ed3-9cd1-e4b74d8bc5eb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/718453db-edb3-41c1-9df5-985abee7799b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4c6882f1-1f31-4ee1-9a5c-2b7841f37909.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.7203,
+          "longitud": -121.17745
+        }
+      }
+    },
+    "918196759177399261": {
+      "room_id": 918196759177399261,
+      "latitude": 38.7198,
+      "longitude": -121.1764,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 03:31:26",
+      "raw_data": {
+        "room_id": 918196759177399261,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Folsom Lake stunner w/ Pool!",
+        "title": "Home in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4330.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $865.93",
+              "amount": 4329.0,
+              "currency": "$.63"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918196759177399261/original/b02b0b62-77be-4d8f-ba3a-37a436fb43b3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918196759177399261/original/8c13fe76-168b-4d5a-9cb8-70572108e27c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918196759177399261/original/2507ba8e-9086-492d-b8a0-fcd3d60d9687.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918196759177399261/original/04b93341-1f77-4c86-964a-5cc5f71d3991.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918196759177399261/original/157aa04e-31ad-46cb-8c0e-fac188f1f35e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-918196759177399261/original/480bca31-6ae3-4727-80c0-bca8d03e0e7a.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.7198,
+          "longitud": -121.1764
+        }
+      }
+    },
+    "1165414571489342627": {
+      "room_id": 1165414571489342627,
+      "latitude": 38.7237,
+      "longitude": -121.1768,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:31:32",
+      "raw_data": {
+        "room_id": 1165414571489342627,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Guesthouse by the lake",
+        "title": "Guesthouse in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 309.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $154.06",
+              "amount": 308.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "73"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1165414571489342627/original/81592ce3-824a-40a3-8af4-bbb071220c9b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1165414571489342627/original/ed320cfe-3644-46dc-93e3-c8d3e41e9fda.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1165414571489342627/original/647ca849-e853-4aa7-826d-ade159607dfa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1165414571489342627/original/27d67860-2738-4bd2-8066-14e2c48da9b6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1165414571489342627/original/c6766220-a9cd-4b2c-aa18-8de57ed3256a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1165414571489342627/original/d2b5f8a4-5e80-48ea-bf0a-a9f88c2b273c.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.7237,
+          "longitud": -121.1768
+        }
+      }
+    },
+    "1499523923214082639": {
+      "room_id": 1499523923214082639,
+      "latitude": 38.72291,
+      "longitude": -121.17801,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:31:32",
+      "raw_data": {
+        "room_id": 1499523923214082639,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Tranquil, stylish guesthouse near the Lake",
+        "title": "Guesthouse in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 341.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $170.04",
+              "amount": 340.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1499523923214082639/original/d95594b3-e5bb-4a4b-8a8b-83c3274685ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1499523923214082639/original/b88f38ac-6302-45b9-a529-03b3b1fb9d46.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1499523923214082639/original/b2afd950-e6ef-478e-8f6c-867dfd4074e8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1499523923214082639/original/aee8b8a7-d587-4d0e-8cce-82c5db6e8f92.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1499523923214082639/original/9998c340-4d6d-461d-b891-1aa9b282f3b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1499523923214082639/original/a8e077ec-97ec-4ab7-9a0f-a08dde38f59e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.72291,
+          "longitud": -121.17801
+        }
+      }
+    },
+    "46275438": {
+      "room_id": 46275438,
+      "latitude": 38.73885,
+      "longitude": -121.15633,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:31:32",
+      "raw_data": {
+        "room_id": 46275438,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Folsom Lakefront* Private lake access. Granite Bay",
+        "title": "Home in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 386.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $192.86",
+              "amount": 385.0,
+              "currency": "$.72"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/029131fa-2e0c-4b29-9db1-5fe4d08fcb2a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3fa8a790-66f9-4082-abd8-6ea90bcb0ac9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f97e5e19-546e-4a3a-b56f-17e7815487f1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3ba7094c-b5f1-4203-a3bc-99b1ada383b3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/25932cbb-c736-4574-b09e-9efbe01ab244.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/548a9d36-ca06-4654-a195-ce00e9cbc5c4.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.73885,
+          "longitud": -121.15633
+        }
+      }
+    },
+    "46280364": {
+      "room_id": 46280364,
+      "latitude": 38.73887,
+      "longitude": -121.15536,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:31:32",
+      "raw_data": {
+        "room_id": 46280364,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lakefront 2bd/2ba. Private lake access in backyard",
+        "title": "Home in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 363.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $181.45",
+              "amount": 362.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 3.33,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/9846e611-36ef-4b14-b632-6e3ec5ae11ff.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/029131fa-2e0c-4b29-9db1-5fe4d08fcb2a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b84777f-0636-4142-a00d-16322957cea9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b1a90786-b60e-4826-939c-3e442c61f9a8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/98d66824-f2fa-4945-b704-75e4b6e53fd8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/69c18943-a16f-4e79-a09a-199fa8fbf293.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.73887,
+          "longitud": -121.15536
+        }
+      }
+    },
+    "53474313": {
+      "room_id": 53474313,
+      "latitude": 38.73867,
+      "longitude": -121.15715,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 03:31:38",
+      "raw_data": {
+        "room_id": 53474313,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Exclusive Lakeridge studio, top amenities & trails",
+        "title": "Apartment in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 550.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $183.04",
+              "amount": 549.0,
+              "currency": "$.13"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "204"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/4341bfcb-d592-407b-8ad2-d7c97d9e4ff1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a48dcdfe-dfc4-46bc-b13e-bac33248b042.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3789a2ff-83d3-4cf6-8606-9cb9372a0126.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f128c52c-61ef-4f96-87ed-6659f6e4d12f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a6e727ed-0f24-4403-ae08-1341309f6445.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/37cfbefa-03a1-4f80-bf32-765d167dd341.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.73867,
+          "longitud": -121.15715
+        }
+      }
+    },
+    "14649910": {
+      "room_id": 14649910,
+      "latitude": 38.73734,
+      "longitude": -121.15569,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 03:31:56",
+      "raw_data": {
+        "room_id": 14649910,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Folsom Lakefront in Granite Bay!",
+        "title": "Apartment in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 509.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $169.65",
+              "amount": 508.0,
+              "currency": "$.96"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.53,
+          "reviewCount": "348"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/85232198-31e2-4c19-83ec-5fa6faa7b274.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/70549771-6035-413e-9c5d-b660038624ac.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/59914147-5db6-4393-baec-4bff9be74f66.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e3056747-d474-4d7e-bc07-91137bfc5c0d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6f5ed467-efa8-4ce8-aabd-a0deada3bd35.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9555ac9c-81bf-4c64-833e-9e6c8e0efa93.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.73734,
+          "longitud": -121.15569
+        }
+      }
+    },
+    "1525798259707977201": {
+      "room_id": 1525798259707977201,
+      "latitude": 38.73758,
+      "longitude": -121.15503,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 03:31:56",
+      "raw_data": {
+        "room_id": 1525798259707977201,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Lakefront 2 bedroom 2 bathroom\nLake access in yard",
+        "title": "Apartment in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 593.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $197.42",
+              "amount": 592.0,
+              "currency": "$.27"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1525798259707977201/original/740ca739-bdef-4e5a-ab23-db4308f5aca8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1525798259707977201/original/12aa836f-f2e2-41b2-868f-256b000aeff1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1525798259707977201/original/c2badf65-76a2-4ab7-8289-641f960bd936.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1525798259707977201/original/fc6fd391-6e27-4441-a607-d0e5535b6fc0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1525798259707977201/original/8df1d9a8-fa89-4e07-b58f-e6b46a9bd3b5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1525798259707977201/original/ad789c2f-312f-4b0f-b649-bbe4cba75d03.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.73758,
+          "longitud": -121.15503
+        }
+      }
+    },
+    "1225048891731995238": {
+      "room_id": 1225048891731995238,
+      "latitude": 38.73708,
+      "longitude": -121.15632,
+      "grid_id_assigned": null,
+      "grid_id_source": 40.0,
+      "bbox_id": "38.703370_-121.180390_38.748080_-121.135070",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 03:31:56",
+      "raw_data": {
+        "room_id": 1225048891731995238,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lakefront! Backyard lake access!",
+        "title": "Apartment in Granite Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 409.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $136.18",
+              "amount": 408.0,
+              "currency": "$.54"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.6,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/4828c3e9-ac01-4dfa-a7ad-c83b4c3b7e16.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/de94efd9-cb81-4c62-ab5e-909d62d90961.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b831b317-a25b-4e5b-a919-8736bb4de9c3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cd9bdd59-4510-49d2-be5b-56782c42f794.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/26ce6720-b551-4207-b176-a339bca13f2d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1010816627478324229/original/28d60798-062c-4057-aee5-30913e0f2b97.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.73708,
+          "longitud": -121.15632
+        }
+      }
+    }
+  }
+}

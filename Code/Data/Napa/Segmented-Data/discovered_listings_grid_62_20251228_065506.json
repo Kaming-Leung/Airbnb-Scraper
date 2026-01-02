@@ -1,0 +1,153 @@
+{
+  "grid_id": 62,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 06:55:06",
+  "listings": {
+    "1267869941361770916": {
+      "room_id": 1267869941361770916,
+      "latitude": 38.3167,
+      "longitude": -122.2788,
+      "grid_id_assigned": null,
+      "grid_id_source": 62.0,
+      "bbox_id": "38.314340_-122.287200_38.322090_-122.276690",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 06:52:25",
+      "raw_data": {
+        "room_id": 1267869941361770916,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/5695b686-ad21-4372-bb27-0706d2edbfc8.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Chamroeun",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5695b686-ad21-4372-bb27-0706d2edbfc8.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "15 reviews on the listing",
+              "label": "Reviews",
+              "value": "15",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 year of hosting",
+              "label": "Year hosting",
+              "value": "1",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 2
+          },
+          "ratingCount": 15,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "1 bedroom and shared bathroom",
+        "title": "Room in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 463.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $154.06",
+              "amount": 462.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1267869941361770916/original/299b1293-ad54-4109-826f-81f3f8f9ccdc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1267869941361770916/original/102e0076-1d4f-4a4b-ac48-7460924aa291.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1267869941361770916/original/855b4d8f-6969-4ac4-aa76-e0c6378b94a8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1267869941361770916/original/9ae8e6bc-4762-48c7-8b83-12ef95f6d0cb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1267869941361770916/original/a8a581ab-f49d-4c57-b2cf-bba9b8ed76d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1267869941361770916/original/97d90a30-b63c-4791-88dd-89c5c8b058cc.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.3167,
+          "longitud": -122.2788
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "grid_id": 20,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-21 04:05:18",
+  "listings": {
+    "1046602048011532394": {
+      "room_id": 1046602048011532394,
+      "latitude": 41.9752,
+      "longitude": -87.8669,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "41.969330_-87.890590_41.994670_-87.865880",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:05:14",
+      "raw_data": {
+        "room_id": 1046602048011532394,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Queen studio by O’Hare",
+        "title": "Apartment in Rosemont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 605.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $302.41",
+              "amount": 604.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/4aad030f-30e5-4b11-ba5e-19e9350b2170.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cfbe569d-bddd-4bb5-9154-195d66903242.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53d9a791-7fdb-458f-aee9-a3b9a95a66cf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9690d26e-468e-48ec-89be-6ff19c8a7e7d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1046602048011532394/original/c8aea0be-8214-45c8-bc9f-897f24a134ca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18386481-c898-4726-8eee-985e710fb963.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.9752,
+          "longitud": -87.8669
+        }
+      }
+    }
+  }
+}

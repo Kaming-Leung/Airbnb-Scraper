@@ -1,0 +1,2013 @@
+{
+  "grid_id": 69,
+  "total_listings": 15,
+  "discovery_timestamp": "2026-01-01 19:11:50",
+  "listings": {
+    "1425704881426955755": {
+      "room_id": 1425704881426955755,
+      "latitude": 37.699331639937164,
+      "longitude": -122.05189755451136,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 1425704881426955755,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Cool Pool House",
+        "title": "Home in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5077.0,
+            "discount": 4137.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $827.35",
+              "amount": 4136.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "27"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425704881426955755/original/e71d753b-3472-480e-8f0b-bb772458d2fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425704881426955755/original/38c440d6-c67d-480b-b2c0-dec5b9fe6101.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425704881426955755/original/b53100e1-4c49-41cf-9158-5dadffb75a30.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425704881426955755/original/990c84bf-c7c4-4894-834c-62b7cc549318.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425704881426955755/original/8b5b1c9c-58a6-4429-a3a0-d259e237be7b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1425704881426955755/original/1fed0527-f524-4b56-af75-c2ae9e9a290b.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.699331639937164,
+          "longitud": -122.05189755451136
+        }
+      }
+    },
+    "14791269": {
+      "room_id": 14791269,
+      "latitude": 37.6972,
+      "longitude": -122.0497,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 14791269,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Terraced Garden Suite - #1 Favorite ★★★★★",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1998.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $399.41",
+              "amount": 1997.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "90"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/36d7b706-18fe-4aad-957b-d6f4af686b27.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-14791269/original/b37a98bb-0c6b-4020-a7e2-a84a0de72924.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-14791269/original/d95c9aad-5424-4db6-97ff-f9b3bc391811.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8942b6a2-7490-4a72-8d04-57f97ef81ce9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/99026008-c856-4a4b-9ba5-8f175e9ff4b5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/58196e31-0b71-4b0b-b2f1-5ef0815f6c90.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.6972,
+          "longitud": -122.0497
+        }
+      }
+    },
+    "21040892": {
+      "room_id": 21040892,
+      "latitude": 37.69678,
+      "longitude": -122.04933,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 21040892,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Premium Luxury 2 BR Villa - Kitchen,  Free WiFi",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -275.0,
+          "currency_symbol": "$.00"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5963.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,247.53",
+              "amount": 6237.0,
+              "currency": "$.65"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -275.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 5962.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21040892/original/ce079e4d-e2bf-421a-9569-855d4c947278.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21040892/original/c6a3e907-6d3b-42cb-8add-aaa5b908599c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21040892/original/d00f6518-059c-47f6-8119-b0acb5dd2dae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21040892/original/224df907-18eb-4e98-89a6-639a0a2fe2e1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21040892/original/dd0635d6-4121-4a1a-a9a3-a671bdf84f18.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21040892/original/49de8192-02be-491a-9baf-75d078a72c8d.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69678,
+          "longitud": -122.04933
+        }
+      }
+    },
+    "13026864": {
+      "room_id": 13026864,
+      "latitude": 37.69597,
+      "longitude": -122.05107,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 13026864,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Clean and Classy Private Villa II Retreat 3BR/3BA",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -358.0,
+          "currency_symbol": "$.00"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 7786.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $1,163.30",
+              "amount": 8143.0,
+              "currency": "$.11"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -358.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 7785.0,
+              "currency": "$.11"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "33"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13026864/original/df6714f3-7bf5-4948-8278-0682e7e38735.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13026864/original/7383bc8f-79b8-4b39-a27f-bf0bd30ffb95.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13026864/original/c5411e5c-f2c4-4794-b080-900c31fcc01d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13026864/original/6d1a9d8e-ddde-428d-bf2d-421b9ed64ec7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13026864/original/f5d2c69f-1c24-42ef-a2a1-b714f6f6a69f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13026864/original/ffab319d-52b9-4b7b-94d1-d57fe804115e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69597,
+          "longitud": -122.05107
+        }
+      }
+    },
+    "20523052": {
+      "room_id": 20523052,
+      "latitude": 37.69971,
+      "longitude": -122.05062,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 20523052,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Relaxing 4 Bedroom, Center of Bay Area, Hot Tub",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -2625.0,
+          "currency_symbol": "$.00"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 19601.0,
+            "discount": 16976.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $3,920.00",
+              "amount": 19600.0,
+              "currency": "$.01"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -2625.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 16975.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/3db3e812-8674-4550-bf85-6d7f58588123.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20523052/original/99d3b43e-ca06-4810-949a-74c1dfea7261.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20523052/original/e815fb9b-b539-4983-ac79-61d5af5e9fdd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20523052/original/34200e01-39c4-4f82-bd58-7c967f4af634.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20523052/original/f77c112f-d090-427b-8b13-6fd448cf3e53.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20523052/original/4c34486e-0efc-4761-8330-4c8989314bab.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69971,
+          "longitud": -122.05062
+        }
+      }
+    },
+    "13031120": {
+      "room_id": 13031120,
+      "latitude": 37.69837,
+      "longitude": -122.04918,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 13031120,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "8 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "12 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxe Villa - Family and Corporate Rental Sleeps 21",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -2505.0,
+          "currency_symbol": "$.90"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 28243.0,
+            "discount": 25738.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $5,648.60",
+              "amount": 28242.0,
+              "currency": "$.98"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -2505.0,
+              "currency": "$.90"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 25737.0,
+              "currency": "$.08"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13031120/original/ce2d9888-e02b-4fd9-97c6-1a32a7c15b55.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/01c44b56-5314-4f07-9ffa-c6ec6b95c9db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13031120/original/e33d73d1-c8bf-4235-852b-e9529c331eab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13031120/original/e739f8cf-cc91-482d-a7b4-bcf23d6ebad5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13031120/original/4bd1e0e0-c469-4420-a99c-e7cf96b3216f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13031120/original/67e4e03a-2319-4b5e-b6ca-3f80eb9db8fe.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69837,
+          "longitud": -122.04918
+        }
+      }
+    },
+    "13030877": {
+      "room_id": 13030877,
+      "latitude": 37.69811,
+      "longitude": -122.05121,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 13030877,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "#1 Family Friendly West Coast Villa, Sleeps 15",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -2850.0,
+          "currency_symbol": "$.00"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 21281.0,
+            "discount": 18431.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $4,256.00",
+              "amount": 21280.0,
+              "currency": "$.01"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -2850.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 18430.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13030877/original/fb798dca-6a91-47cf-ac02-cd1817223ad5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a860e410-c315-4aa7-b4e3-f16429d8d2d9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13030877/original/be950f11-1e3b-4de5-a7cb-f8f9405fc3d6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13030877/original/df8a6c3c-6188-4ec2-95d7-d60e6048c7fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13030877/original/49db0894-db06-492f-a4e7-0532dcb1521b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13030877/original/6d5d0651-c5ce-423c-a3aa-72936016feab.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69811,
+          "longitud": -122.05121
+        }
+      }
+    },
+    "20439658": {
+      "room_id": 20439658,
+      "latitude": 37.69734,
+      "longitude": -122.04948,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 20439658,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Upscale 4 Bedroom Castro Valley Villa",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -1201.0,
+          "currency_symbol": "$.50"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 8972.0,
+            "discount": 7770.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,794.24",
+              "amount": 8971.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -1201.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 7769.0,
+              "currency": "$.70"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20439658/original/199a51df-4785-4e11-a1be-b106329736f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20439658/original/6167f2e9-ab78-4eb9-aa32-f99929a3e535.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20439658/original/0b1b783e-2eba-4cf6-9481-3697da22186f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20439658/original/1f9532b3-7241-4942-bd4c-ba9ad59113ad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20439658/original/c5eb54aa-6a6f-4976-b4f6-7b4da9cb08a9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20439658/original/4e7aa6d5-6b59-431b-96a4-d9bb6b3a9439.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69734,
+          "longitud": -122.04948
+        }
+      }
+    },
+    "20801324": {
+      "room_id": 20801324,
+      "latitude": 37.69696,
+      "longitude": -122.05071,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 20801324,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "10 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Family Approved 7 BR Villa, Sleeps 17, Hot Tub",
+        "title": "Villa in Castro Valley",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -3545.0,
+          "currency_symbol": "$.70"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 26475.0,
+            "discount": 22929.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $5,294.91",
+              "amount": 26474.0,
+              "currency": "$.57"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -3545.0,
+              "currency": "$.70"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 22928.0,
+              "currency": "$.87"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20801324/original/ffc3fcc5-a5a0-49a6-83e1-14e76924a810.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20801324/original/2780844e-45d0-4dd8-9215-cf31ec1fbdd8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20801324/original/203f452c-b263-49a3-8ece-a8c0d506fbfc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20801324/original/ca440f94-9591-4d15-a4cc-d5a01c104d9c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20801324/original/b5c08ca8-db13-44be-a8b9-efc562fc107a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20801324/original/404fc173-adba-45b0-92f9-1bdce037e4cd.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69696,
+          "longitud": -122.05071
+        }
+      }
+    },
+    "787846798813763791": {
+      "room_id": 787846798813763791,
+      "latitude": 37.71124,
+      "longitude": -122.05236,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 787846798813763791,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet resort home in San Francisco East Bay",
+        "title": "Home in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1364.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $272.74",
+              "amount": 1363.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787846798813763791/original/a2f2f84c-71cb-4b3f-ad03-fe747be87b69.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787846798813763791/original/8f875571-aac2-4c14-8f07-ea884e080532.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787846798813763791/original/97110bfd-2615-4c53-8efc-7c8704a3d9e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787846798813763791/original/e95290fd-a66a-4781-ab28-d1f2fdfcb7f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787846798813763791/original/b3ae099b-36ad-4ec3-809c-87c3c967978c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787846798813763791/original/8e142a4b-dabc-457a-9f2f-352b32bf119d.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.71124,
+          "longitud": -122.05236
+        }
+      }
+    },
+    "703226229664594177": {
+      "room_id": 703226229664594177,
+      "latitude": 37.69947,
+      "longitude": -122.06106,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 19:08:54",
+      "raw_data": {
+        "room_id": 703226229664594177,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful home in heart of the Bay Area. Sleeps 5",
+        "title": "Home in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1627.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $325.24",
+              "amount": 1626.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.36,
+          "reviewCount": "22"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/09fed2e7-1143-4e3a-909e-8889b8f3f2a4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-703226229664594177/original/d3ed24ec-4580-4997-ab5e-50a4952716fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-703226229664594177/original/f24e4ddc-91cf-420e-85ef-61bdb5d95b30.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-703226229664594177/original/c52d979f-4221-436b-94da-2ba36f46d9d7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-703226229664594177/original/b365bc20-7094-48b5-9aa4-9d5cadd22e5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-703226229664594177/original/1d34cfaf-2224-4511-aa17-d1a03da4ba59.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.69947,
+          "longitud": -122.06106
+        }
+      }
+    },
+    "598694176600385924": {
+      "room_id": 598694176600385924,
+      "latitude": 37.70708,
+      "longitude": -122.06108,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 19:09:06",
+      "raw_data": {
+        "room_id": 598694176600385924,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy in Law Studio - Castro Valley",
+        "title": "Guest suite in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 327.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $113.98",
+              "amount": 341.0,
+              "currency": "$.94"
+            },
+            {
+              "description": "Special offer",
+              "amount": -15.0,
+              "currency": "$.07"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 326.0,
+              "currency": "$.87"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "146"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-598694176600385924/original/2f99bb87-e38d-4557-8cb1-3d83b5c0b14d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-598694176600385924/original/35e99195-5b89-40c6-a8e6-26291fa296bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-598694176600385924/original/7a8e379d-eda4-4f09-8fa2-5f055dec246a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-598694176600385924/original/b35c5074-9f49-429c-b15e-7659086a2de7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-598694176600385924/original/3b8dcd62-4ac5-4ebd-a35c-a247ee15f7f0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-598694176600385924/original/09a98c95-37ed-4046-924e-f1f8546d1571.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.70708,
+          "longitud": -122.06108
+        }
+      }
+    },
+    "2478402": {
+      "room_id": 2478402,
+      "latitude": 37.69882,
+      "longitude": -122.0603,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 19:09:06",
+      "raw_data": {
+        "room_id": 2478402,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/users/12676617/profile_pic/1398238592/original.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Charles",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/12676617/profile_pic/1398238592/original.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "296 reviews on the listing",
+              "label": "Reviews",
+              "value": "296",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.85 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.85",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "12 years of hosting",
+              "label": "Years hosting",
+              "value": "12",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 11,
+            "months": 10
+          },
+          "ratingCount": 296,
+          "ratingAverage": 4.85
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Blue Room in Green Home in Castro Valley",
+        "title": "Room in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 252.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $83.69",
+              "amount": 251.0,
+              "currency": "$.06"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "296"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/65267822/b4d5fc54_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/32820226/41feacc7_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/36998411/52e7d87e_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/36998458/4785d692_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/36998492/a666892b_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/65267809/c112049e_original.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.69882,
+          "longitud": -122.0603
+        }
+      }
+    },
+    "1377682888425421445": {
+      "room_id": 1377682888425421445,
+      "latitude": 37.71103839521383,
+      "longitude": -122.03495266371672,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 19:09:18",
+      "raw_data": {
+        "room_id": 1377682888425421445,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Castro Valley Master suite own entry",
+        "title": "Home in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 270.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $134.60",
+              "amount": 269.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.76,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377682888425421445/original/077a030b-9ca5-4a02-93cf-f232b28f50f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377682888425421445/original/6d0898f0-6f26-4a4c-9f3e-429bad24d4c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377682888425421445/original/0cbee276-47f2-4ded-a427-65463cd190f8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377682888425421445/original/8ad2c79f-2a0f-48b3-a57e-08854ebec0a8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377682888425421445/original/251327c0-acd0-4cd9-9fce-b20f5a347068.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1377682888425421445/original/15039940-6638-46f3-890f-a31700d765ca.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.71103839521383,
+          "longitud": -122.03495266371672
+        }
+      }
+    },
+    "1224834572605403571": {
+      "room_id": 1224834572605403571,
+      "latitude": 37.70028,
+      "longitude": -122.05084,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "37.692730_-122.066110_37.719190_-122.032330",
+      "pass_id": 20,
+      "discovered_at": "2026-01-01 19:10:54",
+      "raw_data": {
+        "room_id": 1224834572605403571,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/a9d4ed9e-5d36-41d0-b15b-1a4e709b43d6.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Li",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a9d4ed9e-5d36-41d0-b15b-1a4e709b43d6.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "32 reviews on the listing",
+              "label": "Reviews",
+              "value": "32",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.81 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.81",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 0
+          },
+          "ratingCount": 32,
+          "ratingAverage": 4.81
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Luxury Master Sui. Scenic Views",
+        "title": "Room in Castro Valley",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $91.29",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "32"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1224834572605403571/original/91789ebc-6bc1-4618-a765-f2dfb6ee3d2e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1224834572605403571/original/2aaf32d7-1bcf-4551-87e4-a740a87d0860.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1224834572605403571/original/3db75fd5-aa02-42b4-b26b-adfcd5cb02d5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1224834572605403571/original/40ea46a6-37a4-461c-9168-caf8db1c17e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1224834572605403571/original/766be1cf-19a6-4c0f-9ccb-c00f3b730ceb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1224834572605403571/original/5a9dc0ff-8b41-4e61-9d28-6b338cb95b9d.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.70028,
+          "longitud": -122.05084
+        }
+      }
+    }
+  }
+}

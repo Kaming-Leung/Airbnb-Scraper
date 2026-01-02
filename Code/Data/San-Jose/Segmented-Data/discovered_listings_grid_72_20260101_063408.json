@@ -1,0 +1,397 @@
+{
+  "grid_id": 72,
+  "total_listings": 3,
+  "discovery_timestamp": "2026-01-01 06:34:08",
+  "listings": {
+    "879917982311819736": {
+      "room_id": 879917982311819736,
+      "latitude": 37.27821,
+      "longitude": -121.74676,
+      "grid_id_assigned": null,
+      "grid_id_source": 72.0,
+      "bbox_id": "37.263060_-121.761560_37.289070_-121.728380",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:31:13",
+      "raw_data": {
+        "room_id": 879917982311819736,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Evergreen house",
+        "title": "Home in Evergreen",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2511.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $502.12",
+              "amount": 2510.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.58,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-879917982311819736/original/aea52841-1fb1-4486-a315-6c59d58a7642.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-879917982311819736/original/5d381e28-4d0b-4b07-a4ac-b76bc611435b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-879917982311819736/original/f3d164a4-601b-466b-890c-5bde91ce3676.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-879917982311819736/original/fa2b8cbf-ce15-40f0-87f2-e0e865d93dda.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-879917982311819736/original/99e0346e-557e-4574-afd7-7e52f14fa274.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-879917982311819736/original/fd3f48d2-a561-481e-8208-46394ee344b3.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.27821,
+          "longitud": -121.74676
+        }
+      }
+    },
+    "787908063112563894": {
+      "room_id": 787908063112563894,
+      "latitude": 37.27843,
+      "longitude": -121.74486,
+      "grid_id_assigned": null,
+      "grid_id_source": 72.0,
+      "bbox_id": "37.263060_-121.761560_37.289070_-121.728380",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:31:19",
+      "raw_data": {
+        "room_id": 787908063112563894,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Serene Private Guest Suite w/ Wi-Fi, TV, & Parking",
+        "title": "Guest suite in Evergreen",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 440.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $219.68",
+              "amount": 439.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787908063112563894/original/e242c095-f634-4a54-8bc8-3389b16d9710.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787908063112563894/original/338b1d9e-9ed5-47eb-b9d3-a914f90f7274.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787908063112563894/original/80f8d63e-c80b-442f-8cfc-a34fd721e7ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787908063112563894/original/20ddd5a5-17d4-47ed-80a3-2926eaf0a979.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787908063112563894/original/c0c7f476-f9c3-46fc-ac90-a7fddc1f6e58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-787908063112563894/original/6371a931-524a-4e09-bdde-91e562ec442e.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.27843,
+          "longitud": -121.74486
+        }
+      }
+    },
+    "789848380935683829": {
+      "room_id": 789848380935683829,
+      "latitude": 37.28897549368664,
+      "longitude": -121.76010881373472,
+      "grid_id_assigned": null,
+      "grid_id_source": 72.0,
+      "bbox_id": "37.263060_-121.761560_37.289070_-121.728380",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:31:19",
+      "raw_data": {
+        "room_id": 789848380935683829,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/ca27dcab-1693-46e4-8542-802762c6db0e.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Robert",
+          "titleText": "Started hosting in 2015",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ca27dcab-1693-46e4-8542-802762c6db0e.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 4
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "room: luxurious Country Club",
+        "title": "Room in Evergreen",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 401.0,
+            "discount": 329.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $200.33",
+              "amount": 400.0,
+              "currency": "$.66"
+            },
+            {
+              "description": "Special offer",
+              "amount": -72.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 328.0,
+              "currency": "$.66"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-789848380935683829/original/225ef067-4e98-4142-8e8d-e088b9268e16.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-789848380935683829/original/39ced556-1174-4b33-8dcf-ecdfc113cfcc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-789848380935683829/original/f08530b8-1389-4a2a-95ed-fed0903aeacb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-789848380935683829/original/ea27c51b-d057-47ea-8506-187911909ccf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-789848380935683829/original/6cc95fd0-3a99-4728-b290-361a274510f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-789848380935683829/original/84603706-53fa-4553-9b10-1534acc09e0c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.28897549368664,
+          "longitud": -121.76010881373472
+        }
+      }
+    }
+  }
+}

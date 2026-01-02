@@ -1,0 +1,266 @@
+{
+  "grid_id": 35,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-29 17:44:42",
+  "listings": {
+    "1006026602689171718": {
+      "room_id": 1006026602689171718,
+      "latitude": 37.9506,
+      "longitude": -121.3134,
+      "grid_id_assigned": null,
+      "grid_id_source": 35.0,
+      "bbox_id": "37.930190_-121.344620_37.956180_-121.312520",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 17:42:01",
+      "raw_data": {
+        "room_id": 1006026602689171718,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Don't waste money on a motel!",
+        "title": "Bed and breakfast in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $68.47",
+              "amount": 205.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/ebc28c91-30dc-4cc3-88a0-b9e43c2b6bf0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3e62e0d6-102d-4214-8a87-117f630e04c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eaeab873-15c2-4ef5-8945-11acd4dbf6f2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/380cfca5-3568-479a-accd-3b66f615d391.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1006026602689171718/original/938ead67-ddc1-4bf6-abf7-8fa875e89e67.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8fb2a261-3ffd-43f8-a526-78cbafd9b38e.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.9506,
+          "longitud": -121.3134
+        }
+      }
+    },
+    "50402099": {
+      "room_id": 50402099,
+      "latitude": 37.95532,
+      "longitude": -121.33051,
+      "grid_id_assigned": null,
+      "grid_id_source": 35.0,
+      "bbox_id": "37.930190_-121.344620_37.956180_-121.312520",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 17:42:18",
+      "raw_data": {
+        "room_id": 50402099,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Charming,newly remodeled 2 BR 1 BA house",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 719.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $239.65",
+              "amount": 718.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50402099/original/fc556af7-70a6-4ea6-a394-cadc16ff6f50.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/eefdc378-2f1d-441f-a404-7c6a989f6c63.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/df24976f-8935-46f4-a568-9a0bb695020e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7562b070-afb3-4696-9f1d-a3912e645a10.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/354f2281-3694-407e-8efc-fc8cac66a390.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2d028ada-1a5d-4411-8186-099d0e4d26bf.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.95532,
+          "longitud": -121.33051
+        }
+      }
+    }
+  }
+}

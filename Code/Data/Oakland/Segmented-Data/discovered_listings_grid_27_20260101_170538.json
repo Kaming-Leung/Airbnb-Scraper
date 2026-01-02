@@ -1,0 +1,572 @@
+{
+  "grid_id": 27,
+  "total_listings": 4,
+  "discovery_timestamp": "2026-01-01 17:05:38",
+  "listings": {
+    "1391674638089863958": {
+      "room_id": 1391674638089863958,
+      "latitude": 37.82036414000581,
+      "longitude": -122.11780158788764,
+      "grid_id_assigned": null,
+      "grid_id_source": 27.0,
+      "bbox_id": "37.798570_-122.133660_37.825040_-122.099880",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 17:02:50",
+      "raw_data": {
+        "room_id": 1391674638089863958,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy garden apartment",
+        "title": "Apartment in Moraga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 366.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $182.59",
+              "amount": 365.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1391674638089863958/original/3f8060ab-e568-4a32-b3fe-56bb081ba938.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1391674638089863958/original/f7d1e83d-85ae-4b37-a3c3-751a2ee5670d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1391674638089863958/original/4b91d1da-fe5e-4949-a1aa-1d6d2e8ca9d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1391674638089863958/original/04d2b687-346d-4965-bdb5-f3c1b4c0535f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1391674638089863958/original/ddf4c727-8fff-47ec-adba-020b1c9f18dd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM5MTY3NDYzODA4OTg2Mzk1OA==/original/a1981bee-1544-44ac-a5c6-f160b65df091.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.82036414000581,
+          "longitud": -122.11780158788764
+        }
+      }
+    },
+    "41523049": {
+      "room_id": 41523049,
+      "latitude": 37.82285,
+      "longitude": -122.12694,
+      "grid_id_assigned": null,
+      "grid_id_source": 27.0,
+      "bbox_id": "37.798570_-122.133660_37.825040_-122.099880",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 17:02:56",
+      "raw_data": {
+        "room_id": 41523049,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/79c74530-59f4-46da-b2af-d9528bab9eb6.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Keith",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/79c74530-59f4-46da-b2af-d9528bab9eb6.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "60 reviews on the listing",
+              "label": "Reviews",
+              "value": "60",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 5,
+            "months": 11
+          },
+          "ratingCount": 60,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Upscale!!! Bay Area Neighborhood/Moraga",
+        "title": "Room in Moraga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 262.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $87.11",
+              "amount": 261.0,
+              "currency": "$.33"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "60"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e59aa737-087d-41c6-bdd4-01246954a2ad.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f04aa6a5-cc09-4210-a35b-c83c566521fb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/325b926c-7f5d-4d5e-b351-f9d760d9209e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/663951c2-2327-4325-b74a-4d3b32182c37.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cfdd7796-fd8b-4781-9cbd-5ce956240cd9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/91f337f6-980f-4be4-9365-036153df0cdf.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.82285,
+          "longitud": -122.12694
+        }
+      }
+    },
+    "20874226": {
+      "room_id": 20874226,
+      "latitude": 37.82378,
+      "longitude": -122.12316,
+      "grid_id_assigned": null,
+      "grid_id_source": 27.0,
+      "bbox_id": "37.798570_-122.133660_37.825040_-122.099880",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 17:03:08",
+      "raw_data": {
+        "room_id": 20874226,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/787a6475-4959-4d01-8b07-ace710e621d1.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Kendall",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/787a6475-4959-4d01-8b07-ace710e621d1.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "29 reviews on the listing",
+              "label": "Reviews",
+              "value": "29",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.97 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.97",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "8 years of hosting",
+              "label": "Years hosting",
+              "value": "8",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 3
+          },
+          "ratingCount": 29,
+          "ratingAverage": 4.97
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Moraga, King Bed",
+        "title": "Room in Moraga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 314.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $156.91",
+              "amount": 313.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "29"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20874226/original/4b2c5752-5124-457f-8d7f-e3242daaa3fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cfc24179-3e93-4934-9fc3-959f42628efc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/80479b2d-603f-4a1a-86c1-a714473a156b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f4e75587-0ac3-427b-a7e5-1f7961ae1b8f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9cbe0c46-9dff-4d68-8451-a204c33c8a73.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c3380277-4b46-48dc-aca2-505deaa41d94.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.82378,
+          "longitud": -122.12316
+        }
+      }
+    },
+    "41569686": {
+      "room_id": 41569686,
+      "latitude": 37.8214,
+      "longitude": -122.12694,
+      "grid_id_assigned": null,
+      "grid_id_source": 27.0,
+      "bbox_id": "37.798570_-122.133660_37.825040_-122.099880",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 17:03:14",
+      "raw_data": {
+        "room_id": 41569686,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/79c74530-59f4-46da-b2af-d9528bab9eb6.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Keith",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/79c74530-59f4-46da-b2af-d9528bab9eb6.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "86 reviews on the listing",
+              "label": "Reviews",
+              "value": "86",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.8 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.8",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 5,
+            "months": 11
+          },
+          "ratingCount": 86,
+          "ratingAverage": 4.8
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Upscale!! Bay Area Neighborhood/Moraga",
+        "title": "Room in Moraga",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 254.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $84.45",
+              "amount": 253.0,
+              "currency": "$.34"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "86"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/351cf5f1-c46f-4a09-8b65-ff179747d424.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/55f23ea4-3a78-4279-848b-b31bd26cd523.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1a85d2c6-32aa-4abc-aeb8-03cb1dc448ca.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2cd7e23b-31ed-4044-b125-de982836907d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e679f278-ceba-42d9-9f7e-2231ae9c3d23.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b2a77ad0-c165-475f-93a8-16aeb947cf78.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.8214,
+          "longitud": -122.12694
+        }
+      }
+    }
+  }
+}

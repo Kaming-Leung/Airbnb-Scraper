@@ -1,0 +1,129 @@
+{
+  "grid_id": 119,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 09:46:32",
+  "listings": {
+    "1262554510894657891": {
+      "room_id": 1262554510894657891,
+      "latitude": 38.27978909428458,
+      "longitude": -122.25679975239355,
+      "grid_id_assigned": null,
+      "grid_id_source": 119.0,
+      "bbox_id": "38.275620_-122.266180_38.283360_-122.255670",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 09:43:38",
+      "raw_data": {
+        "room_id": 1262554510894657891,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "3 BDR/2 BTH Napa Getaway–Hot Tub, Views & Privacy",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4092.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $818.22",
+              "amount": 4091.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2MjU1NDUxMDg5NDY1Nzg5MQ%3D%3D/original/365a1eb8-a0e8-486d-bb47-4b146c79a85f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2MjU1NDUxMDg5NDY1Nzg5MQ%3D%3D/original/b0956ca7-9df3-4d14-814c-b59154a3a88d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1262554510894657891/original/8985717f-5422-4740-be9d-1cc76fe89f36.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1262554510894657891/original/e6d1d5d4-50f6-44c3-a2a0-bba2ec9e5a45.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1262554510894657891/original/82c874e2-6949-4bf1-a993-75fb7c9e3267.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1262554510894657891/original/59144cea-e779-47f7-98cf-559e5d1b7602.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.27978909428458,
+          "longitud": -122.25679975239355
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "grid_id": 8,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-27 20:05:29",
+  "listings": {
+    "813110722570708724": {
+      "room_id": 813110722570708724,
+      "latitude": 42.4387,
+      "longitude": -83.00601,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "42.426650_-83.037740_42.451580_-83.002780",
+      "pass_id": 0,
+      "discovered_at": "2025-12-27 20:02:35",
+      "raw_data": {
+        "room_id": 813110722570708724,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cute and cozy Home",
+        "title": "Home in Detroit",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3139.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $627.65",
+              "amount": 3138.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-813110722570708724/original/e265809d-7bb4-492c-ade7-06b6ddfcb57f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-813110722570708724/original/ae2c5e06-0ca9-4bca-8a21-772e2944aa07.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-813110722570708724/original/2a8b725d-29e7-4113-95c2-371db677ea83.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-813110722570708724/original/597d645b-11c1-4991-973d-e3c3087d9920.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-813110722570708724/original/9948030c-557a-49fe-8c8a-4db838e525fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-813110722570708724/original/4a307182-903f-4674-9f24-855b2e80ef73.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4387,
+          "longitud": -83.00601
+        }
+      }
+    },
+    "929665176523666572": {
+      "room_id": 929665176523666572,
+      "latitude": 42.42812,
+      "longitude": -83.00705,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "42.426650_-83.037740_42.451580_-83.002780",
+      "pass_id": 1,
+      "discovered_at": "2025-12-27 20:02:42",
+      "raw_data": {
+        "room_id": 929665176523666572,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy,2br, wit pool table 15 min 2 Downtown Detroit",
+        "title": "Home in Detroit",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 360.0,
+            "discount": 320.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $159.77",
+              "amount": 319.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-929665176523666572/original/961df7ae-ad47-46de-8313-cdb3f29a214e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bc59ab98-c7a7-49eb-898d-f4df98597fa8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-929665176523666572/original/1bf780b5-9586-4af8-b08c-98e2c942a419.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8d6e4f26-7f31-4f92-bd5b-02e3d2efa072.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/48231d00-0157-4cad-898d-1824f5f1ef13.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/177c8baa-e3ae-49a3-a655-f2a9528516fc.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.42812,
+          "longitud": -83.00705
+        }
+      }
+    },
+    "927646766428533247": {
+      "room_id": 927646766428533247,
+      "latitude": 42.44876,
+      "longitude": -83.02908,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "42.426650_-83.037740_42.451580_-83.002780",
+      "pass_id": 1,
+      "discovered_at": "2025-12-27 20:02:42",
+      "raw_data": {
+        "room_id": 927646766428533247,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "One-bedroom Oasis for a Getaway",
+        "title": "Home in Warren",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 257.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $128.38",
+              "amount": 256.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.12,
+          "reviewCount": "42"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-927646766428533247/original/d9bfa804-e95e-4444-a966-be41fa19c058.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-927646766428533247/original/051afcbb-c833-48a2-9ba2-f984c34c9d5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-927646766428533247/original/20f5881d-1036-4a0e-a894-f7c09502ede5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-927646766428533247/original/24c8a14b-2fe6-49dc-8ea1-652ed9bd64b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-927646766428533247/original/3d9a5f4b-d815-437d-852c-04620360310d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-927646766428533247/original/eae0fb04-789c-43a9-9df2-eda3053db21f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.44876,
+          "longitud": -83.02908
+        }
+      }
+    },
+    "1522385985129095869": {
+      "room_id": 1522385985129095869,
+      "latitude": 42.45079,
+      "longitude": -83.02891,
+      "grid_id_assigned": null,
+      "grid_id_source": 8.0,
+      "bbox_id": "42.426650_-83.037740_42.451580_-83.002780",
+      "pass_id": 2,
+      "discovered_at": "2025-12-27 20:02:47",
+      "raw_data": {
+        "room_id": 1522385985129095869,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Relax and Refresh",
+        "title": "Home in Warren",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 620.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $206.67",
+              "amount": 620.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1522385985129095869/original/fdf5ed63-3bd7-4698-9fa7-62a431afcdc5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1522385985129095869/original/77b19ead-c866-431e-8b36-7b41de4e2cd0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1522385985129095869/original/d81db52f-b44c-445e-9abd-d000ff1504f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1522385985129095869/original/e0b68f1b-1d81-42ab-83ea-ad3523214909.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1522385985129095869/original/38208583-f2dd-4c09-a44a-474e69207c76.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1522385985129095869/original/9c1c0f5d-4d14-4166-bb1c-351aa179de87.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.45079,
+          "longitud": -83.02891
+        }
+      }
+    }
+  }
+}

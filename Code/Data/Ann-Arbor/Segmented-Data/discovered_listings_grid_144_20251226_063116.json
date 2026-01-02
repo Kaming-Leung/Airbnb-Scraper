@@ -1,0 +1,130 @@
+{
+  "grid_id": 144,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 06:31:16",
+  "listings": {
+    "51187562": {
+      "room_id": 51187562,
+      "latitude": 42.28721,
+      "longitude": -83.65302,
+      "grid_id_assigned": null,
+      "grid_id_source": 144.0,
+      "bbox_id": "42.265750_-83.670250_42.291180_-83.634710",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 06:28:45",
+      "raw_data": {
+        "room_id": 51187562,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Barn: charming, fully renovated finished barn",
+        "title": "Guesthouse in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 388.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $194.00",
+              "amount": 388.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.77,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51187562/original/5faac7d3-9c54-4654-bca7-bb2893d87b2a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51187562/original/a815b61a-00cb-46f9-ac7f-9bc58a06e6df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51187562/original/280ba4cd-afd0-447c-a462-2b14a2937447.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51187562/original/511e7f0d-8eff-4be1-a215-bf4b332c1267.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51187562/original/ae3825ea-53b5-477a-942c-abe9887a024f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-51187562/original/48ef6613-885d-4ad3-9adc-80d3886dbe5a.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.28721,
+          "longitud": -83.65302
+        }
+      }
+    }
+  }
+}

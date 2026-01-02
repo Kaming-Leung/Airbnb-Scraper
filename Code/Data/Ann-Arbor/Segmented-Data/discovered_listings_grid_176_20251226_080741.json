@@ -1,0 +1,383 @@
+{
+  "grid_id": 176,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-26 08:07:41",
+  "listings": {
+    "1576056354767189323": {
+      "room_id": 1576056354767189323,
+      "latitude": 42.25573,
+      "longitude": -83.31046,
+      "grid_id_assigned": null,
+      "grid_id_source": 176.0,
+      "bbox_id": "42.240310_-83.314760_42.265750_-83.279210",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 08:04:58",
+      "raw_data": {
+        "room_id": 1576056354767189323,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "mini Blue Castle near DTW",
+        "title": "Place to stay in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 274.0,
+            "discount": 220.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $91.33",
+              "amount": 274.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -54.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 219.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1338443724344399585/original/4cf0a286-1b23-4849-88dc-ea12ab007145.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1338443724344399585/original/628de7ff-055d-406f-aa72-309d111dc562.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1338443724344399585/original/29d3aa58-9ccb-4f57-abda-2805b564b498.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1338443724344399585/original/941f2e98-ff33-4620-979a-268f3a5b58c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1338443724344399585/original/fb80bd24-7dd3-43ea-9f03-a13fdb60c181.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1338443724344399585/original/ad270c5b-ebe5-4765-9bf0-02916a840c21.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.25573,
+          "longitud": -83.31046
+        }
+      }
+    },
+    "1381450973686307297": {
+      "room_id": 1381450973686307297,
+      "latitude": 42.263938918753844,
+      "longitude": -83.29498035986168,
+      "grid_id_assigned": null,
+      "grid_id_source": 176.0,
+      "bbox_id": "42.240310_-83.314760_42.265750_-83.279210",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 08:05:11",
+      "raw_data": {
+        "room_id": 1381450973686307297,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Airport Getaway- 2BR Near Detroit Sports & Events",
+        "title": "Home in Taylor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 341.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $170.04",
+              "amount": 340.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1381450973686307297/original/542cd4d2-6ea4-4ab2-9a0c-769ed21ab14c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1381450973686307297/original/3401a1b4-c2c4-4e47-a8b0-c275d3908dcd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1381450973686307297/original/1718970b-f671-4c7e-a505-c7a053f027dc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1381450973686307297/original/3429fd86-5087-4be8-ad9c-2798adc9a0d6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1381450973686307297/original/4e69bc02-4c6f-487e-9718-36836210cfaa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1381450973686307297/original/ae310bd4-88b7-4ea3-ab21-2bf153e1282a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.263938918753844,
+          "longitud": -83.29498035986168
+        }
+      }
+    },
+    "719499866936449566": {
+      "room_id": 719499866936449566,
+      "latitude": 42.2635,
+      "longitude": -83.2876,
+      "grid_id_assigned": null,
+      "grid_id_source": 176.0,
+      "bbox_id": "42.240310_-83.314760_42.265750_-83.279210",
+      "pass_id": 5,
+      "discovered_at": "2025-12-26 08:05:16",
+      "raw_data": {
+        "room_id": 719499866936449566,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Pet-Friendly Taylor Home w/ Backyard Oasis!",
+        "title": "Home in Taylor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 593.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $197.67",
+              "amount": 593.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "104"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-719499866936449566/original/34428da5-bce9-4b56-ac6b-71bb7f58f382.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-719499866936449566/original/3b77d305-1632-4fe8-83c5-8ae64182f2b5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-719499866936449566/original/19cfae9b-a12c-48fd-89c1-f047f3cccf07.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-719499866936449566/original/669d617c-b133-4871-a81a-1435d742f904.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-719499866936449566/original/ea375d72-d5a8-4a65-961d-bb46d4accf0e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-719499866936449566/original/f1e6fbda-629a-49da-9695-1d3b61d22b1b.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2635,
+          "longitud": -83.2876
+        }
+      }
+    }
+  }
+}

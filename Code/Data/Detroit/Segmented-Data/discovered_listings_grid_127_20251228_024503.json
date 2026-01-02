@@ -1,0 +1,131 @@
+{
+  "grid_id": 127,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 02:45:03",
+  "listings": {
+    "1353675171223716892": {
+      "room_id": 1353675171223716892,
+      "latitude": 42.19846411351531,
+      "longitude": -83.05982172641697,
+      "grid_id_assigned": null,
+      "grid_id_source": 127.0,
+      "bbox_id": "42.177390_-83.072700_42.202310_-83.037740",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 02:42:08",
+      "raw_data": {
+        "room_id": 1353675171223716892,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Skyview Loft\n2 Bedrooms, 4 Beds",
+        "title": "Apartment in Windsor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1096.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $219.14",
+              "amount": 1095.0,
+              "currency": "$.72"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "13"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1MzY3NTE3MTIyMzcxNjg5Mg%3D%3D/original/c2e47146-ff9a-4932-acf9-7f58dac8d768.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1353675171223716892/original/0e077f95-766c-47d6-9227-172500c0223e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1353675171223716892/original/26ac96a9-5781-4678-b5d2-ad0a4bcf24a2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1353675171223716892/original/dde721a9-27e8-4a88-86c5-1a14f574a236.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1353675171223716892/original/3875307f-9aef-4a0c-945d-f808dcaa7ab7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1MzY3NTE3MTIyMzcxNjg5Mg==/original/bf462c41-6e43-4a66-898e-12b10001c6c4.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.19846411351531,
+          "longitud": -83.05982172641697
+        }
+      }
+    }
+  }
+}

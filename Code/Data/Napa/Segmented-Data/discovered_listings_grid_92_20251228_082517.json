@@ -1,0 +1,129 @@
+{
+  "grid_id": 92,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 08:25:17",
+  "listings": {
+    "1511804720147456622": {
+      "room_id": 1511804720147456622,
+      "latitude": 38.2985,
+      "longitude": -122.31483,
+      "grid_id_assigned": null,
+      "grid_id_source": 92.0,
+      "bbox_id": "38.291110_-122.318720_38.298850_-122.308210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:22:22",
+      "raw_data": {
+        "room_id": 1511804720147456622,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Creative Napa Retreat",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 1958.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $279.59",
+              "amount": 1957.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511804720147456622/original/3f73dc7b-397e-4a15-b3f6-e078e1d685f6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511804720147456622/original/8baafd97-8990-4819-9fbc-ac38ca0edc96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511804720147456622/original/37ef6587-a481-4604-99c2-0a632bc62ad6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511804720147456622/original/3d058112-b9a8-40b5-b16e-bc5bd861e8c5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511804720147456622/original/8013fac5-9ac9-4251-9bd5-1a9c81c138d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1511804720147456622/original/d41606a7-18d2-41d5-8d5a-c8b96c600f09.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.2985,
+          "longitud": -122.31483
+        }
+      }
+    }
+  }
+}

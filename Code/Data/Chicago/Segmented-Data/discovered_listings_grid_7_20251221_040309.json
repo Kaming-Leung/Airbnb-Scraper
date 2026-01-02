@@ -1,0 +1,136 @@
+{
+  "grid_id": 7,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-21 04:03:09",
+  "listings": {
+    "606474623883227502": {
+      "room_id": 606474623883227502,
+      "latitude": 42.01031,
+      "longitude": -87.78624,
+      "grid_id_assigned": null,
+      "grid_id_source": 7.0,
+      "bbox_id": "41.994670_-87.791760_42.020000_-87.767060",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 04:03:03",
+      "raw_data": {
+        "room_id": 606474623883227502,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Modern Garden Suite",
+        "title": "Guest suite in Chicago",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 309.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $154.06",
+              "amount": 308.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "66"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/09b6fad8-197d-4c2e-95f0-02b191d38cd9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9b7ec8db-1dde-472c-a47d-c03270fbe649.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bb8fc1d0-a09d-40b7-93d8-9db84bfe3069.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/df5191a3-80c6-48e0-ba85-a5edec17128b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7e45c15d-e43c-4ccf-9e13-c72ef36da847.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/10babe03-5282-456d-8ff1-efb9b499bbbe.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.01031,
+          "longitud": -87.78624
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "grid_id": 233,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 10:59:10",
+  "listings": {
+    "47764183": {
+      "room_id": 47764183,
+      "latitude": 42.18308,
+      "longitude": -83.6206,
+      "grid_id_assigned": null,
+      "grid_id_source": 233.0,
+      "bbox_id": "42.163990_-83.634710_42.189430_-83.599160",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 10:56:21",
+      "raw_data": {
+        "room_id": 47764183,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cool, Clean & 15 minutes to Ann Arbor!",
+        "title": "Home in Ypsilanti",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 497.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $248.21",
+              "amount": 496.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "141"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/86b6d390-d90b-4922-b4a3-866fafc6e9d1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b7557bae-0977-40c2-b008-5eecbbdb6722.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-47764183/original/a614c9f4-1618-4ec1-ba37-ef3e503d776b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6c78f7c3-47af-404c-8dca-a4e1cfbebde1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1c8bb3b5-2fc5-4e88-b4e7-ee80d3008c0d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9457af9f-5e4c-4074-9855-112d9c8a7d8a.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.18308,
+          "longitud": -83.6206
+        }
+      }
+    },
+    "1250101431719769306": {
+      "room_id": 1250101431719769306,
+      "latitude": 42.1802,
+      "longitude": -83.6065,
+      "grid_id_assigned": null,
+      "grid_id_source": 233.0,
+      "bbox_id": "42.163990_-83.634710_42.189430_-83.599160",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 10:56:21",
+      "raw_data": {
+        "room_id": 1250101431719769306,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Amazing vacation on quiet cul-de-sac",
+        "title": "Home in Ypsilanti Charter Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 284.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $141.51",
+              "amount": 283.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.8,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI1MDEwMTQzMTcxOTc2OTMwNg%3D%3D/original/19ebb9b0-8639-4565-9148-85bfc0ed7130.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1250101431719769306/original/a4a29d9f-da72-4fd8-a659-4f1eedf72dde.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1250101431719769306/original/3968f056-d534-4027-a066-e6254dc75821.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1250101431719769306/original/8a5e1ccf-4037-4402-a330-d66f2d52f204.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1250101431719769306/original/1fa22d06-e367-4c2e-abdd-b299d47b0432.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1250101431719769306/original/da4d0468-a921-4811-83b1-41f47330ae58.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.1802,
+          "longitud": -83.6065
+        }
+      }
+    }
+  }
+}

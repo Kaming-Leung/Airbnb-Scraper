@@ -1,0 +1,1010 @@
+{
+  "grid_id": 18,
+  "total_listings": 7,
+  "discovery_timestamp": "2026-01-01 13:32:01",
+  "listings": {
+    "18754685": {
+      "room_id": 18754685,
+      "latitude": 37.59348,
+      "longitude": -121.88785,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:29:06",
+      "raw_data": {
+        "room_id": 18754685,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/7d33429d-e972-453b-9d00-c51c56d0be29.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Veena",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/7d33429d-e972-453b-9d00-c51c56d0be29.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 reviews on the listing",
+              "label": "Reviews",
+              "value": "2",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 8,
+            "months": 7
+          },
+          "ratingCount": 2,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Exquisite Apartment",
+        "title": "Room in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1684.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $336.65",
+              "amount": 1683.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e397dbf9-7496-44e6-84f4-0556cc80f2f5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/260bb95d-188d-474d-b6e9-682d3689dc61.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7f716824-d9ca-4892-9942-a01d56f56e51.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e1fc471d-3077-44d0-bb11-87c966802f1b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c8eb9244-a25d-409f-993a-e1f0a65ecff8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9d30f4cd-89d8-49ef-99eb-d6b33501bdd7.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.59348,
+          "longitud": -121.88785
+        }
+      }
+    },
+    "858072652444015436": {
+      "room_id": 858072652444015436,
+      "latitude": 37.6013,
+      "longitude": -121.8903,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 13:29:06",
+      "raw_data": {
+        "room_id": 858072652444015436,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire Elliston Historical Mansion",
+        "title": "Castle in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 17265.0,
+            "discount": 14265.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $3,452.94",
+              "amount": 17264.0,
+              "currency": "$.71"
+            },
+            {
+              "description": "Special offer",
+              "amount": -3000.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 14264.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-858072652444015436/original/ce5d1a69-2f02-4363-9b1e-fd1023c7a7f2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-858072652444015436/original/f4fc542d-ceea-4099-a928-ea6bad7e85cc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-858072652444015436/original/4d7d4b20-9b63-4e31-858a-fcad1bc8bc7a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-858072652444015436/original/35fe8da2-2b02-404b-98f3-6a8144fac515.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-858072652444015436/original/441dd413-be36-4be7-9487-cdd5e243dfe9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-858072652444015436/original/aa8cb229-effd-4457-9f63-aca42a844305.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.6013,
+          "longitud": -121.8903
+        }
+      }
+    },
+    "869144509241383652": {
+      "room_id": 869144509241383652,
+      "latitude": 37.60034,
+      "longitude": -121.89005,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:29:12",
+      "raw_data": {
+        "room_id": 869144509241383652,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lijun",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.25 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.25",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 8
+          },
+          "ratingCount": 4,
+          "ratingAverage": 4.25
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "3.Private Bedroom & Bath (Persephone) at Elliston",
+        "title": "Room in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 540.0,
+            "discount": 400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $199.71",
+              "amount": 399.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.25,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869144509241383652/original/11787db4-7d2c-422d-b196-b28c9dfe60fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869144509241383652/original/f656b1cd-874e-4290-8662-b0c44eddb4ca.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869144509241383652/original/cc7c17cd-9f50-4cf7-bca3-45050cbf0795.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869144509241383652/original/53652b11-792d-42e0-842c-2b6f5a6a6bd3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869144509241383652/original/91e00f7b-c819-41b0-bef3-21a8a07e0cf1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869144509241383652/original/483951ba-f609-4870-8813-f8350bf590f1.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.60034,
+          "longitud": -121.89005
+        }
+      }
+    },
+    "869152217747425868": {
+      "room_id": 869152217747425868,
+      "latitude": 37.60231,
+      "longitude": -121.88967,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:29:12",
+      "raw_data": {
+        "room_id": 869152217747425868,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lijun",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 reviews on the listing",
+              "label": "Reviews",
+              "value": "4",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.75 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.75",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 8
+          },
+          "ratingCount": 4,
+          "ratingAverage": 4.75
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "1.Private Double Bedroom (Hestia) at Elliston",
+        "title": "Room in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 401.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $200.28",
+              "amount": 400.0,
+              "currency": "$.55"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869152217747425868/original/12d94520-bcdd-42f3-a5a9-21a925ac3be8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869152217747425868/original/4adfd1c5-ae95-4ba3-bfe6-abb50cf5a99e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869152217747425868/original/d9aa042b-28b7-4dcc-884c-2165404b02ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869152217747425868/original/826ba210-d73c-4788-a600-6394d735c61b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869152217747425868/original/88dbd25c-48f1-4dc6-9184-eb38c4943e43.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869152217747425868/original/e1084e70-d942-4541-aae3-32063d0ff5ac.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.60231,
+          "longitud": -121.88967
+        }
+      }
+    },
+    "1351681411715608126": {
+      "room_id": 1351681411715608126,
+      "latitude": 37.602431039629714,
+      "longitude": -121.89071871852641,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:29:12",
+      "raw_data": {
+        "room_id": 1351681411715608126,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/8d5e39f8-a429-4d60-b530-cacfd8ff7b68.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "BNBLink",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/8d5e39f8-a429-4d60-b530-cacfd8ff7b68.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 0
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "A Castle Chamber w/ Bedroom/Bathroom at Vineyard",
+        "title": "Room in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 431.0,
+            "discount": 371.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $215.44",
+              "amount": 430.0,
+              "currency": "$.88"
+            },
+            {
+              "description": "Special offer",
+              "amount": -60.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 370.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1351681411715608126/original/b017e448-b926-46ad-97c7-5fbcf8424755.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1351681411715608126/original/ec5b8747-7bd6-4427-b70f-e1a5fbd8ac67.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1351681411715608126/original/2d9de8ac-ccfd-46dd-a9f4-a5f610561474.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1351681411715608126/original/84cb768a-87e8-4ad3-89b1-5fce1be54584.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1351681411715608126/original/f2e4aa33-ecfe-4526-abb6-58c90accd9d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1351681411715608126/original/abe9b0f2-b3b6-4138-ae7f-7b0f135b3945.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.602431039629714,
+          "longitud": -121.89071871852641
+        }
+      }
+    },
+    "869149131062233726": {
+      "room_id": 869149131062233726,
+      "latitude": 37.60241,
+      "longitude": -121.88957,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:29:12",
+      "raw_data": {
+        "room_id": 869149131062233726,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lijun",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "1 review on the listing",
+              "label": "Review",
+              "value": "1",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 8
+          },
+          "ratingCount": 1,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "4.Private Bedroom (Apollo) at Elliston",
+        "title": "Room in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $199.71",
+              "amount": 399.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869149131062233726/original/25733cc7-2ccb-433e-bba5-916720356cdc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869149131062233726/original/0d5d9e49-5a10-4780-8543-74c14e8174ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869149131062233726/original/93202b8a-bf7a-4ef8-8c62-e60908ca7c7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869149131062233726/original/de511519-51a0-421e-8ba9-5d7f2fef5de1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869149131062233726/original/30e7664e-5a88-4bc3-a3ed-3e6b6c08943f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869149131062233726/original/2d48eda6-1877-445c-bf89-c1c79a673097.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.60241,
+          "longitud": -121.88957
+        }
+      }
+    },
+    "869129450636548237": {
+      "room_id": 869129450636548237,
+      "latitude": 37.60201,
+      "longitude": -121.89102,
+      "grid_id_assigned": null,
+      "grid_id_source": 18.0,
+      "bbox_id": "37.577720_-121.901730_37.602980_-121.869420",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 13:29:12",
+      "raw_data": {
+        "room_id": 869129450636548237,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Lijun",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3c2cc7e9-572e-4f63-90f1-7726a223e152.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0 reviews on the listing",
+              "label": "Reviews",
+              "value": "0",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "0.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "0.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 8
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2.Private Bedroom (Aphrodite) at Elliston",
+        "title": "Room in Sunol",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $199.71",
+              "amount": 399.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869129450636548237/original/b9389665-de07-4dcc-859f-6489cf414c4f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869129450636548237/original/8fe387ed-f0c8-4f08-add5-18d10f3f56b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869129450636548237/original/609204b4-3094-4df6-97c5-ce849dcde240.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869129450636548237/original/9c2a293a-183d-4a1b-aaeb-f0bec0db59fe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869129450636548237/original/1192275e-b850-4ca8-aa1e-efad1983e261.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-869129450636548237/original/a9404c34-b338-4878-a3cc-9f239825e8f1.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.60201,
+          "longitud": -121.89102
+        }
+      }
+    }
+  }
+}

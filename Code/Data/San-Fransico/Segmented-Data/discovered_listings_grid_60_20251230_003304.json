@@ -1,0 +1,386 @@
+{
+  "grid_id": 60,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-30 00:33:04",
+  "listings": {
+    "25082090": {
+      "room_id": 25082090,
+      "latitude": 37.51974,
+      "longitude": -122.34779,
+      "grid_id_assigned": null,
+      "grid_id_source": 60.0,
+      "bbox_id": "37.506120_-122.380260_37.532900_-122.346480",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:30:10",
+      "raw_data": {
+        "room_id": 25082090,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 31 – Feb 5",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "3BR haven w/ fire pit & fenced yard",
+        "title": "Home in San Mateo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4641.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $928.20",
+              "amount": 4641.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "136"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/293a5b46-0fef-42af-bd0c-5abf2e38e012.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/246d33da-f73a-44e7-b245-1b80ddd39ea3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f1f884fa-4be9-4e2a-8987-bb054efe5745.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/666bcdee-9668-48b3-af82-fcfc25ba12f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjUwODIwOTA%3D/original/5e1410e2-5b08-4d96-9687-7aa519cf0735.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/de1ac84a-ecb3-4066-8acb-0513d467b809.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.51974,
+          "longitud": -122.34779
+        }
+      }
+    },
+    "1537127742865947816": {
+      "room_id": 1537127742865947816,
+      "latitude": 37.52888,
+      "longitude": -122.35334,
+      "grid_id_assigned": null,
+      "grid_id_source": 60.0,
+      "bbox_id": "37.506120_-122.380260_37.532900_-122.346480",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:30:10",
+      "raw_data": {
+        "room_id": 1537127742865947816,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 18 – 25",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Mar 18 – 25",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Unique Remodeled Eichler w/ Hot Tub",
+        "title": "Home in San Mateo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 4543.0,
+            "discount": 3778.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $648.90",
+              "amount": 4542.0,
+              "currency": "$.30"
+            },
+            {
+              "description": "Special offer",
+              "amount": -765.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 3777.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1537127742865947816/original/c591dbea-c78c-4019-a5f1-84edfd17c880.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1537127742865947816/original/93b592b6-d815-4782-a65d-45cf1c0018f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1537127742865947816/original/c13b282a-6098-4594-94d7-95273e430cb0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1537127742865947816/original/ce1383c1-1181-48aa-b623-0aa647ac2ce0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1537127742865947816/original/b9624ab1-f9e3-4a97-836f-32ba535e61f1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1537127742865947816/original/add4c517-039b-47cd-9b31-f3fae49793ca.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.52888,
+          "longitud": -122.35334
+        }
+      }
+    },
+    "1211198": {
+      "room_id": 1211198,
+      "latitude": 37.52333,
+      "longitude": -122.34731,
+      "grid_id_assigned": null,
+      "grid_id_source": 60.0,
+      "bbox_id": "37.506120_-122.380260_37.532900_-122.346480",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:30:10",
+      "raw_data": {
+        "room_id": 1211198,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 25 – 30",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 25 – 30",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Life Home",
+        "title": "Home in San Mateo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4622.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $924.35",
+              "amount": 4621.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/18244848/643bee88_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18244872/0bcdba82_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18244889/f1ad7079_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18244913/c2fd2c29_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18244930/935c5896_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/18244950/af1d7cbe_original.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.52333,
+          "longitud": -122.34731
+        }
+      }
+    }
+  }
+}

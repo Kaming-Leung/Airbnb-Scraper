@@ -1,0 +1,131 @@
+{
+  "grid_id": 45,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 14:53:07",
+  "listings": {
+    "33050702": {
+      "room_id": 33050702,
+      "latitude": 37.52185,
+      "longitude": -121.87421,
+      "grid_id_assigned": null,
+      "grid_id_source": 45.0,
+      "bbox_id": "37.501920_-121.901730_37.527180_-121.869420",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 14:50:13",
+      "raw_data": {
+        "room_id": 33050702,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 12 – 17",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 12 – 17",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Mission Peak Ranch: Farm Stay",
+        "title": "Farm stay in Fremont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3930.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $785.81",
+              "amount": 3929.0,
+              "currency": "$.07"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "93"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e967a655-8d73-43d4-bf91-f17ec672a7bd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-33050702/original/bbf7d4f7-0074-4a1e-82bf-9412baba4520.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-33050702/original/8175b46b-eea3-4e6f-a748-96f2b1f69e8d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-33050702/original/5bb5e6b4-946a-47d6-8424-ea93d1f66fd6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-33050702/original/60e48bbc-1007-4200-8b6f-d124524dcbcc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-33050702/original/d288d8d5-e663-4ee2-9cb1-35e470a0f980.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.52185,
+          "longitud": -121.87421
+        }
+      }
+    }
+  }
+}

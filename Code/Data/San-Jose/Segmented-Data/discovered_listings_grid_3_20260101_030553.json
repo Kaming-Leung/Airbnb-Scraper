@@ -1,0 +1,990 @@
+{
+  "grid_id": 3,
+  "total_listings": 7,
+  "discovery_timestamp": "2026-01-01 03:05:53",
+  "listings": {
+    "1526480254611661073": {
+      "room_id": 1526480254611661073,
+      "latitude": 37.48465,
+      "longitude": -121.92715,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 03:02:59",
+      "raw_data": {
+        "room_id": 1526480254611661073,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious 3BR Home | 2 Kings + AC + Free Parking",
+        "title": "Home in Fremont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1494.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $298.76",
+              "amount": 1493.0,
+              "currency": "$.80"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1526480254611661073/original/d9ebd05f-2913-41a0-8564-b442481f003f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1526480254611661073/original/e6cb9c79-bbbf-4b0f-b8f8-5c7c34014f43.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1526480254611661073/original/51b575cb-21f4-4c7a-9516-95d63c5d68fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1526480254611661073/original/8618295d-752c-42ae-8991-bc1754d73f37.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1526480254611661073/original/e6cf61de-6415-4b1e-bcdc-625b8131ce14.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1526480254611661073/original/4781b414-d762-462b-9ad8-e7e576541fd0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.48465,
+          "longitud": -121.92715
+        }
+      }
+    },
+    "52060126": {
+      "room_id": 52060126,
+      "latitude": 37.4722,
+      "longitude": -121.9183,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 03:03:10",
+      "raw_data": {
+        "room_id": 52060126,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/d2bad78f-2f1e-4884-8a5a-a3849e68db86.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Irfan",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d2bad78f-2f1e-4884-8a5a-a3849e68db86.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "105 reviews on the listing",
+              "label": "Reviews",
+              "value": "105",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.93 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.93",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4 years of hosting",
+              "label": "Years hosting",
+              "value": "4",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 4,
+            "months": 3
+          },
+          "ratingCount": 105,
+          "ratingAverage": 4.93
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet room+ private bathroom+ private entrance",
+        "title": "Room in Warm Springs",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 282.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $93.96",
+              "amount": 281.0,
+              "currency": "$.87"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "105"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a8cd45c2-9bab-4f6f-895b-87010d9b3421.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52060126/original/ec827660-911c-4abd-ac43-fe4415c97593.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52060126/original/3fbed0b3-582c-48fb-89e2-09b4e3e97103.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52060126/original/6d70baf8-c0ba-4e32-a5e0-131db1ff7d06.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/23c3cd7f-efe3-4a60-aded-1aa65e1ddb00.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4abc4420-ed1b-427d-819c-43486a7c9448.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.4722,
+          "longitud": -121.9183
+        }
+      }
+    },
+    "46523684": {
+      "room_id": 46523684,
+      "latitude": 37.47231,
+      "longitude": -121.91892,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 03:03:10",
+      "raw_data": {
+        "room_id": 46523684,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/ee24dda7-28a9-4b07-8c5a-a050a0cf2008.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Ashish",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ee24dda7-28a9-4b07-8c5a-a050a0cf2008.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "92 reviews on the listing",
+              "label": "Reviews",
+              "value": "92",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.73 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.73",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 1
+          },
+          "ratingCount": 92,
+          "ratingAverage": 4.73
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "1 Bed/1 Bath, pvt entry, pvt patio, mountain views",
+        "title": "Room in Warm Springs",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 321.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $106.89",
+              "amount": 320.0,
+              "currency": "$.67"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.73,
+          "reviewCount": "92"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f0f0fea4-639a-4eb4-907f-3c8556830196.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f1d2459a-24dc-46e5-a1ed-7138804e3496.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/91b854f2-ffdf-4066-9e38-fbce4659f69f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/394a3c7d-3360-4cf2-9ac8-c28e728fce7a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d96d4752-febf-4708-a586-1f0f24734949.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/12d59264-14af-4dc2-af4a-be670f9c7a60.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.47231,
+          "longitud": -121.91892
+        }
+      }
+    },
+    "1174594190811284739": {
+      "room_id": 1174594190811284739,
+      "latitude": 37.48288053340348,
+      "longitude": -121.91508041690595,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 03:03:10",
+      "raw_data": {
+        "room_id": 1174594190811284739,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Spacious Fremont 2BR - Near SF, Park & Tech Hubs",
+        "title": "Home in Warm Springs",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 709.0,
+            "discount": 590.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $196.66",
+              "amount": 589.0,
+              "currency": "$.99"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.56,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1174594190811284739/original/5f953e06-7133-4140-ae8c-ed441f013cc1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1174594190811284739/original/4df86365-62f5-46a9-a27d-b36a87536673.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1174594190811284739/original/09276bff-1f8d-4b40-a56c-9dedad29adeb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1174594190811284739/original/f8983689-7ba0-47f6-b6bd-e63968d453c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1174594190811284739/original/66102e1e-96c8-4e08-8ef7-a4213852b2e8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1174594190811284739/original/2979a9c0-caf4-4635-a700-33f48d3ec666.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.48288053340348,
+          "longitud": -121.91508041690595
+        }
+      }
+    },
+    "1092125382271879665": {
+      "room_id": 1092125382271879665,
+      "latitude": 37.47967,
+      "longitude": -121.91622,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 03:03:10",
+      "raw_data": {
+        "room_id": 1092125382271879665,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-560827675/original/0fb4e849-b518-40d6-8b23-7af85581b234.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Rio",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-560827675/original/0fb4e849-b518-40d6-8b23-7af85581b234.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 reviews on the listing",
+              "label": "Reviews",
+              "value": "10",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.3 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.3",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 10
+          },
+          "ratingCount": 10,
+          "ratingAverage": 4.3
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "1 Brighter Room/10 min to Tesla 47879",
+        "title": "Room in Warm Springs",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 266.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $88.63",
+              "amount": 265.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.3,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1092125382271879665/original/f43548a3-e0c1-498e-9b8a-aea8e92574b2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1092125382271879665/original/d3b1c464-77fe-43d4-80bd-01d86dee40ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1092125382271879665/original/dbaee02c-a53e-4440-800f-c1de522c5b51.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1092125382271879665/original/51f8575e-e827-45d0-ad94-499b8ba1a55a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1092125382271879665/original/112e08ad-317e-4896-9a87-0674c5a7c1ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1092125382271879665/original/37ffefcc-9b98-4d4a-8638-f89581511b52.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.47967,
+          "longitud": -121.91622
+        }
+      }
+    },
+    "742460546954156480": {
+      "room_id": 742460546954156480,
+      "latitude": 37.47763,
+      "longitude": -121.91305,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 03:03:29",
+      "raw_data": {
+        "room_id": 742460546954156480,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Gorgeous Suite With Private Bathroom & Near TESLA",
+        "title": "Place to stay in Warm Springs",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 266.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $88.63",
+              "amount": 265.0,
+              "currency": "$.89"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.77,
+          "reviewCount": "35"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-742460546954156480/original/6e5018c7-9a4b-40d4-95b6-1dd2e5f92e4d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-742460546954156480/original/20047815-a93a-4dce-b5a8-6ba1d47f0114.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-742460546954156480/original/bdeb3007-eeb9-439d-bf55-47c5dc2f6116.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-742460546954156480/original/7ba5b333-4ba8-4488-a464-4b2b4249693f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-742460546954156480/original/3bfc4ebd-d82a-488c-b87c-55b0b5ee935e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-742460546954156480/original/847f0313-7bbe-4979-b0ac-90939242c6d4.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.47763,
+          "longitud": -121.91305
+        }
+      }
+    },
+    "1040234017532672360": {
+      "room_id": 1040234017532672360,
+      "latitude": 37.47757,
+      "longitude": -121.91422,
+      "grid_id_assigned": null,
+      "grid_id_source": 3.0,
+      "bbox_id": "37.471150_-121.927450_37.497160_-121.894270",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 03:03:29",
+      "raw_data": {
+        "room_id": 1040234017532672360,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/390929a2-5965-4a75-99aa-58aeda7add21.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jordan",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/390929a2-5965-4a75-99aa-58aeda7add21.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5 reviews on the listing",
+              "label": "Reviews",
+              "value": "5",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3.8 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "3.8",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 years of hosting",
+              "label": "Years hosting",
+              "value": "3",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 2
+          },
+          "ratingCount": 5,
+          "ratingAverage": 3.8
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "#Clean Private Room# &Near*FremontTESLA",
+        "title": "Room in Warm Springs",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 301.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $100.04",
+              "amount": 300.0,
+              "currency": "$.13"
+            }
+          ]
+        },
+        "rating": {
+          "value": 3.8,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1040234017532672360/original/c6fd607a-5b3e-48f2-857c-6e08897d3d88.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1040234017532672360/original/da5635ba-b8a4-4a0e-a385-667e6c9eb7c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1040234017532672360/original/ae491d5f-6798-4742-a4a9-cbc1a6997425.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/652955bb-585b-46d4-ab67-b19483883769.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1040234017532672360/original/23fea60b-75ab-43eb-b6c1-d881b183e62d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1040234017532672360/original/e9075f2f-f1d2-421a-8200-e38aa348d919.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.47757,
+          "longitud": -121.91422
+        }
+      }
+    }
+  }
+}

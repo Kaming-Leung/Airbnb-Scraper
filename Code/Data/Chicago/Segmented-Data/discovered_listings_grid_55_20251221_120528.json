@@ -1,0 +1,107 @@
+{
+  "grid_id": 55,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-21 12:05:28",
+  "listings": {
+    "1411983962880169878": {
+      "room_id": 1411983962880169878,
+      "latitude": 41.9201,
+      "longitude": -87.8504,
+      "grid_id_assigned": null,
+      "grid_id_source": 55.0,
+      "bbox_id": "41.918670_-87.865880_41.944000_-87.841180",
+      "pass_id": 1,
+      "discovered_at": "2025-12-21 12:05:28",
+      "raw_data": {
+        "room_id": 1411983962880169878,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ranch Cozy Home close to O'Hare",
+        "title": "Home in River Grove",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 498.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $249.00",
+              "amount": 498.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1411983962880169878/original/dc919cbd-a1d6-40f7-bc7a-cbb55bca71a3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1411983962880169878/original/973e0c0f-b4ac-4646-93f6-b53d6cbb8b58.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1411983962880169878/original/6a65c8cb-e3f1-425d-b29d-5a6820aacd79.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1411983962880169878/original/826a9ef1-ab5f-44e2-8cb1-ee342ae422f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1411983962880169878/original/129fb9c2-fc3e-4fd9-bdef-2addae79648c.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 41.9201,
+          "longitud": -87.8504
+        }
+      }
+    }
+  }
+}

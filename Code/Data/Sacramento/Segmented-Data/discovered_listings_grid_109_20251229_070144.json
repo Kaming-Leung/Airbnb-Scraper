@@ -1,0 +1,373 @@
+{
+  "grid_id": 109,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-29 07:01:44",
+  "listings": {
+    "42409940": {
+      "room_id": 42409940,
+      "latitude": 38.40888,
+      "longitude": -121.20229,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "38.390400_-121.225710_38.435110_-121.180390",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:58:49",
+      "raw_data": {
+        "room_id": 42409940,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Wilton ranch house in Sacramento",
+        "title": "Home in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2106.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $421.09",
+              "amount": 2105.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/537249a0-81d0-412e-897e-f3d564f658cf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a88bb07f-80d4-4778-aa72-a51c3d69fe6e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/28a383db-6bc8-457c-8ef2-b808492db56f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2679a401-9772-41e6-97c9-465ee008a710.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9d4ac4bd-1f00-4ed2-85d2-547927f18041.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/67e055e3-de53-4076-990b-6bafc6f59c39.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.40888,
+          "longitud": -121.20229
+        }
+      }
+    },
+    "53690893": {
+      "room_id": 53690893,
+      "latitude": 38.40471,
+      "longitude": -121.19154,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "38.390400_-121.225710_38.435110_-121.180390",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 06:58:55",
+      "raw_data": {
+        "room_id": 53690893,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Ranch Style Living !",
+        "title": "Guest suite in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 359.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $179.17",
+              "amount": 358.0,
+              "currency": "$.33"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "33"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/24242eb5-fc3e-4f43-8474-de57c1dfdce3.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b8f169f4-dec3-4a88-a706-9d3759f048db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/facca333-e538-49dd-80aa-db8a4a0afc2e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/325fd032-ece4-4269-99db-6fdc0854f430.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9cd60b3c-1dcf-42be-a6ac-d7d21bb143f1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/faccf3ea-f4c6-42a5-9b03-de24282b2af7.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.40471,
+          "longitud": -121.19154
+        }
+      }
+    },
+    "42410693": {
+      "room_id": 42410693,
+      "latitude": 38.41072,
+      "longitude": -121.20281,
+      "grid_id_assigned": null,
+      "grid_id_source": 109.0,
+      "bbox_id": "38.390400_-121.225710_38.435110_-121.180390",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 06:59:01",
+      "raw_data": {
+        "room_id": 42410693,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lovely Sacramento Guesthouse in Wilton",
+        "title": "Home in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 497.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $165.47",
+              "amount": 496.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/6675890c-b2e0-437e-907f-8c1eea3db2c1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/136415a9-a014-42ac-9195-e11bccfab564.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2b91d23c-dc27-4419-8f38-02ad1f565790.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/90892562-7777-4b73-8b84-6a0784e892aa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3f55b90a-4e11-410b-af32-e60367b37e8c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8d4631e5-f1b4-48bc-ab81-119f630296e5.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.41072,
+          "longitud": -121.20281
+        }
+      }
+    }
+  }
+}

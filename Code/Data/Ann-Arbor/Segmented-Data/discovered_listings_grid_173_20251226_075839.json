@@ -1,0 +1,132 @@
+{
+  "grid_id": 173,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 07:58:39",
+  "listings": {
+    "807430238226003272": {
+      "room_id": 807430238226003272,
+      "latitude": 42.24359,
+      "longitude": -83.41736,
+      "grid_id_assigned": null,
+      "grid_id_source": 173.0,
+      "bbox_id": "42.240310_-83.421410_42.265750_-83.385860",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 07:55:53",
+      "raw_data": {
+        "room_id": 807430238226003272,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/b9096aa6-2dce-4ec3-b2c9-a35b15a1822a.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Kim",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b9096aa6-2dce-4ec3-b2c9-a35b15a1822a.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 11
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Home away from Home.",
+        "title": "Room in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 457.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $228.24",
+              "amount": 456.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795698306430860813/original/4c5778e0-a32c-4762-8e51-cac79674cbc7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795698306430860813/original/088df544-48bb-48cb-b269-76abed04e0a3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795698306430860813/original/dadd7e51-b1ab-4043-854e-78dd7340a17b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-795698306430860813/original/692c0ddc-be70-40ff-bb03-7173851fe791.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-807430238226003272/original/f12b54b9-a4a3-4cdd-be4a-04793a59362e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.24359,
+          "longitud": -83.41736
+        }
+      }
+    }
+  }
+}

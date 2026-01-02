@@ -1,0 +1,131 @@
+{
+  "grid_id": 24,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 05:00:50",
+  "listings": {
+    "1382179102100254816": {
+      "room_id": 1382179102100254816,
+      "latitude": 38.34316752797623,
+      "longitude": -122.33014843203475,
+      "grid_id_assigned": null,
+      "grid_id_source": 24.0,
+      "bbox_id": "38.337580_-122.339730_38.345320_-122.329230",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 04:57:51",
+      "raw_data": {
+        "room_id": 1382179102100254816,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 18 – 23",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Chic Napa Wine Country Escape • Patios + Firepit",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5675.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,135.00",
+              "amount": 5675.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "20"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1382179102100254816/original/9217b156-9097-49ec-a370-5530725d8e64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1382179102100254816/original/936322e2-a3df-4f12-91d3-90244aa19216.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1382179102100254816/original/e0c2a51f-5ae3-45b4-956f-f088c7ad9b54.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1382179102100254816/original/b554ed5c-c30c-4f27-b20d-31049d50013c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1382179102100254816/original/c7150829-0384-4b4e-a35f-e60ee48bf374.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1382179102100254816/original/69a0f365-b04a-4435-bf45-7da1498cfa3d.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.34316752797623,
+          "longitud": -122.33014843203475
+        }
+      }
+    }
+  }
+}

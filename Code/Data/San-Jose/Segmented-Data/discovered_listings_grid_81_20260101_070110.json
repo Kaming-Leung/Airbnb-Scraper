@@ -1,0 +1,3304 @@
+{
+  "grid_id": 81,
+  "total_listings": 26,
+  "discovery_timestamp": "2026-01-01 07:01:10",
+  "listings": {
+    "717444423753932531": {
+      "room_id": 717444423753932531,
+      "latitude": 37.2347,
+      "longitude": -121.98985,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 717444423753932531,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Los Gatos Villa: hot tub, sauna, pool, and huge yard",
+        "title": "Villa in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 6445.0,
+            "discount": 3348.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,289.00",
+              "amount": 6445.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -3097.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 3347.0,
+              "currency": "$.50"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "41"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/02b4932b-6182-4c68-b1fb-35e9d4ecfd07.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-6004293/original/1b9c0b3d-9c54-45db-a68d-5e24a2952b9b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-6004293/original/79001001-22b2-464b-959d-5d7dd9611ac6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74907068/a13f6431_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-6004293/original/af73a7e8-0db4-4878-a133-173d073e9403.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/74907205/571cbb25_original.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.2347,
+          "longitud": -121.98985
+        }
+      }
+    },
+    "48259247": {
+      "room_id": 48259247,
+      "latitude": 37.2327,
+      "longitude": -121.97743,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 48259247,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 13 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 13 – 18",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Five Star Smart Home Living Experience",
+        "title": "Guesthouse in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1427.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $285.29",
+              "amount": 1426.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "96"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e5250e48-c8b7-47a2-88c0-d8aef925ccce.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48259247/original/00e68e40-9c52-45ba-b4c1-c7aafaa5c5fa.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48259247/original/105c1510-5e28-47ac-8086-bb2cae52dbd1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48259247/original/d198a705-162a-4c32-a07a-adb68c6d5318.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7cc2cff8-f845-46c3-96af-98956ae47e82.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8dd26486-fb3e-476d-9063-1eb5745fedac.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.2327,
+          "longitud": -121.97743
+        }
+      }
+    },
+    "1579095390984115227": {
+      "room_id": 1579095390984115227,
+      "latitude": 37.21806,
+      "longitude": -121.97535,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 1579095390984115227,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Treehouse Haven",
+        "title": "Home in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 6163.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,232.47",
+              "amount": 6162.0,
+              "currency": "$.36"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579095390984115227/original/965e20ba-a0ea-4e9f-9ee7-30857bfe744a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579095390984115227/original/d5262ca1-9765-42fa-b561-0e6f29300f29.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579095390984115227/original/8c18df6a-5cdf-47e8-b4ea-b86691bed456.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579095390984115227/original/a2fd3e26-8793-4b83-89d1-b132472aa89e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579095390984115227/original/f836095c-26d8-4887-927d-25ac6b8b67e1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1579095390984115227/original/746ec340-440a-495f-bd3f-b9808ced8517.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.21806,
+          "longitud": -121.97535
+        }
+      }
+    },
+    "32501289": {
+      "room_id": 32501289,
+      "latitude": 37.23472,
+      "longitude": -121.98986,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 32501289,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Charming Entire Los Gatos Saratoga House",
+        "title": "Home in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1935.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $386.86",
+              "amount": 1934.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "127"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/fb00556e-36ea-42c5-b6e7-b76ffdaead4e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32501289/original/7de66ecb-14dd-4666-b9ce-dbfa564ca7de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/346fd29f-aa9c-49ee-9de3-fa11e4c7864b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/77d38077-29b0-4900-99bc-29bfeb24d77e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/948e3d49-ee66-4b94-89d2-65e859fcfc6a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/222497cb-ca5f-42b0-b314-3e2ed7b2938e.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.23472,
+          "longitud": -121.98986
+        }
+      }
+    },
+    "952238561500053356": {
+      "room_id": 952238561500053356,
+      "latitude": 37.22275,
+      "longitude": -121.98466,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 952238561500053356,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Heritage Hideaway - Downtown Los Gatos",
+        "title": "Home in Los Gatos",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -77.0,
+          "currency_symbol": "$.50"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4058.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $827.00",
+              "amount": 4135.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -77.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 4057.0,
+              "currency": "$.50"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-952238561500053356/original/1fbc44cd-82ac-42ea-8a90-b534297be3e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-952238561500053356/original/ed659913-5653-4131-8341-7bf401996261.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-952238561500053356/original/2b85def8-da4a-411f-80ea-62d9dd0aab70.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-952238561500053356/original/6f4d21b1-c1f4-4447-80ff-ac991c861299.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-952238561500053356/original/12928dd3-c7b1-49c5-abc0-dbe577321114.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-952238561500053356/original/8e530ac6-0a4d-47eb-9d2b-f68e52c0864f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.22275,
+          "longitud": -121.98466
+        }
+      }
+    },
+    "48591458": {
+      "room_id": 48591458,
+      "latitude": 37.23571,
+      "longitude": -121.99064,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 48591458,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Feb 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Family Friendly Home in Monte Sereno, CA",
+        "title": "Place to stay in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1948.0,
+            "discount": 1598.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $389.53",
+              "amount": 1947.0,
+              "currency": "$.65"
+            },
+            {
+              "description": "Special offer",
+              "amount": -350.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1597.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-48591458/original/1f2813be-58bc-4af1-992a-0efcacaa1b2c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-48591458/original/08f136ca-ca4c-4daf-98bf-c0f69915b984.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-48591458/original/6d2b3817-d01e-43c2-9e72-e479efe1ad66.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-48591458/original/9e9567dd-20d9-448e-8104-e3f656ba5b1a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-48591458/original/d706e221-4580-4e1a-9d47-72c7945e00ed.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.23571,
+          "longitud": -121.99064
+        }
+      }
+    },
+    "17212228": {
+      "room_id": 17212228,
+      "latitude": 37.23342,
+      "longitude": -121.98035,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 17212228,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 8 – 13",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "4 br 3 bth downtown Los Gatos. 20 mins from Levi’s",
+        "title": "Home in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 14836.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $2,967.06",
+              "amount": 14835.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "32"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a770958a-d72d-4847-833a-e3c1a53d355a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/be041eaf-98e5-43a1-ba0d-6806330d524b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-17212228/original/e384e08f-4e42-44e8-a892-8364fc78479e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-17212228/original/1b3f3691-c56a-4bcd-bd7c-43d47bf1896d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-17212228/original/76d7bd00-486e-4fd7-9fd7-2a73a5bbef13.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-17212228/original/684b1445-d23d-435a-8962-71531679b524.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.23342,
+          "longitud": -121.98035
+        }
+      }
+    },
+    "33252610": {
+      "room_id": 33252610,
+      "latitude": 37.23647,
+      "longitude": -121.98856,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 33252610,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Fairy Hill Suite Los Gatos, Saratoga, Cupertino",
+        "title": "Guest suite in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2254.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $450.76",
+              "amount": 2253.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.25,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-33252610/original/46a6c4de-1851-4993-9e1f-527594049b40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d94ca103-5fb2-47fa-9317-c848c453777c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1ac08276-6755-444a-90fd-5420d33a1bc4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d0a447e0-dbb8-4a6e-bae4-613934afff31.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1859e702-b22c-411b-b2d9-3955d8394d08.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7f85ebaa-8c8d-407a-b6f2-90e0fd7df1ec.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.23647,
+          "longitud": -121.98856
+        }
+      }
+    },
+    "20588810": {
+      "room_id": 20588810,
+      "latitude": 37.23481,
+      "longitude": -121.98844,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 06:58:15",
+      "raw_data": {
+        "room_id": 20588810,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Mediterranean suit losgatos,Saratoga",
+        "title": "Home in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1999.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $399.64",
+              "amount": 1998.0,
+              "currency": "$.20"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f5d9f604-4e5f-4fc3-8f2a-d10e383d568b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d50bce3e-e750-48fe-88a2-47338754aef5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-20588810/original/5d3c2fb2-aa67-4bc5-875a-cf1674f71d31.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/346fd29f-aa9c-49ee-9de3-fa11e4c7864b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4292fced-d749-4030-be8e-2c93bb65a364.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2fe44f8e-e7e3-480c-b933-a11e19e3e8e8.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.23481,
+          "longitud": -121.98844
+        }
+      }
+    },
+    "41135173": {
+      "room_id": 41135173,
+      "latitude": 37.22291,
+      "longitude": -121.9642,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 41135173,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bright Garden Suite in Silicon Valley",
+        "title": "Guest suite in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 400.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $199.71",
+              "amount": 399.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "129"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-41135173/original/dccde657-6977-4326-b943-ff728b83c2cc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-41135173/original/8da212ec-0ee8-4925-9c5d-c55c02ca6770.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-41135173/original/9491b71c-46b6-4f2b-9c7f-25e8a664fe80.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-41135173/original/689d522b-2146-428b-993f-6d3f2b2c1313.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-41135173/original/0ad17b6b-11e3-4d24-b58a-44a7e9defbfa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-41135173/original/66db489a-3e42-4a55-8673-bf0c61c3a914.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.22291,
+          "longitud": -121.9642
+        }
+      }
+    },
+    "1397254787664920645": {
+      "room_id": 1397254787664920645,
+      "latitude": 37.2211,
+      "longitude": -121.9771,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 1397254787664920645,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 double bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Mediterranean-inspired retreat in the heart",
+        "title": "Hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 438.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $189.00",
+              "amount": 378.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Resort fee",
+              "amount": 60.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1397254787664920645/original/e474cded-e2b4-4339-9028-5e2fd3f9f2ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1397254787664920645/original/c8f72faf-3ec7-4c8c-85e0-6a1fcb7eafc7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1397254787664920645/original/41516c48-b9b3-4cc0-bfe6-87a3c87bd4fa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1397254787664920645/original/e886e94b-a10d-4867-b28e-677ee46eae0c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1397254787664920645/original/858ca66b-f15a-45a4-ad47-fdff2b0459c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1397254787664920645/original/95cc6dcc-9738-4595-ab79-c386a927c739.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.2211,
+          "longitud": -121.9771
+        }
+      }
+    },
+    "34094975": {
+      "room_id": 34094975,
+      "latitude": 37.22175,
+      "longitude": -121.96572,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 34094975,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-246853963/original/6c916b9f-6163-4f3e-9aad-a4b86026ce38.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Helen",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-246853963/original/6c916b9f-6163-4f3e-9aad-a4b86026ce38.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "94 reviews on the listing",
+              "label": "Reviews",
+              "value": "94",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.82 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.82",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "7 years of hosting",
+              "label": "Years hosting",
+              "value": "7",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 8
+          },
+          "ratingCount": 94,
+          "ratingAverage": 4.82
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ideal Silicon Valley Business/small family travel",
+        "title": "Room in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 296.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $147.78",
+              "amount": 295.0,
+              "currency": "$.56"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "94"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-34094975/original/b6b367a2-1016-4413-a586-f9d89364d114.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-34094975/original/63813517-ce1a-4c85-bf43-32bdac18ac59.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-34094975/original/6ffb6ea4-4953-41ba-875a-2c66c538bb7d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-34094975/original/394e0383-dd7e-440e-ba3d-ff18f6389f34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-34094975/original/578fe333-78d5-4c28-90ff-0b2bb2d1e9c5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-34094975/original/3f59c63b-883e-4350-b775-15b96c869475.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.22175,
+          "longitud": -121.96572
+        }
+      }
+    },
+    "1571374999267603866": {
+      "room_id": 1571374999267603866,
+      "latitude": 37.23085,
+      "longitude": -121.9625,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 1571374999267603866,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet 2BR Home w/ Huge Yard + Parking",
+        "title": "Home in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 525.0,
+            "discount": 457.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $262.27",
+              "amount": 524.0,
+              "currency": "$.53"
+            },
+            {
+              "description": "Special offer",
+              "amount": -67.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 456.0,
+              "currency": "$.93"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1571374999267603866/original/9bd4912f-8e38-430c-9cee-e00f7916a647.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1571374999267603866/original/73fa84a5-6903-4808-a925-ba039cb7efef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1571374999267603866/original/7ba94b8b-c7c0-4aff-b60c-863fabb4e88b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1571374999267603866/original/461f6989-b6ca-472b-bf66-ea06bf1194d9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1571374999267603866/original/aeb286a8-b7c2-477d-91cc-b796f95c7832.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1571374999267603866/original/e21cbbe5-b07f-479b-a33c-9563b741386a.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.23085,
+          "longitud": -121.9625
+        }
+      }
+    },
+    "1061628693335181458": {
+      "room_id": 1061628693335181458,
+      "latitude": 37.22184,
+      "longitude": -121.98112,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 1061628693335181458,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Los Gatos Garden Inn, Standard Deluxe, Tulip",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 413.0,
+            "discount": 373.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $186.50",
+              "amount": 373.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.61,
+          "reviewCount": "23"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061628693335181458/original/9e791557-8d6b-477a-8d9a-5ec4db43bca0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061628693335181458/original/f217a3e6-b389-4edc-8840-483960cb1f1e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061628693335181458/original/5962a43b-9811-4fb8-b9b2-7069aef5f2ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/10425dcf-21c8-4af4-9a64-f7aeb3f6e676.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5d972d93-2ec8-4cfb-bc84-eee6a2acba94.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22184,
+          "longitud": -121.98112
+        }
+      }
+    },
+    "33772874": {
+      "room_id": 33772874,
+      "latitude": 37.22124,
+      "longitude": -121.96531,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 33772874,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Amazing for Silicon Valley business/small families",
+        "title": "Place to stay in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $142.65",
+              "amount": 285.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "74"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-33772874/original/14edc9a2-803b-4216-b796-14a4a9e862b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-33772874/original/670836f6-ee0b-434c-b8f5-e31dc045a3e4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-33772874/original/fe1d4f98-8760-41e6-aa8e-ff73e6bbd229.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-33772874/original/c228455e-fdee-421c-bd7f-eafb867162fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-33772874/original/4c989864-5467-4a68-9bdd-0bafdc090cb0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-33772874/original/a44d8727-9f54-45d6-915a-208a33c1eb28.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.22124,
+          "longitud": -121.96531
+        }
+      }
+    },
+    "21148578": {
+      "room_id": 21148578,
+      "latitude": 37.22218,
+      "longitude": -121.98105,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 21148578,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Los Gatos Garden Inn - Executive Suite - Lilacs",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 393.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $196.50",
+              "amount": 393.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21148578/original/1ab9b0fd-1fb2-410a-a8f7-9bac5da7c287.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21148578/original/33d86e0d-7a0b-42b4-b97a-5f5e103e8f9e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/247cbd5e-2a0c-4b71-98c6-fedcc7763b47.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21148578/original/9fd0f126-b254-4659-a339-54deab936fa5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21148578/original/e5e583db-e794-46f6-b9e9-a5843d119503.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-21148578/original/cc1e7d8a-4124-484e-bb5d-c3db5461a79d.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22218,
+          "longitud": -121.98105
+        }
+      }
+    },
+    "18415090": {
+      "room_id": 18415090,
+      "latitude": 37.22215,
+      "longitude": -121.98099,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 18415090,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Los Gatos Garden Inn - Executive Suite - Roses",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 452.0,
+            "discount": 393.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $196.50",
+              "amount": 393.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.57,
+          "reviewCount": "68"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-18415090/original/597dd6c9-b2c5-46c6-97d8-4f40f67bf46b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-18415090/original/625f5011-0a69-4b8a-be89-b7239f682bad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/28f34c2d-402c-4f08-88e5-7bd1daf4fae4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/61400d3a-3eaa-462a-90b0-d123bf6489db.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-18415090/original/a11e2c35-09f0-482e-855f-e237d691ab51.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-18415090/original/3f496e4b-a376-4214-a1f0-f5633709cea8.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22215,
+          "longitud": -121.98099
+        }
+      }
+    },
+    "1061686624446286636": {
+      "room_id": 1061686624446286636,
+      "latitude": 37.22219,
+      "longitude": -121.97932,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 1061686624446286636,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Los Gatos Garden Inn-Standard Deluxe-Rose",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 373.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $186.50",
+              "amount": 373.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/10425dcf-21c8-4af4-9a64-f7aeb3f6e676.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5d972d93-2ec8-4cfb-bc84-eee6a2acba94.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061628693335181458/original/9e791557-8d6b-477a-8d9a-5ec4db43bca0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061628693335181458/original/5962a43b-9811-4fb8-b9b2-7069aef5f2ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061628693335181458/original/f217a3e6-b389-4edc-8840-483960cb1f1e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22219,
+          "longitud": -121.97932
+        }
+      }
+    },
+    "1062459634884516260": {
+      "room_id": 1062459634884516260,
+      "latitude": 37.2212,
+      "longitude": -121.98,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 1062459634884516260,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Los Gatos Garden Inn - Patio King",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 338.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $169.00",
+              "amount": 338.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062459634884516260/original/7532a0d8-87c0-429e-9eb1-4cc8ca9de0b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062459634884516260/original/d3cace0f-2264-4643-8278-d39d23a083ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062459634884516260/original/555268fc-717b-4917-ae68-423d762071df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062459634884516260/original/080c5531-4eea-4f15-87e2-07a86d8a5696.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062459634884516260/original/d96b8550-0464-4968-9e4a-227c287f02fb.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.2212,
+          "longitud": -121.98
+        }
+      }
+    },
+    "1061763160745293737": {
+      "room_id": 1061763160745293737,
+      "latitude": 37.2212,
+      "longitude": -121.98,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 06:58:22",
+      "raw_data": {
+        "room_id": 1061763160745293737,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Los Gatos Garden Inn - Standard Deluxe - Two Twins",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 358.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $179.00",
+              "amount": 358.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061763160745293737/original/dd860454-95ec-45c9-a047-5b558e50c79b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061763160745293737/original/743f41fd-a653-4fb0-8ed4-f4be3cce6ef4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061763160745293737/original/57ee3d9a-afea-4849-a0c2-ee7c5c49dae3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061763160745293737/original/8d6d56d4-4afc-4fcd-9162-bbbbd7ee7cc9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061763160745293737/original/ad2d0c55-4214-45a5-b8c5-b1a88033bdce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1061763160745293737/original/f9ffb2ad-6d79-40cb-9579-b8f8b5b1e7db.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.2212,
+          "longitud": -121.98
+        }
+      }
+    },
+    "687795757973221029": {
+      "room_id": 687795757973221029,
+      "latitude": 37.2346,
+      "longitude": -121.9893,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 06:58:27",
+      "raw_data": {
+        "room_id": 687795757973221029,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Guesthouse in Monte Sereno",
+        "title": "Guesthouse in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 649.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $216.25",
+              "amount": 648.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "56"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-687795757973221029/original/eda09450-e9b0-4117-ae78-265570f25f81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-687795757973221029/original/bdfe5308-37bb-4014-aba7-16678329c53a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-687795757973221029/original/9477d968-7bba-4a13-b063-e95f2a4cb124.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-687795757973221029/original/c9c7b412-7f64-4f21-8839-72a4d40083cc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-687795757973221029/original/3b981771-4bbe-4555-bb4b-252074cc3de1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4785dd01-38e4-4e6e-98d5-684ee8901c16.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.2346,
+          "longitud": -121.9893
+        }
+      }
+    },
+    "23651141": {
+      "room_id": 23651141,
+      "latitude": 37.23669,
+      "longitude": -121.98997,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 06:58:27",
+      "raw_data": {
+        "room_id": 23651141,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Private Cozy Suite Los Gatos - Saratoga",
+        "title": "Guesthouse in Monte Sereno",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 756.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $251.82",
+              "amount": 755.0,
+              "currency": "$.46"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.84,
+          "reviewCount": "166"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/18ba6ca4-98a9-4835-b203-f12fcb4028c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b9bc352-dfcd-415e-9db3-6e0e208f458d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-23651141/original/17e1890a-df9f-4d0e-90f5-5ab12ddedfe4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b151503b-b36b-45ae-91ab-fffc55e0f07d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-23651141/original/508e5fba-b2f1-4c48-b792-c0ff2595ccc5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjM2NTExNDE%3D/original/406d599f-34d4-4867-9515-65e9441f76fd.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.23669,
+          "longitud": -121.98997
+        }
+      }
+    },
+    "1521339911683664513": {
+      "room_id": 1521339911683664513,
+      "latitude": 37.2272,
+      "longitude": -121.96763,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 06:58:27",
+      "raw_data": {
+        "room_id": 1521339911683664513,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy Cottage near downtown Los Gatos.",
+        "title": "Guesthouse in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 299.0,
+            "discount": 256.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $99.55",
+              "amount": 298.0,
+              "currency": "$.65"
+            },
+            {
+              "description": "Special offer",
+              "amount": -42.0,
+              "currency": "$.80"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 255.0,
+              "currency": "$.85"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521339911683664513/original/13808f62-6604-447f-b0ac-305550c45134.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521339911683664513/original/9694d41e-2ab3-4da4-8d67-04e4f926eef7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521339911683664513/original/fc32891e-c62f-4734-93d5-bf689791fa00.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521339911683664513/original/5dbb9fed-6639-4de3-b70a-ef053090ea5c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521339911683664513/original/83b11757-a277-4a4b-ab92-5a1df25caa2e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521339911683664513/original/84041a3e-7b83-4908-94b1-4cf993f688ee.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.2272,
+          "longitud": -121.96763
+        }
+      }
+    },
+    "1563312623134701662": {
+      "room_id": 1563312623134701662,
+      "latitude": 37.22913,
+      "longitude": -121.97648,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 06:58:39",
+      "raw_data": {
+        "room_id": 1563312623134701662,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Family Stay |Steps to Parks + DT Los Gatos",
+        "title": "Home in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 786.0,
+            "discount": 716.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $392.53",
+              "amount": 785.0,
+              "currency": "$.05"
+            },
+            {
+              "description": "Special offer",
+              "amount": -69.0,
+              "currency": "$.30"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 715.0,
+              "currency": "$.75"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563312623134701662/original/4f2c51fb-0121-4044-b301-430c84818fe6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563312623134701662/original/ae9c540d-dcd7-4e13-a853-ec5e6aeae5ba.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563312623134701662/original/cfe55ff3-3fb7-4d77-b749-fb68f54f07fa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563312623134701662/original/f9fa97c1-9b5d-4cfa-aeb3-bce48bebe27a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563312623134701662/original/42d2d251-ebfc-4baa-bf6f-cab47cd77ed5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1563312623134701662/original/f058a8f3-d52c-4b8b-b2d9-9a7700952ad0.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22913,
+          "longitud": -121.97648
+        }
+      }
+    },
+    "21148350": {
+      "room_id": 21148350,
+      "latitude": 37.22015,
+      "longitude": -121.98102,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 06:58:39",
+      "raw_data": {
+        "room_id": 21148350,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Los Gatos Garden Inn - Executive Suite - Daisy",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 445.0,
+            "discount": 393.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $196.50",
+              "amount": 393.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "11"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/51b1f75e-a965-4ce7-8f6d-aca07a6e5db0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/08609eb2-8f37-46da-b1a3-54721b0087e8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b81be81b-f27a-455f-8f85-fb5854a21f6f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/91c17daf-f81b-4adc-9bd8-9c8e73f106dd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5581e992-73d5-4014-9290-060b4222531c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c1c9910f-3605-4d46-adef-2dca75743d78.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.22015,
+          "longitud": -121.98102
+        }
+      }
+    },
+    "1062466576752849832": {
+      "room_id": 1062466576752849832,
+      "latitude": 37.2212,
+      "longitude": -121.98,
+      "grid_id_assigned": null,
+      "grid_id_source": 81.0,
+      "bbox_id": "37.211040_-121.993810_37.237050_-121.960630",
+      "pass_id": 4,
+      "discovered_at": "2026-01-01 06:58:39",
+      "raw_data": {
+        "room_id": 1062466576752849832,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Los Gatos Garden Inn - Patio Queen",
+        "title": "Boutique hotel in Los Gatos",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 338.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $169.00",
+              "amount": 338.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062466576752849832/original/ac07f4a1-b699-42f5-a1dc-30467220b778.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062466576752849832/original/dc151864-dc9b-45bd-ba1b-cd20a523de64.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062466576752849832/original/94f37655-02c6-41c2-a50f-472a5cb70554.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062466576752849832/original/9cc5cc1f-a40b-4fb9-9e8c-f9ea57454e3d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062466576752849832/original/43856e62-4ea2-40e6-8e62-4d240337e08e.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.2212,
+          "longitud": -121.98
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "grid_id": 83,
+  "total_listings": 6,
+  "discovery_timestamp": "2025-12-28 00:32:42",
+  "listings": {
+    "639792152458759305": {
+      "room_id": 639792152458759305,
+      "latitude": 42.29853,
+      "longitude": -82.91769,
+      "grid_id_assigned": null,
+      "grid_id_source": 83.0,
+      "bbox_id": "42.277090_-82.932850_42.302020_-82.897890",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 00:29:48",
+      "raw_data": {
+        "room_id": 639792152458759305,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Fully equipped camping trailer",
+        "title": "Camper/RV in Forest Glade",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1180.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $236.00",
+              "amount": 1180.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-639792152458759305/original/c64f9dcf-ed84-4adf-85f4-22b05495f6c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-639792152458759305/original/81c22562-91db-4512-b232-d196b0c660de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-639792152458759305/original/b0cdb683-5200-47f7-8e03-2ccaaf95e0e8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-639792152458759305/original/40e249e2-4a54-452b-8c9f-12767966057e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-639792152458759305/original/7031ba1e-d7e7-453a-8b18-c76026c3f0b9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29853,
+          "longitud": -82.91769
+        }
+      }
+    },
+    "894093624424835284": {
+      "room_id": 894093624424835284,
+      "latitude": 42.29994,
+      "longitude": -82.91644,
+      "grid_id_assigned": null,
+      "grid_id_source": 83.0,
+      "bbox_id": "42.277090_-82.932850_42.302020_-82.897890",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 00:29:54",
+      "raw_data": {
+        "room_id": 894093624424835284,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Basement, Private Entrance",
+        "title": "Home in Forest Glade",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 218.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $108.73",
+              "amount": 217.0,
+              "currency": "$.45"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.56,
+          "reviewCount": "48"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/dd4e3e12-3b98-4eb7-917d-ea778d4fe9b0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4d3af003-6968-401c-b245-7bf0aabfbdbc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8f18fb4e-3af0-4283-90ab-2740bdda9f03.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4dbf42f8-95ff-4af0-aaf1-a7bd8c959e10.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a0cacca0-d874-496f-a539-8074ca99ad7d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b442841a-6a3a-49d4-903c-079092cf87ff.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29994,
+          "longitud": -82.91644
+        }
+      }
+    },
+    "1026364926479959984": {
+      "room_id": 1026364926479959984,
+      "latitude": 42.29712,
+      "longitude": -82.91105,
+      "grid_id_assigned": null,
+      "grid_id_source": 83.0,
+      "bbox_id": "42.277090_-82.932850_42.302020_-82.897890",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:30:00",
+      "raw_data": {
+        "room_id": 1026364926479959984,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-506452494/original/6cd48736-db76-41ef-8ecd-15282f67a0e6.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jessica",
+          "titleText": "Started hosting in 2023",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-506452494/original/6cd48736-db76-41ef-8ecd-15282f67a0e6.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 1
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Come stay in my welcoming home",
+        "title": "Room in Forest Glade",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 236.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $78.66",
+              "amount": 235.0,
+              "currency": "$.99"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/df72d93f-a2fc-43dc-a351-228520322052.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1026364926479959984/original/990601af-cb9e-41b5-8484-a1d758de4abe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6fe81a98-ca6e-4a51-b105-abbb032b7f79.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8032f781-c4e1-4344-85e2-eb7028e109df.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d0024767-9356-4e8f-b412-763c29315190.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ace51d61-eba1-47cc-aa0f-7e5d05ef3b4e.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29712,
+          "longitud": -82.91105
+        }
+      }
+    },
+    "781304285989682449": {
+      "room_id": 781304285989682449,
+      "latitude": 42.29932,
+      "longitude": -82.91126,
+      "grid_id_assigned": null,
+      "grid_id_source": 83.0,
+      "bbox_id": "42.277090_-82.932850_42.302020_-82.897890",
+      "pass_id": 5,
+      "discovered_at": "2025-12-28 00:30:18",
+      "raw_data": {
+        "room_id": 781304285989682449,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy 1 Bed Basement Studio Apt",
+        "title": "Guesthouse in Forest Glade",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 229.0,
+            "discount": 211.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $70.24",
+              "amount": 210.0,
+              "currency": "$.72"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.75,
+          "reviewCount": "273"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/6ff93338-90f2-4850-9bd3-50d909b65267.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0ce54cd3-6510-4e5d-b88f-2990202da78b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d4918999-b504-4dad-93a5-f2367a5c7fd7.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6e51719d-6602-419e-b191-5ff130bea48c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/85e5d9d1-f8d7-425d-9d81-c17d1c35bc43.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgxMzA0Mjg1OTg5NjgyNDQ5/original/e194196a-e7aa-4b3d-8f5e-08f117ec9304.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29932,
+          "longitud": -82.91126
+        }
+      }
+    },
+    "982215915446431298": {
+      "room_id": 982215915446431298,
+      "latitude": 42.29911,
+      "longitude": -82.90964,
+      "grid_id_assigned": null,
+      "grid_id_source": 83.0,
+      "bbox_id": "42.277090_-82.932850_42.302020_-82.897890",
+      "pass_id": 5,
+      "discovered_at": "2025-12-28 00:30:18",
+      "raw_data": {
+        "room_id": 982215915446431298,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Windsor our home",
+        "title": "Guest suite in Forest Glade",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 233.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $77.54",
+              "amount": 232.0,
+              "currency": "$.61"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.79,
+          "reviewCount": "48"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982215915446431298/original/1d1f3f55-14e1-4292-b7f6-91cdc3afa871.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982215915446431298/original/1042b2dc-e410-4c99-9251-58812611408e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982215915446431298/original/b6284dbb-3297-4733-aedf-c0a767679f22.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982215915446431298/original/040692f4-32d2-4d4b-9f06-eeb08d807f66.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982215915446431298/original/c25d2885-d121-4373-a245-27d21d243bae.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-982215915446431298/original/c18dacd4-f27a-48af-b6c7-687fd4bec43c.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.29911,
+          "longitud": -82.90964
+        }
+      }
+    },
+    "1318438379973311208": {
+      "room_id": 1318438379973311208,
+      "latitude": 42.2982,
+      "longitude": -82.9105,
+      "grid_id_assigned": null,
+      "grid_id_source": 83.0,
+      "bbox_id": "42.277090_-82.932850_42.302020_-82.897890",
+      "pass_id": 5,
+      "discovered_at": "2025-12-28 00:30:18",
+      "raw_data": {
+        "room_id": 1318438379973311208,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Absolutely Private Place",
+        "title": "Home in Forest Glade",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 207.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $68.83",
+              "amount": 206.0,
+              "currency": "$.48"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.78,
+          "reviewCount": "36"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1318438379973311208/original/f00b8279-2451-4837-a69f-e6e67ac78791.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1318438379973311208/original/06fb7ccb-6004-4a77-8d3a-5dd152b89b96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1318438379973311208/original/fc3d76ed-342d-495b-b34b-576d29eb817b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1318438379973311208/original/07297fd2-fcd1-4e24-90d1-84d2b7801cf3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1318438379973311208/original/96970d73-8ee1-41da-8a6f-b5546a7d56c0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1318438379973311208/original/0292e04b-20df-4a44-9493-8eaae6122aba.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.2982,
+          "longitud": -82.9105
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "grid_id": 7,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 16:20:30",
+  "listings": {
+    "775630807566252812": {
+      "room_id": 775630807566252812,
+      "latitude": 38.04079,
+      "longitude": -121.21542,
+      "grid_id_assigned": null,
+      "grid_id_source": 7.0,
+      "bbox_id": "38.034160_-121.216250_38.060150_-121.184150",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 16:17:37",
+      "raw_data": {
+        "room_id": 775630807566252812,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Wine Country Getaway",
+        "title": "Home in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1170.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $233.94",
+              "amount": 1169.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "40"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-775630807566252812/original/cb3af508-e8eb-4eaa-92c2-76a45492f394.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-775630807566252812/original/4b09cc33-9cd7-437b-9df6-ffdb1a651b68.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-775630807566252812/original/23945b75-d6ac-4a8c-ac48-05db71b24c55.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-775630807566252812/original/0b3bf733-e106-4f47-811b-c9b66a9451a0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-775630807566252812/original/7c09d0df-147c-4d5a-b603-db278f12b2a6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-775630807566252812/original/dd683bef-a884-46ff-8480-69f2be4169a4.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.04079,
+          "longitud": -121.21542
+        }
+      }
+    }
+  }
+}

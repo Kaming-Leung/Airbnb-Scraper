@@ -1,0 +1,131 @@
+{
+  "grid_id": 2,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 03:54:32",
+  "listings": {
+    "44633341": {
+      "room_id": 44633341,
+      "latitude": 38.35869,
+      "longitude": -122.33473,
+      "grid_id_assigned": null,
+      "grid_id_source": 2.0,
+      "bbox_id": "38.353070_-122.339730_38.360810_-122.329230",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 03:51:36",
+      "raw_data": {
+        "room_id": 44633341,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Persimmon Villa- Main and Pool House",
+        "title": "Villa in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 11897.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $2,379.35",
+              "amount": 11896.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "20"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/9f9534c3-9c03-4ea0-97a3-2d5a26bcacb4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44633341/original/66e35e1c-8236-4012-bd94-acd2df92b57e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44633341/original/40f3dc89-44fb-4d29-9257-657ef2d62be5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44633341/original/863f0f65-57c0-4331-84a9-d0822c9388bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7cc6ee9c-a23f-4d06-8ddb-8dd9298d5886.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-44633341/original/c282c13c-45e4-4c94-b877-d537ffad0067.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.35869,
+          "longitud": -122.33473
+        }
+      }
+    }
+  }
+}

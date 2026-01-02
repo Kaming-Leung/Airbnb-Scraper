@@ -1,0 +1,131 @@
+{
+  "grid_id": 16,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 04:36:42",
+  "listings": {
+    "26171750": {
+      "room_id": 26171750,
+      "latitude": 38.3466,
+      "longitude": -122.3052,
+      "grid_id_assigned": null,
+      "grid_id_source": 16.0,
+      "bbox_id": "38.345320_-122.308210_38.353070_-122.297700",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 04:33:48",
+      "raw_data": {
+        "room_id": 26171750,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Napa vineyard view guesthouse w/tree house",
+        "title": "Guesthouse in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1712.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $342.35",
+              "amount": 1711.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.97,
+          "reviewCount": "29"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjYxNzE3NTA%3D/original/149dd476-b52d-4112-a143-787ecc00fcf6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjYxNzE3NTA%3D/original/1518ee16-eb4d-4393-9998-f68ec1fa48e3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/52f1ce43-8179-45ad-a33b-c82af610fe5a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjYxNzE3NTA%3D/original/09f102b4-1f1b-41ca-8e4a-11f5ddb03a79.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjYxNzE3NTA%3D/original/424abc10-8cb2-45bc-a574-5d7d53654466.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjYxNzE3NTA%3D/original/048cd2bc-d13d-4a09-8b5c-5ad6f57e5ac9.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.3466,
+          "longitud": -122.3052
+        }
+      }
+    }
+  }
+}

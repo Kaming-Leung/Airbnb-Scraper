@@ -1,0 +1,265 @@
+{
+  "grid_id": 33,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 00:57:25",
+  "listings": {
+    "32306794": {
+      "room_id": 32306794,
+      "latitude": 42.39305,
+      "longitude": -83.68119,
+      "grid_id_assigned": null,
+      "grid_id_source": 33.0,
+      "bbox_id": "42.392940_-83.705800_42.418380_-83.670260",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 00:54:56",
+      "raw_data": {
+        "room_id": 32306794,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Rejuven Acres - The Suite",
+        "title": "Guest suite in South Lyon",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 240.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $119.83",
+              "amount": 239.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "422"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/8beaf112-1d45-4775-9d77-55e7dae4cba0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b195b9a-3639-47db-94c4-98e2590e6ce9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/073afd83-4cc0-4002-9157-014312ab6472.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32306794/original/bb3eb939-6a6c-4b03-87f0-74b407503fcf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32306794/original/46c0f8bb-59f0-4909-ba5f-4a8adcdfc5c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-32306794/original/81e97132-e2f7-4f6d-a8f9-b4617991db79.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.39305,
+          "longitud": -83.68119
+        }
+      }
+    },
+    "52202002": {
+      "room_id": 52202002,
+      "latitude": 42.39991,
+      "longitude": -83.67824,
+      "grid_id_assigned": null,
+      "grid_id_source": 33.0,
+      "bbox_id": "42.392940_-83.705800_42.418380_-83.670260",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 00:54:56",
+      "raw_data": {
+        "room_id": 52202002,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Quiet bit of Heaven 20 min North of Downtown AA",
+        "title": "Cottage in South Lyon",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 478.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $238.51",
+              "amount": 477.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "125"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52202002/original/ed867e27-0634-4c9c-a13e-1bc970cc31d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6a37d1dc-f5d6-45fa-84d0-01363f8b9b82.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52202002/original/19c21f05-ea07-40f0-930d-b247a13e4199.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52202002/original/988a926a-897f-45a6-b254-5291c0d6dfb7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52202002/original/9f298715-bfc7-4031-863e-bdae03e48002.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52202002/original/b4295da1-a9a3-4be8-9cfa-07b590915ef1.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.39991,
+          "longitud": -83.67824
+        }
+      }
+    }
+  }
+}

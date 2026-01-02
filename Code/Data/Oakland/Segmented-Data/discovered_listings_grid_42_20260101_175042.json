@@ -1,0 +1,1919 @@
+{
+  "grid_id": 42,
+  "total_listings": 15,
+  "discovery_timestamp": "2026-01-01 17:50:42",
+  "listings": {
+    "28839172": {
+      "room_id": 28839172,
+      "latitude": 37.77039,
+      "longitude": -122.26933,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:47:48",
+      "raw_data": {
+        "room_id": 28839172,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Luxury Victorian near San Francisco, Beach, Oak",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1554.0,
+            "discount": 1321.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $310.68",
+              "amount": 1553.0,
+              "currency": "$.38"
+            },
+            {
+              "description": "Special offer",
+              "amount": -232.0,
+              "currency": "$.75"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1320.0,
+              "currency": "$.63"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "443"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/910d3b62-da83-41ca-812a-2d50ec58b990.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a310190a-7a99-4622-a488-652a5c2e131b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/84a57d10-e8cb-4a30-a866-5dd2f71b3698.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4c1b0014-bc0a-4f98-ba7a-0300a33102da.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/58b14b57-ca3c-41d0-867b-2543b6ae221f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/20ee549a-ed9a-4f91-8c46-443dfbf288f1.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.77039,
+          "longitud": -122.26933
+        }
+      }
+    },
+    "1334905757979870492": {
+      "room_id": 1334905757979870492,
+      "latitude": 37.7717,
+      "longitude": -122.2776,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:47:48",
+      "raw_data": {
+        "room_id": 1334905757979870492,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Walk to Crab Cove Beach: Alameda Home w/ Game Room",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2061.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $412.20",
+              "amount": 2061.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1334905757979870492/original/04d67179-0574-42f3-b5ee-ac1438329616.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1334905757979870492/original/16e07625-89dc-4911-8153-3fa8ba7ff1ea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1334905757979870492/original/d5027fcb-7154-47d8-b6a9-a0007196eddd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1334905757979870492/original/bbc6c000-dde7-4c3a-82c7-35c4c48f44d0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1334905757979870492/original/dac73047-0352-4216-914a-5b0d1b6cef98.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1334905757979870492/original/54176927-29b1-4d45-a2f2-b222d4b5d8b6.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.7717,
+          "longitud": -122.2776
+        }
+      }
+    },
+    "784811088712141488": {
+      "room_id": 784811088712141488,
+      "latitude": 37.76699,
+      "longitude": -122.27204,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:47:48",
+      "raw_data": {
+        "room_id": 784811088712141488,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Large house near the beach",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1826.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $365.18",
+              "amount": 1825.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.64,
+          "reviewCount": "69"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-784811088712141488/original/59b6c829-336e-4f7c-a189-3a8f45abf50e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-784811088712141488/original/f4d88cc4-226e-4b52-98ed-7ce274512768.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-784811088712141488/original/7f6ca94e-79a3-4d43-9906-dc8eb2da8232.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-784811088712141488/original/f43f8c00-5b27-4a90-b663-b5af1b627342.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-784811088712141488/original/141bab34-4fa8-4c24-bc57-3c8fd7b1fdc7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-784811088712141488/original/b9a81ca8-05dc-4e9a-a06e-b6021c5f8e97.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.76699,
+          "longitud": -122.27204
+        }
+      }
+    },
+    "1536452645337699807": {
+      "room_id": 1536452645337699807,
+      "latitude": 37.77047,
+      "longitude": -122.28022,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:47:48",
+      "raw_data": {
+        "room_id": 1536452645337699807,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "King bed/Master Bedroom/Private Bathroom/Parking",
+        "title": "Place to stay in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1810.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $362.00",
+              "amount": 1810.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/86d47c49-df09-467a-b8f2-0fea70cffe6d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8082f92c-d002-4efa-9b76-f70a76ab545a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/64a53e8e-bd5d-4488-b909-688a71b24705.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0feafd04-d5e9-45bf-92f6-3eb65f409231.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/11e56abe-34b8-48cc-9c8e-8314a9b607d1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-895895356973745185/original/2d0a3ee7-a788-4cbc-afe2-0b6e5fe4ef27.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.77047,
+          "longitud": -122.28022
+        }
+      }
+    },
+    "673841132228373848": {
+      "room_id": 673841132228373848,
+      "latitude": 37.7696,
+      "longitude": -122.2713,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:47:48",
+      "raw_data": {
+        "room_id": 673841132228373848,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Happy Hideaway - Blissful Flat Near the Beach",
+        "title": "Townhouse in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1337.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $267.35",
+              "amount": 1336.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.45,
+          "reviewCount": "31"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-673841132228373848/original/aa3bd3aa-8510-4ae3-816f-ea246a638b0a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-673841132228373848/original/d2eb227e-d6cc-428b-9af7-9044a5394b3e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-673841132228373848/original/8b8c17d3-cb5a-44eb-851a-586fdfab41ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-673841132228373848/original/a9e0b13c-a500-49b9-a4ae-7b3421685f4f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-673841132228373848/original/6b93f37a-312a-4f6f-ab74-7b3c784f109e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-673841132228373848/original/c03c3200-ad76-44df-b64c-0fa5e9144e29.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.7696,
+          "longitud": -122.2713
+        }
+      }
+    },
+    "712189895828999030": {
+      "room_id": 712189895828999030,
+      "latitude": 37.77094,
+      "longitude": -122.27152,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 17:47:48",
+      "raw_data": {
+        "room_id": 712189895828999030,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "7 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Updated Historical Home, Peaceful Neighborhood",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1502.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $300.36",
+              "amount": 1501.0,
+              "currency": "$.79"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.85,
+          "reviewCount": "46"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712189895828999030/original/7da583e6-2e54-4935-a2e5-48fccf0f1357.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712189895828999030/original/7ff7f931-2a26-48fa-89f7-e91dacd932c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712189895828999030/original/ae9a6445-fea4-4412-b726-84e5cd5fb701.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4fa49e79-e993-4c48-bd21-f08d2160d588.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712189895828999030/original/6fba3fd1-2d25-4af1-8d9a-8275f02a9807.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-712189895828999030/original/04b56e81-6bf4-4c5e-bafd-f56e35e14758.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.77094,
+          "longitud": -122.27152
+        }
+      }
+    },
+    "1039443616573411575": {
+      "room_id": 1039443616573411575,
+      "latitude": 37.77009222556516,
+      "longitude": -122.280693611147,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 17:47:54",
+      "raw_data": {
+        "room_id": 1039443616573411575,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "King Bed/ Walk to the Beach/ Garage Parking",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 505.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $260.06",
+              "amount": 520.0,
+              "currency": "$.11"
+            },
+            {
+              "description": "Special offer",
+              "amount": -15.0,
+              "currency": "$.88"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 504.0,
+              "currency": "$.23"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/86d47c49-df09-467a-b8f2-0fea70cffe6d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5e8c005d-5684-48ba-a567-448846b8b5bd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/19c3bac4-241b-4658-a244-69445a29d7fa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c13d4f77-4f5a-44e1-b1bc-dc0868f5a5b1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/0feafd04-d5e9-45bf-92f6-3eb65f409231.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6c3e1848-dd01-49aa-949e-85680aaf8f66.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.77009222556516,
+          "longitud": -122.280693611147
+        }
+      }
+    },
+    "1487804193089552335": {
+      "room_id": 1487804193089552335,
+      "latitude": 37.7703,
+      "longitude": -122.2726,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 17:47:54",
+      "raw_data": {
+        "room_id": 1487804193089552335,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Stroll to SF Bay Beaches! Cozy Home in Alameda",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 588.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $294.00",
+              "amount": 588.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1487804193089552335/original/3098a164-ce74-470e-b274-7be6d894188d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1487804193089552335/original/bb7505b9-b5fb-4423-b657-2107b43caddc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1487804193089552335/original/f6f350f8-201e-49e7-ab1e-3817dd1af320.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1487804193089552335/original/d8422aa1-0e1b-459a-913d-4f04fff361b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1487804193089552335/original/05fca0b3-27e5-4f2f-a3a3-b8be1c3e4dbc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1487804193089552335/original/579458e5-c439-4a1f-a2c4-4d8e48fdf8dc.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.7703,
+          "longitud": -122.2726
+        }
+      }
+    },
+    "1517755070197003398": {
+      "room_id": 1517755070197003398,
+      "latitude": 37.77015,
+      "longitude": -122.2805,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 17:47:54",
+      "raw_data": {
+        "room_id": 1517755070197003398,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Alameda Beach Access/Garage Parking/3 Bedroom",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 483.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $249.00",
+              "amount": 498.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Special offer",
+              "amount": -15.0,
+              "currency": "$.92"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 482.0,
+              "currency": "$.08"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48120992/original/0772e040-80f1-4b3e-8a96-cce24b4e0d77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48120992/original/0772e040-80f1-4b3e-8a96-cce24b4e0d77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8082f92c-d002-4efa-9b76-f70a76ab545a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c13d4f77-4f5a-44e1-b1bc-dc0868f5a5b1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-590572538443086092/original/cd449aed-4882-4e76-9a4b-c541977e6e4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/86d47c49-df09-467a-b8f2-0fea70cffe6d.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.77015,
+          "longitud": -122.2805
+        }
+      }
+    },
+    "1426125767738810538": {
+      "room_id": 1426125767738810538,
+      "latitude": 37.7625,
+      "longitude": -122.2714,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 17:47:54",
+      "raw_data": {
+        "room_id": 1426125767738810538,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/f6bbe35b-b2be-45ef-b893-e580cee062a0.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Brittany",
+          "titleText": "Started hosting in 2025",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/f6bbe35b-b2be-45ef-b893-e580cee062a0.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 0,
+            "months": 7
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Lovely shared room in Alameda",
+        "title": "Room in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 503.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $251.06",
+              "amount": 502.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1426125767738810538/original/15cfbdd7-920f-456c-97ea-98745cbd86ef.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1426125767738810538/original/5358c917-1f02-47cf-a1fb-78787e640706.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1426125767738810538/original/f769e79f-62b9-40e5-ae4c-6eb74f0bcac7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1426125767738810538/original/ee076e06-927a-453b-a737-b4a3b5710d96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1426125767738810538/original/0fb34386-c9b7-45ff-a51a-16fc895b9322.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1426125767738810538/original/1e01d2d4-7217-4d2e-b50c-385f0d898d9b.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.7625,
+          "longitud": -122.2714
+        }
+      }
+    },
+    "590572538443086092": {
+      "room_id": 590572538443086092,
+      "latitude": 37.771559164542566,
+      "longitude": -122.27859013409756,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 17:47:54",
+      "raw_data": {
+        "room_id": 590572538443086092,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "King Bed/ Garage Parking/ Ferry/ Walk to the beach",
+        "title": "Home in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 590.0,
+            "discount": 499.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $294.62",
+              "amount": 589.0,
+              "currency": "$.24"
+            },
+            {
+              "description": "Special offer",
+              "amount": -90.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 498.0,
+              "currency": "$.64"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.82,
+          "reviewCount": "171"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48120992/original/0772e040-80f1-4b3e-8a96-cce24b4e0d77.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8082f92c-d002-4efa-9b76-f70a76ab545a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c13d4f77-4f5a-44e1-b1bc-dc0868f5a5b1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-590572538443086092/original/cd449aed-4882-4e76-9a4b-c541977e6e4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1a937800-91c2-4811-8364-10287f9a5fd1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/86d47c49-df09-467a-b8f2-0fea70cffe6d.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.771559164542566,
+          "longitud": -122.27859013409756
+        }
+      }
+    },
+    "13743124": {
+      "room_id": 13743124,
+      "latitude": 37.77179,
+      "longitude": -122.27782,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 17:48:00",
+      "raw_data": {
+        "room_id": 13743124,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 single bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Watertower by Beach and Transit",
+        "title": "Guesthouse in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 337.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $112.22",
+              "amount": 336.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "369"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/4deefe9a-b736-4e0e-a584-47847e83ac35.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e292d4e4-fb90-4963-a17b-4e7dc8786b79.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7efcb038-f363-4eed-a52e-d1c74a8428ab.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13743124/original/4cd49bc7-c3ec-4d97-bdb7-3a93d7c42466.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13743124/original/34c685ea-eaf6-48b0-a019-85ee32d64c7e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-13743124/original/bb086e25-77d9-4500-94cf-e7d162c92895.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.77179,
+          "longitud": -122.27782
+        }
+      }
+    },
+    "13856370": {
+      "room_id": 13856370,
+      "latitude": 37.7717,
+      "longitude": -122.28,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 17:48:00",
+      "raw_data": {
+        "room_id": 13856370,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Spacious 1906 Victorian in-law apartment",
+        "title": "Guest suite in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 524.0,
+            "discount": 434.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $174.56",
+              "amount": 523.0,
+              "currency": "$.69"
+            },
+            {
+              "description": "Special offer",
+              "amount": -89.0,
+              "currency": "$.70"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 433.0,
+              "currency": "$.99"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "271"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b0159036-0e8b-41d3-b910-5a33f0058bf1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/7eac62b0-616b-4107-966d-09f8fe035dfb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6f797d02-ea04-41c5-be65-66f5f31bb432.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/63bf3a32-1bed-4ac5-b44c-1d7e55ffaf88.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/98ed5336-7d25-43d7-a2bf-a948adbaa853.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d3ace465-618f-428f-8e46-11b3f78c7d23.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.7717,
+          "longitud": -122.28
+        }
+      }
+    },
+    "27530857": {
+      "room_id": 27530857,
+      "latitude": 37.76913,
+      "longitude": -122.27124,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 17:48:18",
+      "raw_data": {
+        "room_id": 27530857,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Large Cottage Near SF, Beach, Airport w/ Backyard",
+        "title": "Cottage in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 642.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $213.78",
+              "amount": 641.0,
+              "currency": "$.34"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "396"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/218d9921-dd64-4d3a-b797-ace869f418cf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1c92194e-9814-436b-9691-6a5c6ac168dc.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c3675a69-4a90-4708-9f26-a16d2593e0b2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/16c59d70-f95f-4d47-b2b0-12d96d976526.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6b67ee92-1aa7-4456-bfd1-aad6f44493b2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-27530857/original/879c41e3-30bc-44c0-a334-db9be6296235.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.76913,
+          "longitud": -122.27124
+        }
+      }
+    },
+    "269244": {
+      "room_id": 269244,
+      "latitude": 37.77138,
+      "longitude": -122.27384,
+      "grid_id_assigned": null,
+      "grid_id_source": 42.0,
+      "bbox_id": "37.745650_-122.302550_37.772110_-122.268770",
+      "pass_id": 13,
+      "discovered_at": "2026-01-01 17:49:06",
+      "raw_data": {
+        "room_id": 269244,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Secret Garden Cottage",
+        "title": "Apartment in Alameda",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 395.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $197.43",
+              "amount": 394.0,
+              "currency": "$.85"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.84,
+          "reviewCount": "494"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjY5MjQ0/original/9b756a21-b417-4ec9-b67d-e5af08fa306b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/57417987/3e78f5dd_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/57252187/41363a83_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/ebae94b8-64bf-4a0b-849a-3dab4f46f65c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/57417631/893f1d39_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d6204021-6810-4dda-9da0-00d70d1c2f86.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.77138,
+          "longitud": -122.27384
+        }
+      }
+    }
+  }
+}

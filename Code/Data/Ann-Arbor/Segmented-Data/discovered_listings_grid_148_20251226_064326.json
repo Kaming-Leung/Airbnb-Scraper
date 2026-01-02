@@ -1,0 +1,377 @@
+{
+  "grid_id": 148,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-26 06:43:26",
+  "listings": {
+    "50330591": {
+      "room_id": 50330591,
+      "latitude": 42.27565,
+      "longitude": -83.51888,
+      "grid_id_assigned": null,
+      "grid_id_source": 148.0,
+      "bbox_id": "42.265750_-83.528060_42.291180_-83.492510",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 06:40:23",
+      "raw_data": {
+        "room_id": 50330591,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bud's Paradise- A beautiful cabin in the woods!!!",
+        "title": "Barn in Canton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1606.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $321.13",
+              "amount": 1605.0,
+              "currency": "$.64"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.66,
+          "reviewCount": "97"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50330591/original/d0581e74-b8a7-4f26-baa5-c58ba848d8a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/044e0bb3-5d23-4756-9d8d-0d49475c48e9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50330591/original/1bdcff38-b55d-4ea2-bc91-49e8586dd94f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/710add7a-e9d8-4f89-b792-30709592812b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-50330591/original/32d1170f-561e-4412-9b76-6e161d65f8f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/dd55ccaa-d722-4c0d-b9d9-60d12433d5e2.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.27565,
+          "longitud": -83.51888
+        }
+      }
+    },
+    "648407034486422067": {
+      "room_id": 648407034486422067,
+      "latitude": 42.27455,
+      "longitude": -83.50617,
+      "grid_id_assigned": null,
+      "grid_id_source": 148.0,
+      "bbox_id": "42.265750_-83.528060_42.291180_-83.492510",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 06:40:23",
+      "raw_data": {
+        "room_id": 648407034486422067,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury Condo in the Heart of Canton",
+        "title": "Condo in Canton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1798.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $359.47",
+              "amount": 1797.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "17"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-648407034486422067/original/9c442974-2111-4446-b0b4-1875a6b95201.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6447664f-7143-486b-b0ff-f532e39101c0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-648407034486422067/original/3dd9446e-962a-4a70-84af-027026caaf95.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2b4f8138-a470-4e10-a4bc-8f6617af1710.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/373f7cdd-df80-4d90-9b89-32b9046eabf9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/60841639-fe54-41fe-8b04-c63a980daea6.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.27455,
+          "longitud": -83.50617
+        }
+      }
+    },
+    "993766912106614739": {
+      "room_id": 993766912106614739,
+      "latitude": 42.27119,
+      "longitude": -83.5251,
+      "grid_id_assigned": null,
+      "grid_id_source": 148.0,
+      "bbox_id": "42.265750_-83.528060_42.291180_-83.492510",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 06:40:23",
+      "raw_data": {
+        "room_id": 993766912106614739,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A ranch experience in Canton - Complete House",
+        "title": "Farm stay in Canton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1427.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $285.29",
+              "amount": 1426.0,
+              "currency": "$.47"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e6cecd9f-865f-402a-a1eb-99bc9b0a4061.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/10225624-3d6e-4b7d-b3b1-68340c44d092.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-895253203176966679/original/5bd1ba8c-2451-46db-8e33-5af7c2075516.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-895253203176966679/original/0739a629-79d9-492c-b38f-c735aed4f4ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-895253203176966679/original/a920007f-41b4-4d5d-848c-9369b22ec2bc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-895253203176966679/original/1de986f1-3d09-40c0-8653-8c8d73032a0d.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.27119,
+          "longitud": -83.5251
+        }
+      }
+    }
+  }
+}

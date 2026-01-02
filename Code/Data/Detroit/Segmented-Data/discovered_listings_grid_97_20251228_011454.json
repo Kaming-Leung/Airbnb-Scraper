@@ -1,0 +1,136 @@
+{
+  "grid_id": 97,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 01:14:54",
+  "listings": {
+    "24947981": {
+      "room_id": 24947981,
+      "latitude": 42.24378,
+      "longitude": -83.26452,
+      "grid_id_assigned": null,
+      "grid_id_source": 97.0,
+      "bbox_id": "42.227240_-83.282470_42.252170_-83.247510",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 01:12:06",
+      "raw_data": {
+        "room_id": 24947981,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "House of a Different Color",
+        "title": "Home in Taylor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 369.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $184.30",
+              "amount": 368.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "203"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/ce65126f-9c34-4748-a8dc-63ab73a4cc53.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e773f09b-1001-422c-8566-a22788c2d02d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/137b5171-974c-4cbd-b65b-d1318c95e791.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/040e020b-3514-4833-9a88-e788ead715c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/907ad925-ef45-4d16-8818-855bbdd767d9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5078b2d0-491d-4412-9d24-0f3156935874.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.24378,
+          "longitud": -83.26452
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "grid_id": 258,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 12:15:19",
+  "listings": {
+    "40891828": {
+      "room_id": 40891828,
+      "latitude": 42.15911,
+      "longitude": -83.51439,
+      "grid_id_assigned": null,
+      "grid_id_source": 258.0,
+      "bbox_id": "42.138550_-83.528060_42.163990_-83.492510",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 12:12:33",
+      "raw_data": {
+        "room_id": 40891828,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/b3130ef5-01a3-4e59-950c-e63f2ed374ed.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Denise",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/b3130ef5-01a3-4e59-950c-e63f2ed374ed.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "178 reviews on the listing",
+              "label": "Reviews",
+              "value": "178",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.98 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.98",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 6,
+            "months": 0
+          },
+          "ratingCount": 178,
+          "ratingAverage": 4.98
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Jacuzzi bathtub. Guest room. Close to DTW/AnnArbor",
+        "title": "Room in Belleville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 226.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $75.32",
+              "amount": 225.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "178"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-40891828/original/8c8814e5-b9c0-4d16-aa20-641cc11ec0c6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/68f53bd7-5008-47e2-bdbe-235ebbf699c5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-40891828/original/94e113d2-69c3-497a-9b3d-e75bdee4c8b4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-40891828/original/d15ea216-2a55-464f-bab8-a758813bea0a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e4117dd8-953a-4e7e-a62c-00a8ff459b81.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-40891828/original/dde47c9e-4e06-49c5-b5a6-81ffb21c348f.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.15911,
+          "longitud": -83.51439
+        }
+      }
+    }
+  }
+}

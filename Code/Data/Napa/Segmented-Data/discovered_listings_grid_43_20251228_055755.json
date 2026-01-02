@@ -1,0 +1,131 @@
+{
+  "grid_id": 43,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 05:57:55",
+  "listings": {
+    "1147300482491814387": {
+      "room_id": 1147300482491814387,
+      "latitude": 38.33045,
+      "longitude": -122.25527,
+      "grid_id_assigned": null,
+      "grid_id_source": 43.0,
+      "bbox_id": "38.329830_-122.255670_38.337580_-122.245170",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 05:55:00",
+      "raw_data": {
+        "room_id": 1147300482491814387,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Chateau Vichy in the vineyard",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3281.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $656.18",
+              "amount": 3280.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "15"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147300482491814387/original/4c0b7da7-db6c-4bad-bb33-ead2c7f9be60.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147300482491814387/original/b95569bd-db94-44d4-b44c-308c672d1c96.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147300482491814387/original/d9a90cc6-1a3c-4226-8d74-0d285856a010.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147300482491814387/original/fe5c51fd-929c-4f48-b6d1-fc922a2739a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147300482491814387/original/0d8555c0-d4fd-4270-93ff-d01bef8e6747.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1147300482491814387/original/1c2aab60-7cc5-4d6c-b223-5b456e1aad99.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.33045,
+          "longitud": -122.25527
+        }
+      }
+    }
+  }
+}

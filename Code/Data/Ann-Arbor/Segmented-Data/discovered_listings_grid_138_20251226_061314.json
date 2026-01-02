@@ -1,0 +1,263 @@
+{
+  "grid_id": 138,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 06:13:14",
+  "listings": {
+    "1434001693325311458": {
+      "room_id": 1434001693325311458,
+      "latitude": 42.291,
+      "longitude": -83.8759,
+      "grid_id_assigned": null,
+      "grid_id_source": 138.0,
+      "bbox_id": "42.265750_-83.883550_42.291180_-83.848000",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 06:10:19",
+      "raw_data": {
+        "room_id": 1434001693325311458,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Bright & Modern Flat in A2",
+        "title": "Apartment in Scio Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1130.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $225.95",
+              "amount": 1129.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1434001693325311458/original/9693f42e-9836-4f54-a328-a782795d21bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1434001693325311458/original/15360766-3786-4fee-a16f-b74534b8b2a7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1434001693325311458/original/0dcbcbe2-a083-4a53-a677-e18cbe318da0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1434001693325311458/original/ee2f6dc4-1ef0-4ce2-ba17-9e8d64dd2ac5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1434001693325311458/original/29cbb24a-4121-43d1-8a71-89ae92302ed6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1434001693325311458/original/77b12170-8467-447f-8911-388e8745cbdd.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.291,
+          "longitud": -83.8759
+        }
+      }
+    },
+    "27323020": {
+      "room_id": 27323020,
+      "latitude": 42.27214,
+      "longitude": -83.86618,
+      "grid_id_assigned": null,
+      "grid_id_source": 138.0,
+      "bbox_id": "42.265750_-83.883550_42.291180_-83.848000",
+      "pass_id": 4,
+      "discovered_at": "2025-12-26 06:10:43",
+      "raw_data": {
+        "room_id": 27323020,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Clean & Serene Guest Suite 7 miles to downtown A2!",
+        "title": "Guesthouse in Ann Arbor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 236.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $117.54",
+              "amount": 235.0,
+              "currency": "$.08"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "323"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d93839b6-8a88-473b-88b3-149fd8b4c323.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e3b1fc05-0a05-4705-8a53-8ba150b3a01c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-27323020/original/e91984d0-f7ad-4587-b7ba-65825f0eee88.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/407fa738-740d-440d-aab8-f2ffd9689e96.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3a0222eb-4ba1-4a43-9eeb-9a91a4bde304.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/6abfd481-62da-41d2-878e-34f4997c1eb2.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.27214,
+          "longitud": -83.86618
+        }
+      }
+    }
+  }
+}

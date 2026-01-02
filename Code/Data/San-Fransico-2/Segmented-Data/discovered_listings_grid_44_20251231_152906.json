@@ -1,0 +1,256 @@
+{
+  "grid_id": 44,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-31 15:29:06",
+  "listings": {
+    "792267235337071514": {
+      "room_id": 792267235337071514,
+      "latitude": 37.38772,
+      "longitude": -122.29205,
+      "grid_id_assigned": null,
+      "grid_id_source": 44.0,
+      "bbox_id": "37.365610_-122.302480_37.393330_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 15:26:11",
+      "raw_data": {
+        "room_id": 792267235337071514,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 6 – 11",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "NEW! Woodside Retreat: Gorgeous Views & Hot Tub",
+        "title": "Home in Woodside",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4439.0,
+            "discount": 3881.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $776.10",
+              "amount": 3880.0,
+              "currency": "$.50"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "35"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-792267235337071514/original/43b4ee67-0f71-4396-850a-93044982ac10.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-792267235337071514/original/8b04c8dc-16d0-4301-bec3-6581bba59a40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-792267235337071514/original/d350e1aa-2be0-4e30-89e0-e8bc4c934c8f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-792267235337071514/original/a3d3b0f9-4912-49da-a5ad-a56e5d35547d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-792267235337071514/original/8f686b70-4090-4d47-b6a1-dd47bd80b89a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-792267235337071514/original/09fd0147-3ad7-47a1-b2d9-0cc7c4ed228f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.38772,
+          "longitud": -122.29205
+        }
+      }
+    },
+    "31186450": {
+      "room_id": 31186450,
+      "latitude": 37.38303083237562,
+      "longitude": -122.27167025950318,
+      "grid_id_assigned": null,
+      "grid_id_source": 44.0,
+      "bbox_id": "37.365610_-122.302480_37.393330_-122.267340",
+      "pass_id": 0,
+      "discovered_at": "2025-12-31 15:26:11",
+      "raw_data": {
+        "room_id": 31186450,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jun 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Very Spacious Beautiful Guest Quarter!",
+        "title": "Guest suite in Woodside",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1290.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $257.91",
+              "amount": 1289.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "189"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/71cd2a41-4bc2-4508-8fde-34ab5f8daa90.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/641a1520-8fd8-4e50-9c15-b607cb05a3ed.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/59e79d56-f034-497d-937c-d3e3561ff43c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/468a0129-4f5a-48ab-9f94-013a82e45cfd.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1dac14c4-9c51-43ce-9064-8e6b58876daf.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/607b3f65-f1a1-4ff3-93b2-bcaea040c42b.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.38303083237562,
+          "longitud": -122.27167025950318
+        }
+      }
+    }
+  }
+}

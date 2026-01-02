@@ -1,0 +1,261 @@
+{
+  "grid_id": 23,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-23 00:16:47",
+  "listings": {
+    "33745995": {
+      "room_id": 33745995,
+      "latitude": 40.8207,
+      "longitude": -74.1021,
+      "grid_id_assigned": null,
+      "grid_id_source": 23.0,
+      "bbox_id": "40.798770_-74.117980_40.821200_-74.097010",
+      "pass_id": 0,
+      "discovered_at": "2025-12-23 00:13:52",
+      "raw_data": {
+        "room_id": 33745995,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Home away from home-next to MetLife stadium",
+        "title": "Home in Rutherford",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1712.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $342.35",
+              "amount": 1711.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.25,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/caa41527-99b4-4724-807a-0ce76836e9c6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3f48afbd-766f-4d6f-8e40-985ef732686b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/309ee84b-4f5d-463a-9437-0ce7572712f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f8b3de13-3db9-4065-9af3-1444cbfc245c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9ae2f98d-673a-45c5-ba86-0a941775323f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a479ea4d-8ebb-4507-ae45-3108fc71e38d.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.8207,
+          "longitud": -74.1021
+        }
+      }
+    },
+    "1243789631570381619": {
+      "room_id": 1243789631570381619,
+      "latitude": 40.81243,
+      "longitude": -74.11428,
+      "grid_id_assigned": null,
+      "grid_id_source": 23.0,
+      "bbox_id": "40.798770_-74.117980_40.821200_-74.097010",
+      "pass_id": 5,
+      "discovered_at": "2025-12-23 00:14:22",
+      "raw_data": {
+        "room_id": 1243789631570381619,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Room near New York",
+        "title": "Place to stay in Lyndhurst",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 278.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $92.44",
+              "amount": 277.0,
+              "currency": "$.31"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243789631570381619/original/cb0f9347-3b83-47ad-9ac2-9b904ab2069c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243789631570381619/original/c5e5a9e6-14c5-4446-bfe6-7cd9d9951796.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243789631570381619/original/4a73ca9f-3d41-43f9-8422-380c4228a14c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243789631570381619/original/1e879d6a-ff35-4f4f-b2dd-c4c2d1734ffd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243789631570381619/original/18fcd3a2-5697-4cbd-af5e-37eda83309cc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1243789631570381619/original/4fb4a494-0922-411e-9fa0-6f7f410fed63.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.81243,
+          "longitud": -74.11428
+        }
+      }
+    }
+  }
+}

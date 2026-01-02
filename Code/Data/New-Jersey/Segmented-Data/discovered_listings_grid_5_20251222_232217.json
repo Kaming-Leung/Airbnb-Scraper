@@ -1,0 +1,284 @@
+{
+  "grid_id": 5,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-22 23:22:17",
+  "listings": {
+    "1069682583972865345": {
+      "room_id": 1069682583972865345,
+      "latitude": 40.85924,
+      "longitude": -74.06982,
+      "grid_id_assigned": null,
+      "grid_id_source": 5.0,
+      "bbox_id": "40.843640_-74.076030_40.866070_-74.055060",
+      "pass_id": 2,
+      "discovered_at": "2025-12-22 23:19:35",
+      "raw_data": {
+        "room_id": 1069682583972865345,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Patricia",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3 reviews on the listing",
+              "label": "Reviews",
+              "value": "3",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "3.67 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "3.67",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 10
+          },
+          "ratingCount": 3,
+          "ratingAverage": 3.67
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Room in New Jersey",
+        "title": "Room in Hasbrouch Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 326.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $108.41",
+              "amount": 325.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 3.67,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069682583972865345/original/647bcc4e-c1f6-484c-ae06-7ff8a53836a5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069682583972865345/original/8b32c76c-89a2-48ac-823e-e30a556a9397.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069682583972865345/original/cb883bd7-aca5-425b-8dfe-32b460a653ad.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069682583972865345/original/56825630-82c4-4f05-b07b-e3788f8c1a09.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069682583972865345/original/6860fb78-1817-4d92-b200-657d92f9e371.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069682583972865345/original/c0d3daa6-2dbe-4cd2-a065-ecd0d7af0317.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.85924,
+          "longitud": -74.06982
+        }
+      }
+    },
+    "46279227": {
+      "room_id": 46279227,
+      "latitude": 40.86469,
+      "longitude": -74.06699,
+      "grid_id_assigned": null,
+      "grid_id_source": 5.0,
+      "bbox_id": "40.843640_-74.076030_40.866070_-74.055060",
+      "pass_id": 5,
+      "discovered_at": "2025-12-22 23:19:53",
+      "raw_data": {
+        "room_id": 46279227,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Bright and Spacious House near NYC",
+        "title": "Home in Hasbrouch Heights",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 691.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $230.14",
+              "amount": 690.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.89,
+          "reviewCount": "84"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d94bb1c6-6b56-42af-8a0f-53fd2814001e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bcb26b8f-c996-49f5-80a2-9a49c884490a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8721bd3a-d9d6-469d-beb2-7375f94c0829.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8fdff181-e841-4c51-89c5-8a915bc18a47.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4347c538-0e7c-439f-a485-5a958a2e6b41.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e965dc92-9ea7-41b0-bfd7-77f28d761e68.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 40.86469,
+          "longitud": -74.06699
+        }
+      }
+    }
+  }
+}

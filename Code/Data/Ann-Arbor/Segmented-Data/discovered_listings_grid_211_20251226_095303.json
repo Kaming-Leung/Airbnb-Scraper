@@ -1,0 +1,717 @@
+{
+  "grid_id": 211,
+  "total_listings": 5,
+  "discovery_timestamp": "2025-12-26 09:53:03",
+  "listings": {
+    "1023901267504980693": {
+      "room_id": 1023901267504980693,
+      "latitude": 42.1941,
+      "longitude": -83.61695,
+      "grid_id_assigned": null,
+      "grid_id_source": 211.0,
+      "bbox_id": "42.189430_-83.634710_42.214870_-83.599160",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 09:50:12",
+      "raw_data": {
+        "room_id": 1023901267504980693,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Travelbugs - 15 min to A2",
+        "title": "Home in Ypsilanti Charter Township",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 1423.0,
+            "discount": 1313.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $656.18",
+              "amount": 1312.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "29"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1023901267504980693/original/55baa6de-d36c-4d78-ada7-dd37c472b686.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1023901267504980693/original/34f26acd-0cb3-4da6-9edf-0315389a75b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1023901267504980693/original/a6b9ebed-d1a4-4a26-bf4b-a6691d2d6688.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1023901267504980693/original/74715a3f-1ef7-4955-8828-7f2329db56b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1023901267504980693/original/0fffcc47-a71a-4847-8275-23a418ad2c17.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1023901267504980693/original/812fbb66-bcd8-4174-9ef3-5373f84b729e.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1941,
+          "longitud": -83.61695
+        }
+      }
+    },
+    "8946491": {
+      "room_id": 8946491,
+      "latitude": 42.2002,
+      "longitude": -83.60372,
+      "grid_id_assigned": null,
+      "grid_id_source": 211.0,
+      "bbox_id": "42.189430_-83.634710_42.214870_-83.599160",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 09:50:12",
+      "raw_data": {
+        "room_id": 8946491,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/af4038b4-ad12-4a1b-96eb-951e4496ff4b.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sheetal",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/af4038b4-ad12-4a1b-96eb-951e4496ff4b.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "79 reviews on the listing",
+              "label": "Reviews",
+              "value": "79",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.84 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.84",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 3
+          },
+          "ratingCount": 79,
+          "ratingAverage": 4.84
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Garden view King bedroom",
+        "title": "Room in Ypsilanti",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 280.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $139.80",
+              "amount": 279.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.84,
+          "reviewCount": "79"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/a2b9263b-e188-4b9a-8b1b-ff45845864ec.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/71433b7b-97bb-48dc-9d4c-5579e57d4f6b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3859a3d1-a384-46c0-8de3-0cace4074f3b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a9810a08-a052-4795-9fe4-03e2e166627a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/419850bc-0ca2-4595-8037-c1705b227b8c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b8f3e402-ee70-4662-ac96-d81c41cac51f.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2002,
+          "longitud": -83.60372
+        }
+      }
+    },
+    "674655618951530316": {
+      "room_id": 674655618951530316,
+      "latitude": 42.20026,
+      "longitude": -83.60313,
+      "grid_id_assigned": null,
+      "grid_id_source": 211.0,
+      "bbox_id": "42.189430_-83.634710_42.214870_-83.599160",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 09:50:12",
+      "raw_data": {
+        "room_id": 674655618951530316,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Sunny room",
+        "title": "Place to stay in Ypsilanti",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 247.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $123.25",
+              "amount": 246.0,
+              "currency": "$.49"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-674655618951530316/original/9ed97448-b8a8-4341-b829-6d1537f8b51c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-674655618951530316/original/100f0768-b2f3-41d8-ad6a-aa8ff85fca86.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-674655618951530316/original/4298ba81-8fe2-4a18-850d-919b7d9e3a7c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-674655618951530316/original/1ab9ce66-5496-4773-a5d4-b236befe008d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-674655618951530316/original/d71058e1-1d51-4001-bda0-d4dbaf81b7ec.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-674655618951530316/original/c88da84e-7933-4512-997a-2bba6ba3a147.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.20026,
+          "longitud": -83.60313
+        }
+      }
+    },
+    "8929175": {
+      "room_id": 8929175,
+      "latitude": 42.2003,
+      "longitude": -83.60424,
+      "grid_id_assigned": null,
+      "grid_id_source": 211.0,
+      "bbox_id": "42.189430_-83.634710_42.214870_-83.599160",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 09:50:21",
+      "raw_data": {
+        "room_id": 8929175,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/af4038b4-ad12-4a1b-96eb-951e4496ff4b.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sheetal",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/af4038b4-ad12-4a1b-96eb-951e4496ff4b.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "69 reviews on the listing",
+              "label": "Reviews",
+              "value": "69",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 3
+          },
+          "ratingCount": 69,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Queen Bed Garden Room w/ Desk.",
+        "title": "Room in Ypsilanti",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 223.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $74.18",
+              "amount": 222.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "69"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/15e64cdf-8032-4a1f-8076-dece8945d4bb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/53f36ca6-dbd8-4f3c-8f5b-b0b5266d0db0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9c2d618d-19fa-4948-9412-73e8c0598c32.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/95bb836f-368d-4556-8867-333b91f07786.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f636513e-0aa4-40f3-b7b0-b3fbcb47d77a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2855809e-53f2-41ac-b6c3-7bf71db9336c.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2003,
+          "longitud": -83.60424
+        }
+      }
+    },
+    "8574965": {
+      "room_id": 8574965,
+      "latitude": 42.20019,
+      "longitude": -83.60434,
+      "grid_id_assigned": null,
+      "grid_id_source": 211.0,
+      "bbox_id": "42.189430_-83.634710_42.214870_-83.599160",
+      "pass_id": 2,
+      "discovered_at": "2025-12-26 09:50:21",
+      "raw_data": {
+        "room_id": 8574965,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/af4038b4-ad12-4a1b-96eb-951e4496ff4b.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sheetal",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/af4038b4-ad12-4a1b-96eb-951e4496ff4b.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "120 reviews on the listing",
+              "label": "Reviews",
+              "value": "120",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.92 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.92",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 10,
+            "months": 3
+          },
+          "ratingCount": 120,
+          "ratingAverage": 4.92
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Queen Bed beautiful room w/ Desk.",
+        "title": "Room in Ypsilanti",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 328.0,
+            "discount": 223.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $74.18",
+              "amount": 222.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "120"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/e174ab4a-aa2c-4c5b-959d-b2d2f2d9e5b0.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/376cdf5f-b620-482a-a55c-d2de12d92563.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/40c3d669-172b-40cb-a4b8-7e3699e09190.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/08a1c2a3-d24d-4db4-b772-ba9192877580.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5f5acdd5-e7c6-4921-94f8-3fbb2c4d1681.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8bd3baaf-8338-4103-aa17-aa7530ba78d2.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.20019,
+          "longitud": -83.60434
+        }
+      }
+    }
+  }
+}

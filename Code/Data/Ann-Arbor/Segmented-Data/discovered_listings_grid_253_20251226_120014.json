@@ -1,0 +1,255 @@
+{
+  "grid_id": 253,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 12:00:14",
+  "listings": {
+    "1033957077743538386": {
+      "room_id": 1033957077743538386,
+      "latitude": 42.1467,
+      "longitude": -83.6976,
+      "grid_id_assigned": null,
+      "grid_id_source": 253.0,
+      "bbox_id": "42.138550_-83.705800_42.163990_-83.670260",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 11:57:20",
+      "raw_data": {
+        "room_id": 1033957077743538386,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Entire Home Near Ann Arbor/ Family Friendly",
+        "title": "Home in Milan",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1484.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $296.71",
+              "amount": 1483.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "38"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1033957077743538386/original/af2b123e-28a7-4b41-bb3c-7367c4900072.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1033957077743538386/original/1a580b8a-3600-4ef9-9200-b35170f87802.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1033957077743538386/original/f0974deb-96a0-457e-974c-12878700ab98.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1033957077743538386/original/22d9c701-f111-4775-99ad-62abd8143f17.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1033957077743538386/original/74331955-4769-46e9-b121-2a91980c2190.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1033957077743538386/original/7ec23a19-c316-413d-a97d-54668ba69416.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1467,
+          "longitud": -83.6976
+        }
+      }
+    },
+    "753529200631490036": {
+      "room_id": 753529200631490036,
+      "latitude": 42.1434,
+      "longitude": -83.67704,
+      "grid_id_assigned": null,
+      "grid_id_source": 253.0,
+      "bbox_id": "42.138550_-83.705800_42.163990_-83.670260",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 11:57:20",
+      "raw_data": {
+        "room_id": 753529200631490036,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Private Executive Suite",
+        "title": "Loft in Milan",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1227.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $245.35",
+              "amount": 1226.0,
+              "currency": "$.77"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "14"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-753529200631490036/original/9e608c21-90fc-430f-9abe-996c4a4ab89b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-753529200631490036/original/be6d9b27-74f8-41fa-9f76-ce1694e8c02a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-753529200631490036/original/7d4be6e5-e7ba-4def-9df5-ad5b8a50765f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-753529200631490036/original/e0dcd1a8-eb37-4581-83d7-53a654be89b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-753529200631490036/original/409f3aa6-2d58-4090-9a1b-5f5f5106ca52.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-753529200631490036/original/74525565-4c33-430f-b5b1-99f7d5152af7.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.1434,
+          "longitud": -83.67704
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "grid_id": 25,
+  "total_listings": 7,
+  "discovery_timestamp": "2025-12-21 19:02:34",
+  "listings": {
+    "780450965392762212": {
+      "room_id": 780450965392762212,
+      "latitude": 34.7767,
+      "longitude": -111.9079,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 19:02:29",
+      "raw_data": {
+        "room_id": 780450965392762212,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Romantic Stargazer Cottage with Private Hot Tub",
+        "title": "Cottage in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 860.0,
+            "discount": 683.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $341.50",
+              "amount": 683.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.99,
+          "reviewCount": "160"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-780450965392762212/original/b0d86b01-0693-405a-96d1-142cebaaac57.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDUwOTY1MzkyNzYyMjEy/original/9b4b65f1-f902-46b0-bc0c-073f6db22cce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDUwOTY1MzkyNzYyMjEy/original/ee4b279f-8e6f-472f-a0f6-347258863d11.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDUwOTY1MzkyNzYyMjEy/original/a8c22d72-c861-4854-80ab-7eb926db2f6a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-780450965392762212/original/2d827958-9e24-4973-ad9f-7da6b5a68b5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-780450965392762212/original/c3db24bb-7b12-41c2-8900-c0fa66769380.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.7767,
+          "longitud": -111.9079
+        }
+      }
+    },
+    "30676309": {
+      "room_id": 30676309,
+      "latitude": 34.77884,
+      "longitude": -111.90752,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 19:02:29",
+      "raw_data": {
+        "room_id": 30676309,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/f1e9cdc7-8b7d-4af6-94c7-b6f6dd5db3fc.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Marcia",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f1e9cdc7-8b7d-4af6-94c7-b6f6dd5db3fc.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "51 reviews on the listing",
+              "label": "Reviews",
+              "value": "51",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.92 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.92",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "10 years of hosting",
+              "label": "Years hosting",
+              "value": "10",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 9,
+            "months": 8
+          },
+          "ratingCount": 51,
+          "ratingAverage": 4.92
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Hacienda Private Suite & Patio overlooking garden",
+        "title": "Room in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 380.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $190.00",
+              "amount": 380.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "51"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-30676309/original/65dc46ab-d7cf-4a77-8b23-600ca23927e6.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cdc437db-d633-456c-9c48-7c09a4fb1850.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-30676309/original/1bd41e16-8e01-4495-b849-4053bd9f2999.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-30676309/original/93e25328-1254-491c-9844-07ec1ae38b66.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-30676309/original/a1bfc446-0aaf-4ad3-95b4-b019f8dabe05.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-30676309/original/128cb30f-e4dc-4d85-8c79-8df46b3280df.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.77884,
+          "longitud": -111.90752
+        }
+      }
+    },
+    "54163247": {
+      "room_id": 54163247,
+      "latitude": 34.77979,
+      "longitude": -111.90586,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 19:02:29",
+      "raw_data": {
+        "room_id": 54163247,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Page Springs Flower Farm Stone House",
+        "title": "Farm stay in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 850.0,
+            "discount": 756.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $378.00",
+              "amount": 756.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "57"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-54163247/original/16e3850a-026d-424e-93ac-bba586a6d6b4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54163247/original/c7941aac-2190-4ad5-a111-2eec24144e92.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-54163247/original/bbf589b6-e3ed-45d2-963b-589611512ab7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-54163247/original/dadc3789-846a-4a50-98b6-90dd67ab610a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-54163247/original/9ebf7e61-38a3-485d-bcb6-24d4fc16f67d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-54163247/original/e2ec3cb7-acbb-4a43-88ea-74ce9e458a12.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.77979,
+          "longitud": -111.90586
+        }
+      }
+    },
+    "653817405623842974": {
+      "room_id": 653817405623842974,
+      "latitude": 34.77203,
+      "longitude": -111.90099,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 19:02:29",
+      "raw_data": {
+        "room_id": 653817405623842974,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "13 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "9 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "13 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Ancient Springs Retreat Center with  Yoga Studio",
+        "title": "Home in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 3435.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $1,717.47",
+              "amount": 3434.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-653817405623842974/original/f362d75d-6e2f-45e1-9567-bf69d35f3b74.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-653817405623842974/original/34ce523d-693b-4612-b5be-46789e57c9cf.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-653817405623842974/original/f64191c5-b64b-4369-aec7-9946983c2c32.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-653817405623842974/original/cdf4079f-42a3-4f1f-9544-e2c4ae92fa79.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-653817405623842974/original/13cf6be4-2725-4c91-9ce1-c1d289f81bcf.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-653817405623842974/original/1c8d385d-8285-45f4-82ba-c9f7fdeabf90.png"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.77203,
+          "longitud": -111.90099
+        }
+      }
+    },
+    "780444920016172634": {
+      "room_id": 780444920016172634,
+      "latitude": 34.7774,
+      "longitude": -111.9068,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 19:02:29",
+      "raw_data": {
+        "room_id": 780444920016172634,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Romantic Stargazer Bungalow Near Sedona • Hot Tub",
+        "title": "Cottage in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 820.0,
+            "discount": 694.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $347.00",
+              "amount": 694.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.98,
+          "reviewCount": "171"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-780444920016172634/original/5879c7e4-5cdc-468a-a96c-ef0e444a7d94.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDQ0OTIwMDE2MTcyNjM0/original/9962c2c3-bb29-499e-a815-d305fc6564c8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-780444920016172634/original/05fc7b80-17b5-438a-8ebf-6d72f5fbcabf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDQ0OTIwMDE2MTcyNjM0/original/86080c9a-8eda-47e8-9a79-c8e4b45037e0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDQ0OTIwMDE2MTcyNjM0/original/61f15638-d56e-4d79-9021-2328d95246c1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzgwNDQ0OTIwMDE2MTcyNjM0/original/98ab8885-f91a-434b-bcd0-42fa30c194aa.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.7774,
+          "longitud": -111.9068
+        }
+      }
+    },
+    "907868415139088323": {
+      "room_id": 907868415139088323,
+      "latitude": 34.7776,
+      "longitude": -111.9066,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 0,
+      "discovered_at": "2025-12-21 19:02:29",
+      "raw_data": {
+        "room_id": 907868415139088323,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Romantic Tiny Home Retreat • Stargazer Loft",
+        "title": "Tiny home in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 563.0,
+            "discount": 491.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $245.50",
+              "amount": 491.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "124"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907868415139088323/original/4232ff6d-74f1-4965-935c-26b2d181242e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-907868415139088323/original/ef2a22ae-cd91-43a4-9f9f-699861b13af2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTA3ODY4NDE1MTM5MDg4MzIz/original/c867eb40-3a6a-46ed-947b-ec40f0afeebb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-907868415139088323/original/8be397fd-8ed2-40aa-a517-c9aef428c728.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907868415139088323/original/757e0add-0664-40d5-bb90-a1bc4d53a40f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-907868415139088323/original/b21d70ae-6558-4a11-81dd-21066689eef9.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.7776,
+          "longitud": -111.9066
+        }
+      }
+    },
+    "930033920374783499": {
+      "room_id": 930033920374783499,
+      "latitude": 34.7786,
+      "longitude": -111.90364,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "34.771240_-111.931870_34.794340_-111.900460",
+      "pass_id": 1,
+      "discovered_at": "2025-12-21 19:02:34",
+      "raw_data": {
+        "room_id": 930033920374783499,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cowboys & Roses - Views/Hot Tub/Game Room/Dogs 5*",
+        "title": "Home in Cornville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 866.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $432.51",
+              "amount": 865.0,
+              "currency": "$.01"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "19"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-930033920374783499/original/878380ba-c74d-492e-9a9f-f0600399eede.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-930033920374783499/original/f6f87086-2be0-4c28-a65f-75f1d9ad753f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-930033920374783499/original/9f76eb67-8530-4a81-a41d-a54fe7af8121.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-930033920374783499/original/0311dc49-0d89-4ced-a881-1d02a9b37606.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-930033920374783499/original/8aba83d3-24f5-405a-bbef-1e5c197a77ab.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-930033920374783499/original/d69465e2-f131-417b-88a1-0287a241083d.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 34.7786,
+          "longitud": -111.90364
+        }
+      }
+    }
+  }
+}

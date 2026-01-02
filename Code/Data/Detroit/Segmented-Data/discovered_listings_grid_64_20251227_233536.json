@@ -1,0 +1,136 @@
+{
+  "grid_id": 64,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-27 23:35:36",
+  "listings": {
+    "50815155": {
+      "room_id": 50815155,
+      "latitude": 42.32017,
+      "longitude": -83.17186,
+      "grid_id_assigned": null,
+      "grid_id_source": 64.0,
+      "bbox_id": "42.302020_-83.177590_42.326950_-83.142620",
+      "pass_id": 4,
+      "discovered_at": "2025-12-27 23:33:05",
+      "raw_data": {
+        "room_id": 50815155,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Mo’s White House – Your Cozy Escape",
+        "title": "Bungalow in Dearborn",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 374.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $186.58",
+              "amount": 373.0,
+              "currency": "$.16"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "35"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTA4MTUxNTU=/original/dc93f965-28ba-4b2d-920b-06e4d9682771.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTA4MTUxNTU=/original/355c533d-87ad-4c7d-b5a1-228262a25151.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/16db406b-ef8b-4ee3-8ec1-9749a76a30d4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTA4MTUxNTU=/original/cbc2b01d-846f-41a8-bebf-0af9cc301051.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTA4MTUxNTU=/original/6dd92d65-d609-4a7d-b9ad-c4e3f4e5653a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f58f3c91-58cb-4191-a440-eca69f99f50c.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.32017,
+          "longitud": -83.17186
+        }
+      }
+    }
+  }
+}

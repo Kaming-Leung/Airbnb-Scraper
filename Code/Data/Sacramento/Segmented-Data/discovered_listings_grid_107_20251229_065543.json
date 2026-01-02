@@ -1,0 +1,253 @@
+{
+  "grid_id": 107,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-29 06:55:43",
+  "listings": {
+    "1217545228140564432": {
+      "room_id": 1217545228140564432,
+      "latitude": 38.43399,
+      "longitude": -121.31029,
+      "grid_id_assigned": null,
+      "grid_id_source": 107.0,
+      "bbox_id": "38.390400_-121.316340_38.435110_-121.271020",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:52:49",
+      "raw_data": {
+        "room_id": 1217545228140564432,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 king beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Tom's Farmhouse in Elk Grove",
+        "title": "Farm stay in Elk Grove",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1433.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $286.44",
+              "amount": 1432.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "24"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217545228140564432/original/04628453-1195-416a-bd15-b111ed428271.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217545228140564432/original/9a2a3928-65a6-4df3-a9f1-ee7f3fed0be0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217545228140564432/original/873454c5-614f-43e1-a121-3b9683ba67bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217545228140564432/original/98e3e6e4-6611-4162-8601-b1b5821cfeaa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1217545228140564432/original/cf20614b-34ff-410c-9c17-fbe4661a6fea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1217545228140564432/original/74725f99-9134-42d8-86bc-63ebe5995fe5.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.43399,
+          "longitud": -121.31029
+        }
+      }
+    },
+    "1516007020763782912": {
+      "room_id": 1516007020763782912,
+      "latitude": 38.41061,
+      "longitude": -121.27514,
+      "grid_id_assigned": null,
+      "grid_id_source": 107.0,
+      "bbox_id": "38.390400_-121.316340_38.435110_-121.271020",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 06:52:49",
+      "raw_data": {
+        "room_id": 1516007020763782912,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Farm House Allows Horses",
+        "title": "Home in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3005.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $600.94",
+              "amount": 3004.0,
+              "currency": "$.72"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516007020763782912/original/ae65940a-4d85-4735-8ccb-1ebb10bfb1fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516007020763782912/original/ffc10c6f-3e64-4321-a80f-d8fa0e5d1322.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516007020763782912/original/66b474eb-2bbc-428f-9f71-9e80d1861ffe.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516007020763782912/original/86039563-40d5-4945-847f-4dddc29c1444.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516007020763782912/original/fd1a45db-1ba0-44f0-8626-45c443016939.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516007020763782912/original/1ad8d42d-89eb-4c9b-8af1-ce3cef54bd61.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.41061,
+          "longitud": -121.27514
+        }
+      }
+    }
+  }
+}

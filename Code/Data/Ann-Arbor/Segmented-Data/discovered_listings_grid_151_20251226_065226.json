@@ -1,0 +1,259 @@
+{
+  "grid_id": 151,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-26 06:52:26",
+  "listings": {
+    "46576350": {
+      "room_id": 46576350,
+      "latitude": 42.27995628888404,
+      "longitude": -83.38632954266102,
+      "grid_id_assigned": null,
+      "grid_id_source": 151.0,
+      "bbox_id": "42.265750_-83.421410_42.291180_-83.385860",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 06:49:38",
+      "raw_data": {
+        "room_id": 46576350,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Apartment Close to Airport",
+        "title": "Apartment in Wayne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 217.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $108.41",
+              "amount": 216.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.53,
+          "reviewCount": "45"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-46576350/original/879635f4-69b4-4a85-a649-e1393cf73b5b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-46576350/original/bca2788b-0f93-4bd5-9f40-4a6b290ac6fc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-46576350/original/1f14aefa-f6af-4e13-8743-ba90b83a04b7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-46576350/original/d509cf5d-2bdf-46dd-9523-a7c29840c439.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/48e060ea-2737-4e5b-8ccf-573bfe3c7176.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fead2aba-c5a1-4139-a0e4-433e5d5b8988.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.27995628888404,
+          "longitud": -83.38632954266102
+        }
+      }
+    },
+    "1297204649379214237": {
+      "room_id": 1297204649379214237,
+      "latitude": 42.275639657117495,
+      "longitude": -83.38877118450628,
+      "grid_id_assigned": null,
+      "grid_id_source": 151.0,
+      "bbox_id": "42.265750_-83.421410_42.291180_-83.385860",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 06:49:38",
+      "raw_data": {
+        "room_id": 1297204649379214237,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Cozy 1 bed 1 bath near DTW",
+        "title": "Apartment in Wayne",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 272.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $135.80",
+              "amount": 271.0,
+              "currency": "$.60"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1297204649379214237/original/d765f515-755c-4d16-873c-17b72c31df8e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1297204649379214237/original/ad0873c5-d38d-4501-9bdb-b22ba514f30d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1297204649379214237/original/eaf36cc8-7a44-4815-a156-5c485810048e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1297204649379214237/original/8b241d45-76a0-465f-bf4a-5ea2ed280a6c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1297204649379214237/original/5fec8697-7bc6-443b-9b49-81ac81ae4877.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1297204649379214237/original/00ad8c35-738f-4745-97bd-ebaafbccb1be.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.275639657117495,
+          "longitud": -83.38877118450628
+        }
+      }
+    }
+  }
+}

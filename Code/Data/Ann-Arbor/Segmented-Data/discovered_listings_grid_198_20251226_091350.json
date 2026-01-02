@@ -1,0 +1,131 @@
+{
+  "grid_id": 198,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 09:13:50",
+  "listings": {
+    "1342366359157797875": {
+      "room_id": 1342366359157797875,
+      "latitude": 42.23991279991876,
+      "longitude": -83.30047190029626,
+      "grid_id_assigned": null,
+      "grid_id_source": 198.0,
+      "bbox_id": "42.214870_-83.314760_42.240310_-83.279210",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 09:11:01",
+      "raw_data": {
+        "room_id": 1342366359157797875,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "5 minutes from DTW!",
+        "title": "Home in Taylor",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 482.0,
+            "discount": 430.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $215.00",
+              "amount": 430.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.67,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1342366359157797875/original/d23785f1-8526-4f77-8029-99394a1d483f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1342366359157797875/original/d2a0a570-0060-42b3-bb04-0f2dfa41273c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1342366359157797875/original/cab3f2da-1c51-40c5-a1c9-1c2fd643b1bb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1342366359157797875/original/f5b8edb6-ccaf-49b7-a105-059f2cf2df4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1342366359157797875/original/631f625a-c6ab-4de3-8853-e43a9df9d27a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1342366359157797875/original/f1832c3e-0e9e-468c-94e1-07296c2a4059.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.23991279991876,
+          "longitud": -83.30047190029626
+        }
+      }
+    }
+  }
+}

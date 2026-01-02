@@ -1,0 +1,130 @@
+{
+  "grid_id": 100,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 06:34:41",
+  "listings": {
+    "592735465830722174": {
+      "room_id": 592735465830722174,
+      "latitude": 38.4538,
+      "longitude": -121.17749,
+      "grid_id_assigned": null,
+      "grid_id_source": 100.0,
+      "bbox_id": "38.435110_-121.180390_38.479820_-121.135070",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 06:31:59",
+      "raw_data": {
+        "room_id": 592735465830722174,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Farm Stay - 30 night minimum required",
+        "title": "Guesthouse in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 531.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $176.88",
+              "amount": 530.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.81,
+          "reviewCount": "32"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-592735465830722174/original/3f83221f-0db6-440f-8926-65e15d319e40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b9c62ab3-a3ac-442b-9d71-8c00aed3361e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c4e06f99-9a2b-460f-8bed-d16785432cee.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-592735465830722174/original/085acc6c-a52a-44c6-be51-0ae07f218d29.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-592735465830722174/original/aee02e67-8d65-40ed-b96c-994eb5fc60f0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-592735465830722174/original/1d3204d8-92c1-42a2-863e-19b32ed3c575.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.4538,
+          "longitud": -121.17749
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "grid_id": 61,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 06:52:06",
+  "listings": {
+    "1413329775040945628": {
+      "room_id": 1413329775040945628,
+      "latitude": 38.31914800405955,
+      "longitude": -122.29666814434762,
+      "grid_id_assigned": null,
+      "grid_id_source": 61.0,
+      "bbox_id": "38.314340_-122.297700_38.322090_-122.287200",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:49:12",
+      "raw_data": {
+        "room_id": 1413329775040945628,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "A Getaway Home for \nA Wine Explorer",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3568.0,
+            "discount": 1889.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $377.73",
+              "amount": 1888.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "25"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413329775040945628/original/266433d2-1c37-44ff-af15-d35db2cf97d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413329775040945628/original/5ce54abe-c012-442c-b420-2d1b45bec71d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMzMyOTc3NTA0MDk0NTYyOA==/original/98d47931-da5b-4493-9fb7-410947fdbf24.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMzMyOTc3NTA0MDk0NTYyOA==/original/90b354cf-86bd-4ea4-8e69-e67053f58e4e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMzMyOTc3NTA0MDk0NTYyOA==/original/47e83f65-bb6a-44bb-955a-6bf835aefb21.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMzMyOTc3NTA0MDk0NTYyOA==/original/b96f592a-703e-4b31-8dd1-9d07107737e5.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.31914800405955,
+          "longitud": -122.29666814434762
+        }
+      }
+    }
+  }
+}

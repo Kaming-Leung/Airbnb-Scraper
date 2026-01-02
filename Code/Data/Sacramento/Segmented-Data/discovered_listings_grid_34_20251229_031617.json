@@ -1,0 +1,420 @@
+{
+  "grid_id": 34,
+  "total_listings": 3,
+  "discovery_timestamp": "2025-12-29 03:16:17",
+  "listings": {
+    "1316706807028638447": {
+      "room_id": 1316706807028638447,
+      "latitude": 38.712627828221265,
+      "longitude": -121.41140625970168,
+      "grid_id_assigned": null,
+      "grid_id_source": 34.0,
+      "bbox_id": "38.703370_-121.452300_38.748080_-121.406980",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:13:29",
+      "raw_data": {
+        "room_id": 1316706807028638447,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury room with private entry",
+        "title": "Home in Elverta",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 233.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $116.40",
+              "amount": 232.0,
+              "currency": "$.80"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "67"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316706807028638447/original/eefb9c91-c7f8-4ef5-b67c-0978ff96052d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316706807028638447/original/4114b968-d9e8-46dc-92cb-3ea9fa0471d8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316706807028638447/original/0dbb740d-93ea-4b0e-8200-63f5668763a9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316706807028638447/original/104421b9-da46-4630-a937-fdf274114e1a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316706807028638447/original/9c6c0ed6-e23c-4228-aeca-8997a14b9f33.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1316706807028638447/original/643e29e4-59ce-40fc-8e81-d242441ebd09.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.712627828221265,
+          "longitud": -121.41140625970168
+        }
+      }
+    },
+    "1549049035299066838": {
+      "room_id": 1549049035299066838,
+      "latitude": 38.71457,
+      "longitude": -121.40813,
+      "grid_id_assigned": null,
+      "grid_id_source": 34.0,
+      "bbox_id": "38.703370_-121.452300_38.748080_-121.406980",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 03:13:29",
+      "raw_data": {
+        "room_id": 1549049035299066838,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Modern 3 Bedroom Lux Retreat",
+        "title": "Home in Elverta",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 480.0,
+            "discount": 394.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $239.84",
+              "amount": 479.0,
+              "currency": "$.68"
+            },
+            {
+              "description": "Special offer",
+              "amount": -86.0,
+              "currency": "$.20"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 393.0,
+              "currency": "$.48"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1549049035299066838/original/79ffec8b-24ca-4cba-adc9-6446c10bbbed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1549049035299066838/original/49c6868b-0068-43d8-9aa3-7afecc33881b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1549049035299066838/original/bfaeac4f-4aa0-466b-870b-6de0e278ffac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1549049035299066838/original/c94cce01-0ce6-4977-a05a-18074d11a7d3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1549049035299066838/original/045de146-8481-425d-96a2-808cb0289c75.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1549049035299066838/original/daebb42b-d5b3-4b11-b25a-7a26b357ff03.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.71457,
+          "longitud": -121.40813
+        }
+      }
+    },
+    "671290663189778251": {
+      "room_id": 671290663189778251,
+      "latitude": 38.711,
+      "longitude": -121.41492,
+      "grid_id_assigned": null,
+      "grid_id_source": 34.0,
+      "bbox_id": "38.703370_-121.452300_38.748080_-121.406980",
+      "pass_id": 5,
+      "discovered_at": "2025-12-29 03:13:54",
+      "raw_data": {
+        "room_id": 671290663189778251,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-146681082/original/78228a8b-4596-4b6f-9c1a-9603a04bdfaf.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Omar",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-146681082/original/78228a8b-4596-4b6f-9c1a-9603a04bdfaf.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "120 reviews on the listing",
+              "label": "Reviews",
+              "value": "120",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "6 years of hosting",
+              "label": "Years hosting",
+              "value": "6",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 5,
+            "months": 6
+          },
+          "ratingCount": 120,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Airport Hideaway: Cozy & Spacious!",
+        "title": "Room in Elverta",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 237.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $78.74",
+              "amount": 236.0,
+              "currency": "$.22"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "120"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-671290663189778251/original/2267fc40-f7d1-437c-b467-bd31f77e3ecf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-671290663189778251/original/81bee322-56a0-488d-b4f5-b467ce401c54.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-671290663189778251/original/2128330d-941a-43f9-8da4-ce419961153d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-671290663189778251/original/d1deea6d-3b38-41cd-ab6f-682fa94da8fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-671290663189778251/original/5b6ed799-21b6-4462-be8d-46eae332e8fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-671290663189778251/original/dc508b6e-b82e-4e0c-8c53-110dfd0d7bc1.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.711,
+          "longitud": -121.41492
+        }
+      }
+    }
+  }
+}

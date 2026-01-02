@@ -1,0 +1,255 @@
+{
+  "grid_id": 104,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-28 09:01:21",
+  "listings": {
+    "18676583": {
+      "room_id": 18676583,
+      "latitude": 38.28449,
+      "longitude": -122.30806,
+      "grid_id_assigned": null,
+      "grid_id_source": 104.0,
+      "bbox_id": "38.283360_-122.308210_38.291110_-122.297700",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:58:26",
+      "raw_data": {
+        "room_id": 18676583,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 15 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 15 – 20",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Charming Napa Valley Home minutes to downtown Napa",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 2157.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $431.36",
+              "amount": 2156.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "77"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/eba96dd1-99ef-4012-8a85-56db9eebc228.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5bd55ddb-4531-408d-8c09-939a86d711ee.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c700c8b7-d625-4f9b-89cf-bbd02de82194.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/33693037-d6ad-495f-81e3-171dfd53162d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/180c09ef-e5b4-44ab-9ad4-2f8f82af0aba.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/52a96f36-eaf8-4797-954e-291bddfdce92.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.28449,
+          "longitud": -122.30806
+        }
+      }
+    },
+    "545830615744960710": {
+      "room_id": 545830615744960710,
+      "latitude": 38.28902,
+      "longitude": -122.30571,
+      "grid_id_assigned": null,
+      "grid_id_source": 104.0,
+      "bbox_id": "38.283360_-122.308210_38.291110_-122.297700",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 08:58:26",
+      "raw_data": {
+        "room_id": 545830615744960710,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Two bedroom private duplex Napa",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1174.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $234.63",
+              "amount": 1173.0,
+              "currency": "$.13"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "59"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTQ1ODMwNjE1NzQ0OTYwNzEw/original/5f25f3da-1d60-4f49-b92f-91bda4b4f061.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTQ1ODMwNjE1NzQ0OTYwNzEw/original/1c162c40-7d77-47f0-b907-dbf3b6e6204a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTQ1ODMwNjE1NzQ0OTYwNzEw/original/d18ef10f-6cf6-4de7-b8fc-d1c1ee779f99.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTQ1ODMwNjE1NzQ0OTYwNzEw/original/aed5139c-5103-497f-8260-5cdfb8f1cc44.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/833f3de2-db20-49c6-b9c7-479365991af8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f54453ce-3766-42d5-a072-afccf0362838.jpg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 38.28902,
+          "longitud": -122.30571
+        }
+      }
+    }
+  }
+}

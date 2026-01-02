@@ -1,0 +1,129 @@
+{
+  "grid_id": 25,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 00:20:23",
+  "listings": {
+    "1572057478070738860": {
+      "room_id": 1572057478070738860,
+      "latitude": 42.4114,
+      "longitude": -83.9579,
+      "grid_id_assigned": null,
+      "grid_id_source": 25.0,
+      "bbox_id": "42.392940_-83.990200_42.418380_-83.954650",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 00:17:24",
+      "raw_data": {
+        "room_id": 1572057478070738860,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cedar Valley Cottage - Ideal Location.",
+        "title": "Cottage in Pinckney",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1010.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $201.99",
+              "amount": 1009.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572057478070738860/original/7772c77d-2126-4176-a97d-ae35d2dc6aa1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572057478070738860/original/75bafa37-824f-4c53-87a1-8185951934b9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572057478070738860/original/1b6a12ec-9d9c-45ac-96b2-915457343753.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572057478070738860/original/540437ed-44ed-45d9-84a0-818e6cfa2c5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572057478070738860/original/85e02a3a-1b0f-4eda-8da1-b0757f7c99af.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1572057478070738860/original/fe5de4c4-a4c6-4665-a2f4-c8ebfca79982.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.4114,
+          "longitud": -83.9579
+        }
+      }
+    }
+  }
+}

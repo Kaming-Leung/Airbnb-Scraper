@@ -1,0 +1,131 @@
+{
+  "grid_id": 64,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-30 00:45:05",
+  "listings": {
+    "52390314": {
+      "room_id": 52390314,
+      "latitude": 37.48121,
+      "longitude": -122.40608,
+      "grid_id_assigned": null,
+      "grid_id_source": 64.0,
+      "bbox_id": "37.479330_-122.414040_37.506120_-122.380260",
+      "pass_id": 0,
+      "discovered_at": "2025-12-30 00:42:10",
+      "raw_data": {
+        "room_id": 52390314,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy 1 bedroom located at rustic boutique winery",
+        "title": "Guest suite in Half Moon Bay",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1313.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $262.47",
+              "amount": 1312.0,
+              "currency": "$.35"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "58"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52390314/original/1cc614c4-76a3-4ba0-8ee4-a5343b692259.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52390314/original/3b403bde-6f6d-4abe-aa73-b8221bbc5356.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52390314/original/8283356a-3989-456b-bd56-b531f1fa8377.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52390314/original/08577892-1a99-4c32-a3fe-7a9ff9886238.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52390314/original/f6947d35-63e8-4ed4-b691-f28ec48a62f7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-52390314/original/fa41cb1b-310b-4a97-a464-60eac3d64db3.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.48121,
+          "longitud": -122.40608
+        }
+      }
+    }
+  }
+}

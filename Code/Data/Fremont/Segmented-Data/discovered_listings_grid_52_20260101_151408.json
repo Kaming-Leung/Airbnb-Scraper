@@ -1,0 +1,261 @@
+{
+  "grid_id": 52,
+  "total_listings": 2,
+  "discovery_timestamp": "2026-01-01 15:14:08",
+  "listings": {
+    "1522869517536803234": {
+      "room_id": 1522869517536803234,
+      "latitude": 37.49069,
+      "longitude": -121.94517,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "37.476650_-121.966350_37.501920_-121.934040",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 15:11:27",
+      "raw_data": {
+        "room_id": 1522869517536803234,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Close to Mission Peak + Free Breakfast. Pool. Gym.",
+        "title": "Hotel in Fremont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 263.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $87.53",
+              "amount": 262.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.27,
+          "reviewCount": "22"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1522869517536803234/original/0e7dd3e1-45c2-4660-90e9-09066aed936a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1522869517536803234/original/8707a4e7-613b-42c1-ad77-5498da61437e.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1522869517536803234/original/b5e84c61-60d1-4928-b6a4-dc47f69e026f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1522869517536803234/original/b9c66597-0d59-47c9-a286-65e4c617f652.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1522869517536803234/original/ebeaedbb-9ae6-478c-a60c-19adfb9cd28a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1522869517536803234/original/d732face-203e-4182-9d13-f4eb38b15dea.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.49069,
+          "longitud": -121.94517
+        }
+      }
+    },
+    "1492382646370608766": {
+      "room_id": 1492382646370608766,
+      "latitude": 37.48833888961609,
+      "longitude": -121.94588060678429,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "37.476650_-121.966350_37.501920_-121.934040",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 15:11:27",
+      "raw_data": {
+        "room_id": 1492382646370608766,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 double beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Across Tesla Factory + Free Breakfast. Pool. Gym.",
+        "title": "Hotel in Fremont",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $95.19",
+              "amount": 285.0,
+              "currency": "$.56"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1492382646370608766/original/a365f875-397c-4c1b-b96b-3980a16fe33d.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1492382646370608766/original/6e06e615-0741-478f-9aeb-3469d29c1823.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1492382646370608766/original/c00a15c9-3f72-4205-b082-c764b52dbff5.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1492382646370608766/original/ed3214a3-3450-4ea5-bcf9-1ab1b54ceda7.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1492382646370608766/original/fe7f3b4c-f2da-4d20-976a-c756bb65385a.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1492382646370608766/original/69699d13-98e5-4a11-b06a-2314442b9644.png"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.48833888961609,
+          "longitud": -121.94588060678429
+        }
+      }
+    }
+  }
+}

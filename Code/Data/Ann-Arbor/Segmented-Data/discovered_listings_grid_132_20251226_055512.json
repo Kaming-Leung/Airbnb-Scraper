@@ -1,0 +1,496 @@
+{
+  "grid_id": 132,
+  "total_listings": 4,
+  "discovery_timestamp": "2025-12-26 05:55:12",
+  "listings": {
+    "45673483": {
+      "room_id": 45673483,
+      "latitude": 42.30905,
+      "longitude": -83.3045,
+      "grid_id_assigned": null,
+      "grid_id_source": 132.0,
+      "bbox_id": "42.291190_-83.314760_42.316620_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:52:18",
+      "raw_data": {
+        "room_id": 45673483,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 5 – 10",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "WOW!  Spectacular 4 Bedroom Bungalow - Mi Casa",
+        "title": "Bungalow in Inkster",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1487.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $297.39",
+              "amount": 1486.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "7"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/23a18a75-3663-4e0e-b160-fb789bf62ade.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDU2NzM0ODM=/original/04ccf530-6a2a-4155-b1aa-845d4fe259a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDU2NzM0ODM=/original/cc109eb1-e75d-491d-bce5-f90e89fa49f3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDU2NzM0ODM=/original/87a2e219-86b6-43a9-8f81-991654e5d7a4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDU2NzM0ODM=/original/3601acb4-ab1f-4f76-9171-00726f0916c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDU2NzM0ODM=/original/bea76523-16de-4cec-9264-a1c3f6a2f09e.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.30905,
+          "longitud": -83.3045
+        }
+      }
+    },
+    "21927867": {
+      "room_id": 21927867,
+      "latitude": 42.29332,
+      "longitude": -83.29724,
+      "grid_id_assigned": null,
+      "grid_id_source": 132.0,
+      "bbox_id": "42.291190_-83.314760_42.316620_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:52:18",
+      "raw_data": {
+        "room_id": 21927867,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 28 – Feb 3",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 single beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 28 – Feb 3",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Furnished house minutes from Downtown Dearborn",
+        "title": "Bungalow in Inkster",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 6 nights",
+            "curency_symbol": "$",
+            "amount": 1258.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "6 nights x $209.60",
+              "amount": 1257.0,
+              "currency": "$.58"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/56983a06-24cb-4250-88c7-b1d6abf63206.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/00fff335-bc58-495a-8165-2478dd6eb163.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/88b34aa2-84ce-477e-95ae-d7045fbbd6e1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/847c2976-b47d-4733-a7de-8c106319726b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/586198f1-75e5-45a9-8a99-e97867469859.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/76ab9280-8dc1-4792-9d55-a26758ca2215.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.29332,
+          "longitud": -83.29724
+        }
+      }
+    },
+    "1257934635895750014": {
+      "room_id": 1257934635895750014,
+      "latitude": 42.31001,
+      "longitude": -83.30351,
+      "grid_id_assigned": null,
+      "grid_id_source": 132.0,
+      "bbox_id": "42.291190_-83.314760_42.316620_-83.279210",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 05:52:18",
+      "raw_data": {
+        "room_id": 1257934635895750014,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy home near Metro Detroit and DTW airport",
+        "title": "Home in Inkster",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1107.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $221.39",
+              "amount": 1106.0,
+              "currency": "$.94"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1257934635895750014/original/f7014eb0-2515-402e-a588-e7e6f39cb353.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1257934635895750014/original/13cb437f-ad59-49a5-9a52-9f112b0a7049.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1257934635895750014/original/e6e6bd61-16f0-4305-81a0-739e56b08022.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1257934635895750014/original/6ca844ec-0dce-4044-925b-eca3c6d06a74.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1257934635895750014/original/6d491acb-c6bf-4b6c-afc4-8a0aacd45055.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1257934635895750014/original/e93fc55d-3432-4ecc-a127-96608380037b.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.31001,
+          "longitud": -83.30351
+        }
+      }
+    },
+    "1487088057232835744": {
+      "room_id": 1487088057232835744,
+      "latitude": 42.3064,
+      "longitude": -83.2915,
+      "grid_id_assigned": null,
+      "grid_id_source": 132.0,
+      "bbox_id": "42.291190_-83.314760_42.316620_-83.279210",
+      "pass_id": 1,
+      "discovered_at": "2025-12-26 05:52:24",
+      "raw_data": {
+        "room_id": 1487088057232835744,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy, Luxury, Smart 2B/2B Haven",
+        "title": "Apartment in Inkster",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 366.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $182.59",
+              "amount": 365.0,
+              "currency": "$.18"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1487088057232835744/original/3871fc31-cbc1-494b-928b-cbec5408d746.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487088057232835744/original/c102594e-4f3b-4ddd-b098-38697d42e73d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1487088057232835744/original/d3e8f8ec-e855-4ea4-9706-a20ab6c75522.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1487088057232835744/original/19be4292-d964-4018-bc8e-5bbe2ad14ee5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1487088057232835744/original/85eeadf9-c675-4ed4-b2ac-8d9bfe277621.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-1487088057232835744/original/0da33f31-5d99-48ee-a798-c0a9b1041d22.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.3064,
+          "longitud": -83.2915
+        }
+      }
+    }
+  }
+}

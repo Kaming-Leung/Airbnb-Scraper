@@ -1,0 +1,153 @@
+{
+  "grid_id": 5,
+  "total_listings": 1,
+  "discovery_timestamp": "2026-01-01 12:52:57",
+  "listings": {
+    "933686744567969038": {
+      "room_id": 933686744567969038,
+      "latitude": 37.60553,
+      "longitude": -122.02335,
+      "grid_id_assigned": null,
+      "grid_id_source": 5.0,
+      "bbox_id": "37.602980_-122.030980_37.628250_-121.998660",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 12:50:15",
+      "raw_data": {
+        "room_id": 933686744567969038,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-339689434/original/57b77411-e3e2-4d42-8621-fd00d6a4021d.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jaskaran",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-339689434/original/57b77411-e3e2-4d42-8621-fd00d6a4021d.jpeg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "65 reviews on the listing",
+              "label": "Reviews",
+              "value": "65",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.88 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.88",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 years of hosting",
+              "label": "Years hosting",
+              "value": "2",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 2,
+            "months": 5
+          },
+          "ratingCount": 65,
+          "ratingAverage": 4.88
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern and Chic Master bedroom w/Private Entrance",
+        "title": "Room in Union City",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 327.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $108.79",
+              "amount": 326.0,
+              "currency": "$.38"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "65"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933686744567969038/original/23b6a476-e7a1-4439-8618-9ce3b82ed1d0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933686744567969038/original/d1618323-7495-4a1f-b0d2-bb2ad8be2c81.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933686744567969038/original/481e097e-5b35-4379-9e99-eef2a1b853ea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933686744567969038/original/f69fcc5f-2e68-432f-9882-abe92e5f2d18.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933686744567969038/original/bd26b62c-2e7d-4aee-9b05-40d9521e469d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-933686744567969038/original/0decb6bd-bb87-48f2-a479-eaac1657117f.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 37.60553,
+          "longitud": -122.02335
+        }
+      }
+    }
+  }
+}

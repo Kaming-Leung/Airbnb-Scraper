@@ -1,0 +1,131 @@
+{
+  "grid_id": 57,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 06:40:05",
+  "listings": {
+    "52247710": {
+      "room_id": 52247710,
+      "latitude": 38.31559,
+      "longitude": -122.3313,
+      "grid_id_assigned": null,
+      "grid_id_source": 57.0,
+      "bbox_id": "38.314340_-122.339730_38.322090_-122.329230",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:37:11",
+      "raw_data": {
+        "room_id": 52247710,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "An Italian Villa in the heart of Napa Valley!",
+        "title": "Villa in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 4251.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $850.18",
+              "amount": 4250.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.96,
+          "reviewCount": "181"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTIyNDc3MTA=/original/165df761-2824-49e2-8772-c9ade0b406b8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTIyNDc3MTA=/original/77c36c34-fed2-4c38-95c4-30553d93037b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTIyNDc3MTA=/original/2b278cec-bfd8-4c6f-ab71-fb5b23d8fa40.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTIyNDc3MTA=/original/9afc0139-1266-46bd-ba7b-60d8b92cfed8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTIyNDc3MTA=/original/4ce2928a-7b7f-4c72-bd61-5ca075cb6ba5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTIyNDc3MTA=/original/b4c6103b-2784-4343-803c-83e01247d0d9.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.31559,
+          "longitud": -122.3313
+        }
+      }
+    }
+  }
+}

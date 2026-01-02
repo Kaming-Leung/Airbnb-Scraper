@@ -1,0 +1,519 @@
+{
+  "grid_id": 66,
+  "total_listings": 4,
+  "discovery_timestamp": "2026-01-02 01:14:01",
+  "listings": {
+    "49863556": {
+      "room_id": 49863556,
+      "latitude": 38.064236546429086,
+      "longitude": -122.53937245181636,
+      "grid_id_assigned": null,
+      "grid_id_source": 66,
+      "bbox_id": "38.041780_-122.560640_38.067510_-122.525520",
+      "pass_id": 1,
+      "discovered_at": "2026-01-02 01:11:13",
+      "raw_data": {
+        "room_id": 49863556,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/c3afdcd6-8e6e-4d64-9551-6ceee6453035.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Julie And Matt",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c3afdcd6-8e6e-4d64-9551-6ceee6453035.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "2 reviews on the listing",
+              "label": "Reviews",
+              "value": "2",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "5.0 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "5.0",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "9 years of hosting",
+              "label": "Years hosting",
+              "value": "9",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 9,
+            "months": 0
+          },
+          "ratingCount": 2,
+          "ratingAverage": 5.0
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Lovely Home Pool Outdoor Kitchen",
+        "title": "Room in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 286.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $142.65",
+              "amount": 285.0,
+              "currency": "$.29"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/b24ad2a1-a7da-44d0-b102-f3d93d2c045e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-49863556/original/54d651a9-5ce5-40d4-a197-651eeff3696d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/8f1110f0-d817-4087-90fe-912690d352ab.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/5b5f106a-9ec3-4c61-b3ac-9efc95890b4c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/79992836-15bb-4037-8b9d-18c3ffc91b1d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/fc18516a-79af-42b6-9fd6-05fcd48ecf4d.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.064236546429086,
+          "longitud": -122.53937245181636
+        }
+      }
+    },
+    "1192980584573194886": {
+      "room_id": 1192980584573194886,
+      "latitude": 38.05735,
+      "longitude": -122.53087,
+      "grid_id_assigned": null,
+      "grid_id_source": 66,
+      "bbox_id": "38.041780_-122.560640_38.067510_-122.525520",
+      "pass_id": 1,
+      "discovered_at": "2026-01-02 01:11:13",
+      "raw_data": {
+        "room_id": 1192980584573194886,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "2 Queen Bed Suite with Kitchen, Breakfast, Parking",
+        "title": "Hotel in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 322.0,
+            "discount": 276.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $137.70",
+              "amount": 275.0,
+              "currency": "$.40"
+            }
+          ]
+        },
+        "rating": {
+          "value": 3.33,
+          "reviewCount": "3"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1192980584573194886/original/2d7a31f7-f195-47ad-ae18-7e6bfc153427.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192980584573194886/original/c1240289-5233-4f39-9cd5-deb6be8248ff.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192980584573194886/original/88c39c0d-acc6-42df-b16f-ed2c2f2d90b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192980584573194886/original/be6acc99-b453-4c72-90d1-14eb8848465e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192980584573194886/original/dfa19515-3c1b-439c-8c43-241af8ba4dc0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192980584573194886/original/9b9370ae-eff3-46ad-b1de-520ca8e32493.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.05735,
+          "longitud": -122.53087
+        }
+      }
+    },
+    "7680915": {
+      "room_id": 7680915,
+      "latitude": 38.04895,
+      "longitude": -122.54966,
+      "grid_id_assigned": null,
+      "grid_id_source": 66,
+      "bbox_id": "38.041780_-122.560640_38.067510_-122.525520",
+      "pass_id": 2,
+      "discovered_at": "2026-01-02 01:11:19",
+      "raw_data": {
+        "room_id": 7680915,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Quiet Studio offers best of both worlds: SF & Napa",
+        "title": "Apartment in Novato",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 708.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $235.84",
+              "amount": 707.0,
+              "currency": "$.53"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "255"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/bac4d00a-a19d-488e-b36c-5998374f7863.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-7680915/original/d06c458b-9ce1-4075-8c33-4a8ae0095394.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-7680915/original/8363bc56-d8d1-4e5b-9178-fdf02468e783.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-7680915/original/d5a49a33-c26c-4ee7-b814-7dfcb3f5225d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-7680915/original/556d42ec-c255-409f-b237-9d21b660b012.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/d5848a16-6649-4749-aa67-5e60a12220dd.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.04895,
+          "longitud": -122.54966
+        }
+      }
+    },
+    "1192256525996132521": {
+      "room_id": 1192256525996132521,
+      "latitude": 38.0578,
+      "longitude": -122.5317,
+      "grid_id_assigned": null,
+      "grid_id_source": 66,
+      "bbox_id": "38.041780_-122.560640_38.067510_-122.525520",
+      "pass_id": 2,
+      "discovered_at": "2026-01-02 01:11:19",
+      "raw_data": {
+        "room_id": 1192256525996132521,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "King Bed Suite with Kitchen, Breakfast, Parking",
+        "title": "Hotel in Novato",
+        "type": "",
+        "long_stay_discount": {
+          "amount": -59.0,
+          "currency_symbol": "$.25"
+        },
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 396.0,
+            "discount": 336.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $131.70",
+              "amount": 395.0,
+              "currency": "$.10"
+            },
+            {
+              "description": "Long stay discount",
+              "amount": -59.0,
+              "currency": "$.25"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 335.0,
+              "currency": "$.85"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.18,
+          "reviewCount": "22"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5MjI1NjUyNTk5NjEzMjUyMQ%3D%3D/original/e9d9759a-fad3-4e97-a21f-604fbb68d92b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5MjI1NjUyNTk5NjEzMjUyMQ%3D%3D/original/f58201b0-3e0e-4cfd-8101-474497db84f5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5MjI1NjUyNTk5NjEzMjUyMQ%3D%3D/original/73b92bc3-59ef-4c53-a5d4-e5525ca5a074.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192256525996132521/original/49a0f3e4-c97b-4f4c-b8b7-67270d8a3a5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5MjI1NjUyNTk5NjEzMjUyMQ%3D%3D/original/d7aa0854-f968-4315-b435-1c884cd3d74f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5MjI1NjUyNTk5NjEzMjUyMQ%3D%3D/original/ed04775c-2d9a-4f4c-a14e-d7c1572ee8f9.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.0578,
+          "longitud": -122.5317
+        }
+      }
+    }
+  }
+}

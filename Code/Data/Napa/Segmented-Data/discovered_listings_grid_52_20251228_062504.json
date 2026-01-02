@@ -1,0 +1,251 @@
+{
+  "grid_id": 52,
+  "total_listings": 2,
+  "discovery_timestamp": "2025-12-28 06:25:04",
+  "listings": {
+    "1374865154722556170": {
+      "room_id": 1374865154722556170,
+      "latitude": 38.329747092016596,
+      "longitude": -122.27098843249215,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "38.322090_-122.276690_38.329830_-122.266180",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:22:09",
+      "raw_data": {
+        "room_id": 1374865154722556170,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Adorable cottage on 3.5 acres",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 3104.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $620.80",
+              "amount": 3104.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1374865154722556170/original/0ebb5ecf-0d97-4cc2-a2d8-41ec0224730f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1374865154722556170/original/c10f5661-2d21-4c38-9993-747fde63a67b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1374865154722556170/original/9106e73d-ba70-4440-b242-d09850fede08.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1374865154722556170/original/f34cf9fe-6b43-4435-9243-2b2dced77201.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1374865154722556170/original/f5f00df8-0423-40c9-b8c8-537245b07b06.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1374865154722556170/original/3d263d0a-f66f-45a3-af6d-c0fb443514b8.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.329747092016596,
+          "longitud": -122.27098843249215
+        }
+      }
+    },
+    "1372050585304759607": {
+      "room_id": 1372050585304759607,
+      "latitude": 38.329549633281424,
+      "longitude": -122.27042833090096,
+      "grid_id_assigned": null,
+      "grid_id_source": 52.0,
+      "bbox_id": "38.322090_-122.276690_38.329830_-122.266180",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 06:22:09",
+      "raw_data": {
+        "room_id": 1372050585304759607,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Gorgeous 3.5 acre estate in Napa",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 16776.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $3,355.06",
+              "amount": 16775.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1372050585304759607/original/7362f32d-cd0f-4a8a-ac88-3387b179cb34.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1372050585304759607/original/e481c3cf-5fd8-4f2d-b409-9aed19ab4a8d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1372050585304759607/original/f45deba8-fd4c-4d9e-a8d3-789796633c71.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1372050585304759607/original/d2d8dc64-f127-4901-8bd5-eca54f5e525e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1372050585304759607/original/019d0da2-05e2-4c00-bc49-64e2dbdd898f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1372050585304759607/original/fb3e3acf-3825-45ce-a1cc-6045abf32903.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.329549633281424,
+          "longitud": -122.27042833090096
+        }
+      }
+    }
+  }
+}

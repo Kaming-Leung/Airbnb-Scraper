@@ -1,0 +1,132 @@
+{
+  "grid_id": 69,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-28 07:16:09",
+  "listings": {
+    "1076897077609971759": {
+      "room_id": 1076897077609971759,
+      "latitude": 38.3069,
+      "longitude": -122.3252,
+      "grid_id_assigned": null,
+      "grid_id_source": 69.0,
+      "bbox_id": "38.306600_-122.329230_38.314340_-122.318720",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 07:13:15",
+      "raw_data": {
+        "room_id": 1076897077609971759,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Luxury 5BR Home | Pool + Hot Tub",
+        "title": "Home in Napa",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 8350.0,
+            "discount": 7100.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,420.00",
+              "amount": 7100.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.94,
+          "reviewCount": "16"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3Njg5NzA3NzYwOTk3MTc1OQ%3D%3D/original/cd7ba326-2e1a-4f7d-a2e0-223a5231f548.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3Njg5NzA3NzYwOTk3MTc1OQ%3D%3D/original/3040d44b-10b2-46b7-9a17-c16ed5b2a5c4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3Njg5NzA3NzYwOTk3MTc1OQ%3D%3D/original/facafdfd-d82b-4650-a25d-c79acf54d902.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3Njg5NzA3NzYwOTk3MTc1OQ%3D%3D/original/cde71a10-d6c2-41a3-aae6-8b5a3a5f8edc.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3Njg5NzA3NzYwOTk3MTc1OQ%3D%3D/original/00e2b631-c18d-4033-9d79-bd6f1846a9b0.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3Njg5NzA3NzYwOTk3MTc1OQ%3D%3D/original/96ba375f-b5e4-4c9c-988d-4fc48f9e461f.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.3069,
+          "longitud": -122.3252
+        }
+      }
+    }
+  }
+}

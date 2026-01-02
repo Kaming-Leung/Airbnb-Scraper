@@ -1,0 +1,131 @@
+{
+  "grid_id": 171,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 07:52:33",
+  "listings": {
+    "1253772096681243581": {
+      "room_id": 1253772096681243581,
+      "latitude": 42.2508,
+      "longitude": -83.4834,
+      "grid_id_assigned": null,
+      "grid_id_source": 171.0,
+      "bbox_id": "42.240310_-83.492510_42.265750_-83.456960",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 07:49:38",
+      "raw_data": {
+        "room_id": 1253772096681243581,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Home in Belleville",
+        "title": "Home in Belleville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1541.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $308.12",
+              "amount": 1540.0,
+              "currency": "$.59"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "21"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1253772096681243581/original/2f6613e1-14cc-4630-9ab2-94658aa57a05.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1253772096681243581/original/7fa1ce54-34ea-4e57-8055-64c2d47decb9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1253772096681243581/original/01d4a32b-1e95-410c-af43-c544be21c7c7.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1253772096681243581/original/1505a992-9dd4-4210-ab8c-d70c27d14651.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1253772096681243581/original/a2e99ef5-c093-41ff-8d81-2e00daad31d2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1253772096681243581/original/68490458-134b-4818-87e2-763c531c86c7.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2508,
+          "longitud": -83.4834
+        }
+      }
+    }
+  }
+}

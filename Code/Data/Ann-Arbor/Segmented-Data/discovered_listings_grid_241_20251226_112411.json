@@ -1,0 +1,131 @@
+{
+  "grid_id": 241,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 11:24:11",
+  "listings": {
+    "1227686766981998429": {
+      "room_id": 1227686766981998429,
+      "latitude": 42.184,
+      "longitude": -83.3338,
+      "grid_id_assigned": null,
+      "grid_id_source": 241.0,
+      "bbox_id": "42.163990_-83.350310_42.189430_-83.314760",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 11:21:17",
+      "raw_data": {
+        "room_id": 1227686766981998429,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Michigan Home w/ Yard, 3 Mi to Detroit Airport",
+        "title": "Home in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1146.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $229.20",
+              "amount": 1146.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1227686766981998429/original/f7057614-5d52-423b-a96d-4b57526293ce.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1227686766981998429/original/15e2929b-3713-4a47-baba-5a4f2cfaf451.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1227686766981998429/original/82f3e88f-07f1-4765-83e8-06962c8a256e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1227686766981998429/original/354f6871-58ba-4b6b-a7ca-54d854fb3756.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1227686766981998429/original/502299a3-5e46-4ad9-aba7-da8e7f6b2ec2.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1227686766981998429/original/2bb534f2-8fd6-4484-9873-75b97fd1d315.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.184,
+          "longitud": -83.3338
+        }
+      }
+    }
+  }
+}

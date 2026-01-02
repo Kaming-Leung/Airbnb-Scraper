@@ -1,0 +1,131 @@
+{
+  "grid_id": 216,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-26 10:08:04",
+  "listings": {
+    "39444382": {
+      "room_id": 39444382,
+      "latitude": 42.21008,
+      "longitude": -83.42218,
+      "grid_id_assigned": null,
+      "grid_id_source": 216.0,
+      "bbox_id": "42.189430_-83.456960_42.214870_-83.421410",
+      "pass_id": 0,
+      "discovered_at": "2025-12-26 10:05:10",
+      "raw_data": {
+        "room_id": 39444382,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "5 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Welcome to the Fun house 10 min to metroairport",
+        "title": "Home in Romulus",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 5330.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $1,065.86",
+              "amount": 5329.0,
+              "currency": "$.30"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.9,
+          "reviewCount": "62"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/dd2f2c07-400a-4c8c-9963-7184d4d21512.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1ff131f6-3b56-4f86-8419-159bf31d7f1f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/c20faa03-65b6-497f-b898-fc360a31426d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3372e97d-f3fe-480d-9624-8485103f2e10.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mzk0NDQzODI%3D/original/8058c8ff-fd87-4378-9abf-9163b0983e8f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/91f783cc-2bba-4494-9ec2-8c2921016c3c.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.21008,
+          "longitud": -83.42218
+        }
+      }
+    }
+  }
+}

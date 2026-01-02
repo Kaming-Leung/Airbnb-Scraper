@@ -1,0 +1,629 @@
+{
+  "grid_id": 12,
+  "total_listings": 5,
+  "discovery_timestamp": "2025-12-29 16:35:31",
+  "listings": {
+    "1490718149753885349": {
+      "room_id": 1490718149753885349,
+      "latitude": 38.0151,
+      "longitude": -121.302,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "38.008160_-121.312520_38.034160_-121.280430",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 16:32:37",
+      "raw_data": {
+        "room_id": 1490718149753885349,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 7",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "The Modern + Cabin Retreat",
+        "title": "Home in Pacific",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1570.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $313.82",
+              "amount": 1569.0,
+              "currency": "$.12"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "6"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490718149753885349/original/7368d288-37d2-4382-85a0-a84f8f907209.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490718149753885349/original/e082f89f-550f-43dd-bf2b-82e820475ed3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490718149753885349/original/fc2eb165-179e-4e3d-8f76-e753847d235b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490718149753885349/original/49d2aae8-b9d0-4828-9ebf-cfe2f7a1027c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490718149753885349/original/dd755001-f1e1-4b83-a2fe-3d20d694748d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1490718149753885349/original/bdf62291-1faf-4e4f-8324-6019bdf284c2.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.0151,
+          "longitud": -121.302
+        }
+      }
+    },
+    "1237768777858623218": {
+      "room_id": 1237768777858623218,
+      "latitude": 38.00878,
+      "longitude": -121.28649,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "38.008160_-121.312520_38.034160_-121.280430",
+      "pass_id": 1,
+      "discovered_at": "2025-12-29 16:32:43",
+      "raw_data": {
+        "room_id": 1237768777858623218,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/95434496-a31e-427d-8204-28e735a86586.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Jacklynn G",
+          "titleText": "Started hosting in 2024",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/95434496-a31e-427d-8204-28e735a86586.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 1,
+            "months": 3
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Loving Care…",
+        "title": "Room in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 300.0,
+            "discount": 260.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $149.78",
+              "amount": 299.0,
+              "currency": "$.55"
+            },
+            {
+              "description": "Special offer",
+              "amount": -40.0,
+              "currency": "$.50"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 259.0,
+              "currency": "$.05"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237755946884300856/original/87133304-b13e-460a-a3a5-d4ec1c4b5378.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237755946884300856/original/d8164739-bd8d-470d-916e-b29d106065e4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237755946884300856/original/7ca36e32-645b-4cde-a421-1962fa063ae4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237755946884300856/original/414953cb-222b-49e3-b92a-d5174a0a6eb4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237755946884300856/original/7719c8fe-2224-45e0-863a-146da5e584be.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1237755946884300856/original/2068d57a-dd5f-4005-8b12-b1d279cfda1f.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.00878,
+          "longitud": -121.28649
+        }
+      }
+    },
+    "53625020": {
+      "room_id": 53625020,
+      "latitude": 38.00897,
+      "longitude": -121.29104,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "38.008160_-121.312520_38.034160_-121.280430",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 16:32:49",
+      "raw_data": {
+        "room_id": 53625020,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "RV Trailer-new experience of Airbnbing",
+        "title": "Camper/RV in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 206.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $68.47",
+              "amount": 205.0,
+              "currency": "$.41"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.86,
+          "reviewCount": "65"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/98c29458-e488-4be6-8888-568db3652d89.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/54d4fe44-7204-4438-a515-6588f709d29f.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3ef4a09c-cfa3-43e2-a965-0acfb1e84403.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/99d264a1-7c05-437d-8329-a8e0f66d23f5.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/56745afa-c3d8-447e-99ab-95e0fab1a671.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a219acbd-65c0-4843-a0a1-6e57e74fbeb9.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.00897,
+          "longitud": -121.29104
+        }
+      }
+    },
+    "51111459": {
+      "room_id": 51111459,
+      "latitude": 38.00941,
+      "longitude": -121.30307,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "38.008160_-121.312520_38.034160_-121.280430",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 16:32:49",
+      "raw_data": {
+        "room_id": 51111459,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/da1fa2d9-d981-46d6-b42e-bfaa1fd921a9.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Sandra",
+          "titleText": "Started hosting in 2021",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/da1fa2d9-d981-46d6-b42e-bfaa1fd921a9.jpg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 4,
+            "months": 2
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Vargas cozy cottage🌾🌿",
+        "title": "Room in Pacific",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 288.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $95.86",
+              "amount": 287.0,
+              "currency": "$.58"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/f47932bb-e07c-4828-92c9-63616fe6da99.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/14c69ce7-9e3d-4104-9473-68c0d1ad9f36.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e6908f4a-e996-41fa-bf7f-7437e9a62c73.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4bead113-a877-491a-ab3a-d6dd69ab5112.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a3715683-f058-440b-8eb1-49b4bc46b37c.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e0d4e220-e9eb-4842-9efb-540b1268c300.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.00941,
+          "longitud": -121.30307
+        }
+      }
+    },
+    "763072048250528504": {
+      "room_id": 763072048250528504,
+      "latitude": 38.027,
+      "longitude": -121.2943,
+      "grid_id_assigned": null,
+      "grid_id_source": 12.0,
+      "bbox_id": "38.008160_-121.312520_38.034160_-121.280430",
+      "pass_id": 2,
+      "discovered_at": "2025-12-29 16:32:49",
+      "raw_data": {
+        "room_id": 763072048250528504,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [],
+          "primaryLine": [],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/pictures/user/User-163361129/original/0c3fddb7-b5e9-4f63-896d-bf145c46587b.jpeg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Aminu",
+          "titleText": "Started hosting in 2022",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-163361129/original/0c3fddb7-b5e9-4f63-896d-bf145c46587b.jpeg?aki_policy=profile_small",
+          "stats": null,
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 3,
+            "months": 1
+          },
+          "ratingCount": null,
+          "ratingAverage": null
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Clean and quite comfort stay.",
+        "title": "Room in Stockton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 245.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $81.40",
+              "amount": 244.0,
+              "currency": "$.21"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-763072048250528504/original/89d36a5f-2b60-4160-a23e-83c87c36190a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-763072048250528504/original/10b0f0d2-b4dc-4b9d-8e80-cc66ea6a15dd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-763072048250528504/original/60ca78b6-ee10-4619-a5bb-2d6f49b1f26e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-763072048250528504/original/6f8fd437-0a42-489a-9e92-b0801638253e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-763072048250528504/original/d43f9286-c387-43c7-97c6-331713ac19ea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-763072048250528504/original/35181da5-b2ed-41b2-a289-ca8cd5c64d79.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 38.027,
+          "longitud": -121.2943
+        }
+      }
+    }
+  }
+}

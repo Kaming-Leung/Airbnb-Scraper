@@ -1,0 +1,131 @@
+{
+  "grid_id": 119,
+  "total_listings": 1,
+  "discovery_timestamp": "2025-12-29 07:31:46",
+  "listings": {
+    "867505446109371986": {
+      "room_id": 867505446109371986,
+      "latitude": 38.35428,
+      "longitude": -121.22264,
+      "grid_id_assigned": null,
+      "grid_id_source": 119.0,
+      "bbox_id": "38.345690_-121.225710_38.390400_-121.180390",
+      "pass_id": 0,
+      "discovered_at": "2025-12-29 07:28:52",
+      "raw_data": {
+        "room_id": 867505446109371986,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 25 – 30",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 25 – 30",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful Wilton House",
+        "title": "Home in Wilton",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1486.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $297.16",
+              "amount": 1485.0,
+              "currency": "$.81"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "5"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-867505446109371986/original/325afddd-c274-466c-bdd2-5a4fc77d73e0.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-867505446109371986/original/e2d1e1b8-14c2-437d-8cd3-35acdd2d2961.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-867505446109371986/original/0522ff83-2924-43ea-8464-9b7ced748112.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-867505446109371986/original/601f1249-5ffd-4b33-a4d6-e2f3b6fdf759.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-867505446109371986/original/3c1ffd0d-3721-4359-9be4-a95f88e2ec6f.png"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-867505446109371986/original/4890e209-d011-454a-8f4b-bdfe750442f2.png"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 38.35428,
+          "longitud": -121.22264
+        }
+      }
+    }
+  }
+}

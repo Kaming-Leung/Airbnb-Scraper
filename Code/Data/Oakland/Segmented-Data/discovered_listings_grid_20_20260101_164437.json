@@ -1,0 +1,1037 @@
+{
+  "grid_id": 20,
+  "total_listings": 8,
+  "discovery_timestamp": "2026-01-01 16:44:37",
+  "listings": {
+    "48628635": {
+      "room_id": 48628635,
+      "latitude": 37.84856,
+      "longitude": -122.00048,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:41:42",
+      "raw_data": {
+        "room_id": 48628635,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 king bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 4 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful,  apartment in charming Alamo.",
+        "title": "Guest suite in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1455.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $291.00",
+              "amount": 1455.0,
+              "currency": "$.00"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "70"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/dae8dc82-98ac-4c3a-a68d-0f5ddd9ea966.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48628635/original/a58692ac-28a0-431c-be64-a0c8e1fea83d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48628635/original/7c572769-3baa-44eb-9671-cb8516d855fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/2fa18c8a-13e9-47d9-a8bc-3581ff60ac91.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-48628635/original/9955e09d-e4d7-4770-934a-386af02a7431.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/a1729a14-fbc9-4cd7-a3e6-351f176691b2.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.84856,
+          "longitud": -122.00048
+        }
+      }
+    },
+    "1274013472389917488": {
+      "room_id": 1274013472389917488,
+      "latitude": 37.8509,
+      "longitude": -122.03058,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:41:42",
+      "raw_data": {
+        "room_id": 1274013472389917488,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Modern Studio Downtown Alamo",
+        "title": "Apartment in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1393.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $278.45",
+              "amount": 1392.0,
+              "currency": "$.24"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "4"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI3NDAxMzQ3MjM4OTkxNzQ4OA==/original/31ff87d6-79e3-4b01-82eb-7a721e5e72de.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI3NDAxMzQ3MjM4OTkxNzQ4OA==/original/2428c700-6330-4578-9759-6400e83ec640.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI3NDAxMzQ3MjM4OTkxNzQ4OA==/original/35a3e76b-fe85-40a9-8421-b95f73e3e527.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI3NDAxMzQ3MjM4OTkxNzQ4OA==/original/fae68e2d-3c9d-44c7-8ff8-14fc243842ed.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI3NDAxMzQ3MjM4OTkxNzQ4OA==/original/0690c9ac-114b-46fd-8364-ab90ce37c095.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1274013472389917488/original/c8387043-bc91-4ca9-861a-0c5c41888eaf.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.8509,
+          "longitud": -122.03058
+        }
+      }
+    },
+    "54250372": {
+      "room_id": 54250372,
+      "latitude": 37.84706,
+      "longitude": -121.99933,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:41:42",
+      "raw_data": {
+        "room_id": 54250372,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 3 – 8",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Beautiful New Loft with Spectacular Outdoor Spaces",
+        "title": "Guest suite in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1946.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $389.14",
+              "amount": 1945.0,
+              "currency": "$.71"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54250372/original/af676c3e-a8e9-4ecf-b46c-7b9dbae2c4cd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-54250372/original/7275e5fa-c28e-401c-b66b-37cb657a1fcd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/f1ccbaab-9edf-49bf-8381-63bb91fe7196.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cd0033e3-f800-4d71-af23-9369945d34f9.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/77cc5670-d5c8-460b-b579-042dcd71cb81.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3d284d56-619c-4128-bce4-fec2675fcc41.jpg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.84706,
+          "longitud": -121.99933
+        }
+      }
+    },
+    "1083384789679816711": {
+      "room_id": 1083384789679816711,
+      "latitude": 37.84789,
+      "longitude": -122.02892,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 0,
+      "discovered_at": "2026-01-01 16:41:42",
+      "raw_data": {
+        "room_id": 1083384789679816711,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "Jan 2 – 9",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Alamo Village Executive Apt",
+        "title": "Apartment in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 7 nights",
+            "curency_symbol": "$",
+            "amount": 1905.0,
+            "discount": 1766.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "7 nights x $272.07",
+              "amount": 1904.0,
+              "currency": "$.46"
+            },
+            {
+              "description": "Weekly stay discount",
+              "amount": -138.0,
+              "currency": "$.60"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 1765.0,
+              "currency": "$.86"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.44,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1083384789679816711/original/8afabc21-211e-4dc2-af0e-af61bccef672.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1083384789679816711/original/3224bd2e-8d96-4b5f-b119-f5ef7f79adac.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1083384789679816711/original/f4a88398-851e-4dde-a6d4-9ee88dfc4616.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1083384789679816711/original/6712e7f0-0d09-4ba4-beb7-45018fa932f3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1083384789679816711/original/bb4f0744-e01b-4e27-9479-33288ef6df3a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-1083384789679816711/original/b173d103-1afa-4099-8b9f-16742e5edb95.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.84789,
+          "longitud": -122.02892
+        }
+      }
+    },
+    "1442380822323003833": {
+      "room_id": 1442380822323003833,
+      "latitude": 37.82886084544149,
+      "longitude": -122.01594110957079,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 1,
+      "discovered_at": "2026-01-01 16:41:48",
+      "raw_data": {
+        "room_id": 1442380822323003833,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cute furnished Cottage with washer/dryer/ kitchen.",
+        "title": "Cottage in Danville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 434.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $216.83",
+              "amount": 433.0,
+              "currency": "$.65"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.92,
+          "reviewCount": "12"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442380822323003833/original/5ec46205-1beb-4389-9a5f-f81429bc0f3d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442380822323003833/original/d6752133-79a5-4992-92e1-20ded302b8d5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442380822323003833/original/f330f05d-5b22-4d71-aba9-edd4862f7c8d.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442380822323003833/original/88630cc1-a4ed-4ea2-9cba-ca20e57c91bd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442380822323003833/original/5cf8aa39-3c47-4e88-abc9-15339a9b3fcf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1442380822323003833/original/a1e6a527-6d86-49fa-b0d8-70ae2695a346.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.82886084544149,
+          "longitud": -122.01594110957079
+        }
+      }
+    },
+    "1664070": {
+      "room_id": 1664070,
+      "latitude": 37.83418,
+      "longitude": -122.0024,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 2,
+      "discovered_at": "2026-01-01 16:41:54",
+      "raw_data": {
+        "room_id": 1664070,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {
+          "__typename": "PassportCardData",
+          "userId": null,
+          "profilePictureUrl": "https://a0.muscache.com/im/users/8815188/profile_pic/1379618163/original.jpg?aki_policy=profile_x_medium",
+          "profileLoggingId": null,
+          "profileA11yLabel": null,
+          "isVerified": true,
+          "isSuperhost": false,
+          "name": "Melinda",
+          "titleText": "Host",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/8815188/profile_pic/1379618163/original.jpg?aki_policy=profile_small",
+          "stats": [
+            {
+              "__typename": "HostStat",
+              "a11yValue": "58 reviews on the listing",
+              "label": "Reviews",
+              "value": "58",
+              "type": "REVIEW_COUNT"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "4.93 out of 5 average rating on the listing",
+              "label": "Rating",
+              "value": "4.93",
+              "type": "RATING"
+            },
+            {
+              "__typename": "HostStat",
+              "a11yValue": "12 years of hosting",
+              "label": "Years hosting",
+              "value": "12",
+              "type": "YEARS_HOSTING"
+            }
+          ],
+          "timeAsHost": {
+            "__typename": "TimeAsUser",
+            "years": 12,
+            "months": 3
+          },
+          "ratingCount": 58,
+          "ratingAverage": 4.93
+        },
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Beautiful private room in Danville",
+        "title": "Room in Danville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 314.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $104.61",
+              "amount": 313.0,
+              "currency": "$.82"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.93,
+          "reviewCount": "58"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/23866585/afa9bf11_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/24599423/b152c59b_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/24599408/ca13607d_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/24599398/a83ddde3_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/24599432/595dd3db_original.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/24599453/e9fc4659_original.jpg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 37.83418,
+          "longitud": -122.0024
+        }
+      }
+    },
+    "18852170": {
+      "room_id": 18852170,
+      "latitude": 37.82843,
+      "longitude": -122.01494,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 5,
+      "discovered_at": "2026-01-01 16:42:12",
+      "raw_data": {
+        "room_id": 18852170,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Welcoming Private Guesthouse",
+        "title": "Guesthouse in Danville",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 648.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $215.68",
+              "amount": 647.0,
+              "currency": "$.05"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "291"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-18852170/original/e57a6729-09ba-47fc-9201-9f0552246c52.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/acbac3af-0d5f-436d-be9d-84fa6d3be459.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-18852170/original/9153f903-7dfc-446e-b0f0-8a94d8569e82.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-18852170/original/42e069a6-6cf9-4a62-a4ad-ac7fa69c070a.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-18852170/original/af4d7677-2ee2-47eb-b175-7ac03a3805a4.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/airflow/Hosting-18852170/original/6da45b23-5134-4a41-969c-6b209f1f948d.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.82843,
+          "longitud": -122.01494
+        }
+      }
+    },
+    "17365942": {
+      "room_id": 17365942,
+      "latitude": 37.83767,
+      "longitude": -122.02975,
+      "grid_id_assigned": null,
+      "grid_id_source": 20.0,
+      "bbox_id": "37.825040_-122.032330_37.851500_-121.998550",
+      "pass_id": 13,
+      "discovered_at": "2026-01-01 16:43:00",
+      "raw_data": {
+        "room_id": 17365942,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Large West Alamo 1 Bedroom In-Law Unit",
+        "title": "Home in Alamo",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 403.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $201.42",
+              "amount": 402.0,
+              "currency": "$.84"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.83,
+          "reviewCount": "107"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-17365942/original/cc624e0d-0309-4abf-b84e-5e774f7c6d18.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-17365942/original/05833313-775d-479f-884d-0db63268d1fb.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-17365942/original/caa8c1f0-be1c-45dd-afb1-9ad4858e1369.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-17365942/original/520cb003-8697-46bd-9ecc-ea39fb9a9461.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-17365942/original/7313805c-ffd0-4711-97d5-37aca3427ff9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-17365942/original/d3b5ae0f-4da3-4042-9525-32dc300724f4.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 37.83767,
+          "longitud": -122.02975
+        }
+      }
+    }
+  }
+}

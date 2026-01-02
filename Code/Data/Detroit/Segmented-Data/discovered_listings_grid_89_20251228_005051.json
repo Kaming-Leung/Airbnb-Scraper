@@ -1,0 +1,1032 @@
+{
+  "grid_id": 89,
+  "total_listings": 8,
+  "discovery_timestamp": "2025-12-28 00:50:51",
+  "listings": {
+    "559402605283048008": {
+      "room_id": 559402605283048008,
+      "latitude": 42.26664,
+      "longitude": -83.1357,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 0,
+      "discovered_at": "2025-12-28 00:47:56",
+      "raw_data": {
+        "room_id": 559402605283048008,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": [],
+          "mapPrimaryLine": [],
+          "mapSecondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "6 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "May 1 – 6",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "DATE"
+            }
+          ],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Johnson’s Jewels",
+        "title": "Home in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 5 nights",
+            "curency_symbol": "$",
+            "amount": 1542.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "5 nights x $308.35",
+              "amount": 1541.0,
+              "currency": "$.73"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "9"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d0f09796-a191-4b35-9f9a-64199e04ae98.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/518c1d48-d020-48cf-b4dc-4eea692c7c7b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/e3036679-28e1-4ba0-b46e-00ce13804dbb.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/72dabb69-12f6-4dee-b614-0953692c06a8.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/bcdfbcf7-6220-49e2-adb1-ea22266fdff1.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-559402605283048008/original/9f5c831b-919e-401e-9c46-eaf3d2107901.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.26664,
+          "longitud": -83.1357
+        }
+      }
+    },
+    "885696643233846366": {
+      "room_id": 885696643233846366,
+      "latitude": 42.26846,
+      "longitude": -83.12965,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 1,
+      "discovered_at": "2025-12-28 00:48:02",
+      "raw_data": {
+        "room_id": 885696643233846366,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "1 Bedrm Apt, W/D, near I75 Metro Detroit",
+        "title": "Apartment in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 218.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $108.98",
+              "amount": 217.0,
+              "currency": "$.96"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "30"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/dbca9f06-a822-4a3d-b136-a9361f47b5aa.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/32d17898-cf9d-4146-b81e-100d87d71014.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/26239dc1-dbdd-4c92-ade2-5d17f4438b3b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/1c00c74d-7389-49fb-8f46-e83dddd442a2.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/3f445b9f-18bf-4880-a88d-228cbeae12b6.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/9ac88b03-4b86-403a-83bd-964ac78207bc.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.26846,
+          "longitud": -83.12965
+        }
+      }
+    },
+    "1568360423998436821": {
+      "room_id": 1568360423998436821,
+      "latitude": 42.26886,
+      "longitude": -83.12793,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:48:08",
+      "raw_data": {
+        "room_id": 1568360423998436821,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Cozy Urban Cottage",
+        "title": "Home in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 387.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $128.87",
+              "amount": 386.0,
+              "currency": "$.61"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568360423998436821/original/d65ee0f3-ff1b-4f87-ba8d-f8663e0064d1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568360423998436821/original/54dfdcce-dc50-4dd8-b522-bcdc8cc5e283.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568360423998436821/original/f87e5783-475c-4a82-88c9-e205277e097e.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568360423998436821/original/94b28984-2a6d-41ab-ba50-c485769e33f3.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568360423998436821/original/44b036d6-531b-482e-870b-0245a3b0dd5f.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1568360423998436821/original/86bd86a7-4886-4589-b2be-cc3271718a65.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.26886,
+          "longitud": -83.12793
+        }
+      }
+    },
+    "1468245522004851415": {
+      "room_id": 1468245522004851415,
+      "latitude": 42.269972435685276,
+      "longitude": -83.13567313647918,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:48:08",
+      "raw_data": {
+        "room_id": 1468245522004851415,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "4 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [],
+        "kind": "",
+        "name": "Upper AND Lower Units! 4 Bedrms. Long Driveway.",
+        "title": "Home in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 551.0,
+            "discount": 452.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $183.64",
+              "amount": 550.0,
+              "currency": "$.91"
+            },
+            {
+              "description": "Special offer",
+              "amount": -99.0,
+              "currency": "$.00"
+            },
+            {
+              "description": "Price after discount",
+              "amount": 451.0,
+              "currency": "$.91"
+            }
+          ]
+        },
+        "rating": {
+          "value": 0,
+          "reviewCount": 0
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1468245522004851415/original/222b4cb4-c94c-438f-bbd3-8196ee600933.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1468245522004851415/original/1d47588e-d323-4c8b-b30e-26bf933ab59b.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1468245522004851415/original/e6a7f192-6dc3-4ee1-998b-5aeec3618952.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1468245522004851415/original/81e0dba8-6fa9-4eaf-a09a-28bde4146449.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1468245522004851415/original/b9ec6045-d5d7-4b15-a186-97b0b7a80327.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1468245522004851415/original/8c57f13b-8d8e-42a1-b469-5952b74ca44b.jpeg"
+          }
+        ],
+        "badges": [
+          "SUPERHOST"
+        ],
+        "coordinates": {
+          "latitude": 42.269972435685276,
+          "longitud": -83.13567313647918
+        }
+      }
+    },
+    "890713466804129784": {
+      "room_id": 890713466804129784,
+      "latitude": 42.2681,
+      "longitude": -83.13081,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 2,
+      "discovered_at": "2025-12-28 00:48:08",
+      "raw_data": {
+        "room_id": 890713466804129784,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 bedroom",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "1 queen bed",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "1 Bedrm Apt, W/D, near I75 Metro Detroit",
+        "title": "Apartment in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 257.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $85.59",
+              "amount": 256.0,
+              "currency": "$.76"
+            }
+          ]
+        },
+        "rating": {
+          "value": 5.0,
+          "reviewCount": "10"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-890713466804129784/original/4010b0aa-db67-4c7f-b385-6164b0dbfdea.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-890713466804129784/original/ca965348-0a86-4174-84cf-9bb6dcd890c9.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-890713466804129784/original/0a4a5c6b-6e67-4e88-87cb-10cb990aef2a.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-890713466804129784/original/a6902c1c-df85-4e10-93f1-7aa173ada04c.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-890713466804129784/original/89cfb04a-155b-4190-aa30-10289e9e41d4.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-890713466804129784/original/287febfd-1531-4fa4-ac3d-e9bb762c238d.jpeg"
+          }
+        ],
+        "badges": [
+          "GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.2681,
+          "longitud": -83.13081
+        }
+      }
+    },
+    "1185675592679382874": {
+      "room_id": 1185675592679382874,
+      "latitude": 42.27550673745239,
+      "longitude": -83.1338733526754,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 4,
+      "discovered_at": "2025-12-28 00:48:21",
+      "raw_data": {
+        "room_id": 1185675592679382874,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Pay $0 today",
+            "type": "PAY_ZERO_UPFRONT_HIGHLIGHT"
+          },
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "Safe, Stylish, & Centrally Located",
+        "title": "Home in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 2 nights",
+            "curency_symbol": "$",
+            "amount": 274.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "2 nights x $136.94",
+              "amount": 273.0,
+              "currency": "$.88"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.88,
+          "reviewCount": "8"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1185675592679382874/original/666f670d-aaf0-42eb-879e-93005681aac8.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1185675592679382874/original/5df6ef5b-b50d-430b-814e-8b3e5784d2a1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1185675592679382874/original/5a836d13-ece4-4435-9c52-52c3a6ebe0fd.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1185675592679382874/original/a1396333-b21a-4978-9b3f-dbf87c1154cf.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1185675592679382874/original/f6d1fd86-083a-459e-8f7e-d0639f516641.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1185675592679382874/original/652be466-0436-4148-892d-08243202e152.jpeg"
+          }
+        ],
+        "badges": [],
+        "coordinates": {
+          "latitude": 42.27550673745239,
+          "longitud": -83.1338733526754
+        }
+      }
+    },
+    "47359645": {
+      "room_id": 47359645,
+      "latitude": 42.27003,
+      "longitude": -83.13526,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 5,
+      "discovered_at": "2025-12-28 00:48:27",
+      "raw_data": {
+        "room_id": 47359645,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "2 queen beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "2 bdrm Flat! Driveway, W/D, Near I75 Detroit River",
+        "title": "Townhouse in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 294.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $97.76",
+              "amount": 293.0,
+              "currency": "$.28"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.95,
+          "reviewCount": "133"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-47359645/original/d59c121b-0ddf-42f2-afd6-a97d619922d5.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-47359645/original/2177cb84-abe6-4a2e-a217-6485675f27df.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/4fb4f564-1435-4039-8d71-ff2c17cb3577.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-47359645/original/2d3d3dbd-8d7c-4cd6-836f-e1026e2da8aa.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-47359645/original/ef0d3ca4-b4f3-4ea0-b171-872da2c898b1.jpeg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/miso/Hosting-47359645/original/6d38064e-d570-407c-9890-870412778f39.jpeg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.27003,
+          "longitud": -83.13526
+        }
+      }
+    },
+    "39205843": {
+      "room_id": 39205843,
+      "latitude": 42.26725,
+      "longitude": -83.12981,
+      "grid_id_assigned": null,
+      "grid_id_source": 89.0,
+      "bbox_id": "42.252170_-83.142620_42.277090_-83.107660",
+      "pass_id": 5,
+      "discovered_at": "2025-12-28 00:48:27",
+      "raw_data": {
+        "room_id": 39205843,
+        "category": "",
+        "structuredContent": {
+          "__typename": "ExploreStructuredContent",
+          "distance": [],
+          "mapCategoryInfo": null,
+          "mapPrimaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "mapSecondaryLine": [],
+          "primaryLine": [
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 bedrooms",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            },
+            {
+              "__typename": "MainSectionMessage",
+              "body": "3 beds",
+              "bodyA11yLabel": null,
+              "bodyType": null,
+              "fontWeight": null,
+              "headline": null,
+              "type": "BEDINFO"
+            }
+          ],
+          "secondaryLine": [],
+          "reviewSnippet": null,
+          "explanation": []
+        },
+        "passportData": {},
+        "paymentMessages": [
+          {
+            "__typename": "PaymentMessage",
+            "text": "Free cancellation",
+            "type": "FREE_CANCELLATION_HIGHLIGHT"
+          }
+        ],
+        "kind": "",
+        "name": "3bd House! Driveway! Near I75, Detroit River",
+        "title": "Home in River Rouge",
+        "type": "",
+        "long_stay_discount": {},
+        "fee": {
+          "airbnb": {},
+          "cleaning": {}
+        },
+        "price": {
+          "unit": {
+            "qualifier": "for 3 nights",
+            "curency_symbol": "$",
+            "amount": 420.0
+          },
+          "total": {
+            "currency_symbol": "",
+            "amount": 0
+          },
+          "break_down": [
+            {
+              "description": "3 nights x $139.98",
+              "amount": 419.0,
+              "currency": "$.95"
+            }
+          ]
+        },
+        "rating": {
+          "value": 4.91,
+          "reviewCount": "231"
+        },
+        "images": [
+          {
+            "url": "https://a0.muscache.com/im/pictures/d39e272c-37d4-414b-801f-0f82c5db39ff.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/12b51b92-351e-462e-b22f-89809f0afb6d.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/090cb92d-2664-4b80-a8e1-26bc6e07d707.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/b87592be-88af-4589-bc36-c42d5bce4b9b.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/cd062157-8c57-4249-b3e2-7d5f48c1bc4e.jpg"
+          },
+          {
+            "url": "https://a0.muscache.com/im/pictures/36da5a4d-c449-4764-8537-1e7642dec348.jpg"
+          }
+        ],
+        "badges": [
+          "TOP_X_GUEST_FAVORITE"
+        ],
+        "coordinates": {
+          "latitude": 42.26725,
+          "longitud": -83.12981
+        }
+      }
+    }
+  }
+}
