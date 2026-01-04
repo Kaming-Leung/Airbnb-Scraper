@@ -93,7 +93,7 @@ def render_listing_detail_panel(selected_row: pd.Series):
     with col1:
         st.markdown(f"**Room #{room_id}**")
     with col2:
-        st.markdown(f"[🔗 View Listing]({listing_url})")
+        st.markdown(f"[🏠 View on Airbnb]({listing_url})")
     
     # Status badges
     st.markdown("#### Status")

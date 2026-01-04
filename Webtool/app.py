@@ -9,6 +9,7 @@ Usage:
 """
 
 import streamlit as st
+import pandas as pd
 
 # Import custom modules
 from utils.state_manager import (
@@ -329,8 +330,172 @@ def main():
     # ========================================================================
     
     with tab2:
-        st.info("🚧 Bed/Bath Analysis - Coming soon")
-        st.write("This tab will show detailed analysis of bedrooms and bathrooms.")
+        st.markdown("## 🛏️ Bedroom & Bathroom Analysis")
+
+        df_filter_true = filtered_df[filtered_df['passes_current_filter'] == True]
+        
+        # Check if required columns exist
+        if 'Bedroom_count' not in df.columns or 'Bath_count' not in df.columns:
+            st.warning("⚠️ Bedroom or Bathroom data not available in this dataset")
+        else:
+            # ================================================================
+            # BEDROOM ANALYSIS
+            # ================================================================
+            st.markdown("### 🛏️ Bedroom Distribution")
+            
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.markdown("#### Filtered Listings")
+                st.caption(f"Showing {len(filtered_df):,} listings that match filter criteria")
+                
+                # Calculate bedroom distribution for filtered data
+                bedroom_filtered = df_filter_true['Bedroom_count'].value_counts().sort_index()
+                bedroom_filtered_df = pd.DataFrame({
+                    'Bedrooms': bedroom_filtered.index,
+                    'Count': bedroom_filtered.values
+                })
+                
+                st.dataframe(
+                    bedroom_filtered_df,
+                    use_container_width=True,
+                    hide_index=True
+                )
+                
+                # Summary stats
+                st.caption(f"📊 **Total filtered listings**: {len(filtered_df):,}")
+                st.caption(f"📊 **Most common**: {bedroom_filtered.idxmax()} bedroom(s) ({bedroom_filtered.max():,} listings)")
+            
+            with col2:
+                st.markdown("#### All Listings in Area")
+                st.caption(f"Showing all {len(df):,} listings in the dataset")
+                
+                # Calculate bedroom distribution for all data
+                bedroom_all = df['Bedroom_count'].value_counts().sort_index()
+                bedroom_all_df = pd.DataFrame({
+                    'Bedrooms': bedroom_all.index,
+                    'Count': bedroom_all.values
+                })
+                
+                st.dataframe(
+                    bedroom_all_df,
+                    use_container_width=True,
+                    hide_index=True
+                )
+                
+                # Summary stats
+                st.caption(f"📊 **Total area listings**: {len(df):,}")
+                st.caption(f"📊 **Most common**: {bedroom_all.idxmax()} bedroom(s) ({bedroom_all.max():,} listings)")
+            
+            st.markdown("---")
+            
+            # ================================================================
+            # BATHROOM ANALYSIS
+            # ================================================================
+            st.markdown("### 🚿 Bathroom Distribution")
+            
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.markdown("#### Filtered Listings")
+                st.caption(f"Showing {len(filtered_df):,} listings that match filter criteria")
+                
+                # Calculate bathroom distribution for filtered data
+                bathroom_filtered = df_filter_true['Bath_count'].value_counts().sort_index()
+                bathroom_filtered_df = pd.DataFrame({
+                    'Bathrooms': bathroom_filtered.index,
+                    'Count': bathroom_filtered.values
+                })
+                
+                st.dataframe(
+                    bathroom_filtered_df,
+                    use_container_width=True,
+                    hide_index=True
+                )
+                
+                # Summary stats
+                st.caption(f"📊 **Total filtered listings**: {len(filtered_df):,}")
+                st.caption(f"📊 **Most common**: {bathroom_filtered.idxmax()} bathroom(s) ({bathroom_filtered.max():,} listings)")
+            
+            with col2:
+                st.markdown("#### All Listings in Area")
+                st.caption(f"Showing all {len(df):,} listings in the dataset")
+                
+                # Calculate bathroom distribution for all data
+                bathroom_all = df['Bath_count'].value_counts().sort_index()
+                bathroom_all_df = pd.DataFrame({
+                    'Bathrooms': bathroom_all.index,
+                    'Count': bathroom_all.values
+                })
+                
+                st.dataframe(
+                    bathroom_all_df,
+                    use_container_width=True,
+                    hide_index=True
+                )
+                
+                # Summary stats
+                st.caption(f"📊 **Total area listings**: {len(df):,}")
+                st.caption(f"📊 **Most common**: {bathroom_all.idxmax()} bathroom(s) ({bathroom_all.max():,} listings)")
+            
+            st.markdown("---")
+            
+            # ================================================================
+            # BEDROOM x BATHROOM CROSS-TABULATION
+            # ================================================================
+            st.markdown("### 🛏️🚿 Bedroom × Bathroom Combination")
+            
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.markdown("#### Filtered Listings")
+                st.caption(f"Showing {len(filtered_df):,} listings that match filter criteria")
+                
+                # Create cross-tabulation for filtered data
+                crosstab_filtered = pd.crosstab(
+                    df_filter_true['Bedroom_count'], 
+                    df_filter_true['Bath_count'],
+                    margins=True,
+                    margins_name='Total'
+                )
+                crosstab_filtered.index.name = 'Bedrooms \\ Bathrooms'
+                
+                st.dataframe(
+                    crosstab_filtered,
+                    use_container_width=True
+                )
+                
+                # Find most common combination
+                combo_filtered = df_filter_true.groupby(['Bedroom_count', 'Bath_count']).size()
+                if len(combo_filtered) > 0:
+                    most_common = combo_filtered.idxmax()
+                    st.caption(f"📊 **Most common**: {most_common[0]} bed, {most_common[1]} bath ({combo_filtered.max():,} listings)")
+            
+            with col2:
+                st.markdown("#### All Listings in Area")
+                st.caption(f"Showing all {len(df):,} listings in the dataset")
+                
+                # Create cross-tabulation for all data
+                crosstab_all = pd.crosstab(
+                    df['Bedroom_count'], 
+                    df['Bath_count'],
+                    margins=True,
+                    margins_name='Total'
+                )
+                crosstab_all.index.name = 'Bedrooms \\ Bathrooms'
+                
+                st.dataframe(
+                    crosstab_all,
+                    use_container_width=True
+                )
+                
+                # Find most common combination
+                combo_all = df.groupby(['Bedroom_count', 'Bath_count']).size()
+                if len(combo_all) > 0:
+                    most_common = combo_all.idxmax()
+                    st.caption(f"📊 **Most common**: {most_common[0]} bed, {most_common[1]} bath ({combo_all.max():,} listings)")
+
+        
     
     # ========================================================================
     # Sidebar: Filter Results

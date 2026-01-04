@@ -18,7 +18,7 @@ def create_deck_map(
     show_grids: bool = False,
     center: Optional[Tuple[float, float]] = None,
     zoom: int = 11,
-    map_style: str = 'carto'
+    map_style: str = 'road'
 ) -> pdk.Deck:
     """
     Create a PyDeck map with ScatterplotLayer for listings.
@@ -29,7 +29,7 @@ def create_deck_map(
         show_grids: Whether to show grid overlay
         center: Optional (lat, lon) tuple for map center
         zoom: Initial zoom level
-        map_style: Map style ('carto', 'carto-dark', 'carto-voyager', 'light', 'dark')
+        map_style: Map style ('road' [default, Google Maps-like], 'carto', 'carto-dark', 'light', 'dark')
         
     Returns:
         pdk.Deck object ready for rendering
@@ -133,8 +133,10 @@ def create_deck_map(
     )
     
     # Map style options (free, no API key required)
+    # Using Carto Voyager for Google Maps-like appearance
     map_styles = {
-        'carto': 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json',
+        'road': 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json',  # Google Maps-like
+        'carto': 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json',  # Minimal light
         'carto-dark': 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
         'carto-voyager': 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json',
         'light': 'light',  # Fallback to PyDeck's basic light style
@@ -142,7 +144,7 @@ def create_deck_map(
     }
     
     # Get map style URL
-    style_url = map_styles.get(map_style, map_styles['carto'])
+    style_url = map_styles.get(map_style, map_styles['road'])
     
     # Create deck
     deck = pdk.Deck(
