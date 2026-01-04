@@ -179,6 +179,15 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
     
     # Wrap main filters in a form to prevent auto-rerun
     with st.form("filter_form"):
+        # Submit buttons at the top
+        col1, col2 = st.columns(2)
+        with col1:
+            apply_clicked = st.form_submit_button("Apply", use_container_width=True, type="primary")
+        with col2:
+            reset_clicked = st.form_submit_button("Reset", use_container_width=True)
+        
+        st.markdown("---")
+        
         # Filter: Min 30-day booked
         filter_criteria['min_30_day_booked'] = st.number_input(
             "Min 30-Day Booked",
@@ -258,15 +267,6 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
                     default=[]
                 )
                 filter_criteria['selected_grids'] = selected_grids
-        
-        st.markdown("---")
-        
-        # Submit buttons
-        col1, col2 = st.columns(2)
-        with col1:
-            apply_clicked = st.form_submit_button("Apply", use_container_width=True)
-        with col2:
-            reset_clicked = st.form_submit_button("Reset", use_container_width=True)
     
     # Year filters OUTSIDE the form so ➕/➖ buttons can be placed right after
     st.markdown("---")
