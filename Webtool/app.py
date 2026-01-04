@@ -31,7 +31,8 @@ from utils.ui_components import (
     render_filter_count
 )
 from utils.filters import apply_filters, get_filter_summary
-from utils.map_renderer import render_map, render_map_caption
+from utils.deck_map_renderer import render_deck_map_with_click_handling, get_selected_listing
+from utils.listing_details import render_listing_detail_panel, render_empty_detail_panel
 
 
 # ============================================================================
@@ -187,27 +188,110 @@ def main():
     if num_passing == 0:
         st.warning("⚠️ No listings match the current filter criteria")
     
-    # Show grids checkbox
-    show_grids = False
-    if grid_df is not None:
-        show_grids = st.checkbox("Show Grids", value=True)
-    
     # ========================================================================
-    # Render Map
+    # Create Tabs
     # ========================================================================
     
-    success = render_map(
-        filtered_df=filtered_df,
-        original_df=df,
-        grid_df=grid_df,
-        show_grids=show_grids,
-        filter_criteria=filter_criteria,
-        location=location
-    )
+    tab1, tab2 = st.tabs(["📍 Map", "🛏️ Bed/Bath Analysis"])
     
-    # Show caption if map rendered successfully
-    if success:
-        render_map_caption(num_passing, num_failing, len(df))
+    # ========================================================================
+    # TAB 1: Map
+    # ========================================================================
+    
+    with tab1:
+        # Show grids checkbox
+        show_grids = False
+        if grid_df is not None:
+            show_grids = st.checkbox("Show Grids", value=True)
+        
+        # Render PyDeck Map with click handling
+        event = render_deck_map_with_click_handling(
+            df=filtered_df,
+            grid_df=grid_df,
+            show_grids=show_grids,
+            location=location
+        )
+        
+        # Show caption
+        st.caption(f"🔴 {num_passing:,} pass | 🔵 {num_failing:,} fail | Total: {len(df):,}")
+        
+        # ====================================================================
+        # Listing Detail Panel (below map)
+        # ====================================================================
+        
+        st.markdown("---")
+
+        
+        # Check if we can use click events (Streamlit >= 1.33)
+        if event is not None:
+            # Extract selected listing from click event
+            selected_listing = get_selected_listing(event, df)
+            
+            if selected_listing is not None:
+                # Render detail panel for selected listing
+                render_listing_detail_panel(selected_listing)
+            else:
+                # Show placeholder
+                render_empty_detail_panel()
+        else:
+            # ====================================================================
+            # WORKAROUND for Streamlit < 1.33: Manual Room ID Selection
+            # ====================================================================
+            st.markdown("### 📋 View Listing Details")
+            
+            # Get list of Room IDs from FILTERED data (sorted)
+            available_room_ids = sorted(filtered_df['Room_id'].unique())
+            
+            st.markdown(f"**📊 {len(available_room_ids)} listings available** (based on current filters)")
+            
+            col1, col2 = st.columns([3, 1])
+            
+            with col1:
+                # Manual selection with search
+                selected_room_id = st.selectbox(
+                    "Select Room ID:",
+                    options=available_room_ids,
+                    index=0,
+                    key="manual_room_selector",
+                    help="Select a Room ID from the dropdown to view details"
+                )
+            
+            with col2:
+                st.markdown("<br>", unsafe_allow_html=True)
+                show_button = st.button("Show Details", type="primary")
+            
+            # Auto-show details when button clicked OR if already showing
+            if show_button:
+                st.session_state['show_details'] = True
+                st.session_state['selected_room_id'] = selected_room_id
+            
+            # Show details
+            if st.session_state.get('show_details', False):
+                selected_room_id = st.session_state.get('selected_room_id', available_room_ids[0])
+                
+                # Update to current selection if changed
+                if selected_room_id != st.session_state.get('last_selected_room_id'):
+                    st.session_state['last_selected_room_id'] = selected_room_id
+                
+                # Find the listing in the full dataset (not filtered, to get all data)
+                matching_rows = df[df['Room_id'] == selected_room_id]
+                if not matching_rows.empty:
+                    selected_listing = matching_rows.iloc[0]
+                    st.markdown("---")
+                    render_listing_detail_panel(selected_listing)
+                else:
+                    st.error(f"Room ID {selected_room_id} not found")
+            else:
+                st.markdown("---")
+                st.caption("👆 Select a Room ID from the dropdown above and click **'Show Details'** to view full information")
+    
+    # ========================================================================
+    # TAB 2: Bed/Bath Analysis
+    # ========================================================================
+    
+    with tab2:
+        st.info("🚧 Bed/Bath Analysis - Coming soon")
+        st.write("This tab will show detailed analysis of bedrooms and bathrooms.")
     
     # ========================================================================
     # Sidebar: Filter Results

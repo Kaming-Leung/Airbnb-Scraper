@@ -3,20 +3,27 @@
 # ============================================================================
 
 # Core Framework
-streamlit==1.29.0
-streamlit-folium==0.15.1
+# streamlit>=1.29.0 works but click-to-detail requires >= 1.33
+streamlit>=1.29.0
 
 # Data Processing
-pandas==2.1.4
-numpy==1.26.2
+pandas>=2.1.4
+numpy>=1.26.2
 
-# Mapping
-folium==0.15.1
+# High-Performance Mapping (PyDeck/deck.gl)
+pydeck>=0.8.0
 
 # Optional: For Excel support
-openpyxl==3.1.2
+openpyxl>=3.1.2
 
-# Optional: For enhanced visualizations (Phase 8)
-# plotly==5.18.0
+# Note: Folium/streamlit-folium REMOVED for performance
+# Old dependencies (no longer needed):
+# streamlit-folium==0.15.1
+# folium==0.15.1
+
+# Compatibility:
+# - Streamlit 1.29.0+: Map renders, filters work
+# - Streamlit 1.33.0+: Click-to-detail feature enabled
+# To upgrade: pip install --upgrade streamlit
 
 

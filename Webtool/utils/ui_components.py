@@ -7,8 +7,9 @@ Reusable UI components for the Streamlit dashboard.
 
 import streamlit as st
 import pandas as pd
-from typing import Dict, Any
+from typing import Dict, Any, List
 from .filters import get_filter_ranges
+from .year_filter_helper import get_available_years, get_default_year_filters
 
 
 def render_location_selector(structure: Dict[str, list]) -> tuple:
@@ -56,6 +57,107 @@ def render_location_selector(structure: Dict[str, list]) -> tuple:
     return selected_state, selected_city, load_clicked
 
 
+def render_year_filters(df: pd.DataFrame) -> List[Dict[str, Any]]:
+    """
+    Render multiple year-based missing review month filters.
+    
+    Args:
+        df: DataFrame with listing data
+        
+    Returns:
+        List of year filter configurations
+    """
+    # Get available years from data
+    available_years = get_available_years(df)
+    
+    if not available_years:
+        st.caption("_No review data available_")
+        return []
+    
+    # Initialize with default filters if not in session state
+    if 'year_filter_count' not in st.session_state:
+        st.session_state['year_filter_count'] = min(3, len(available_years))
+    
+    st.markdown("**Missing Review Months by Year**")
+    
+    year_filters = []
+    
+    # Render each year filter
+    num_filters = st.session_state['year_filter_count']
+    
+    for i in range(num_filters):
+        # Create three columns: checkbox, year, max_missing
+        col1, col2, col3 = st.columns([0.5, 1.2, 1.2])
+        
+        with col1:
+            enabled = st.checkbox(
+                "✓",
+                value=i < 2,  # Enable first 2 by default
+                key=f"year_filter_enabled_{i}",
+                label_visibility="collapsed",
+                help="Enable this filter"
+            )
+        
+        with col2:
+            year = st.selectbox(
+                "Year",
+                options=available_years,
+                index=min(i, len(available_years) - 1),
+                key=f"year_filter_year_{i}",
+                label_visibility="collapsed"
+            )
+        
+        with col3:
+            max_missing = st.number_input(
+                "Max Missing",
+                min_value=0,
+                max_value=12,
+                value = 0,
+                # value=0 if i == 0 else 3,
+                step=1,
+                key=f"year_filter_max_{i}",
+                label_visibility="collapsed"
+            )
+        
+        year_filters.append({
+            'year': year,
+            'max_missing': max_missing,
+            'enabled': enabled
+        })
+    
+    return year_filters
+
+
+def render_year_filter_buttons(df: pd.DataFrame):
+    """
+    Render add/remove buttons for year filters OUTSIDE the form.
+    This prevents the buttons from triggering form submission.
+    
+    Args:
+        df: DataFrame with listing data
+    """
+    # Get available years to check max limit
+    available_years = get_available_years(df)
+    
+    if not available_years:
+        return
+    
+    # Add/Remove buttons (OUTSIDE form)
+    col_add, col_remove = st.columns(2)
+    
+    with col_add:
+        if st.button("➕", help="Add year filter", use_container_width=True, key="add_year_filter"):
+            if st.session_state.get('year_filter_count', 1) < len(available_years):
+                st.session_state['year_filter_count'] = st.session_state.get('year_filter_count', 1) + 1
+                st.rerun()
+    
+    with col_remove:
+        if st.button("➖", help="Remove last filter", use_container_width=True, key="remove_year_filter"):
+            if st.session_state.get('year_filter_count', 1) > 1:
+                st.session_state['year_filter_count'] = st.session_state.get('year_filter_count', 1) - 1
+                st.rerun()
+
+
 def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
     """
     Render the filter form in the sidebar.
@@ -72,11 +174,11 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
     # Get filter ranges
     filter_ranges = get_filter_ranges(df)
     
-    # Wrap filters in a form to prevent auto-rerun
+    # Initialize filter criteria dictionary
+    filter_criteria = {}
+    
+    # Wrap main filters in a form to prevent auto-rerun
     with st.form("filter_form"):
-        # Initialize filter criteria dictionary
-        filter_criteria = {}
-        
         # Filter: Min 30-day booked
         filter_criteria['min_30_day_booked'] = st.number_input(
             "Min 30-Day Booked",
@@ -96,14 +198,7 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
                 step=1
             )
         
-        # Filter: Max missing months
-        filter_criteria['max_missing_months'] = st.number_input(
-            "Max Missing Review Months in 2025",
-            min_value=0,
-            max_value=12,
-            value=0,
-            step=1
-        )
+        st.markdown("---")
         
         # Filter: Bedrooms
         if 'Bedroom_count' in df.columns:
@@ -164,12 +259,21 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
                 )
                 filter_criteria['selected_grids'] = selected_grids
         
+        st.markdown("---")
+        
         # Submit buttons
         col1, col2 = st.columns(2)
         with col1:
             apply_clicked = st.form_submit_button("Apply", use_container_width=True)
         with col2:
             reset_clicked = st.form_submit_button("Reset", use_container_width=True)
+    
+    # Year filters OUTSIDE the form so ➕/➖ buttons can be placed right after
+    st.markdown("---")
+    filter_criteria['year_filters'] = render_year_filters(df)
+    
+    # Render add/remove year filter buttons right after year filters
+    render_year_filter_buttons(df)
     
     return {
         'criteria': filter_criteria,

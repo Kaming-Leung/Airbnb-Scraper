@@ -7,6 +7,7 @@ Functions to filter listing data based on user criteria
 
 import pandas as pd
 from typing import Dict, Any
+from .year_filter_helper import apply_multiple_year_filters
 
 
 def apply_filters(df: pd.DataFrame, filter_criteria: Dict[str, Any]) -> pd.DataFrame:
@@ -42,11 +43,15 @@ def apply_filters(df: pd.DataFrame, filter_criteria: Dict[str, Any]) -> pd.DataF
         if min_val > 0:  # Only apply if value is greater than 0
             mask &= (result_df['Next_30_to_60_days_booked_days'] >= min_val)
     
-    # Filter by missing review months this year
-    if 'max_missing_months' in filter_criteria and 'Total_missing_review_months_this_year' in result_df.columns:
-        max_val = filter_criteria['max_missing_months']
-        if max_val < 12:  # Only apply if not the maximum (12)
-            mask &= (result_df['Total_missing_review_months_this_year'] <= max_val)
+    # Filter by missing review months (multiple years)
+    if 'year_filters' in filter_criteria and filter_criteria['year_filters']:
+        year_filters = filter_criteria['year_filters']
+        # Check if any filters are enabled
+        enabled_filters = [f for f in year_filters if f.get('enabled', True)]
+        if enabled_filters:
+            # Apply multiple year filters (AND logic)
+            year_mask = apply_multiple_year_filters(result_df, enabled_filters)
+            mask &= year_mask
     
     # Filter by 75% rule
     if 'only_75_rule_passed' in filter_criteria and filter_criteria['only_75_rule_passed']:
