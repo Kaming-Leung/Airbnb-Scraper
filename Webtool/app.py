@@ -48,6 +48,21 @@ st.set_page_config(
     menu_items=None
 )
 
+# # Custom CSS for dataframe hover highlighting
+# st.markdown("""
+# <style>
+#     /* Light blue hover for dataframe rows */
+#     .stDataFrame tbody tr:hover {
+#         background-color: #E3F2FD !important;  /* Light blue */
+#     }
+    
+#     /* Also apply to the cells within the hovered row */
+#     .stDataFrame tbody tr:hover td {
+#         background-color: #E3F2FD !important;  /* Light blue */
+#     }
+# </style>
+# """, unsafe_allow_html=True)
+
 
 # ============================================================================
 # DATA LOADING FUNCTIONS
@@ -358,12 +373,12 @@ def main():
                 
                 st.dataframe(
                     bedroom_filtered_df,
-                    use_container_width=True,
+                    width='stretch',
                     hide_index=True
                 )
                 
                 # Summary stats
-                st.caption(f"📊 **Total filtered listings**: {len(filtered_df):,}")
+                st.caption(f"📊 **Total filtered listings**: {len(df_filter_true):,}")
                 st.caption(f"📊 **Most common**: {bedroom_filtered.idxmax()} bedroom(s) ({bedroom_filtered.max():,} listings)")
             
             with col2:
@@ -379,7 +394,7 @@ def main():
                 
                 st.dataframe(
                     bedroom_all_df,
-                    use_container_width=True,
+                    width='stretch',
                     hide_index=True
                 )
                 
@@ -398,7 +413,7 @@ def main():
             
             with col1:
                 st.markdown("#### Filtered Listings")
-                st.caption(f"Showing {len(filtered_df):,} listings that match filter criteria")
+                st.caption(f"Showing {len(df_filter_true):,} listings that match filter criteria")
                 
                 # Calculate bathroom distribution for filtered data
                 bathroom_filtered = df_filter_true['Bath_count'].value_counts().sort_index()
@@ -409,7 +424,7 @@ def main():
                 
                 st.dataframe(
                     bathroom_filtered_df,
-                    use_container_width=True,
+                    width='stretch',
                     hide_index=True
                 )
                 
@@ -430,7 +445,7 @@ def main():
                 
                 st.dataframe(
                     bathroom_all_df,
-                    use_container_width=True,
+                    width='stretch',
                     hide_index=True
                 )
                 
@@ -449,7 +464,7 @@ def main():
             
             with col1:
                 st.markdown("#### Filtered Listings")
-                st.caption(f"Showing {len(filtered_df):,} listings that match filter criteria")
+                st.caption(f"Showing {len(df_filter_true):,} listings that match filter criteria")
                 
                 # Create cross-tabulation for filtered data
                 crosstab_filtered = pd.crosstab(
@@ -460,9 +475,13 @@ def main():
                 )
                 crosstab_filtered.index.name = 'Bedrooms \\ Bathrooms'
                 
+                # Convert index and columns to strings to avoid type conversion warnings
+                crosstab_filtered.index = crosstab_filtered.index.astype(str)
+                crosstab_filtered.columns = crosstab_filtered.columns.astype(str)
+                
                 st.dataframe(
                     crosstab_filtered,
-                    use_container_width=True
+                    width='stretch'
                 )
                 
                 # Find most common combination
@@ -484,9 +503,13 @@ def main():
                 )
                 crosstab_all.index.name = 'Bedrooms \\ Bathrooms'
                 
+                # Convert index and columns to strings to avoid type conversion warnings
+                crosstab_all.index = crosstab_all.index.astype(str)
+                crosstab_all.columns = crosstab_all.columns.astype(str)
+                
                 st.dataframe(
                     crosstab_all,
-                    use_container_width=True
+                    width='stretch'
                 )
                 
                 # Find most common combination
