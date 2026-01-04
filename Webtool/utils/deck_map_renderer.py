@@ -57,6 +57,9 @@ def create_deck_map(
         '75_rule_met', '55_rule_met'
     ]].copy()
     
+    # Ensure Room_id is string for safe comparison (no precision issues)
+    map_data['Room_id'] = map_data['Room_id'].astype(str)
+    
     # Add optional columns if they exist
     for col in ['Bedroom_count', 'Bath_count', 'Guest_count', 'Is_superhost']:
         if col in df.columns:
@@ -79,6 +82,7 @@ def create_deck_map(
     scatterplot_layer = pdk.Layer(
         'ScatterplotLayer',
         data=map_data,
+        id='listings',  # Required for on_select to work!
         get_position=['Longitude', 'Latitude'],
         get_fill_color='color',
         get_radius=50,  # Radius in meters
@@ -188,6 +192,7 @@ def create_grid_layer(grid_df: pd.DataFrame) -> Optional[pdk.Layer]:
     grid_layer = pdk.Layer(
         'PolygonLayer',
         data=grid_data,
+        id='grids',  # Required for on_select to work with multiple layers
         get_polygon='polygon',
         get_fill_color=[0, 90, 255, 30],  # Light blue with transparency
         get_line_color=[0, 90, 255, 150],  # Blue border
@@ -292,30 +297,58 @@ def get_selected_listing(event: Optional[dict], df: pd.DataFrame) -> Optional[pd
         if not objects:
             return None
         
-        # Check if objects is a dict (old Streamlit) or list (new Streamlit)
-        if isinstance(objects, dict):
-            # Empty dict means no selection (Streamlit 1.29 behavior)
-            if len(objects) == 0:
-                return None
-            # If it's a non-empty dict, try to get first item
-            # This shouldn't happen, but handle it anyway
-            objects = list(objects.values())
+        # Objects is a dict organized by layer id: {"listings": [...], "grids": [...]}
+        if not isinstance(objects, dict):
+            return None
         
-        # Objects should now be a list
-        if not isinstance(objects, list) or len(objects) == 0:
+        # Empty dict means no selection (Streamlit 1.29 behavior)
+        if len(objects) == 0:
+            return None
+        
+        # Get objects from the 'listings' layer
+        if 'listings' not in objects:
+            return None
+        
+        listings_objects = objects['listings']
+        if not isinstance(listings_objects, list) or len(listings_objects) == 0:
             return None
         
         # Get first selected object
-        selected_obj = objects[0]
+        selected_obj = listings_objects[0]
         
         # Extract Room_id
         room_id = selected_obj.get('Room_id')
         if room_id is None:
+            print("❌ Error: Room_id is None in selected object")
             return None
+        
+        
+        # Convert to string for safe comparison (no precision issues)
+        try:
+            room_id = str(room_id)
+        except (ValueError, TypeError) as e:
+            print(f"❌ Error converting Room_id to string: {e}")
+            return None
+        
+        # Check if Room_id column exists and its type
+        if 'Room_id' not in df.columns:
+            print("❌ Error: 'Room_id' column not found in DataFrame")
+            return None
+                
+        # Ensure DataFrame Room_id is also string for consistent comparison
+        if df['Room_id'].dtype != 'object':  # 'object' is pandas dtype for strings
+            df = df.copy()
+            df['Room_id'] = df['Room_id'].astype(str)
+        
         
         # Find matching row in dataframe
         matching_rows = df[df['Room_id'] == room_id]
+        
+        
         if matching_rows.empty:
+            # Check if Room_id exists with any whitespace issues
+            if room_id.strip() != room_id:
+                print(f"⚠️ Warning: Room_id has leading/trailing whitespace!")
             return None
         
         return matching_rows.iloc[0]

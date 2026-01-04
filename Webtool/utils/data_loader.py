@@ -31,6 +31,10 @@ def load_enrichment_data(file_path: str) -> Optional[pd.DataFrame]:
             st.error(f"Unsupported file format: {file_path}")
             return None
         
+        # Convert Room_id to string to avoid any precision issues with large numbers
+        if 'Room_id' in df.columns:
+            df['Room_id'] = df['Room_id'].astype(str)
+        
         return df
     
     except FileNotFoundError:

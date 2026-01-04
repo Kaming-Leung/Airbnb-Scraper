@@ -92,7 +92,7 @@ def render_year_filters(df: pd.DataFrame) -> List[Dict[str, Any]]:
         with col1:
             enabled = st.checkbox(
                 "✓",
-                value=i < 2,  # Enable first 2 by default
+                value=False,  # Disabled by default
                 key=f"year_filter_enabled_{i}",
                 label_visibility="collapsed",
                 help="Enable this filter"

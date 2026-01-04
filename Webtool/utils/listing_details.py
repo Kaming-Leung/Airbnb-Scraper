@@ -85,9 +85,6 @@ def render_listing_detail_panel(selected_row: pd.Series):
         selected_row: DataFrame row (Series) for the selected listing
     """
     
-    st.markdown("---")
-    st.markdown("### 📋 Selected Listing Details")
-    
     # Header with Room ID and link
     room_id = selected_row.get('Room_id', 'Unknown')
     listing_url = selected_row.get('Listing_url', f"https://www.airbnb.com.sg/rooms/{room_id}")
@@ -207,7 +204,7 @@ def render_listing_detail_panel(selected_row: pd.Series):
 def render_empty_detail_panel():
     """
     Render placeholder when no listing is selected.
+    (This function is deprecated - placeholder is now shown in app.py)
     """
-    st.markdown("---")
     st.info("👆 Click on a marker on the map to view listing details")
 

@@ -220,19 +220,58 @@ def main():
         # ====================================================================
         
         st.markdown("---")
-
+        st.markdown("### 📋 Selected Listing Details")
+        
+        # Debug output
+        if event:
+            selection = event.get('selection', {})
+            if selection and 'objects' in selection and 'listings' in selection.get('objects', {}):
+                clicked_objects = selection['objects']['listings']
         
         # Check if we can use click events (Streamlit >= 1.33)
         if event is not None:
+            
             # Extract selected listing from click event
-            selected_listing = get_selected_listing(event, df)
+            # CRITICAL: Search in filtered_df (same data used to create the map!)
+            selected_listing = get_selected_listing(event, filtered_df)
             
             if selected_listing is not None:
+                # Store Room ID in session state for reference
+                room_id = selected_listing.get('Room_id')
+                st.session_state['clicked_room_id'] = room_id
+                                
+                st.success(f"✅ Clicked on Room #{room_id} from map")
+                
                 # Render detail panel for selected listing
                 render_listing_detail_panel(selected_listing)
             else:
-                # Show placeholder
-                render_empty_detail_panel()
+                # Failed to extract or match listing
+                print("❌ get_selected_listing returned None - listing not found or event invalid")
+                
+                st.error("⚠️ Could not load details for the clicked listing. Please try clicking again.")
+                st.warning("💡 **Tip**: If this keeps happening, try resetting filters or reloading the data.")
+                
+                # Check if we have a previously clicked Room ID
+                if 'clicked_room_id' in st.session_state:
+                    prev_room_id = st.session_state['clicked_room_id']
+                    st.info(f"💡 Last successfully selected: Room #{prev_room_id}")
+                
+                # Show debug info
+                with st.expander("🔧 Debug Information"):
+                    if event and 'selection' in event:
+                        sel_objects = event.get('selection', {}).get('objects', {}).get('listings', [])
+                        if sel_objects:
+                            clicked_room_id = sel_objects[0].get('Room_id')
+                            st.write(f"**Clicked Room_id**: {clicked_room_id}")
+                    
+                    st.write(f"**Total rows in full dataset**: {len(df)}")
+                    st.write(f"**Filtered rows displayed on map**: {len(filtered_df)}")
+                    
+                    if 'Room_id' in filtered_df.columns:
+                        st.write(f"**Room_id column type**: {filtered_df['Room_id'].dtype}")
+                        st.write(f"**Sample Room_ids from map data**: {filtered_df['Room_id'].head(5).tolist()}")
+                    
+                    st.write("**Full event data**:", event)
         else:
             # ====================================================================
             # WORKAROUND for Streamlit < 1.33: Manual Room ID Selection
