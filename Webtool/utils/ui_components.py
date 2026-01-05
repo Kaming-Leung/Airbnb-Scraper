@@ -177,6 +177,40 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
     # Initialize filter criteria dictionary
     filter_criteria = {}
     
+    # "Pass 75% Rule" checkbox OUTSIDE form for immediate effect
+    # Initialize session state for the checkbox
+    if 'pass_75_rule_checked' not in st.session_state:
+        st.session_state.pass_75_rule_checked = False
+    
+    filter_criteria['only_75_rule_passed'] = st.checkbox(
+        "Pass 75% Rule",
+        value=st.session_state.pass_75_rule_checked,
+        key="pass_75_rule_checkbox"
+    )
+    
+    # Update session state
+    st.session_state.pass_75_rule_checked = filter_criteria['only_75_rule_passed']
+    
+    # Determine default value based on checkbox state
+    default_30_day_value = 22 if filter_criteria['only_75_rule_passed'] else 15
+    
+    # "Pass 55% Rule" checkbox OUTSIDE form for immediate effect
+    # Initialize session state for the checkbox
+    if 'pass_55_rule_checked' not in st.session_state:
+        st.session_state.pass_55_rule_checked = False
+    
+    filter_criteria['only_55_rule_passed'] = st.checkbox(
+        "Pass 55% Rule",
+        value=st.session_state.pass_55_rule_checked,
+        key="pass_55_rule_checkbox"
+    )
+    
+    # Update session state
+    st.session_state.pass_55_rule_checked = filter_criteria['only_55_rule_passed']
+    
+    # Determine default value based on checkbox state
+    default_60_day_value = 17 if filter_criteria['only_55_rule_passed'] else 0
+    
     # Wrap main filters in a form to prevent auto-rerun
     with st.form("filter_form"):
         # Submit buttons at the top
@@ -190,21 +224,23 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
         
         # Filter: Min 30-day booked
         filter_criteria['min_30_day_booked'] = st.number_input(
-            "Min 30-Day Booked",
+            "Min Days Booked (Next 30 days)",
             min_value=0,
             max_value=30,
-            value=15,
-            step=1
+            value=default_30_day_value,
+            step=1,
+            help="Automatically set to 22 when 'Pass 75% Rule' is checked"
         )
         
         # Filter: Min 30-60 day booked
         if '60_day_booked' in filter_ranges:
             filter_criteria['min_60_day_booked'] = st.number_input(
-                "Min 30-60 Day Booked",
+                "Min Days Booked (Next 30-60 days)",
                 min_value=0,
                 max_value=30,
-                value=0,
-                step=1
+                value=default_60_day_value,
+                step=1,
+                help="Automatically set to 17 when 'Pass 55% Rule' is checked"
             )
         
         st.markdown("---")
@@ -251,12 +287,6 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
                     help="Greater than or equal"
                 )
         
-        # Filter: Only 75% rule
-        filter_criteria['only_75_rule_passed'] = st.checkbox(
-            "Only 75% Rule",
-            value=False
-        )
-        
         # Filter: Grid selection
         if 'Grid_index' in df.columns:
             unique_grids = sorted(df['Grid_index'].dropna().unique())
@@ -274,6 +304,11 @@ def render_filter_form(df: pd.DataFrame) -> Dict[str, Any]:
     
     # Render add/remove year filter buttons right after year filters
     render_year_filter_buttons(df)
+    
+    # Handle reset: clear both checkbox states
+    if reset_clicked:
+        st.session_state.pass_75_rule_checked = False
+        st.session_state.pass_55_rule_checked = False
     
     return {
         'criteria': filter_criteria,

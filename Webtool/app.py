@@ -208,7 +208,7 @@ def main():
     # Create Tabs
     # ========================================================================
     
-    tab1, tab2 = st.tabs(["📍 Map", "🛏️ Bed/Bath Analysis"])
+    tab1, tab2, tab3 = st.tabs(["📍 Map", "📊 Table", "🛏️ Bed/Bath Analysis"])
     
     # ========================================================================
     # TAB 1: Map
@@ -341,10 +341,120 @@ def main():
                 st.caption("👆 Select a Room ID from the dropdown above and click **'Show Details'** to view full information")
     
     # ========================================================================
-    # TAB 2: Bed/Bath Analysis
+    # TAB 2: Table View
     # ========================================================================
     
     with tab2:
+        st.markdown("## 📊 Data Table")
+        
+        # Get filtered data (respecting current filters)
+        table_df = filtered_df[filtered_df['passes_current_filter'] == True].copy()
+
+        table_df = table_df[['Listing_url', 'Next_30_days_booked_days', 'Next_30_to_60_days_booked_days', '75_rule_met', '55_rule_met', 'Rating', 'Review_count', 'Guest_count', 'Bedroom_count', 'Bath_count', 'Is_superhost']]
+        table_df.reset_index(drop=True, inplace=True)
+        
+        # Pagination settings
+        ROWS_PER_PAGE = 70
+        total_rows = len(table_df)
+        total_pages = (total_rows + ROWS_PER_PAGE - 1) // ROWS_PER_PAGE  # Ceiling division
+        
+        # Initialize pagination state
+        if 'table_page' not in st.session_state:
+            st.session_state.table_page = 1
+        
+        # Ensure current page is within valid range
+        if st.session_state.table_page > total_pages and total_pages > 0:
+            st.session_state.table_page = total_pages
+        if st.session_state.table_page < 1:
+            st.session_state.table_page = 1
+        
+        # Display summary info
+        col1, col2, col3 = st.columns([2, 2, 3])
+        
+        with col1:
+            st.metric("Total Rows", f"{total_rows:,}")
+        
+        with col2:
+            st.metric("Total Columns", len(table_df.columns))
+        
+        with col3:
+            if total_pages > 1:
+                st.info(f"📄 Page {st.session_state.table_page} of {total_pages}")
+            else:
+                st.info(f"📄 Showing all rows")
+        
+        # Calculate start and end indices for current page
+        start_idx = (st.session_state.table_page - 1) * ROWS_PER_PAGE
+        end_idx = min(start_idx + ROWS_PER_PAGE, total_rows)
+        
+        # Get current page data
+        if total_rows > 0:
+            current_page_df = table_df.iloc[start_idx:end_idx]
+            
+            st.caption(f"Showing rows {start_idx + 1} to {end_idx} of {total_rows:,}")
+            
+            # Display table with horizontal scrolling and sticky headers
+            st.dataframe(
+                current_page_df,
+                width='stretch',  # Full width with horizontal scroll
+                height=600,  # Fixed height enables vertical scroll with sticky headers
+                hide_index=False,  # Hide row index
+                column_config={
+                    "Listing_url": st.column_config.LinkColumn(
+                        "Listing URL",
+                        help="Click to open listing on Airbnb",
+                        display_text="🔗 View Listing"
+                    )
+                }
+            )
+        else:
+            st.warning("⚠️ No data to display. Adjust your filters to see results.")
+        
+        # Pagination controls (only show if more than one page)
+        if total_pages > 1:
+            st.markdown("---")
+            
+            col1, col2, col3, col4, col5 = st.columns([1, 1, 2, 1, 1])
+            
+            with col1:
+                if st.button("⏮️ First", disabled=(st.session_state.table_page == 1)):
+                    st.session_state.table_page = 1
+                    st.rerun()
+            
+            with col2:
+                if st.button("◀️ Previous", disabled=(st.session_state.table_page == 1)):
+                    st.session_state.table_page -= 1
+                    st.rerun()
+            
+            with col3:
+                # Page input for direct navigation
+                page_input = st.number_input(
+                    "Go to page:",
+                    min_value=1,
+                    max_value=total_pages,
+                    value=st.session_state.table_page,
+                    step=1,
+                    key="page_input"
+                )
+                if page_input != st.session_state.table_page:
+                    st.session_state.table_page = page_input
+                    st.rerun()
+            
+            with col4:
+                if st.button("Next ▶️", disabled=(st.session_state.table_page == total_pages)):
+                    st.session_state.table_page += 1
+                    st.rerun()
+            
+            with col5:
+                if st.button("Last ⏭️", disabled=(st.session_state.table_page == total_pages)):
+                    st.session_state.table_page = total_pages
+                    st.rerun()
+    
+    # ========================================================================
+    # TAB 3: Bed/Bath Analysis
+    # ========================================================================
+    
+    with tab3:
         st.markdown("## 🛏️ Bedroom & Bathroom Analysis")
 
         df_filter_true = filtered_df[filtered_df['passes_current_filter'] == True]
