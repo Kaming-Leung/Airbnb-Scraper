@@ -350,7 +350,20 @@ def main():
         # Get filtered data (respecting current filters)
         table_df = filtered_df[filtered_df['passes_current_filter'] == True].copy()
 
-        table_df = table_df[['Listing_url', 'Next_30_days_booked_days', 'Next_30_to_60_days_booked_days', '75_rule_met', '55_rule_met', 'Rating', 'Review_count', 'Guest_count', 'Bedroom_count', 'Bath_count', 'Is_superhost']]
+        table_df = table_df[[
+            'Room_id',
+            'Listing_url', 
+            'Next_30_days_booked_days', 
+            'Next_30_to_60_days_booked_days', 
+            '75_rule_met', 
+            '55_rule_met', 
+            'Rating', 
+            'Review_count', 
+            'Guest_count', 
+            'Bedroom_count', 
+            'Bath_count', 
+            'Is_superhost'
+        ]]
         table_df.reset_index(drop=True, inplace=True)
         
         # Pagination settings

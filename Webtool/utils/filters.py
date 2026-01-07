@@ -53,16 +53,6 @@ def apply_filters(df: pd.DataFrame, filter_criteria: Dict[str, Any]) -> pd.DataF
             year_mask = apply_multiple_year_filters(result_df, enabled_filters)
             mask &= year_mask
     
-    # Filter by 75% rule
-    if 'only_75_rule_passed' in filter_criteria and filter_criteria['only_75_rule_passed']:
-        if '75_rule_met' in result_df.columns:
-            mask &= (result_df['75_rule_met'] == True)
-    
-    # Filter by 55% rule
-    if 'only_55_rule_passed' in filter_criteria and filter_criteria['only_55_rule_passed']:
-        if '55_rule_met' in result_df.columns:
-            mask &= (result_df['55_rule_met'] == True)
-    
     # Filter by rating (Phase 4)
     if 'min_rating' in filter_criteria and 'Rating' in result_df.columns:
         min_val = filter_criteria['min_rating']
